@@ -1,0 +1,280 @@
+import React from 'react';
+import {
+  Dimensions,
+  type LayoutChangeEvent,
+  Platform,
+  StatusBar,
+  type StyleProp,
+  View,
+  type ViewStyle,
+} from 'react-native';
+
+import She, { Commands } from './SheetViewNativeComponent';
+import SheetModule from './NativeSheet';
+
+const _FittedSheet = She;
+
+export interface FittedSheetParams {
+  applyMaxHeightToMinHeight?: boolean;
+  dismissable?: boolean;
+  maxPortraitWidth?: number;
+  maxLandscapeWidth?: number;
+  maxHeight?: number;
+  minHeight?: number;
+  topLeftRightCornerRadius?: number;
+  backgroundColor?: string;
+  /**
+   * iOS only. Window level for the sheet.
+   * 'normal' | 'statusBar' | 'alert' (default: 'alert')
+   */
+  windowLevel?: 'normal' | 'statusBar' | 'alert';
+  /**
+   * iOS only. When true, presents the sheet in the current view controller
+   * instead of creating a separate UIWindow. Default: false.
+   */
+  useInlinePresentation?: boolean;
+  /**
+   * Presentation placement.
+   * - 'bottom' (default): anchored to the bottom of the screen.
+   * - 'center': floats in the vertical center as a dialog card, the whole
+   *   screen is dimmed, dismissed by swiping down or tapping the dim.
+   * - 'footer': with `useInlinePresentation`, a static bar pinned to the bottom
+   *   of the screen above inline sheets; no gestures, no dim. Android only for now.
+   * When 'center', `useInlinePresentation` is ignored (always modal).
+   */
+  presentationStyle?: 'bottom' | 'center' | 'footer';
+  /**
+   * Enter/exit animation for `presentationStyle: 'center'`. Ignored otherwise.
+   * - 'fade' (default): fades + scales in at the center.
+   * - 'slide': slides up from the bottom and settles at the center.
+   */
+  centerAnimation?: 'fade' | 'slide';
+  dismissOnOverlayTap?: boolean;
+  overlayOpacity?: number;
+  collapsedHeight?: number;
+  /**
+   * Android only
+   */
+  isSystemUILight?: boolean;
+}
+
+type FittedSheetChildren =
+  | ((data: any) => React.ReactElement)
+  | React.ReactElement
+  | React.ReactElement[];
+
+export interface SheetProps {
+  params?: FittedSheetParams;
+  onSheetDismiss?: (passThroughParam?: any) => void;
+  children?: FittedSheetChildren;
+  overlay?: React.ReactNode;
+  rootViewStyle?: StyleProp<Omit<ViewStyle, 'flex' | 'flexGrow' | 'position'>>;
+}
+
+interface State {
+  show: boolean;
+  data: any | null;
+  height?: number;
+  passScrollViewReactTag?: string;
+  isLandscape: boolean;
+}
+
+let index = 0;
+export class PrivateFittedSheet extends React.PureComponent<SheetProps, State> {
+  private cleanup?: () => void;
+  private onHidePassThroughParam?: any;
+  private sheetRef = React.createRef<any>();
+  private uniqueId = 0;
+
+  private dimensions: { width: number; height: number };
+
+  constructor(props: SheetProps) {
+    super(props);
+    this.uniqueId = ++index;
+    this.dimensions = this.viewportSize();
+
+    this.state = {
+      show: false,
+      data: null,
+      isLandscape: this.dimensions.width > this.dimensions.height,
+    };
+  }
+
+  private log = (key: string, message: any | undefined = undefined) => {
+    //if (true) return;
+    if (message) console.log(`${this.uniqueId} - FittedSheet.${key}`, message);
+    else console.log(`${this.uniqueId} - FittedSheet.${key}`);
+  };
+
+  show = (data?: any) => {
+    this.setState({ show: true, data });
+  };
+
+  onLayout = (e: LayoutChangeEvent) => {
+    this.log('onLayout', e.nativeEvent.layout.height);
+    this.setState({ height: e.nativeEvent.layout.height });
+  };
+
+  attachScrollViewToSheet = () => {
+    this.log(`attachScrollViewToSheet`);
+    this.setState({ passScrollViewReactTag: Date.now().toString() });
+  };
+
+  hide = (passThroughParam?: any) => {
+    if (!this.state.show) return;
+    this.onHidePassThroughParam = passThroughParam;
+    this.log('hide', Commands.dismissSheet);
+    //@ts-ignore
+    Commands.dismissSheet(this.sheetRef.current);
+  };
+
+  static dismissAll = () => {
+    SheetModule.dismissAll();
+  };
+
+  static dismissPresented = () => {
+    SheetModule.dismissPresented();
+  };
+
+  // @ts-ignore
+  private onDismiss = () => {
+    this.log('onDismiss');
+    this.setState({ show: false, height: undefined });
+    const passValue = this.onHidePassThroughParam;
+    this.onHidePassThroughParam = undefined;
+    this.props.onSheetDismiss?.(passValue);
+  };
+
+  private insets(): { top: number; bottom: number } {
+    return (SheetModule.getConstants().insets as any) ?? { top: 0, bottom: 0 };
+  }
+
+  componentDidMount() {
+    this.log('componentDidMount');
+    this.cleanup = Dimensions.addEventListener('change', () => {
+      this.dimensions = this.viewportSize();
+      const isLandscape = this.dimensions.width > this.dimensions.height;
+      this.setState({ isLandscape });
+    }).remove;
+  }
+
+  componentWillUnmount() {
+    this.log('componentWillUnmount');
+    // The native view tears the sheet down when it is removed; a command sent to a view
+    // that is being deleted crashes Fabric.
+    this.cleanup?.();
+    this.cleanup = undefined;
+  }
+
+  private viewportSize(): { width: number; height: number } {
+    if (Platform.OS === 'ios') {
+      return SheetModule.viewportSize();
+    }
+    return Dimensions.get('window');
+  }
+
+  private _shouldSetResponder(): boolean {
+    return true;
+  }
+
+  render() {
+    if (!this.state.show) return null;
+    const insetsHeight =
+      this.props.params?.presentationStyle === 'footer'
+        ? 0
+        : this.insets().top + this.insets().bottom;
+    let maxHeight = Math.min(
+      this.props.params?.maxHeight ?? Number.MAX_VALUE,
+      this.dimensions.height - insetsHeight
+    );
+    const paramsMaxWidth = this.state.isLandscape
+      ? this.props.params?.maxLandscapeWidth
+      : this.props.params?.maxPortraitWidth;
+    let maxWidth = Math.min(
+      paramsMaxWidth ?? Number.MAX_VALUE,
+      this.dimensions.width
+    );
+    let minHeight = this.props.params?.minHeight;
+    if (this.props.params?.applyMaxHeightToMinHeight) {
+      minHeight = maxHeight;
+    }
+
+    let nativeHeight = this.state.height;
+    if (nativeHeight) {
+      nativeHeight = Math.max(nativeHeight ?? 0, minHeight ?? 0);
+      nativeHeight = Math.min(nativeHeight, maxHeight);
+    }
+
+    if (__DEV__) {
+      //@ts-ignore
+      const logJson = JSON.stringify(
+        {
+          maxHeight,
+          maxWidth,
+          nativeHeight,
+          isLandscape: this.state.isLandscape,
+          h: Dimensions.get('window').height,
+          sb: StatusBar.currentHeight,
+          dimensions: this.dimensions,
+        },
+        undefined,
+        2
+      );
+      this.log('render');
+    }
+    const background = this.props?.params?.backgroundColor;
+    return (
+      <_FittedSheet
+        key={this.uniqueId.toString()}
+        onSheetDismiss={this.onDismiss}
+        uniqueId={this.uniqueId.toString()}
+        ref={this.sheetRef}
+        onStartShouldSetResponder={this._shouldSetResponder}
+        style={{ width: maxWidth, position: 'absolute' }}
+        dismissable={this.props.params?.dismissable ?? true}
+        maxWidth={maxWidth}
+        maxHeight={maxHeight}
+        sheetBackgroundColor={background}
+        minHeight={minHeight}
+        topLeftRightCornerRadius={
+          this.props.params?.topLeftRightCornerRadius ?? 20
+        }
+        windowLevel={this.props.params?.windowLevel}
+        useInlinePresentation={this.props.params?.useInlinePresentation}
+        presentationStyle={this.props.params?.presentationStyle ?? 'bottom'}
+        centerAnimation={this.props.params?.centerAnimation ?? 'fade'}
+        dismissOnOverlayTap={
+          this.props.params?.dismissOnOverlayTap ??
+          this.props.params?.dismissable ??
+          true
+        }
+        overlayOpacity={this.props.params?.overlayOpacity ?? -1}
+        collapsedHeight={this.props.params?.collapsedHeight ?? 0}
+        isSystemUILight={this.props.params?.isSystemUILight ?? true}
+        calculatedHeight={nativeHeight}
+        passScrollViewReactTag={this.state.passScrollViewReactTag}
+      >
+        <View
+          nativeID={'fitted-sheet-root-view'}
+          onLayout={this.onLayout}
+          style={[
+            {
+              width: maxWidth,
+              maxHeight,
+              backgroundColor: background,
+            },
+            this.props.rootViewStyle,
+          ]}
+        >
+          {this.props.children &&
+            typeof this.props.children === 'function' &&
+            this.props.children(this.state.data)}
+          {this.props.children &&
+            typeof this.props.children !== 'function' &&
+            this.props.children}
+        </View>
+        {this.props.overlay}
+      </_FittedSheet>
+    );
+  }
+}

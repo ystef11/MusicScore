@@ -1,0 +1,15 @@
+export const moduleKeys = {
+    browse: 'browse',
+    courses: 'courses',
+    library: 'library',
+    favorites: 'favorites',
+    uploaded: 'uploaded',
+    user: 'user',
+    artist: 'artist',
+    songbook: 'songbook',
+    setList: 'setList',
+    setScores: 'setScores',
+    composition: 'composition',
+    ebooks: 'ebooks',
+    favorites_ebooks: 'favorites_ebooks',
+} as const

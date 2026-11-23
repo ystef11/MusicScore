@@ -1,0 +1,53 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+      android:name=".MainApplication"
+      android:label="@string/app_name"
+      android:icon="@mipmap/ic_launcher"
+      android:roundIcon="@mipmap/ic_launcher_round"
+      android:allowBackup="false"
+      tools:replace="android:allowBackup"
+      android:theme="@style/AppTheme"
+      android:usesCleartextTraffic="${usesCleartextTraffic}"
+      android:supportsRtl="true">
+      <!-- Disable automatic telemetry, including SDK collection before JavaScript starts. -->
+      <meta-data android:name="firebase_analytics_collection_deactivated" android:value="true" />
+      <meta-data android:name="firebase_crashlytics_collection_enabled" android:value="false" />
+      <meta-data android:name="firebase_performance_collection_deactivated" android:value="true" />
+      <meta-data android:name="delivery_metrics_exported_to_big_query_enabled" android:value="false" />
+      <meta-data android:name="com.facebook.sdk.AutoLogAppEventsEnabled" android:value="false" />
+      <meta-data android:name="com.facebook.sdk.AdvertiserIDCollectionEnabled" android:value="false" />
+      <activity
+        android:name=".MainActivity"
+        android:label="@string/app_name"
+        android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+        android:launchMode="singleTask"
+        android:windowSoftInputMode="adjustResize"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        <!-- Website-to-app handoff schemes from the original application's manifest. -->
+        <intent-filter>
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.DEFAULT" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <data android:scheme="musescore" />
+            <data android:scheme="muse-mu" />
+        </intent-filter>
+      </activity>
+      <provider
+        android:name="androidx.core.content.FileProvider"
+        android:authorities="${applicationId}.updates"
+        android:exported="false"
+        android:grantUriPermissions="true">
+        <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/update_paths" />
+      </provider>
+    </application>
+</manifest>

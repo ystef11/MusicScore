@@ -1,0 +1,14 @@
+pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
+plugins { id("com.facebook.react.settings") }
+// Autolinking caches absolute paths; invalidate it when the checkout moves.
+def autolinkingCache = file("build/generated/autolinking/autolinking.json")
+if (autolinkingCache.exists()) {
+    def cachedRoot = new groovy.json.JsonSlurper().parse(autolinkingCache).root
+    if (!cachedRoot || new File(cachedRoot.toString()).canonicalFile != file("..").canonicalFile) {
+        autolinkingCache.delete()
+    }
+}
+extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
+rootProject.name = 'MusicScore'
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')

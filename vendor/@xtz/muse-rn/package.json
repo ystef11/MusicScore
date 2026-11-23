@@ -1,0 +1,7 @@
+{
+  "name": "@xtz/muse-rn",
+  "version": "4.1.2-assessment.stable.31094510348",
+  "main": "src/index.ts",
+  "react-native": "src/index.ts",
+  "private": true
+}

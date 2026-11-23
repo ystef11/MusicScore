@@ -1,0 +1,3486 @@
+{
+  "marketing.available_with_premium": [
+    "これはプレミアム機能で、MuseScore ",
+    [
+      "type"
+    ],
+    " でのみご利用いただけます。"
+  ],
+  "marketing.quiz.your_goal": "目標",
+  "marketing.quiz.your_frequency": "練習頻度",
+  "marketing.quiz.your_instruments": "楽器",
+  "marketing.quiz.your_age": "年齢",
+  "marketing.quiz.your_topics": "トピック",
+  "marketing.quiz.your_level": "レベル",
+  "marketing.quiz.your_genres": "好きなジャンル",
+  "marketing.get_score": [
+    "楽譜を入手（残り",
+    [
+      "credits"
+    ],
+    "クレジット）"
+  ],
+  "native_try_later": "後でもう一度お試しください",
+  "native.offline_indicator.message": "接続を確認して、再試行してください。",
+  "native.daily_reminders.title": "練習のパートナー",
+  "native.daily_reminders.message": "毎日の目標を達成するために練習を続けましょう。",
+  "native.daily_reminders.tour.ios_hint": "[b]許可[/b]をタップして、ヒントやリマインダーを受け取りましょう",
+  "native.daily_reminders.tour.we_recommend_you_to_play": "毎日同じ時間に少なくとも[minutes]23[/minutes]分間演奏することを[c]おすすめします[/c]",
+  "native.daily_reminders.tour.set_reminder_to": "練習のリマインダーを設定",
+  "native.hub_new_for_you.title": "新着",
+  "native.hub_new_for_you.remindersControl.title": "毎週の更新リマインダー",
+  "native.hub_new_for_you.description": "あなたにおすすめの楽譜リストを毎週更新してお届けします。",
+  "native.push_notifications.forbidden_alert.title": "現在、MuseScoreの通知はオフになっています。",
+  "native.push_notifications.forbidden_alert.subtitle": "設定に移動してオンにしてください",
+  "native.push_notifications.forbidden_alert.answers.not_now": "今はしない",
+  "native.push_notifications.forbidden_alert.answers.settings": "設定",
+  "native.hub_popular.title": "人気",
+  "native.hub_popular.noAuthTitle": "おすすめ",
+  "native.search.placeholder": "検索",
+  "native.search.placeholder_sets": "セットを検索",
+  "native.search.submit_button": "検索",
+  "native.search.cancel_button": "キャンセル",
+  "native.search.empty": "申し訳ありませんが、一致するものが見つかりませんでした。\nスペルを確認するか、別のキーワードでお試しください。",
+  "native.search.empty_offline": "インターネットに接続して170万以上の楽譜を閲覧するか、オフラインで自分の楽譜をアップロードしてください。",
+  "native.spotlight.parts": "パート",
+  "native.score_action_sheet.duration": "演奏時間",
+  "native.score_action_sheet.pages": "ページ",
+  "native.score_action_sheet.measures": "小節",
+  "native.score_action_sheet.key_signature": "調号",
+  "native.score_action_sheet.ensemble": "アンサンブル",
+  "native.score_action_sheet.part_count": "パート数",
+  "native.score_action_sheet.part_names": "パート名",
+  "native.score_action_sheet.genre": "ジャンル",
+  "native.score_action_sheet.license": "ライセンス",
+  "native.score_action_sheet.privacy": "プライバシー",
+  "native.score_action_sheet.cancel": "スキップ",
+  "native.score_action_sheet.set_add_button": "セットに追加",
+  "native.score_action_sheet.delete_button": "削除",
+  "native.score_action_sheet.share_button": "共有",
+  "native.score_action_sheet.more": "その他の操作",
+  "native.score_action_sheet.cancel_button": "キャンセル",
+  "native.score_action_sheet.score_unavailable_contact": "サポートに問い合わせる",
+  "native.bottom_bar.scores_tab": "楽譜",
+  "native.bottom_bar.courses_tab": "コース",
+  "native.bottom_bar.library_tab": "ライブラリ",
+  "native.bottom_bar.profile_tab": "プロフィール",
+  "native.failure_download_pdf_score.title": "このアイテムは一時的に利用できません",
+  "native.score_details_sheet.save_button": "オフラインで保存",
+  "native.score_details_sheet.download_button": "ダウンロード",
+  "native.score_details_sheet.rate_button": "評価する",
+  "native.score_details_sheet.views_number": [
+    [
+      "number"
+    ],
+    "回閲覧"
+  ],
+  "native.score_details_sheet.no_views": "閲覧なし",
+  "native.score_details_sheet.complexity.beginner": "初級",
+  "native.score_details_sheet.complexity.intermediate": "中級",
+  "native.score_details_sheet.complexity.advanced": "上級",
+  "native.score_details_sheet.complexity.all_levels": "すべてのレベル",
+  "native.score_modals.rate_score": "楽譜を評価する",
+  "native.score_modals.rating_saved": "評価が保存されました！",
+  "native.score_modals.rating_saved_hint": "気に入っていただけたら、ストアのレビューで応援してください",
+  "native.score_modals.rate_score_hint": "評価を追加してコメントを残してください。",
+  "native.score_modals.rate_score_result": "この楽譜を評価していただきありがとうございます！ 🤘",
+  "native.screen_explore.top_hubs": "トップハブ",
+  "native.screen_explore.highest_rated_scores": "最高評価の楽譜",
+  "native.screen_explore.most_commented_scores": "最もコメントされた楽譜",
+  "native.screen_explore.off_scores_title": "楽譜出版社からライセンスを受けた公式楽譜を演奏しよう",
+  "native.screen_explore.selected_for_you": "あなたへのおすすめ",
+  "native.screen_explore.popular": "人気",
+  "native.screen_explore.recently_viewed": "最近閲覧したもの",
+  "native.screen_hub.scores": "楽譜",
+  "native.screen_notifications.title": "お見逃しなく！プッシュ通知をオンにしましょう",
+  "native.screen_notifications.allow": "通知をオンにする",
+  "native.screen_notifications.dismiss": "今はしない",
+  "native.screen_profile.finished_restore": "復元が完了しました",
+  "native.screen_profile.want_to_delete_account": "本当にアカウントを削除しますか？",
+  "native.screen_profile.account_will_be_removed": "アカウントが削除され、すべてのアカウント情報も消去されます。作成したコンテンツもすべて削除されます。この操作は取り消せません。",
+  "native.screen_profile.delete_account": "アカウントを削除",
+  "native.screen_profile.logout": "ログアウト",
+  "native.screen_profile.be_careful": "ご注意ください！",
+  "native.screen_profile.be_careful_delete_account": "アカウント、すべてのアカウント情報、すべてのコンテンツが削除されます。\n\nこの操作は取り消せませんのでご注意ください。",
+  "native.screen_welcome.login": "メールで続行",
+  "native.screen_welcome.facebook": "Facebookで続行",
+  "native.screen_welcome.apple": "Appleで続行",
+  "native.screen_welcome.google": "Googleで続行",
+  "native.screen_welcome.restore": "購入の復元",
+  "native.screen_welcome.open_create_account_screen_button": "アカウントを作成",
+  "native.screen_welcome.skip_button": "ログインをスキップ",
+  "native.screen_login.login_placeholder": "ユーザー名またはメールアドレス",
+  "native.screen_login.pass_placeholder": "パスワード",
+  "native.screen_login.login_button_title": "ログイン",
+  "native.screen_login.forgot_button_title": "パスワードをお忘れですか？",
+  "native.screen_login.has_account": "アカウントをお持ちでないですか？",
+  "native.screen_login.create_account_motive": "新規作成",
+  "native.screen_login.email_required_error_title": "メールアドレスへのアクセス許可が必要です",
+  "native.screen_login.email_required_error_text": "続行するには、メールアドレスへのアクセスを許可する必要があります。もう一度ログインしてください。",
+  "native.screen_new_account.title": "サインアップ",
+  "native.screen_new_account.user": "ユーザー名",
+  "native.screen_new_account.email": "メールアドレス",
+  "native.screen_new_account.email_placeholder": "メールアドレスを入力",
+  "native.screen_new_account.username_placeholder": "ユーザー名を入力",
+  "native.screen_new_account.pass": "パスワード",
+  "native.screen_new_account.register_button_title": "アカウントを作成",
+  "native.screen_new_account.has_account": "すでにアカウントをお持ちですか？",
+  "native.screen_new_account.email_taken": "このメールアドレスはすでに使用されています。ログインしてください",
+  "native.screen_new_account.sign_up_musescore": "MuseScoreにサインアップ",
+  "native.screen_new_account.subtitle": "お気に入りの楽譜を保存し、MuseScoreコミュニティと交流しましょう",
+  "native.screen_new_account.email_screen_header": "メールアドレスを入力してください",
+  "native.screen_new_account.password_screen_header": "パスワードを設定してください",
+  "native.screen_new_account.password_placeholder": "パスワードを作成",
+  "native.screen_new_account.email_taken_error": [
+    "メールアドレス ",
+    [
+      "email"
+    ],
+    " はすでに使用されています"
+  ],
+  "native.screen_new_account.username_taken_error": [
+    "ユーザー名 ",
+    [
+      "username"
+    ],
+    " はすでに使用されています"
+  ],
+  "native.screen_new_account.continue": "続ける",
+  "native.screen_new_account.password_rules_title": "次を組み合わせて強力なパスワードにしてください：",
+  "native.screen_new_account.password_strength": "パスワードの強度：",
+  "native.screen_new_account.password_strength_normal": "標準",
+  "native.screen_new_account.password_rules_length": "8文字以上",
+  "native.screen_new_account.password_rules_lowercase_letters": "小文字（abc...）",
+  "native.screen_new_account.password_rules_uppercase_letters": "大文字（ABC...）",
+  "native.screen_new_account.password_rules_numbers": "数字（123...）",
+  "native.screen_new_account.password_rules_special_characters": "特殊文字（!#$...）",
+  "native.screen_new_account.consent_screen_header": "MuseScoreの利用規約に同意する",
+  "native.screen_new_account.agree_to_all": "すべてに同意する",
+  "native.screen_new_account.required": "必須",
+  "native.screen_new_account.recommended": "おすすめ",
+  "native.screen_new_account.terms_of_use_label": "MuseScore利用規約",
+  "native.screen_new_account.terms_of_use": "利用規約",
+  "native.screen_new_account.privacy_policy_required": "必要な個人情報の収集と利用",
+  "native.screen_new_account.privacy_policy_optional": "任意の個人情報の収集と利用",
+  "native.screen_new_account.see_details": "詳細を見る",
+  "native.screen_new_account.age_confirm": "14歳以上です",
+  "native.screen_new_account.receive_marketing": "マーケティング情報の受信に同意する",
+  "native.screen_mixer.visibility_all_parts": "すべてのパートの表示を有効にしますか？",
+  "native.screen_mixer.playability_all_parts": "すべてのパートの再生を有効にしますか？",
+  "native.screens_titles.score_screen": "楽譜",
+  "native.screens_titles.mixer_screen": "ミキサー",
+  "native.screens_titles.about_screen": "概要",
+  "native.screens_titles.my_scores_screen": "マイ楽譜",
+  "native.screens_titles.activity_screen": "通知",
+  "native.instrument.organ": "オルガン",
+  "native.instrument.accordion": "アコーディオン",
+  "native.instrument.bass": "バス",
+  "native.instrument.violin": "バイオリン",
+  "native.instrument.viola": "ビオラ",
+  "native.instrument.cello": "チェロ",
+  "native.instrument.contrabass": "コントラバス",
+  "native.instrument.trombone": "トロンボーン",
+  "native.instrument.tuba": "チューバ",
+  "native.instrument.french_horn": "フレンチホルン",
+  "native.instrument.oboe": "オーボエ",
+  "native.instrument.bassoon": "ファゴット",
+  "native.instrument.clarinet": "クラリネット",
+  "native.instrument.flute": "フルート",
+  "native.filter_screen.instrument_count": "楽器の数",
+  "native.filter_screen.instruments": "楽器",
+  "native.filter_screen.ensemble": "アンサンブル",
+  "native.filter_screen.genre": "ジャンル",
+  "native.filter_screen.status": "状態",
+  "native.filter_screen.license": "ライセンス",
+  "native.filter_screen.parts": "パート",
+  "native.filter_screen.part": "パート",
+  "native.filter_screen.scores_title": "公式楽譜",
+  "native.filter_screen.scores_new": "NEW!",
+  "native.settings_screen.logout_button": "ログアウト",
+  "native.settings_screen.login_button": "ログイン",
+  "native.settings_screen.sing_up_button": "サインアップ",
+  "native.settings_screen.login_you_account_button": "アカウントにログイン",
+  "native.settings_screen.restore_purchases_subtitle": "過去にPROを購入したことがある場合は、ボタンを押して購入を復元してください",
+  "native.my_profile.settings_section": "個人設定",
+  "native.my_profile.stay_awake_switch_title": "スリープしない",
+  "native.my_profile.stay_awake_switch_subtitle": "楽譜を見ているときにスリープモードになりません",
+  "native.my_profile.notification_settings_title": "通知設定",
+  "native.my_profile.notification_settings_subtitle": "表示したいコンテンツを選んでください",
+  "native.my_profile.daily_reminder_settings_title": "毎日のリマインダー",
+  "native.my_profile.daily_reminder_settings_subtitle": "毎日のリマインダーで音楽家として成長しましょう",
+  "native.my_profile.daily_reminder_settings_description": "毎日のリマインダーを設定",
+  "native.my_profile.hq_sound_settings_title": "MuseScore HQ+ サウンド",
+  "native.my_profile.hq_sound_settings_subtitle": "16ビットのステレオ音源1246個をダウンロード",
+  "native.my_profile.hq_sound_settings_description": "モジュレーション対応のステレオ16ビットオーディオサンプル1246個をダウンロードします。\nデバイスに159MBの空き容量が追加で必要です。",
+  "native.my_profile.more_section": "その他",
+  "native.my_profile.restore_purchases_title": "購入の復元",
+  "native.my_profile.pp_title": "プライバシーポリシー",
+  "native.alerts.login_error.message": "ユーザー名またはパスワードが正しくありません",
+  "native.alerts.error_login_facebook.title": "ログインに失敗しました",
+  "native.alerts.connection_error.title": "接続されていません",
+  "native.alerts.connection_error.message": "インターネット接続を確認してください",
+  "native.alerts.failure_download_pdf_score.title": "このアイテムは一時的に利用できません",
+  "native.alerts.access_denied.title": "申し訳ありませんが、この楽譜は利用できません",
+  "native.alerts.access_denied.message": "お客様のデバイスがAndroid互換性要件を満たしているかを確認する際に問題が発生しています。これらの要件についての詳細はこちらをお読みください:",
+  "native.alerts.access_denied.action": "サポートチームに連絡する",
+  "native.alerts.try_again.title": "おっと！",
+  "native.alerts.try_again.description": "アプリがバックグラウンドで停止したようです。再読み込みしてください",
+  "native.settings_extasy_screen.tempo_title": "テンポ",
+  "native.settings.score.set_default_transposition": "デフォルトのキーを設定",
+  "native.permissions.storage.initial_alert_title": "ファイルストレージへのアクセス",
+  "native.permissions.storage.initial_alert_message": "楽譜を開くために、ファイルストレージへのアクセスを許可してください（選択した楽譜にのみ適用されます）。",
+  "native.permissions.storage.denied_alert_title": "アクセスが拒否されました",
+  "native.permissions.storage.modal.cancel": "後で",
+  "native.permissions.storage.modal.settings": "設定",
+  "native.screen_tour.rate_text": "感謝を伝える",
+  "native.screen_tour.start_trial_text": "7日間の無料トライアルを開始",
+  "native.screen_tour.free_trial_text": "7日間の無料トライアル",
+  "native.screen_tour.monthly_access": "月間アクセス",
+  "native.screen_tour.annual_access": "年間アクセス",
+  "native.screen_tour.annual": "年間",
+  "native.screen_tour.monthly": "月間プラン",
+  "native.screen_tour.start_now_text": "今すぐ始める",
+  "native.screen_tour.scores_count": "楽譜出版社からライセンスを受けた、ピアノ・ギター・ボーカル向けのお気に入りの曲の楽譜にアクセス",
+  "native.screen_tour.scores_pro": "PRO",
+  "native.screen_tour.scores_upgrade": "アップグレード：MuseScore",
+  "native.screen_tour.scores_switcher_title": "公式楽譜で次のレベルへ",
+  "native.screen_tour.save": "割引",
+  "native.screen_tour.score_feature": "[b]130万点の楽譜[/b]、すべて広告なし",
+  "native.screen_tour.score_list_feature": "楽譜のダウンロード、移調、[b]オフラインアクセス[/b]",
+  "native.screen_tour.score_official_feature": "上達を[b]加速[/b]させる公式楽譜",
+  "native.screen_tour.courses_feature": "[b]専門家[/b]が教える[b]150以上[/b]の音楽コース",
+  "native.screen_tour.start_free": "無料で始める",
+  "native.screen_tour.course_subs_required": "MuseScore LEARNのサブスクリプションが必要です",
+  "native.screen_tour.free_cancel": "いつでも無料でキャンセルできます",
+  "native.screen_tour.start_describe": "不朽の名曲から最新ヒットまで、好きな音楽を見つけましょう。充実の練習ツールとレッスンで、どんな曲でも演奏できます。",
+  "native.screen_tour.fact_sub_title": "まったくの初心者から熟練のミュージシャンまで、何百万人もの演奏家や作曲家がMuseScoreを愛用しています",
+  "native.screen_tour.instant_sub_title": "プレミアムな演奏・練習機能にすぐにアクセス",
+  "native.screen_tour.switcher_title": "公式楽譜でレベルアップ",
+  "native.screen_tour.subscription_text": "このサブスクリプションに含まれるもの：",
+  "native.screen_tour.subscription_access": "MuseScore",
+  "native.screen_tour.subscription_unlocks_text": "（さらに、毎月「編集部のおすすめ」コレクションからお好きなコースを1つロック解除できます）",
+  "native.payment_courses.title": "お気に入りの曲を学べる150以上のコース",
+  "native.payment_popover.preview": "プレビューはここまでです",
+  "native.payment_popover.continue": "このコースを無料で続ける",
+  "native.game_screen.or": "または",
+  "native.upgrade_messages.cant_upgrade": "MuseScoreのウェブサイトで開始したサブスクリプションは、アプリ内でアップグレードできません。「今すぐアップグレード」ボタンをタップしてMuseScoreのウェブサイトに移動し、サブスクリプションをアップグレードしてください",
+  "native.upgrade_messages.upgrade_title": "ピアノ、ギター、ボーカルの公式楽譜",
+  "native.upgrade_messages.upgrade_now": "今すぐアップグレード",
+  "native.screen_anniversary_splash.available_only_now": "このオファーは今だけです",
+  "native.billing_restore": "復元",
+  "native.billing_info_text": "お支払いは購入確認時にiTunesアカウントに請求されます。サブスクリプションは、現在の期間が終了する少なくとも24時間前までに自動更新をオフにしない限り、自動的に更新されます。現在の期間が終了する前の24時間以内に、更新料金がアカウントに請求され、その金額が提示されます。サブスクリプションはユーザーが管理でき、購入後にアカウント設定から自動更新をオフにすることができます。無料トライアル期間が提供されている場合、その未使用分は、ユーザーが当該サブスクリプションを購入した時点で失効します（該当する場合）。",
+  "native.billing_info_text_cancel": "自動更新サブスクリプション。いつでもキャンセル可能",
+  "native.terms_of_service": "利用規約",
+  "native.privacy_policy": "プライバシーポリシー",
+  "native.marketing_text.restore_purchase_message_negative": [
+    [
+      "store"
+    ],
+    "でアクティブなサブスクリプションがありません"
+  ],
+  "native.marketing_text.restore_purchase_message_error": "サブスクリプションの復元中にエラーが発生しました",
+  "native.marketing_text.auto_renewal_restored_success": "自動更新が復元されました",
+  "native.marketing_text.auto_renewal_restored_failure": "サブスクリプションの復元中に問題が発生しました。もう一度お試しいただくか、サポートにお問い合わせください。",
+  "native.hqSound.button_download": "HQ+サウンドをダウンロード",
+  "native.hqSound.button_clear": "ダウンロードしたファイルを削除",
+  "native.hqSound.button_cancel": "キャンセル",
+  "native.hqSound.popup_title": "本当によろしいですか？",
+  "native.hqSound.popup_button": "削除",
+  "native.privacy.public": "誰でもこの楽譜を閲覧できます",
+  "native.privacy.private": "この楽譜はあなただけが閲覧できます",
+  "native.marketing.slash_month": "/月",
+  "native.marketing.slash_mo": "/月",
+  "native.marketing.slash_year": "/年",
+  "native.marketing.sale_text_65": "65オフ",
+  "native.marketing.dont_show_this_again": "今後表示しない",
+  "native.marketing.claim_this_deal": "このオファーを受け取る",
+  "native.marketing.best_value": "最もお得",
+  "native.marketing.most_popular": "一番人気",
+  "native.marketing.per": "あたり",
+  "native.marketing.then": "その後",
+  "native.marketing.cancelAnytime": "いつでもキャンセル可能",
+  "native.marketing.12MonthsAt": "12 か月で",
+  "native.marketing.startWithA1WeekFreeTrial": "1週間の無料トライアルで始める",
+  "native.marketing.continue": "続ける",
+  "native.marketing.create_your_account": "アカウントを作成して100万点以上の楽譜にアクセスしましょう",
+  "native.marketing.enter_your_name": "名前を入力してください",
+  "native.marketing.nice_to_meet_you": "はじめまして",
+  "native.marketing.fact1": [
+    "昨年、MuseScoreの作曲家によって[c]",
+    [
+      "count"
+    ],
+    "点の楽譜[/c]が共有されました"
+  ],
+  "native.marketing.fact2": [
+    "MuseScoreカタログには、認証済み出版社による",
+    [
+      "count"
+    ],
+    "点の[c]公式楽譜[/c]があります"
+  ],
+  "native.marketing.questions.instrument.list.piano": "ピアノ",
+  "native.marketing.questions.instrument.list.saxophone": "サクソフォン",
+  "native.marketing.questions.instrument.list.woodwinds": "木管楽器",
+  "native.marketing.questions.instrument.list.percussion": "打楽器",
+  "native.marketing.questions.instrument.list.trumpet": "トランペット",
+  "native.marketing.questions.instrument.list.brass": "金管楽器",
+  "native.marketing.questions.instrument.list.voice": "ボーカル",
+  "native.marketing.questions.instrument.list.guitar": "ギター",
+  "native.marketing.questions.instrument.list.other": "その他",
+  "native.marketing.questions.instrument.list.violin": "バイオリン",
+  "native.marketing.questions.instrument.list.string_instrument_title": "弦楽器",
+  "native.marketing.questions.instrument.list.viola": "ビオラ",
+  "native.marketing.questions.instrument.list.cello": "チェロ",
+  "native.marketing.questions.instrument.list.contrabass": "コントラバス",
+  "native.marketing.questions.instrument.list.banjo": "バンジョー",
+  "native.marketing.questions.instrument.list.ukulele": "ウクレレ",
+  "native.marketing.questions.instrument.list.other_instruments": "その他の楽器",
+  "native.marketing.questions.instrument.list.other_free_reed_instruments": "その他のフリーリード楽器",
+  "native.marketing.questions.instrument.list.accordion": "アコーディオン",
+  "native.marketing.questions.instrument.list.organ": "オルガン",
+  "native.marketing.questions.instrument.list.other_woodwinds": "その他の木管楽器",
+  "native.marketing.questions.instrument.list.bassoon": "ファゴット",
+  "native.marketing.questions.instrument.list.oboe": "オーボエ",
+  "native.marketing.questions.instrument.list.flute": "フルート",
+  "native.marketing.questions.instrument.list.brass_instrument": "金管楽器",
+  "native.marketing.questions.instrument.list.trombone": "トロンボーン",
+  "native.marketing.questions.instrument.list.french_horn": "フレンチホルン",
+  "native.marketing.questions.instrument.list.tuba": "チューバ",
+  "native.marketing.questions.instrument.list.other_brass": "その他の金管楽器",
+  "native.marketing.questions.instrument.list.free_reed_instruments": "フリーリード楽器",
+  "native.marketing.questions.instrument.list.clarinet": "クラリネット",
+  "native.marketing.questions.genre.list.blues": "ブルース",
+  "native.marketing.questions.genre.list.classical": "クラシック",
+  "native.marketing.questions.genre.list.country": "カントリーミュージック",
+  "native.marketing.questions.genre.list.folk": "フォーク",
+  "native.marketing.questions.genre.list.jazz": "ジャズ",
+  "native.marketing.questions.genre.list.new_age": "ニューエイジ",
+  "native.marketing.questions.genre.list.pop": "ポップ",
+  "native.marketing.questions.genre.list.rock": "ロック",
+  "native.marketing.questions.genre.list.other": "その他",
+  "native.marketing.questions.genre.list.soundtrack": "サウンドトラック",
+  "native.marketing.questions.genre.list.religious_music": "宗教音楽",
+  "native.marketing.questions.genre.list.hip_hop": "ヒップホップ",
+  "native.marketing.questions.genre.list.electronic": "電子音楽",
+  "native.marketing.questions.genre.list.metal": "メタル",
+  "native.marketing.questions.genre.list.reggae_and_ska": "レゲエ、スカ",
+  "native.marketing.questions.genre.list.rnb_funk_and_soul": "R&B、ファンク、ソウル",
+  "native.marketing.questions.genre.list.disco": "ディスコ",
+  "native.marketing.questions.genre.list.darkwave": "ダークウェーブ",
+  "native.marketing.questions.genre.list.world_music": "ワールドミュージック",
+  "native.marketing.questions.genre.list.experimental": "実験音楽",
+  "native.marketing.questions.genre.list.comedy": "コメディ",
+  "native.marketing.questions.genre.list.classical_modern": "現代クラシック",
+  "native.marketing.questions.genre.list.classical_cinematic": "シネマティック・クラシック",
+  "native.marketing.questions.genre.list.classical_neoclassical": "新古典派ニューエイジ",
+  "native.marketing.questions.genre.list.classical_classical": "クラシック",
+  "native.marketing.questions.genre.list.pop_rock": "ポップ・ロック",
+  "native.marketing.questions.genre.list.pop_soul": "ポップソウル",
+  "native.marketing.questions.genre.list.pop_indi": "インディーポップ",
+  "native.marketing.questions.genre.list.pop_dance": "ダンスポップ",
+  "native.marketing.questions.genre.list.pop_folk": "フォークポップ",
+  "native.marketing.questions.genre.list.pop_electro": "エレクトロポップ",
+  "native.marketing.questions.genre.list.pop_chamber": "チャンバーポップ",
+  "native.marketing.questions.genre.list.pop_art": "アートポップ",
+  "native.marketing.questions.genre.list.pop_traditional": "トラディショナル・ポップ",
+  "native.marketing.questions.genre.list.pop_c": "C-POP",
+  "native.marketing.questions.genre.list.soundtrack_game": "ビデオゲーム音楽",
+  "native.marketing.questions.genre.list.soundtrack_singer": "シンガーソングライター",
+  "native.marketing.questions.genre.list.soundtrack_christmas": "クリスマス音楽",
+  "native.marketing.questions.genre.list.rock_alternative": "オルタナティブロック",
+  "native.marketing.questions.genre.list.rock_piano": "ピアノロック",
+  "native.marketing.questions.genre.list.rock_hard": "ハードロック",
+  "native.marketing.questions.level.list.beginner": "初心者",
+  "native.marketing.questions.level.list.can_read_notation": "楽譜が読める",
+  "native.marketing.questions.level.list.intermediate": "中級",
+  "native.marketing.questions.level.list.professional": "プロフェッショナル",
+  "native.marketing.questions.level.list.virtuoso": "ヴィルトゥオーソ",
+  "native.marketing.credit_balance_title": "クレジット残高",
+  "native.marketing.use_credit_title": "PROクレジットを1つ使用",
+  "native.marketing.restore_subscription": "サブスクリプションを復元",
+  "native.marketing.restore_subscription_title": "サブスクリプションを復元して、ダウンロードや印刷などのプレミアム機能を引き続きご利用ください",
+  "native.marketing.restore_subscription_cancel_title": "サブスクリプションのキャンセル日：",
+  "native.marketing.personal_offer_title": "あなた限定オファー",
+  "native.marketing.try_now": "今すぐ確認",
+  "native.marketing.action_required": "対応が必要です",
+  "native.marketing.membership_expire_soon": "メンバーシップの有効期限がまもなく切れます",
+  "native.marketing.lose_access": "次の機能が利用できなくなります：",
+  "native.marketing.restart_membership": "メンバーシップを再開",
+  "native.locale_file_status.start": "開始しています",
+  "native.locale_file_status.copy": "コピーしています",
+  "native.locale_file_status.open": "開いています",
+  "native.locale_file_status.font_loading": "フォントを読み込んでいます",
+  "native.sorting.title": "並べ替え",
+  "native.sorting.by.date": "アップロード日",
+  "native.sorting.by.views": "閲覧数",
+  "native.sorting.by.comments": "コメント数",
+  "native.sorting.by.relevance": "関連性",
+  "native.sorting.title_asc": "タイトル順（A→Z）",
+  "native.sorting.title_desc": "タイトル順（Z→A）",
+  "native.sorting.date_added_asc": "追加日順（古い順）",
+  "native.sorting.date_added_desc": "追加日順（新しい順）",
+  "native.sorting.date_updated_asc": "更新日順（新しい順）",
+  "native.sorting.date_updated_desc": "更新日順（古い順）",
+  "native.sorting.date_created_asc": "作成日順（新しい順）",
+  "native.sorting.date_created_desc": "作成日順（古い順）",
+  "native.sorting.views_desc": "閲覧数順（多い順）",
+  "native.sorting.views_asc": "閲覧数順（少ない順）",
+  "native.instrument.any_instrument": "すべての楽器",
+  "native.instrument.piano": "ピアノ",
+  "native.instrument.harpsichord": "チェンバロ",
+  "native.instrument.percussion": "打楽器",
+  "native.instrument.harmonica": "ハーモニカ",
+  "native.instrument.guitar": "ギター",
+  "native.instrument.strings": "弦楽器",
+  "native.instrument.harp": "ハープ",
+  "native.instrument.timpani": "ティンパニ",
+  "native.instrument.trumpet": "トランペット",
+  "native.instrument.brass_ensemble": "金管アンサンブル",
+  "native.instrument.soprano_saxophone": "ソプラノサクソフォン",
+  "native.instrument.alto_saxophone": "アルトサクソフォン",
+  "native.instrument.tenor_saxophone": "テナーサクソフォン",
+  "native.instrument.baritone_saxophone": "バリトンサクソフォン",
+  "native.instrument.english_horn": "イングリッシュホルン",
+  "native.instrument.piccolo": "ピッコロ",
+  "native.instrument.recorder": "リコーダー",
+  "native.instrument.other_woodwinds": "その他の木管楽器",
+  "native.instrument.synthesizer": "シンセサイザー",
+  "native.instrument.sound_effects": "効果音",
+  "native.instrument.bagpipe": "バグパイプ",
+  "native.instrument.brass": "金管楽器",
+  "native.instrument.keyboard": "キーボード",
+  "native.instrument.effect": "エフェクト",
+  "native.instrument.metal": "メタル",
+  "native.instrument.percussion_-_body": "打楽器 - ボディ",
+  "native.instrument.percussion_-_drum": "打楽器 - ドラム",
+  "native.instrument.percussion_-_metal": "打楽器 - 金属楽器",
+  "native.instrument.percussion_-_pitched": "打楽器 - 音高あり",
+  "native.filter.instrument": "楽器",
+  "native.filter.level": "レベル",
+  "native.filter.topics": "トピック",
+  "native.filter.show_all": "すべて表示",
+  "native.instrument.percussion_-_wood": "打楽器 - 木製",
+  "native.instrument.strings_-_bowed": "弦楽器 - 弓奏",
+  "native.instrument.strings_-_plucked": "弦楽器 - 撥弦",
+  "native.license.publicdomain": "パブリックドメイン（著作権なし）",
+  "native.license.all_rights_reserved": "なし（全著作権保有）",
+  "native.license.cc_zero": "パブリックドメイン（著作権なし）",
+  "native.license.cc_by": "表示",
+  "native.license.cc_by_nd": "表示 - 改変禁止",
+  "native.license.cc_by_sa": "表示 - 継承",
+  "native.license.cc_by_nc": "表示 - 非営利",
+  "native.license.cc_by_nc_nd": "表示 - 非営利 - 改変禁止",
+  "native.license.cc_by_nc_sa": "表示 - 非営利 - 継承",
+  "native.signInToGetUpdates": "サインアップして最新情報を受け取る",
+  "native.instrument.voice": "ボーカル",
+  "native.instrument.woodwinds": "木管楽器",
+  "native.song_book_remove.subtitle": "このアイテムはすぐに削除されます。この操作は元に戻せません。",
+  "native.screen_comments.comment": "コメント",
+  "native.screen_comments.comments": "コメント",
+  "native.screen_comments.reply": "返信",
+  "native.screen_comments.likes": "いいね",
+  "native.screen_comments.write_comment": "コメントを書く",
+  "native.screen_comments.remove": "削除",
+  "native.screen_comments.no_comments": "まだコメントはありません",
+  "native.screen_comments.replies_count": [
+    [
+      "count"
+    ],
+    "件の返信"
+  ],
+  "native.net_promoter_score.confirm_feedback_close_action": "完了",
+  "native.library.my_scores_title": "楽譜",
+  "native.library.my_scores_desc": "あなたがmusescore.comにアップロードした楽譜",
+  "native.library.my_sets_title": "マイセット",
+  "native.library.my_sets_desc": "自分で作成したセット",
+  "native.library.favorites_desc": "お気に入りに追加した楽譜",
+  "native.library.songbook_desc": "ローカルに保存された楽譜（オフラインで利用可能）",
+  "native.library.scores_column": "楽譜",
+  "native.library.my_scores.site_link": "musescore.comに移動",
+  "native.library.my_scores.editor_link": "楽譜エディターについて詳しく",
+  "native.library.favorites_courses.title": "コースを追加しましょう",
+  "native.library.favorites_courses.search_btn_title": "コースを検索",
+  "native.library.songbook.upload_btn_title": "MSCZファイルをアップロード",
+  "native.library.songbook.editor_link": "楽譜エディターについて詳しく",
+  "native.library.created_by_me": "作成したもの",
+  "native.library.available_offline": "オフラインで利用可能",
+  "native.new_search.empty_condition.top_string": "何も見つかりませんでした。",
+  "native.new_search.empty_condition.bottom_string": "別のフィルターを試すか、検索条件を変更してください。",
+  "native.new_search.not_found": "見つかりませんでした",
+  "native.new_search.sources.my": "マイ楽譜内",
+  "native.new_search.sources.everywhere": "すべて",
+  "native.tooltips.upload": "アップロード",
+  "native.tooltips.more": "その他",
+  "native.alertNotifications.tooManyRequests": "後でもう一度お試しください。",
+  "native.alertNotifications.downloading": "ダウンロード中...",
+  "native.feed.items.20": "あなたの楽譜にコメントしました",
+  "native.feed.items.21": "楽譜に付けたあなたのコメントに返信しました",
+  "native.feed.items.30": "楽譜を追加しました",
+  "native.feed.items.31": "あなたをフォローしました",
+  "native.activity.empty_list.title": "最新情報をチェック",
+  "native.activity.notifications.new_follower": "新しいフォロワー",
+  "native.activity.notifications.your_comment_replied": "コメントへの返信",
+  "native.activity.notifications.your_score_commented": "あなたの楽譜へのコメント",
+  "native.user.follow": "フォロー",
+  "native.user.unfollow": "フォロー解除",
+  "native.user.followers": "フォロワー",
+  "native.user.no_followers": "フォロワーがいません",
+  "native.user.followings": "フォロー中",
+  "native.user.no_followings": "フォローなし",
+  "native.user.set": "セット",
+  "native.user.sets": "セット",
+  "native.user.scores": "楽譜",
+  "native.user.my": "マイ",
+  "native.filter.actions.apply": "適用",
+  "native.filter.actions.reset": "リセット",
+  "native.key_words.settings": "設定",
+  "native.key_words.metronome": "メトロノーム",
+  "native.key_words.feedback": "フィードバック",
+  "native.actions.close": "閉じる",
+  "native.actions.change": "変更",
+  "native.actions.okay": "OK",
+  "native.actions.retry": "再試行",
+  "native.help_center.step_first.title": "どのようなサポートが必要ですか？",
+  "native.help_center.step_first.variants.first": "質問の答えを探したい",
+  "native.help_center.step_first.variants.second": "質問したい",
+  "native.help_center.step_second.title": "返信先のメールアドレスを教えてください",
+  "native.help_center.step_second.text": "ご連絡のため、以下にメールアドレスを入力してください。（お客様のデータは安全に管理され、お問い合わせへの回答にのみ使用されます）",
+  "native.help_center.step_second.placeholder": "メールアドレス",
+  "native.artists.based_on": "原曲：",
+  "native.artists.by": "アーティスト：",
+  "native.artists.artist_info": "アーティスト情報",
+  "native.artists.composition_info": "楽曲情報",
+  "native.artists.bio": "アーティストの経歴",
+  "native.artists.no_bio": "アーティストの経歴は近日追加予定です。\n現在準備中です！",
+  "native.artists.read_more": "続きを読む",
+  "native.artists.links": "リンク",
+  "native.artists.score": "楽譜",
+  "native.artists.composition": "楽曲",
+  "native.courses.courses": "コース",
+  "native.courses.instrument": "楽器",
+  "native.courses.theme": "コースのテーマ",
+  "native.courses.favorites": "お気に入りに追加したコース",
+  "native.courses.play_speed": "再生速度",
+  "native.courses.video_quality": "画質",
+  "native.courses.lesson": "レッスン",
+  "native.courses.lessons": "レッスン",
+  "native.courses.pdf_lesson": "講師が用意したこのレッスンのPDFをダウンロードして確認しましょう。",
+  "native.courses.download_material": [
+    [
+      "number"
+    ],
+    "件のレッスン教材をダウンロード"
+  ],
+  "native.courses.download_materials": [
+    [
+      "number"
+    ],
+    "件のレッスン教材をダウンロード"
+  ],
+  "native.courses.course_completed": "完了",
+  "native.artists.scores": "楽譜",
+  "native.courses.hours": "時間",
+  "native.artists.compositions": "楽曲",
+  "native.courses.minutes": "分",
+  "native.courses.seconds": "秒",
+  "native.courses.materials": "レッスン教材",
+  "native.courses.what_will_you_learn": "このコースで学べること",
+  "native.courses.level": "レベル",
+  "native.courses.about_course": "コースについて",
+  "native.courses.about": "概要",
+  "native.courses.comments": "コメント",
+  "native.courses.no_comments_title": "まだコメントはありません",
+  "native.courses.no_comments_description": "このコースに最初のコメントを残しましょう！",
+  "native.courses.rate_course": "このコースを評価してください",
+  "native.courses.congratulations": "おめでとうございます！ 🎉",
+  "native.courses.your_impressions": "学習体験の向上のため、ぜひご感想やご意見をお聞かせください。",
+  "native.courses.send_feedback": "フィードバックを送信",
+  "native.courses.are_you_enjoying": "このコースを楽しんでいますか？",
+  "native.courses.share_your_thoughts": "ご意見をお聞かせください",
+  "native.courses.what_do_you_think_about_platform": "この学習プラットフォームについてどう思いますか？",
+  "native.courses.what_could_be_done_better": "改善してほしい点は何ですか？",
+  "native.courses.thank_you": "ありがとうございます！",
+  "native.courses.help_us_improve": "いただいたフィードバックは、学習体験を向上させ、学習をより楽しく効果的にするために活用させていただきます。",
+  "native.courses.youre_welcome": "どういたしまして",
+  "native.screen_sft.carousel.courses_sub_title": "あなたのために用意された200以上のコースに無制限でアクセス。",
+  "native.screen_sft.carousel.material_sub_title": "ダウンロード可能な教材付き。",
+  "native.screen_sft.carousel.keyboard_sub_title": "キーボード表示を使って、楽譜をより速く、より楽しく弾けるようになりましょう。",
+  "native.screen_sft.carousel.transpose_sub_title": "楽譜のキーを変更して、自分の楽器に合った調を見つけましょう。",
+  "native.screen_sft.carousel.songbook_sub_title": "オフラインで楽譜にアクセスして演奏できます。ローカルストレージから音楽ファイルを読み込めます。",
+  "native.screen_sft.carousel.mixer_sub_title": "楽譜の各楽器の表示と音量を調整できます。",
+  "native.screen_sft.carousel.auto_scroll_sub_title": "自動スクロールで楽譜を再生し、次の音符を先読みできます。ページをめくる必要はありません。",
+  "native.screen_sft.carousel.more_sub_title": "メトロノームとカウントインをオンに。HQサウンドでより良い音をお楽しみください。",
+  "native.screen_sft.carousel.pdf_sub_title": "プレミアムユーザーは、PDF、MIDI、MP3形式で楽譜をダウンロードできます。PDFは印刷にも対応しています。",
+  "native.screen_sft.carousel.courses_title": "コース",
+  "native.screen_sft.carousel.material_title": "教材",
+  "native.screen_sft.carousel.pdf_title": "PDFにエクスポート",
+  "native.screen_sft.carousel.midi_title": "MIDIにエクスポート",
+  "native.screen_sft.carousel.mp3_title": "MP3にエクスポート",
+  "native.screen_sft.carousel.transpose_title": "移調",
+  "native.screen_sft.carousel.mixer_title": "ミキサー",
+  "native.screen_sft.carousel.auto_scroll_title": "自動スクロール",
+  "native.screen_sft.carousel.more_title": "その他にも多数...",
+  "native.screen_sft.carousel.full_access_title": "フルアクセス",
+  "native.screen_sft.carousel.keyboard_title": "キーボード",
+  "native.screen_sft.switcher_title": "Lite版から始めましょう",
+  "native.preferences.main_title": "好みを設定しましょう",
+  "native.preferences.sub_title": "MuseScoreをあなた好みにカスタマイズ",
+  "native.preferences.profile_title": "好みの設定",
+  "native.preferences.current_preferences": "現在の好み",
+  "native.preferences.update": "更新",
+  "native.bluetooth_pedal.profile_subtitle": "ペダルのオプションを設定",
+  "native.bluetooth_pedal.profile_title": "Bluetoothペダル",
+  "native.bluetooth_pedal.instruction_5": "完了！キーを押すたびに、選択したアクションが実行されます。",
+  "native.bluetooth_pedal.instruction_4": "ペダルのキーを押してください。選択されたアクションの近くにキーが表示されるはずです。",
+  "native.bluetooth_pedal.instruction_2": "iOS/Androidモードを選択してください。",
+  "native.bluetooth_pedal.instruction_3": "上のリストからアクションを選んでペダルのキーに割り当て、「セットアップ」を押してください。",
+  "native.bluetooth_pedal.instruction_1": "ペダルの電源を入れて、[n]osName[n]デバイスに接続してください。",
+  "native.bluetooth_pedal.instruction_title": "接続と設定方法",
+  "native.bluetooth_pedal.pedal_title": "ペダルの設定",
+  "native.bluetooth_pedal.next_page": "次のページ",
+  "native.bluetooth_pedal.prev_page": "前のページ",
+  "native.bluetooth_pedal.play": "再生/停止",
+  "native.bluetooth_pedal.autoscroll": "自動スクロールの切り替え",
+  "native.bluetooth_pedal.press": "ペダルのキーを押してください",
+  "native.bluetooth_pedal.set": "セットアップ",
+  "native.credits.title": "PROクレジットを使用",
+  "native.credits.second_description": "使った分だけのお支払いで、長期契約は不要です。",
+  "native.credits.balance_title": "PROクレジット残高",
+  "native.anniversary.title_offer": "あなただけの特別オファー",
+  "native.anniversary.title": "MuseScoreをご利用いただき、ありがとうございます。感謝の気持ちを込めて、特別なプレゼントをご用意しました...",
+  "native.anniversary.main_title": [
+    "出会ってから[d]",
+    [
+      "d"
+    ],
+    "[/d]日以上が経ちました"
+  ],
+  "native.anniversary.hi_title": "こんにちは！",
+  "native.anniversary.dear_title": "こんにちは、",
+  "native.sets.multiple_success_modified": [
+    [
+      "count"
+    ],
+    "件のセットを変更しました"
+  ],
+  "native.sets.create_title": "セット情報を入力",
+  "native.sets.edit_title": "セット情報",
+  "native.sets.set_title": "セットのタイトル",
+  "native.sets.set_description": "セットの説明",
+  "native.sets.placeholder_title": "セットタイトルを入力",
+  "native.sets.placeholder_description": "セットの説明を入力（任意）",
+  "native.sets.private": "このセットを非公開にする",
+  "native.sets.creating_new_set": "新しいセットを作成",
+  "native.sets.editing_set": "セットを編集",
+  "native.sets.adding_to_set": "セットに追加",
+  "native.sets.save_changes": "変更を保存",
+  "native.sets.add_to": "追加",
+  "native.sets.adding": "追加中",
+  "native.sets.adding_description": "楽譜を異なるセットに追加して、カテゴリーごとにグループ化できます。",
+  "native.sets.be_careful": "ご注意ください",
+  "native.sets.delete_button": "削除",
+  "native.sets.go_back": "戻る",
+  "native.sets.delete_set": [
+    "セット「",
+    [
+      "setName"
+    ],
+    "」を削除してもよろしいですか？"
+  ],
+  "native.sets.be_careful_warning": "元に戻せません",
+  "native.sets.delete_set_button": "セットを削除",
+  "native.sets.empty": "さんにはまだセットがありません。",
+  "native.sets.empty_my": "楽譜を異なるセットに追加して、カテゴリーごとにグループ化できます。\n \nまだセットはありませんが、作成できます！",
+  "native.sets.empty_set": "このセットにはまだ楽譜がありませんが、追加できます！\n\n楽譜のオプションメニューを開いて、「セットに追加」をタップしてください。",
+  "native.sets.empty_set_my": "このセットは現在空ですが、もうすぐ追加されるかもしれません！",
+  "native.sets.empty_set_my_title": "このセットにはまだ楽譜がありませんが、追加できます！",
+  "native.sets.empty_set_my_description": "楽譜のオプションメニューを開いて、「セットに追加」をタップしてください。",
+  "native.sets.done": "完了！",
+  "native.sets.success_add_to_set": [
+    [
+      "scoreName"
+    ],
+    "をセットに追加しました。"
+  ],
+  "native.sets.success_remove_from_set": [
+    [
+      "scoreName"
+    ],
+    "をセットから削除しました。"
+  ],
+  "native.vocals": "ボーカル",
+  "native.string_instruments": "弦楽器",
+  "native.banjo": "バンジョー",
+  "native.ukulele": "ウクレレ",
+  "native.other_strings": "その他の弦楽器",
+  "native.brass_instruments": "金管楽器",
+  "native.other_brass": "その他の金管楽器",
+  "native.other_woodwinds": "その他の木管楽器",
+  "native.free_reed_instruments": "フリーリード楽器",
+  "native.other_free_reed_instruments": "その他のフリーリード楽器",
+  "native.other_instruments": "その他の楽器",
+  "native.buyThisScore": "この楽譜を購入",
+  "native.accessToScore": "永久フルアクセスを入手：",
+  "native.oneTimePay": "1回払い",
+  "native.didntBuy": "まだ楽譜を購入していません",
+  "native.getPermanentAccess": "すべてのプレミアム機能付きで、お気に入りの楽譜への永久フルアクセスを入手しましょう",
+  "native.ordersTitle": "購入済み",
+  "native.scoresYouBuy": "購入した音楽スコア",
+  "native.titleListWhatInstruments": "どんな[c]楽器[/c]を演奏していますか？または、これから始めたい楽器はありますか？",
+  "native.titleListWhatGenres": "どの[c]ジャンル[/c]の音楽に興味がありますか？",
+  "native.titleListLevel": "あなたの楽器の[c]演奏レベル[/c]はどのくらいですか？",
+  "native.gotIt": "わかりました",
+  "native.blinkListToday": "今日",
+  "native.blinkListTrialEnd": "無料トライアル期間が終了する前に、メールまたは通知でお知らせします",
+  "native.blinkListhowYourTrialWork": "無料トライアルの仕組み",
+  "native.enjoyTrial": "プレミアムアクセスを無料で楽しめるのはあと2日です",
+  "native.screen_tour.congrats": "おめでとうございます",
+  "native.screen_tour.membership_text": [
+    "MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    "メンバーシップをお持ちです。"
+  ],
+  "native.screen_tour.get_most_with_learn": "MuseScore LEARNのコースで、さらに活用しましょう。",
+  "native.screen_tour.student_text_1": "18歳未満の方にとって、1年分の大きな金額を一度に支払うのは簡単ではないこともあります",
+  "native.screen_tour.student_text_2": "若い方にとって、1年分の大きな金額を一度に支払うのは簡単ではないこともあります",
+  "native.screen_no_landing.subscription_start": [
+    "MuseScore ",
+    [
+      "subscriptionType"
+    ],
+    " から始める"
+  ],
+  "native.screen_tour.trial_modal_period_title": [
+    [
+      "dayNumber"
+    ],
+    "日目"
+  ],
+  "native.screen_tour.trial_modal_charged_title": [
+    [
+      "dateTrialEnd"
+    ],
+    "に請求されます。それまではいつでもキャンセルできます"
+  ],
+  "native.or": "または",
+  "native.artist": "アーティスト",
+  "native.myCourses": "マイコース",
+  "native.pricing": "料金プラン",
+  "native.official": "公式",
+  "native.original": "オリジナル",
+  "native.add_comment": "コメントを追加...",
+  "native.send_button": "送信",
+  "native.reply_to": [
+    [
+      "replied"
+    ],
+    "に返信"
+  ],
+  "native.scoreSaved.rateScoreText.title": "楽譜が保存されました",
+  "native.scoreLiked.rateScoreText.subtitle": "この楽譜が気に入りましたか？評価してコメントを残しましょう",
+  "native.scoreLiked.reviewAppText.title": "評価ありがとうございます！",
+  "native.scoreLiked.reviewAppText.subtitle": "アプリを気に入っていただけたら、ぜひご意見をお聞かせください",
+  "native.add_comment_placeholder": "ここにコメントを追加（任意）",
+  "native.ms4_dummy_title": "現在、このMuseScore 4ファイルをプレビューできません。",
+  "native.ms4_dummy_subtitle": "申し訳ありません。現在、MuseScore 4ファイルのサポート追加に取り組んでいます。\nそれまでの間、下のリンクをクリックすると、\nMuseScore.comでこの楽譜を見つけて閲覧できます。",
+  "native.open_muse_score_website": "MuseScoreのウェブサイトを開く",
+  "native.courses.lessons.duration_title": [
+    [
+      "lessonsCount"
+    ],
+    " ",
+    [
+      "lessons"
+    ],
+    " ",
+    [
+      "lessonsDuration"
+    ]
+  ],
+  "native.courses.lessons.completed": [
+    [
+      "completedLessons"
+    ],
+    "/",
+    [
+      "lessonsCount"
+    ],
+    " ",
+    [
+      "lessons"
+    ]
+  ],
+  "native.screen_tour.choose_subs": "プランを選択してください",
+  "native.screen_tour.proven": "多くの人が効果を実感",
+  "native.screen_tour.five_star": "5つ星レビュー",
+  "native.screen_tour.secured": [
+    [
+      "storeName"
+    ],
+    "による安全な決済"
+  ],
+  "native.screen_tour.trusted": "世界中で1,300万人以上のミュージシャンに信頼されています。",
+  "native.screen_tour.downloads": "ダウンロード",
+  "native.screen_tour.unlock_benefits": [
+    "[color]",
+    [
+      "subscriptionGroup"
+    ],
+    "[/color]メンバーのすべての特典をロック解除"
+  ],
+  "native.screen_tour.benefit_download": "お気に入りの楽譜をあらゆる形式で手元に。コミュニティが作成した170万曲から、すぐに印刷できます。",
+  "native.screen_tour.benefit_download_title": "ダウンロード＆印刷",
+  "native.screen_tour.benefit_ad_free_title": "広告なし",
+  "native.screen_tour.benefit_ad_free": "途切れることのない再生で、音楽に没頭しましょう。第三者広告もストレスもありません。",
+  "native.screen_tour.benefit_offscores_title": "Hal LeonardやFaberなどの大手出版社による、プロが採譜した楽譜にアクセスして、オンラインで閲覧・演奏できます。",
+  "native.screen_tour.benefit_playback": "再生のカスタマイズ",
+  "native.screen_tour.benefit_mixer": "ミキサーを使用して楽器のミュートやソロを設定できます。音量やパンニングも調整できます。",
+  "native.search.placeholder_books": "楽譜集を検索",
+  "native.search.placeholder_library": "検索",
+  "native.success_remove_from_set": [
+    [
+      "scoreName"
+    ],
+    "をセットから削除しました。"
+  ],
+  "native.sets.success_create": [
+    [
+      "setName"
+    ],
+    "を作成しました"
+  ],
+  "native.score_staff_measure_sheet_title": "譜表と小節のサイズ",
+  "native.score_staff_measure_sheet_description": "選択されたサイズは自動的に保存されます。",
+  "native.base_reduce": "縮小",
+  "native.base_enlarge": "拡大",
+  "native.base_set_default_size": "デフォルトサイズを設定",
+  "native.offline_indicator.title": "インターネット接続がありません",
+  "native.screen_hub.followers": "フォロワー",
+  "native.success": "成功しました！",
+  "native.bottom_bar.books_tab": "楽譜集",
+  "native.ebooks.my_books": "楽譜集",
+  "native.ebooks.my_bought_books": "購入した楽譜集",
+  "native.courses.my_courses": "マイコース",
+  "native.courses.my_courses_bought": "購入したコース",
+  "native.ebooks.learn_more": "詳細を見る",
+  "native.screen_tour.immerse": "[c]200万点以上の楽譜[/c]の世界へ",
+  "native.screen_tour.join": "世界最大の楽譜コミュニティへ",
+  "native.screen_tour.generate_password": "強力なパスワードが自動生成され、メールアドレスに送信されます",
+  "native.screen_tour.enter_email": "メールアドレスを入力",
+  "native.screen_tour.create_account": "新しいアカウントを作成",
+  "native.scores.includes_pdf_title": "PDFダウンロード付き",
+  "native.score.valid_access": [
+    "有効期間：",
+    [
+      "month"
+    ],
+    "か月。"
+  ],
+  "native.ebooks.get_songbook": "楽譜集を入手",
+  "native.ebooks.sample": "サンプル",
+  "native.ebooks.includes": "収録内容",
+  "native.ebooks.you_may_also_like": "こちらもおすすめ",
+  "native.ebooks.reviews": "レビュー",
+  "native.ebooks.info.released": "発売日",
+  "native.ebooks.info.length": "長さ",
+  "native.ebooks.info.publisher": "出版社",
+  "native.ebooks.info.composers": "作曲家",
+  "native.ebooks.read": "読む",
+  "native.ebooks.pages": "ページ",
+  "native.ebooks.topics": "トピック",
+  "native.ebooks.isbn": "ISBN",
+  "native.ebooks.rating": [
+    "/ ",
+    [
+      "number"
+    ]
+  ],
+  "native.ebooks.rate_book": "楽譜集を評価",
+  "native.ebooks.rate_book_title": "楽譜集を評価",
+  "native.ebooks.rate_book_description": "タップして評価してください。\n他のユーザーが楽譜集の質を判断する参考になります。",
+  "native.ebooks.rate_success": "評価をいただき、ありがとうございます。\nレビューを書いていただけると嬉しいです。",
+  "native.ebooks.verified_title": "認証済みレビューのみ",
+  "native.ebooks.verified_sub_title": "信頼できるレビューを投稿するには、まず楽譜集を購入して読んでください。",
+  "native.ebooks.favorites_button_title": "楽譜集",
+  "native.ebooks.favorites_button_subtitle": "お気に入りに追加した楽譜集",
+  "native.ebooks.favorites_title": "楽譜集",
+  "native.ebooks.favorites_empty_title": "まだ楽譜集を追加していません",
+  "native.library.filter_show_button": [
+    [
+      "count"
+    ],
+    "冊の楽譜集を表示"
+  ],
+  "native.ebook.filter_instrument": "楽器",
+  "native.ebook.filter_genre": "ジャンル",
+  "native.ebook.filter_artist_composer": "アーティスト・作曲家",
+  "native.ebook.filter_quick": "クイックフィルター",
+  "native.ebook.filter_sort": "並べ替え",
+  "native.ebook.filter_empty_title": "結果が見つかりません",
+  "native.screen_new_account.password_strength_weak": "弱い",
+  "native.screen_new_account.password_strength_strong": "強い",
+  "native.ebook.filter_show_more": "もっと見る",
+  "native.ebook.filter_show_less": "表示を減らす",
+  "native.ebook.filter_clear": "すべてクリア",
+  "native.ebooks.orders_empty_subtitle": "楽譜集を購入すると、ここに表示されます。",
+  "native.screen_tour.login_muse_title": "MuseScore にログイン",
+  "native.hub_new.title": "新着",
+  "native.hub_piano.title": "ピアノ",
+  "native.hub_film, tv & video games.title": "映画・テレビ・ゲーム",
+  "native.hub_strings.title": "弦楽器",
+  "native.hub_woodwinds.title": "木管楽器",
+  "native.hub_saxophone.title": "サクソフォン",
+  "native.hub_trumpet.title": "トランペット",
+  "native.hub_guitar.title": "ギター",
+  "native.hub_voice.title": "ボーカル",
+  "native.hub_keyboard.title": "キーボード",
+  "native.hub_percussion.title": "打楽器",
+  "native.hub_disney.title": "ディズニー",
+  "native.hub_marching percussion.title": "マーチングパーカッション",
+  "native.hub_brass.title": "金管楽器",
+  "native.hub_electronics.title": "電子音楽",
+  "native.hub_folk.title": "フォーク",
+  "native.hub_museclass.title": "MuseClass",
+  "native.date.minutes_ago": [
+    [
+      "minutes"
+    ],
+    "分前"
+  ],
+  "native.date.just_now": "たった今",
+  "native.date.hours_ago": [
+    [
+      "hours"
+    ],
+    "時間前"
+  ],
+  "native.date.days_ago": [
+    [
+      "days"
+    ],
+    "日前"
+  ],
+  "native.shared.delete": "削除",
+  "native.shared.cancel": "キャンセル",
+  "native.review.tap_to_rate": "タップして評価",
+  "native.review.thanks_for_rating": "評価していただきありがとうございます。",
+  "native.screen_tour.confirm": "確認",
+  "native.sorting_type.relevance": "関連性",
+  "native.sorting_type.comment count": "コメント数",
+  "native.sorting_type.view count": "閲覧数",
+  "native.sorting_type.rating": "評価",
+  "native.sorting_type.score_type": "楽譜タイプ",
+  "native.sorting_type.upload date": "アップロード日",
+  "native.sorting_type.difficulty_level": "難易度",
+  "native.restore.title": "復元を開始しました",
+  "native.preferences.title": "好みの設定を更新しました",
+  "native.profile.question_answers_title": "質問と回答",
+  "native.courses.title.continue studying": "学習を続ける",
+  "native.courses.title.editor's picks": "編集部のおすすめ",
+  "native.courses.title.top music courses": "人気の音楽コース",
+  "native.courses.title.latest music courses": "最新の音楽コース",
+  "native.courses.title.piano courses": "ピアノコース",
+  "native.courses.title.violin courses": "バイオリンコース",
+  "native.courses.title.music theory courses": "音楽理論コース",
+  "native.courses.title.wind instruments courses": "管楽器コース",
+  "native.courses.title.guitar courses": "ギターコース",
+  "native.courses.title.music production courses": "音楽制作コース",
+  "native.courses.title.music software courses": "音楽ソフトウェアコース",
+  "native.courses.orders_empty_title": "まだコースを購入していません",
+  "native.courses.orders_empty_subtitle": "購入したコースはここに表示されます。",
+  "native.score.layout_title": "表示モード",
+  "native.score.layout_landscape": "横向き表示",
+  "native.score.standard_title": "スタンダード",
+  "native.score.hq_title": "MuseScore HQ+ 設定",
+  "native.score.title_file": "ファイル",
+  "native.score.download_size_title": [
+    "追加で",
+    [
+      "size"
+    ],
+    "のダウンロードが必要です"
+  ],
+  "native.score.downloaded_title": "ファイルはデバイスに保存されています",
+  "native.score.transposition_title": "移調",
+  "native.score.default_title": "デフォルト",
+  "native.score.views": "閲覧数",
+  "native.score.volume_title": "音量",
+  "native.score.keyboard_title": "キーボードを表示",
+  "native.sorting_type.default_title": "デフォルト",
+  "native.review.empty_list_title": "まだレビューがありません",
+  "native.review.empty_list_message": "最初にレビューを投稿して、\n他の人が素晴らしい楽譜集を見つける手助けをしましょう",
+  "native.my_profile.pricing_sub_title": "あなたに最適なプランを選びましょう",
+  "native.my_profile.pricing_title": "料金プラン",
+  "native.marketing.subscription.for_the_year": "（初年度）",
+  "native.marketing.subscription.week": "週",
+  "native.marketing.subscription.52weeks": "52週間",
+  "native.marketing.feature.quick_load": "高速読み込み",
+  "native.marketing.feature.quick_load_sub_title": "デスクトップでもモバイルでも高速に読み込み",
+  "native.marketing.feature.seamless": "シームレスな閲覧",
+  "native.marketing.feature.seamless_sub_title": "デバイス間で自動再開",
+  "native.marketing.feature.quick_search": "クイック検索",
+  "native.marketing.feature.mobile_design": "モバイルデザイン",
+  "native.marketing.feature.mobile_design_sub_title": "レスポンシブなブックデザインで、モバイルでも見やすく表示",
+  "native.marketing.feature.growing_library_sub_title": "新しい楽譜集を定期的に追加",
+  "native.marketing.feature.growing_library": "拡充を続けるライブラリ",
+  "native.marketing.feature.editor_picks": "「編集部のおすすめ」のコース",
+  "native.marketing.feature.editor_picks_enjoy": "毎月、「編集部のおすすめ」から1コースをお楽しみいただけます",
+  "native.score.blocked.in.country": "楽譜がブロックされました",
+  "native.marketing_text.restore_purchase_message_has_rights": "サブスクリプションの復元は不要です。",
+  "native.force.logout.title": "セッションの有効期限が切れました",
+  "native.force.logout.message": "もう一度アカウントにログインしてください",
+  "native.score.error_forbidden": "楽譜を開く際にエラーが発生しました（アクセス禁止）",
+  "native.marketing.already_have_pro": "すでにPROオファーをお持ちです",
+  "native.ebooks.get_access_songbook": "楽譜集にアクセス",
+  "native.marketing.downlodable_materials": "ダウンロード可能なレッスン教材",
+  "native.marketing.online_access": [
+    "MuseScore ",
+    [
+      "type"
+    ],
+    "へのオンラインアクセス"
+  ],
+  "native.marketing.7_day_title": "（7日間トライアル）",
+  "native.marketing.right_choice_title": "MuseScoreを選んで正解です。MuseScoreはあなたのような音楽家のためのアプリです。",
+  "native.marketing.welcome_subscription_title": [
+    "MuseScore ",
+    [
+      "type"
+    ],
+    "メンバーシップへようこそ"
+  ],
+  "native.marketing.skip_for_now": "今はスキップ",
+  "native.hub_advent.title": "アドベント",
+  "native.autograde.title": "練習モード",
+  "native.autograde.feature_subtitle": "正確さとリズムを即座にフィードバック（PRO+限定）",
+  "native.screen_sft.carousel.course_title": "「編集部のおすすめ」のコース",
+  "native.screen_sft.carousel.course_sub_title": "毎月、「編集部のおすすめ」から1コースをお楽しみいただけます",
+  "native.marketing_text.restore_purchase_message_has_rights_sub_title": "すでにすべての権利をお持ちです。",
+  "native.score.enable_metronome": "メトロノームを有効にする",
+  "native.score.count_off": "カウントイン",
+  "native.marketing.start_7_day_trial": "7日間の無料トライアルを開始",
+  "native.marketing.get_more_with_musescore": [
+    "MuseScore [color]",
+    [
+      "title"
+    ],
+    "[/color]でもっと楽しもう"
+  ],
+  "native.marketing.tap_unlock": "タップして7日間の無料トライアルを開始",
+  "native.marketing.tap_unlock_discount": [
+    "タップして",
+    [
+      "discount"
+    ],
+    "割引を受け取る"
+  ],
+  "native.marketing.tour.feature_learn_1": "世界トップクラスの音楽教育",
+  "native.marketing.tour.feature_learn_2": "補助教材",
+  "native.marketing.tour.feature_learn_3": "本格的な音楽教育",
+  "native.marketing.tour.feature_sub_title_learn_3": "自分のペースで、ピアノ、ドラム、ギターなどさまざまな楽器を学べます",
+  "native.marketing.tour.feature_sub_title_learn_2": "ダウンロード可能なレッスン教材",
+  "native.marketing.tour.feature_sub_title_learn_1": [
+    "エキスパート講師が用意した",
+    [
+      "count"
+    ],
+    "本のレッスンに無制限でアクセス"
+  ],
+  "native.user.empty_scores": "このユーザーはまだ楽譜をアップロードしていません。",
+  "native.score_details_sheet.unsave_button": "保存を解除",
+  "native.score_details_sheet.sound": "サウンド",
+  "native.score_details_sheet.sound.description": "16ビット音源（モジュレーション対応）",
+  "native.score_details_sheet.download_title": "ダウンロード",
+  "native.score_details_sheet.download_description": "ファイルは選択した形式で\nデバイスにダウンロードされます。",
+  "native.load_score.title": "少々お待ちください。楽譜を読み込んでいます...",
+  "native.marketing.feature.access_offscores": "公式楽譜へのアクセス",
+  "native.marketing.subscription.52weeksAt": "52週換算",
+  "native.marketing.free_trial": "無料トライアル",
+  "native.filter_type.free to view & play": "無料で閲覧・演奏",
+  "native.filter_type.free to view, play & download": "無料で閲覧・演奏・ダウンロード",
+  "native.marketing.add_musescore_title": [
+    "サブスクリプションにMuseScore ",
+    [
+      "type"
+    ],
+    "を追加できます。「確認」ボタンをタップして確定してください"
+  ],
+  "native.filter.duration": "所要時間",
+  "native.marketing.monthsAt": [
+    [
+      "count"
+    ],
+    "か月換算"
+  ],
+  "native.marketing.slashMonths": [
+    "/",
+    [
+      "count"
+    ],
+    "か月"
+  ],
+  "native.screen_explore.best_of_musescore": "MuseScoreのベスト",
+  "native.screen_explore.songbooks_for_you": "あなたへのおすすめ楽譜集",
+  "native.profile.settings": "設定",
+  "native.score.settings.practice_mode": "練習モード",
+  "native.score.settings.settings": "設定",
+  "native.practice_mode.onboarding.first_step.subtitle": "AI技術による即時フィードバックで、演奏を分析・改善しましょう。",
+  "native.practice_mode.onboarding.third_step.subtitle": "正確なフィードバックで精度を高め、音楽スキルを磨きましょう。",
+  "native.practice_mode.onboarding.fourth_step.subtitle": "ずっと弾きたかった曲をマスターしよう。もう誰にも止められません。",
+  "native.artist.segment.compositions": "楽曲",
+  "native.song_book.section.title.recently_viewed": "最近閲覧したもの",
+  "native.song_book.section.title.staff_picks": "スタッフのおすすめ",
+  "native.song_book.section.title.piano_favourites": "ピアノの定番",
+  "native.song_book.section.title.most_popular": "人気No.1",
+  "native.song_book.section.title.bestsellers": "ベストセラー",
+  "native.screen_explore.explore_sheet_music": "楽譜を探す",
+  "native.filter_screen.format": "フォーマット",
+  "native.filter_screen.popular": "人気",
+  "native.hub_advent.gifts": "ギフト",
+  "native.autoscroll.alert.title": "自動スクロール",
+  "native.score_onboarding.got_it_button": "わかりました",
+  "native.score.chip_mixer": "ミキサー",
+  "native.score.chip_metronome": "メトロノーム",
+  "native.score.chip_loop": "ループ",
+  "native.score.layout_title_horizontal": "ページ",
+  "native.score.comment": "コメント",
+  "native.score.display_keyboard": "キーボード",
+  "native.score.chip_transpose": "移調",
+  "native.score.transpose_up": "上げる",
+  "native.marketing.questions.genre.title": "どの音楽ジャンルに興味がありますか？",
+  "native.marketing.questions.genre.vocal_jazz": "ボーカルジャズ",
+  "native.marketing.questions.genre.world_music": "ワールドミュージック",
+  "native.marketing.questions.level.list.title": "楽器の演奏レベルはどのくらいですか？",
+  "native.marketing.questions.age.list.title": "年齢を選択してください",
+  "native.marketing.questions.age.list.sub_title": "あなたに合ったコンテンツをおすすめするために使用します",
+  "native.marketing.questions.age.list.18": "18歳未満",
+  "native.marketing.questions.age.list.55": "55歳以上",
+  "native.marketing.questions.goal.title": "現在いちばんの音楽の目標は何ですか？",
+  "native.marketing.questions.goal.master": "特定の曲をマスターする",
+  "native.marketing.questions.goal.prepare": "公演、リサイタル、またはコンサートの準備をする",
+  "native.marketing.questions.goal.learn": "楽しんで演奏を学ぶ",
+  "native.marketing.questions.goal.find": "質の高いコンテンツを見つける",
+  "native.marketing.questions.goal.title2": "いい選択です。目標に向けて、MuseScoreで最初に何をしますか？",
+  "native.marketing.questions.goal.discover": "新しい楽譜を発見する",
+  "native.marketing.questions.goal.specific": "演奏したい特定の録音を見つける",
+  "native.marketing.questions.goal.music": "自分のスキルレベルに合った曲を見つける",
+  "native.marketing.questions.agree.yes": "はい",
+  "native.marketing.questions.agree.no": "いいえ",
+  "native.marketing.advanced_tools": "演奏スキルを向上させるための高度なツール",
+  "native.marketing.get_score": [
+    "楽譜を入手（残り",
+    [
+      "credits"
+    ],
+    "クレジット）"
+  ],
+  "native.score_details_sheet.saved_button": "保存済み",
+  "native.screens_titles.songbook_screen": "オフラインで利用可能",
+  "native.comment.empty_title": "まだコメントはありません",
+  "native.library.favorites_title": "保存済み",
+  "native.screens_titles.favorite_courses_screen": "保存したコース",
+  "native.screens_titles.favorites_screen": "保存した楽譜",
+  "native.make_public.make_public_button": "公開する",
+  "native.make_public.score_title_label": "楽譜タイトル",
+  "native.make_public.genre_label": "ジャンル",
+  "native.make_public.description_label": "説明",
+  "native.make_public.description_placeholder": "リリース日、制作ストーリー、アルバム、雰囲気",
+  "native.make_public.show_parts": "パートを表示（ある場合）",
+  "native.make_public.update_button": "更新",
+  "native.make_public.access_anyone": "誰でも閲覧可能",
+  "native.make_public.access_link": "リンクを知っていれば誰でも閲覧可能",
+  "native.make_public.access_private": "非公開",
+  "native.make_public.copyright_all_rights": "なし（全著作権保有）",
+  "native.make_public.copyright_cc_by": "表示",
+  "native.make_public.copyright_cc_by_nd": "表示 - 改変禁止",
+  "native.make_public.copyright_cc_by_sa": "表示 - 継承",
+  "native.make_public.copyright_cc_by_nc": "表示 - 非営利",
+  "native.make_public.copyright_cc_by_nc_nd": "表示 - 非営利 - 改変禁止",
+  "native.make_public.copyright_cc_by_nc_sa": "表示 - 非営利 - 継承",
+  "native.next.payment": "次回のお支払い",
+  "native.shared_continue": "続ける",
+  "native.privacy.public_badge": "公開",
+  "native.privacy.private_badge": "非公開",
+  "native.screen_omr.start_free_trial": "無料トライアルを開始",
+  "native.marketing.weekly_access": "週間アクセス",
+  "native.viewAllPlans": "すべてのプランを見る",
+  "native.theHomeOfSheetMusic": "楽譜が集まる場所",
+  "native.viewAllReplies": [
+    [
+      "count"
+    ],
+    "件の返信をすべて表示"
+  ],
+  "native.getFreeSongBook": "無料で楽譜集を手に入れよう",
+  "native.reportIssueButton": "この問題を報告する",
+  "native.scoreIsLoading": "楽譜を読み込んでいます。しばらく時間がかかる場合があります...",
+  "native.marketing.get_free_score": "楽譜を入手",
+  "native.marketing.export_pdf_midi_mp3_title": "PDF、MIDI、MP3にエクスポート",
+  "native.marketing.editors_picks_title": "「編集部のおすすめ」から1コース",
+  "native.marketing.access_songbook_title": "Hal Leonardの楽譜集と教則本にアクセス",
+  "native.marketing.learning_title": "学習教材",
+  "native.marketing.number_courses_title": [
+    [
+      "courses"
+    ],
+    "以上のコース"
+  ],
+  "native.marketing.export_community_scores_title": "コミュニティ楽譜をエクスポート",
+  "native.marketing.tools_title": "ツール",
+  "native.marketing.unlimited_access_courses_title": "コースへの無制限アクセス",
+  "native.screen_explore.new_for_you": "あなたへの新着",
+  "native.screen_explore.trending_now": "今話題",
+  "native.screen_explore.recommended_courses": "おすすめコース",
+  "native.screen_explore.new_playlists": "新しいプレイリスト",
+  "native.profile.subscriptions": "サブスクリプション",
+  "native.subscriptions.manage": "管理",
+  "native.score.settings.zoom": "ズーム",
+  "native.practice_mode.onboarding.first_step.title": "練習モードの力を体験しよう",
+  "native.practice_mode.onboarding.second_step.title": "演奏するだけで上達",
+  "native.practice_mode.onboarding.second_step.subtitle": "曲を演奏するだけで、あなたの演奏を楽譜と照合します。",
+  "native.practice_mode.onboarding.third_step.title": "スキルがぐんぐん伸びる",
+  "native.practice_mode.onboarding.fourth_step.title": "チャレンジしよう",
+  "native.practice_mode.onboarding.fifth_step.title": "上達したい部分を練習",
+  "native.practice_mode.onboarding.fifth_step.subtitle": "練習したい部分を選んで切り出しましょう。",
+  "native.practice_mode.onboarding.sixth_step.title": "マイクの許可",
+  "native.practice_mode.onboarding.sixth_step.subtitle": "演奏にスマートなフィードバックを行うため、楽器の音を聞き取る必要があります。",
+  "native.practice_mode.onboarding.sixth_step.button": "OK",
+  "native.practice_mode.onboarding.seventh_step.title": "楽器をチューニングしましょう",
+  "native.practice_mode.onboarding.seventh_step.subtitle": "チューニングされた楽器なら、正確な結果が得られます。",
+  "native.practice_mode.onboarding.eighth_step.title": "練習中はヘッドホンを使用してください",
+  "native.practice_mode.onboarding.eighth_step.subtitle": "余計な音がないことで、録音がよりクリアになります。",
+  "native.practice_mode.onboarding.ninth_step.title": "上達したい部分を練習",
+  "native.practice_mode.onboarding.ninth_step.subtitle": "練習したい部分を選んで切り出しましょう。",
+  "native.artist.segment.sheet_music": "楽譜",
+  "native.pedal.feedback.placeholder": "フィードバック",
+  "native.pedal.feedback.thanks": "ご意見ありがとうございます！",
+  "native.shared.rating": [
+    [
+      "rating"
+    ],
+    "件の評価"
+  ],
+  "native.shared.ratings": [
+    [
+      "rating"
+    ],
+    "件の評価"
+  ],
+  "native.filter_screen.select_all": "すべて選択",
+  "native.marketing.buy_this_score": [
+    "この楽譜を",
+    [
+      "price"
+    ],
+    "で購入"
+  ],
+  "native.marketing.download_pdf": "[sb]この楽譜[/sb]をPDFでダウンロードまたは印刷",
+  "native.marketing.full_view_score_title": "[sb]この楽譜[/sb]の全ページを閲覧",
+  "native.autoscroll.alert.description": "「自動スクロール」機能をオンにすると、演奏中も\n常に音符が見えるようになります",
+  "native.marketing.doubt_title": "まだ迷っていますか？",
+  "native.marketing.doubt_offer": "新規ユーザー限定特別オファー！",
+  "native.marketing.terms_title": "短い期間から始める",
+  "native.marketing.last_chance_title": [
+    [
+      "offerName"
+    ],
+    "始める最後のチャンス"
+  ],
+  "native.marketing.membership_title": "メンバーシップを",
+  "native.marketing.with_trial_title": "無料トライアルで",
+  "native.filter_item_name.license.modify_commercially": "商用改変可能",
+  "native.filter_item_name.license.use_commercially": "商用利用可能",
+  "native.filter_item_name.license.share": "共有可能",
+  "native.filter_item_name.license.personal_use": "個人利用のみ",
+  "native.score_onboarding.tap_fullscreen": "タップして全画面表示",
+  "native.score_onboarding.tap_fullscreen_desc": "楽譜の中央をタップすると、全画面で表示できます。",
+  "native.score_onboarding.next_button": "次へ",
+  "native.score_onboarding.change_notation_size": "譜面のサイズを変更",
+  "native.score_onboarding.change_notation_size_desc": "ズームアイコンをタップすると、譜面のサイズを変更できます。",
+  "native.score_onboarding.toggle_cursor": "カーソルの切り替え",
+  "native.score_onboarding.toggle_cursor_desc": "再生カーソルの表示を切り替えます。",
+  "native.score_onboarding.long_press_to_move": "長押しして移動",
+  "native.score_onboarding.long_press_to_move_desc": "楽譜上の任意の場所を長押しすると、カーソルを移動できます。",
+  "native.user.access.pro.toast": "200万点以上のコミュニティ楽譜をダウンロードできます。",
+  "native.user.access.proPlus.toast": "100万点以上の公式楽譜を演奏し、200万点以上のコミュニティ楽譜をダウンロードできます。",
+  "native.user.access.learn.toast": "コースとレッスンに無制限にアクセスできます。",
+  "native.user.access.learnLite.toast": "毎月1コースをお楽しみいただけます。",
+  "native.user.access.books.toast": "Hal Leonardの楽譜集や教則本をご利用いただけます。",
+  "native.library.songbook_order_title": "保存した注文",
+  "native.score.chip_ai_tutor": "AIチューター",
+  "native.score.chip_zoom": "ズーム",
+  "native.score.chip_transp": "移調",
+  "native.score.transp_title": "選択中の移調",
+  "native.score.save_for_offline": "オフライン用に保存",
+  "native.score.about_this_score": "この楽譜について",
+  "native.score.layout_title_vertical": "縦スクロール",
+  "native.score.single_line": "1段表示",
+  "native.score.hq_settings_description": "音質を向上させるテクノロジーです。（159MB）",
+  "native.score.display_cursor": "カーソル",
+  "native.marketing.download_this_score": "この楽譜をダウンロード",
+  "native.action.try": "試す",
+  "native.score.transpose_down": "下げる",
+  "native.apple_watch_control.title": "Apple Watch コントロール",
+  "native.apple_watch_control.feature_subtitle": "Apple Watchから再生を操作したり、メトロノームを使ったりできます",
+  "native.marketing.gift_title": "ギフトを見つけよう",
+  "native.marketing.gift_disable_subscription": "アクティブなメンバーシップには、うれしい特典が満載です。PRO、PRO+、LEARN、ONEへのアクセスも含まれます。",
+  "native.marketing.gift_active_subscription": "ギフトを受け取るには、アクティブなメンバーシップ（いずれかのMuseScoreサブスクリプション）が必要です。PRO、PRO+、LEARN、ONEのサブスクリプションが対象です。",
+  "native.marketing.gift_tomorrow_title": "明日また来て、MuseScoreからの新しいオファーをチェックしましょう",
+  "native.marketing.gift_daily_title": "今日のギフト",
+  "native.marketing.gift_check_daily_title": "毎日チェックインしてプレゼントをゲット",
+  "native.screen_tour.happy": "93%以上のユーザーが満足しています。",
+  "native.marketing.get_premium_discount": [
+    "Premiumメンバーシップで[b]",
+    [
+      "discount"
+    ],
+    "%割引[/b]"
+  ],
+  "native.marketing.get_premium_discount_switch": "[b]割引なし。[/b]スイッチをオンにすると40%割引が適用されます。",
+  "native.marketing.for_this_score": "でこの楽譜を入手",
+  "native.marketing.download_premium_score": [
+    "この楽譜をはじめ、信頼できるユーザーコミュニティが採譜した世界最大のオンラインカタログ（",
+    [
+      "scores"
+    ],
+    "M点の楽譜）から、どの楽譜でも無料でダウンロードできます"
+  ],
+  "native.marketing.no_commitments": "契約の縛りなし",
+  "native.marketing.secured_payment": "個人情報と決済情報を安全に保護",
+  "native.marketing.up_to_discount_scores": [
+    "この楽譜とその他の楽譜が最大",
+    [
+      "discount"
+    ],
+    "%割引"
+  ],
+  "native.marketing.continue_download": "ダウンロードを続ける",
+  "native.trending_searches": "人気の検索",
+  "native.trending_scores": "人気の楽譜",
+  "native.marketing.questions.agree.title": "この意見に同意しますか？",
+  "native.marketing.questions.agree.stay": "練習のモチベーションを保つのは、ときに難しいものです",
+  "native.marketing.questions.agree.stay_in_rhythm": "リズムをキープ",
+  "native.marketing.questions.agree.can_remind": "MuseScoreが練習の時間をお知らせします",
+  "native.marketing.questions.social_proof.title": "MuseScoreは音楽家のために作られました",
+  "native.marketing.questions.social_proof.content": [
+    "あなたのようなミュージシャンが[b]1,300万人[/b]以上。その中には、",
+    [
+      "id100"
+    ],
+    "人もいます。MuseScoreでは、",
+    [
+      "id103"
+    ],
+    "[b]160万点[/b]の楽譜を提供しています"
+  ],
+  "native.marketing.questions.agree.play_hard": "楽器の演奏は難しいこともあります",
+  "native.marketing.questions.agree.takes_time": "どんな曲でも、弾けるようになるには練習の時間が必要です",
+  "native.marketing.questions.agree.you_come": "ここに来て正解です",
+  "native.marketing.questions.agree.we_know": "わかります。だからこそ、練習モード、ループ、テンポ調整などのツールをご用意しています。",
+  "native.marketing.questions.agree.support": "MuseScoreは練習をサポートします",
+  "native.marketing.questions.agree.easier": "自分のレベルに合った曲なら、上達しやすくなります",
+  "native.marketing.questions.agree.offers": "MuseScoreには、さまざまな楽器やレベルに合わせたバージョンがあります",
+  "native.marketing.questions.agree.reminds": "MuseScoreが練習をリマインドします",
+  "native.marketing.questions.social.trust": "MuseScoreを頼りに本番の準備をする",
+  "native.marketing.questions.social.spanning": "20の幅広いジャンルにわたる",
+  "native.marketing.questions.social.including": "出版社から直接ライセンスを受けた高品質なコンテンツを含む",
+  "native.marketing.questions.social.variety": "さまざまな編曲を含む",
+  "native.marketing.questions.social.suitable": "まったくの初心者からマエストロまで、あなたのレベルに合った",
+  "native.marketing.questions.social.more": "170種類以上の楽器向けの",
+  "native.marketing.questions.social.trust_rely": "MuseScoreを頼りに大好きな曲をマスターする",
+  "native.marketing.questions.social.different": "さまざまなレベルの生徒に情熱を込めて教える",
+  "native.marketing.questions.social.share": "音楽への情熱を分かち合う",
+  "native.typo_search.title": [
+    "次の検索結果を表示中：\n",
+    [
+      "result"
+    ]
+  ],
+  "native.typo_search.description": [
+    "代わりに",
+    [
+      "result"
+    ],
+    "を検索しますか？"
+  ],
+  "native.search.no.results_for_query": [
+    "「",
+    [
+      "query"
+    ],
+    "」の検索結果はありません"
+  ],
+  "native.accessibility_statement": "アクセシビリティ声明",
+  "native.ebooks.added_to_favorite": "保存した楽譜集に追加しました。🎉\nこの楽譜集はライブラリで確認できます。",
+  "native.ebooks.favorites_empty_subtitle": "楽譜集を保存すると、\nここに表示されます",
+  "native.ebooks.removed_from_favorite": "保存した楽譜集から削除しました。",
+  "native.favorite_songbooks.empty_description": "楽譜集ライブラリを探して、ハートをタップするとここに保存されます。",
+  "native.favorite_songbooks.empty_title": "楽譜集コレクションを作りましょう",
+  "native.followers.empty_description": "音楽を共有して、フォロワーの増加を見守りましょう。",
+  "native.followers.empty_title": "まだフォロワーがいません",
+  "native.following.empty_description": "コミュニティを探索して、気になるクリエイターをフォローしましょう。",
+  "native.following.empty_title": "まだ誰もフォローしていません",
+  "native.leave_a_review": "レビューを書く",
+  "native.marketing.combines_title": [
+    "あなたのメンバーシップはMuseScore ",
+    [
+      "type"
+    ],
+    "との相性抜群です"
+  ],
+  "native.marketing.enjoy_discount": [
+    [
+      "planName"
+    ],
+    "メンバーシップで[sb]",
+    [
+      "discount"
+    ],
+    "%割引[/sb]をご利用いただけます"
+  ],
+  "native.marketing.offscores_licensed": "楽譜出版社からライセンスを受けた公式楽譜を閲覧",
+  "native.marketing.use_credit": [
+    "MuseScoreクレジットを",
+    [
+      "numberCredits"
+    ],
+    "つ使用"
+  ],
+  "native.new_search.sources.favorites": "保存済み",
+  "native.offline_scores.empty_description": "デバイス上に楽譜を保存できる場所です。インターネットに接続できないときも、楽譜はいつでも手元にあります。検索から任意の楽譜を保存できます。",
+  "native.score.display_settings": "表示設定",
+  "native.score_details_sheet.favorite_button": "保存",
+  "native.scoreLiked.rateScoreText.title": "保存した楽譜に追加しました",
+  "native.set.empty_button": "楽譜を追加",
+  "native.set.empty_description": "楽譜を開いて「セットに追加」をタップするか、下のボタンから始めましょう",
+  "native.set.empty_title": "セットリストを作りましょう",
+  "native.sets.empty_button": "セットを作成",
+  "native.sets.empty_description": "プラスアイコンか下のボタンをタップして始めましょう。",
+  "native.activity.notifications.your_score_favorited": "誰かがあなたの楽譜を保存しました",
+  "native.alertNotifications.favorites.remove_exp": "保存した楽譜から削除しました",
+  "native.comment.empty_description": "最初にコメントしましょう。",
+  "native.empty_orders.description": "購入した楽譜はすべてここに表示され、ダウンロード、印刷、PDFへの保存が可能です。",
+  "native.empty_orders.title": "購入した楽譜のコレクションを始めましょう",
+  "native.favorite_courses.empty_description": "気に入ったレッスンを見つけましたか？ハートをタップしてここに保存しましょう。",
+  "native.favorite_courses.empty_title": "コースライブラリを作りましょう",
+  "native.feed.items.22": "あなたの楽譜を保存しました",
+  "native.feed.items.26": "あなたが保存した楽譜にコメントしました",
+  "native.filter.results": "結果",
+  "native.identify_sheet_description": "その曲の楽譜を見つけます",
+  "native.identify_sheet_title": "タップして曲を認識",
+  "native.identify_song_button_title": "曲を認識",
+  "native.identify_song_notification_title": "ありがとうございます！いただいた回答はチームと共有し、機能の優先順位付けに役立てます。",
+  "native.identify_song_sheet_no": "いいえ、結構です",
+  "native.identify_song_sheet_subtitle": "まもなく、近くで流れている曲をMuseScoreが聞き取って認識し、楽譜を見つけられるようになります。準備ができたら通知を受け取りますか？",
+  "native.identify_song_sheet_title": "音楽認識機能が\nまもなく登場",
+  "native.library.empty_favorites_title": "保存した楽譜はまだありません",
+  "native.library.favorites.desc": "保存したものはすべてここで確認できます。気に入った楽譜のハートをタップするだけで、ここに保存されます。",
+  "native.library.favorites.desc_offline": "インターネットに接続して楽譜を検索・保存しましょう",
+  "native.library.favorites.search_btn_title": "楽譜を探す",
+  "native.library.my_local_saved_scores": "ローカルに保存した楽譜",
+  "native.library.my_purchased_courses_title": "購入したコース",
+  "native.library.my_purchased_scores_title": "購入した楽譜",
+  "native.library.my_purchased_songbooks_title": "購入した楽譜集",
+  "native.library.my_uploaded_scores_title": "アップロードした楽譜",
+  "native.library.recent_favorites": "最近保存したもの",
+  "native.library.songbook.title": "オフラインの楽譜",
+  "native.notifications.empty_description": "フォロー、いいね、コメントをここで確認",
+  "native.notifications.empty_title": "みんなの反応をチェック",
+  "native.score_actions.can_be_made_offline": "保存した楽譜に追加しました。\nオフラインでも使えるように保存できます",
+  "native.search.placeholder_scores": "楽譜を検索",
+  "native.sure_thing": "もちろんです",
+  "native.make_public.update_visibility": "表示設定を更新",
+  "native.make_public.manage_access": "アクセスを管理",
+  "native.make_public.copyright_settings": "著作権設定",
+  "native.make_public.based_on_toggle": "この楽譜は既存の楽曲がベースになっています",
+  "native.make_public.based_on_toggle_subtitle": "（例：ザ・ビートルズ、ルートヴィヒ・ヴァン・ベートーヴェン）",
+  "native.make_public.based_on_label": "ベースにした楽曲",
+  "native.make_public.based_on_placeholder": "曲を選択",
+  "native.make_public.score_title_placeholder": "曲名 – 作曲者またはアーティスト",
+  "native.make_public.genre_placeholder": "ジャンルを選択",
+  "native.make_public.select_genre": "ジャンルを選択",
+  "native.make_public.genre_subtitle": [
+    "楽譜に最大",
+    [
+      "count"
+    ],
+    "個のジャンルを追加"
+  ],
+  "native.make_public.genre_limit_error": [
+    "1つの楽譜には",
+    [
+      "count"
+    ],
+    "個までしかジャンルを追加できません"
+  ],
+  "native.make_public.enable_download": "楽譜ダウンロードを有効化",
+  "native.make_public.legal_text": "公開することにより、あなたの楽譜が利用規約に準拠し、他者の権利を侵害していないことを確認したものとみなされます。不明な点がある場合は、著作権情報ページとコミュニティガイドラインをご確認ください。",
+  "native.make_public.success_toast": "楽譜の表示設定が更新されました",
+  "native.make_public.error_generic": "楽譜を更新できませんでした。もう一度お試しください。",
+  "native.make_public.composition_error": "楽譜を更新するには、情報を入力してください",
+  "native.make_public.unsaved_title": "変更は保存されていません",
+  "native.make_public.unsaved_message": "本当に変更内容を破棄しますか？",
+  "native.make_public.unsaved_stay": "編集を続ける",
+  "native.make_public.unsaved_leave": "破棄する",
+  "native.make_public.copyright_cc_zero": "クリエイティブ・コモンズ（著作権放棄）",
+  "native.library.favorites.title": "お気に入りの楽譜を保存する",
+  "native.library.favorites_courses.desc_1": "保存したコースはすべてここで確認できます。気になるコースや、あとで試したいコースを追加しましょう。",
+  "native.alertNotifications.favorites.remove": "保存した楽譜から削除しました",
+  "native.alertNotifications.favorites.add": "保存した楽譜に追加しました",
+  "native.marketing.up_to_discount": [
+    "楽譜が最大",
+    [
+      "discount"
+    ],
+    "%割引"
+  ],
+  "native.identify_song_sheet_yes": "興味があります",
+  "native.unsubscribe.button": "サブスクリプションを解約したい",
+  "native.manage.subscription": "サブスクリプションを管理",
+  "native.subscription_description": [
+    "ウェブ版または",
+    [
+      "platform"
+    ],
+    "アプリ版のMuseScoreで購入したサブスクリプションの料金は、ウェブサイトのプロフィールで確認できます"
+  ],
+  "native.your_preference": "あなたの好み",
+  "native.start_calibration": "キャリブレーションを開始",
+  "native.soundcheck": "サウンドチェック",
+  "native.calibration_text": "マイクをキャリブレーションするため、短く大きな音が鳴ります。少々お待ちください！",
+  "native.score_details.accessibility.favorite_inactive": "楽譜をライブラリに保存",
+  "native.score_details.accessibility.favorite_active": "楽譜をライブラリに保存済み",
+  "native.screen_omr.choose_title": "選択",
+  "native.screen_omr.error_recommendation": "別のファイルを選択するか、分割してスキャンしてください。エラーを解消するためのおすすめの方法です。",
+  "native.screen_omr.upload_musescore_studio_score": "MuseScore Studioの楽譜をアップロード",
+  "native.screen_omr.upload_pdf_file": "PDFファイルをアップロード",
+  "native.screen_omr.upload_image_from_gallery": "ギャラリーから画像をアップロード",
+  "native.screen_omr.scan_from_photo": "写真からスキャン",
+  "native.screen_omr.error_file_size_exceeds_5mb": "ファイルサイズが5MBを超えています。より小さいファイルを選択してください。",
+  "native.screen_omr.error_total_size_exceeds_75mb": "ファイルの合計サイズが75MBを超えています。ファイル数を減らすか、ファイルサイズを小さくしてください。",
+  "native.screen_omr.error_total_size_exceeds_50mb": "ファイルの合計サイズが50MBを超えています。ファイル数を減らすか、ファイルサイズを小さくしてください。",
+  "native.screen_omr.error_max_files_allowed": [
+    "最大",
+    [
+      "count"
+    ],
+    "個のファイルを選択できます。"
+  ],
+  "native.screen_omr.how_to_scan_title": "スキャンのコツ",
+  "native.screen_omr.incorrect": "悪い例",
+  "native.screen_omr.correct": "良い例",
+  "native.screen_omr.general_tips": "ヒント：",
+  "native.screen_omr.tip_keep_page_in_frame": "ページ全体をフレーム内に収めてください。",
+  "native.screen_omr.tip_hold_steady": "スマートフォンをしっかり固定して、鮮明に撮影してください。",
+  "native.screen_omr.tip_one_page_per_photo": "1枚の写真に1ページずつ撮影してください。",
+  "native.screen_omr.tip_shoot_straight_down": "真上から撮影し、カメラを傾けないでください。",
+  "native.screen_omr.take_photo": "写真を撮る",
+  "native.screen_omr.file_uploading": "ファイルをアップロードしています…",
+  "native.screen_omr.upload_error": "アップロードエラー",
+  "native.screen_omr.no_files_to_scan": "スキャンするファイルがありません",
+  "native.screen_omr.ai_scan_title": "AIスキャン",
+  "native.screen_omr.start_scanning": "スキャン開始",
+  "native.screen_omr.files_sent_title": "ファイルを\nスキャンに送信しました",
+  "native.screen_omr.files_sent_description": "スキャンには時間がかかる場合があります。\n\n準備が整い次第、通知を送ります。",
+  "native.screen_omr.success_take_some_time": "スキャンには時間がかかる場合があります。",
+  "native.screen_omr.success_will_notify": "準備が整い次第、通知をお送りします。",
+  "native.screen_omr.cancel_upload_title": "アップロードをキャンセルしますか？",
+  "native.screen_omr.cancel_upload_description": "ここで停止すると、ファイルの処理は完了しません。準備が整い次第、無料で再度スキャンできます。",
+  "native.screen_omr.continue_upload": "アップロードを続行",
+  "native.screen_omr.cancel_upload": "アップロードをキャンセル",
+  "native.screen_omr.ai_scan_description": "お気に入りの楽譜のデジタル版にアクセスして、オフラインでもいつでも閲覧できます。",
+  "native.screen_omr.continue_to_scan": "スキャンを続行",
+  "native.screen_omr.open_settings": "設定を開く",
+  "native.screen_omr.no_camera_message": "カメラモジュールが見つかりません。お使いのデバイスは写真撮影に対応していないか、カメラモジュールが故障している可能性があります。",
+  "native.screen_omr.error_uploading_file": "ファイルのアップロード中にエラーが発生しました",
+  "native.screen_omr.error_uploading_files": "ファイルのアップロード中にエラーが発生しました",
+  "native.marketing.question.do_yo_like": [
+    [
+      "authorName"
+    ],
+    "の音楽はお好きですか？"
+  ],
+  "native.score.layout_title_portrait_view": "縦向き表示",
+  "native.settings.score.set_default_tempo": "デフォルトのテンポを設定",
+  "native.score.play_button": "再生",
+  "native.alertNotifications.songbook.remove": "楽譜をオフラインアクセスから削除しました",
+  "native.alertNotifications.songbook.add_exp": "楽譜をオフライン用に保存しました",
+  "native.instrument.saxophone": "サクソフォン",
+  "native.new_concept.tab_bar.home": "ホーム",
+  "native.new_concept.tab_bar.learn": "学習",
+  "native.new_concept.common.all": "すべて",
+  "native.new_concept.common.purchased": "購入済み",
+  "native.new_concept.common.check_spelling_hint": "つづりを確認するか、別の検索語句を試してください",
+  "native.new_concept.common.results_count": [
+    [
+      "count"
+    ],
+    "件の結果"
+  ],
+  "native.new_concept.common.error_title": "何か問題が発生しました",
+  "native.new_concept.common.error_connection_hint": "接続を確認し、もう一度お試しください",
+  "native.new_concept.common.sorting_options": "並べ替えオプション",
+  "native.new_concept.common.filters": "フィルター",
+  "native.new_concept.home.greeting.morning": "おはようございます",
+  "native.new_concept.home.greeting.afternoon": "こんにちは",
+  "native.new_concept.home.greeting.evening": "こんばんは",
+  "native.new_concept.home.greeting.night": "こんばんは",
+  "native.new_concept.home.playlists": "プレイリスト",
+  "native.new_concept.home.easy_pieces_for_you": "あなた向けの簡単な曲",
+  "native.new_concept.home.browse_favorite_genres": "好きなジャンルから探す",
+  "native.new_concept.home.level_up_music_theory": "音楽理論をレベルアップ",
+  "native.new_concept.home.explore_scores": "楽譜を探す",
+  "native.new_concept.home.scores_count": [
+    [
+      "count"
+    ],
+    "点の楽譜"
+  ],
+  "native.new_concept.home.genre_empty": "このジャンルにはまだ楽譜がありません",
+  "native.new_concept.home.view_more_scores": "もっと楽譜を見る",
+  "native.new_concept.playlist.empty_title": "このプレイリストは空です",
+  "native.new_concept.playlist.empty_description": "このプレイリストの楽譜がここに表示されます。",
+  "native.new_concept.search.popular_songbooks": "人気の楽譜集",
+  "native.new_concept.search.browse_by_genre": "ジャンル別に閲覧",
+  "native.new_concept.search.recent_searches": "最近の検索",
+  "native.new_concept.learn.no_courses_found": "コースが見つかりませんでした",
+  "native.new_concept.learn.empty_all_title": "まだコースがありません",
+  "native.new_concept.learn.empty_all_description": "カタログを探索して、新しいことを学び始めましょう。",
+  "native.new_concept.learn.empty_saved_title": "保存したコースはありません",
+  "native.new_concept.learn.empty_saved_description": "気になるコースを保存すると、あとでここから見つけられます。",
+  "native.new_concept.learn.empty_purchased_title": "購入したコースはありません",
+  "native.new_concept.learn.empty_purchased_description": "コースを購入するとここに表示されます。",
+  "native.new_concept.learn.lessons_count": [
+    [
+      "count"
+    ],
+    "レッスン"
+  ],
+  "native.new_concept.learn.course_hours_short": [
+    [
+      "count"
+    ],
+    "時間"
+  ],
+  "native.new_concept.library.search_placeholder": "ライブラリ内の楽譜を検索",
+  "native.new_concept.library.filter_my_uploads": "アップロード済み",
+  "native.new_concept.library.filter_offline_access": "オフラインアクセス",
+  "native.new_concept.library.sort_recent": "最近",
+  "native.new_concept.library.sort_most_viewed": "閲覧数順",
+  "native.new_concept.library.empty_scores_title": "楽譜コレクションを作りましょう",
+  "native.new_concept.library.empty_scores_description": "楽譜を探索し、お気に入りはすぐ見られるようにハートのアイコンをタップしておきましょう。",
+  "native.new_concept.library.empty_songbooks_title": "楽譜集コレクションを作りましょう",
+  "native.new_concept.library.empty_songbooks_description": "楽譜集を探索し、お気に入りはすぐ見られるように保存しておきましょう。",
+  "native.new_concept.library.empty_set_title": "このセットは空です",
+  "native.new_concept.library.empty_set_description": "このセットに楽譜を追加するとここに表示されます。",
+  "native.new_concept.library.search_empty_title": "ライブラリ内に一致するものが見つかりませんでした",
+  "native.new_concept.filter_sheet.all_instruments": "すべての楽器",
+  "native.new_concept.filter_sheet.all_ensembles": "すべてのアンサンブル",
+  "native.new_concept.filter_sheet.all_genres": "すべてのジャンル",
+  "native.new_concept.upload.title": "楽譜を追加",
+  "native.new_concept.upload.description": "写真を撮影するか、楽譜のファイルを選択してください",
+  "native.new_concept.upload.from_gallery": "ギャラリーから",
+  "native.new_concept.upload.scan_with_camera": "カメラでスキャン",
+  "native.new_concept.upload.browse_files": "ファイルを参照",
+  "native.new_concept.upload.invalid_file_error": "MSCZまたはPDFファイルを選択してください",
+  "native.search.placeholder_courses": "コースを検索",
+  "native.search.no.results": "検索結果が見つかりません",
+  "native.view.all": "すべて表示",
+  "native.screen_omr.upload": "アップロード",
+  "native.screen_omr.retake_photo": "写真を撮り直す",
+  "native.genre.classical": "クラシック",
+  "native.genre.pop": "ポップ",
+  "native.genre.rock": "ロック",
+  "native.genre.folk": "フォーク",
+  "native.genre.jazz": "ジャズ",
+  "native.genre.soundtrack": "サウンドトラック",
+  "native.genre.electronic": "電子音楽",
+  "native.genre.hip_hop": "ヒップホップ",
+  "native.genre.metal": "メタル",
+  "native.genre.religious_music": "宗教音楽",
+  "native.genre.world_music": "ワールドミュージック",
+  "native.genre.country": "カントリー",
+  "native.genre.reggae_and_ska": "レゲエ、スカ",
+  "native.genre.rnb_funk_and_soul": "R&B、ファンク、ソウル",
+  "native.genre.experimental": "実験音楽",
+  "native.genre.new_age": "ニューエイジ",
+  "native.genre.blues": "ブルース",
+  "native.genre.comedy": "コメディ",
+  "native.genre.disco": "ディスコ",
+  "native.genre.darkwave": "ダークウェーブ",
+  "native.instrument.bass_guitar": "ベースギター",
+  "native.instrument.soprano": "ソプラノ",
+  "native.instrument.tenor": "テナー",
+  "native.instrument.alto": "アルト",
+  "native.instrument.glockenspiel": "グロッケンシュピール",
+  "native.instrument.bass_voice": "バス",
+  "native.instrument.snare_drum": "スネアドラム",
+  "native.instrument.bass_drum": "ベースドラム",
+  "native.instrument.marimba": "マリンバ",
+  "native.instrument.vibraphone": "ビブラフォン",
+  "native.instrument.euphonium": "ユーフォニウム",
+  "native.instrument.crash": "クラッシュ",
+  "native.instrument.clarinet_bass": "バスクラリネット",
+  "native.instrument.xylophone": "シロフォン",
+  "native.instrument.tubular_bells": "チューブラー・ベルズ",
+  "native.instrument.tenor_drum": "テナードラム",
+  "native.instrument.trombone_bass": "ベース・トロンボーン",
+  "native.instrument.baritone": "バリトン",
+  "native.instrument.ukulele": "ウクレレ",
+  "native.instrument.trombone_tenor": "テナー・トロンボーン",
+  "native.instrument.tambourine": "タンバリン",
+  "native.instrument.natural_horn": "ナチュラルホルン",
+  "native.instrument.cornet": "コルネット",
+  "native.instrument.triangle": "トライアングル",
+  "native.instrument.mellophone": "メロフォン",
+  "native.instrument.celesta": "チェレスタ",
+  "native.instrument.hand_clap": "ハンドクラップ",
+  "native.instrument.mezzo_soprano": "メゾソプラノ",
+  "native.instrument.banjo": "バンジョー",
+  "native.instrument.female": "女性",
+  "native.instrument.male": "男性",
+  "native.instrument.flute_alto": "アルトフルート",
+  "native.instrument.woodblock": "ウッドブロック",
+  "native.instrument.flugelhorn": "フリューゲルホルン",
+  "native.instrument.handbells": "ハンドベル",
+  "native.instrument.claves": "クラベス",
+  "native.instrument.mandolin": "マンドリン",
+  "native.instrument.conga": "コンガ",
+  "native.instrument.contrabassoon": "コントラファゴット",
+  "native.instrument.bongo": "ボンゴ",
+  "native.instrument.trumpet_piccolo": "ピッコロ・トランペット",
+  "native.instrument.steel_drums": "スティールドラム",
+  "native.instrument.tom_tom": "トムトム",
+  "native.instrument.maraca": "マラカス",
+  "native.instrument.saxophone_bass": "バスサクソフォン",
+  "native.instrument.harmonium": "ハーモニウム",
+  "native.instrument.hi-hat": "ハイハット",
+  "native.instrument.crotales": "クロタル",
+  "native.instrument.pipes": "パイプ",
+  "native.instrument.clavichord": "クラヴィコード",
+  "native.instrument.kalimba": "カリンバ",
+  "native.instrument.lute": "リュート",
+  "native.instrument.trumpet_bass": "バストランペット",
+  "native.instrument.cabasa": "カバサ",
+  "native.instrument.kazoo": "カズー",
+  "native.instrument.stamp": "スタンプ",
+  "native.instrument.tamtam": "タムタム",
+  "native.instrument.clarinet_contrabass": "コントラバスクラリネット",
+  "native.instrument.trombone_alto": "アルト・トロンボーン",
+  "native.instrument.snap": "スナップ",
+  "native.instrument.sitar": "シタール",
+  "native.instrument.gong": "ゴング",
+  "native.instrument.melodica": "メロディカ",
+  "native.instrument.ride": "ライド",
+  "native.instrument.castanets": "カスタネット",
+  "native.instrument.flute_bass": "バスフルート",
+  "native.instrument.viol": "ビオール",
+  "native.instrument.nyckelharpa": "ニッケルハルパ",
+  "native.instrument.erhu": "二胡",
+  "native.instrument.metallophone": "鉄琴",
+  "native.instrument.rototom": "ロトトム",
+  "native.instrument.shamisen": "三味線",
+  "native.instrument.guiro": "ギロ",
+  "native.instrument.fiddle": "フィドル",
+  "native.instrument.bouzouki": "ブズーキ",
+  "native.instrument.timbale": "ティンバレス",
+  "native.instrument.alto_horn": "アルトホルン",
+  "native.instrument.slap": "スラップ",
+  "native.instrument.chinese": "中国の楽器",
+  "native.instrument.frame_drum": "フレームドラム",
+  "native.instrument.bandoneon": "バンドネオン",
+  "native.instrument.child": "子ども",
+  "native.instrument.synth_voice": "シンセサイザー・ボイス",
+  "native.instrument.tabla": "タブラ",
+  "native.instrument.zither": "ツィター",
+  "native.instrument.whistle": "ホイッスル",
+  "native.instrument.celtic_harp": "ケルティックハープ",
+  "native.instrument.taiko": "太鼓",
+  "native.instrument.tambura": "タンブラ",
+  "native.instrument.strings_synth": "ストリングスシンセ",
+  "native.instrument.concertina": "コンサーティーナ",
+  "native.instrument.virginal": "ヴァージナル",
+  "native.instrument.trumpet_tenor": "テナー・トランペット",
+  "native.instrument.theorbo": "テオルボ",
+  "native.instrument.vienna_horn": "ウィンナ・ホルン",
+  "native.instrument.baryton": "バリトン",
+  "native.instrument.balalaika_contrabass": "バラライカ・コントラバス",
+  "native.instrument.rag-dung": "ラグドゥン",
+  "native.instrument.octobass": "オクトバス",
+  "native.instrument.balalaika_bass": "バラライカ・バス",
+  "native.instrument.flute_contra-alto": "コントラアルトフルート",
+  "native.instrument.balalaika_prima": "バラライカ・プリマ",
+  "native.instrument.balalaika_piccolo": "バラライカ・ピッコロ",
+  "native.instrument.cajon": "カホン",
+  "native.instrument.balalaika_alto": "バラライカ・アルト",
+  "native.instrument.djembe": "ジェンベ",
+  "native.instrument.balalaika_secunda": "バラライカ・セクンダ",
+  "native.instrument.fiscorn": "フィスコルン",
+  "native.instrument.kuhlohorn": "クーローホルン",
+  "native.instrument.bell-lyre": "ベルリラ",
+  "native.instrument.autoharp": "オートハープ",
+  "native.instrument.bodhran": "バウロン",
+  "native.instrument.guzheng": "古箏",
+  "native.instrument.dumbek": "ダンベク",
+  "native.instrument.baglama": "バーラマ",
+  "native.instrument.domra": "ドムラ",
+  "native.instrument.jarana_huasteca": "ハラナ・ウアステカ",
+  "native.instrument.darabuka": "ダラブッカ",
+  "native.instrument.percussion_-_hand_drum": "打楽器 - ハンドドラム",
+  "native.instrument.percussion_-_unpitched": "打楽器 - 音程なし",
+  "native.instrument.select_all": "すべて選択",
+  "native.marketing.download_community_scores_title": "コミュニティ楽譜をダウンロード",
+  "native.marketing.mixer_metronome_hq_title": "移調、ミキサー、メトロノーム、HQサウンド",
+  "native.marketing.your_personal_offer": "あなた限定オファー",
+  "native.marketing.your_plan": "あなたのプラン",
+  "native.orders.empty_purchased_title": "まだ何も購入していません",
+  "native.orders.restore_purchase_prompt": "見つからないものがありますか？",
+  "native.orders.restore_purchase_link": "購入を復元",
+  "native.orders.restore_purchase_checking": "購入を確認中...",
+  "native.orders.restore_purchase_toast": "新しい楽譜がライブラリに追加されました",
+  "native.email_verification.toast_title": "メールアドレスを認証して、サインアップを完了してください。",
+  "native.email_verification.toast_action": "タップしてリンクを送信",
+  "native.email_verification.link_sent_toast": "認証リンクを送信しました",
+  "native.instrument.acoustic_guitar": "アコースティックギター",
+  "native.instrument.all_instruments": "すべての楽器",
+  "native.instrument.classical_guitar": "クラシックギター",
+  "native.instrument.electric_guitar": "エレクトリックギター",
+  "native.instrument.drum_(other)": "ドラム（その他）",
+  "native.device_verification.title": "お使いのデバイスを確認できませんでした",
+  "native.device_verification.message": "MuseScoreは、このデバイスがGoogleによるAndroidの互換性要件を満たすことを確認できませんでした。このため、現時点では楽譜を開けません。これは多くの場合、一時的なものです。再度お試しいただくか、要件に関して詳細をご確認ください。",
+  "native.device_verification.learn_more": "詳細を確認する",
+  "native.nps.rating_title": "楽譜を見て演奏する方に、このアプリをどのくらいおすすめしたいですか？",
+  "native.nps.rating_min": "まったくおすすめしない",
+  "native.nps.rating_max": "ぜひおすすめしたい",
+  "native.nps.reason_title": "評価のいちばんの理由は何ですか？",
+  "native.nps.reason_subtitle": "より良い体験のため、ご協力をお願いします",
+  "native.nps.reason_placeholder": "ご意見をお聞かせください",
+  "native.nps.submit": "送信",
+  "native.nps.thanks": "フィードバックをありがとうございます！",
+  "native.screen_omr.error_photo_unavailable": "写真を読み込めませんでした。iCloudに保存されている場合は、「写真」アプリで開いてダウンロードしてから、もう一度お試しください。",
+  "native.daily_reminders.tour.almost_there": "あと少しです！",
+  "native.score_action_sheet.your_review_helps": "あなたのレビューが口コミとなり、音楽家のコミュニティを広げる力になります",
+  "native.screen_notifications.description": "新着楽譜や限定コンテンツの最新情報をすぐにお届けします！",
+  "native.screen_profile.want_to_logout": "Are you sure you want to log out?",
+  "native.screen_mixer.visibility_one_part": "このパートのみ表示しますか？",
+  "native.share.title": "MuseScore 楽譜",
+  "native.permissions.storage.denied_alert_message": "MuseScoreアプリがストレージにアクセスできるように、デバイスの設定メニューで許可してください: 設定 -> アプリ -> MuseScore -> 権限 -> ストレージ",
+  "native.permissions.storage.modal.title": "MuseScoreにストレージへのアクセスを許可する",
+  "native.permissions.storage.modal.message": "MuseScoreアプリで楽譜を開くには、MuseScoreにローカルストレージへのアクセスを許可してください。",
+  "native.screen_tour.muse_score_one_instant_text": [
+    "すべてをカバーする1つのサブスクリプション — ",
+    [
+      "discount"
+    ],
+    "%オフ"
+  ],
+  "native.marketing_text.metronome": "[b]「メトロノーム」[/b]ツールのロックを解除して、正確なタイミングとテンポの感覚を身につけましょう。[b]PRO[/b]アカウントの[a]その他の便利な機能[/a]も利用できます",
+  "native.marketing_text.mixer": "[b]ミキサー[/b]ツールのロックを解除して、楽器ごとに個別に調整しましょう。[b]PRO[/b]アカウントの[a]その他の便利な機能[/a]も利用できます",
+  "native.marketing_text.export_pdf": "[b]「PDFにエクスポート」[/b]ツールのロックを解除して、楽譜を印刷しましょう。[b]PRO[/b]アカウントの[a]その他の便利な機能[/a]も利用できます",
+  "native.marketing_text.export_midi": "[b]「MIDIにエクスポート」[/b]ツールのロックを解除して、楽譜をほかの音楽ソフトで使いましょう。[b]PRO[/b]アカウントの[a]その他の便利な機能[/a]も利用できます",
+  "native.marketing_text.export_mp3": "[b]「MP3にエクスポート」[/b]ツールのロックを解除して、楽譜をオーディオファイルとして聴きましょう。[b]PRO[/b]アカウントの[a]その他の便利な機能[/a]も利用できます",
+  "native.marketing_text.transpose": "[b]「移調」[/b]ツールのロックを解除して、自分に合った調に変更しましょう。[b]PRO[/b]アカウントの[a]その他の便利な機能[/a]も利用できます",
+  "native.marketing_text.songbook": "[b]オフラインアクセス[/b]のロックを解除して、お気に入りの楽譜をインターネット接続なしで閲覧・演奏しましょう。[b]PRO[/b]アカウントの[a]その他の便利なツール[/a]も利用できます",
+  "native.marketing_text.open_file": "[b]「さまざまなソースからファイルを開く」[/b]機能のロックを解除して、さらに便利に。[b]PRO[/b]アカウントの[a]その他の便利なツール[/a]も利用できます",
+  "native.marketing_text.hq_sound": "[b]「高音質サウンド」[/b]と[b]PRO[/b]アカウントの[a]その他の便利なツール[/a]のロックを解除しましょう。追加のサウンドファイル（159MB）のダウンロードが必要です。Wi-Fiの使用をおすすめします",
+  "native.marketing_text.keyboard": "[b]キーボード[/b]ツールのロックを解除して、各音の弾き方を確認しましょう。[b]PRO[/b]アカウントの[a]その他の便利な機能[/a]も利用できます",
+  "native.marketing_text.auto_scroll": "[b]自動スクロール[/b]ツールのロックを解除して、演奏中も常に音符が見えるようにしましょう。[b]PRO[/b]アカウントの[a]その他の便利な機能[/a]も利用できます",
+  "native.marketing.lets_get_started": "Let’s [c]get started[/c]",
+  "native.marketing.lets_get_to_know_each_other": "Let’s get to know each other",
+  "native.marketing.questions.instrument.list.other_strings": "Other string instruments",
+  "native.song_book_remove.title": "次の項目を削除しますか：",
+  "native.screen_comments.be_first": "何か書き込んで会話を始めましょう",
+  "native.library.my_scores.title": "MuseScoreに楽譜を保存しましょう！",
+  "native.library.my_scores.desc": "MuseScore.comに楽譜をアップロードすると、どのデバイスでもオンラインで利用できるようになります。\n\n現在、楽譜のアップロードはMuseScore.comのデスクトップ版からのみ可能です。",
+  "native.library.songbook.desc_android": "デバイス上に楽譜を保存できる場所です。インターネットに接続できないときも、楽譜はいつでも手元にあります。検索から任意の楽譜を保存したり、エディターで作成したMSCZファイルを読み込んだりできます。",
+  "native.library.songbook.desc": "デバイス上に楽譜を保存できる場所です。インターネットに接続できないときも、楽譜はいつでも手元にあります。検索から任意の楽譜を保存できます。",
+  "native.library.songbook.desc_order": "デバイス上に楽譜を保存できる場所です。インターネットに接続できないときも、楽譜はいつでも手元にあります。注文リストから任意の楽譜を保存できます。",
+  "native.new_search.sources.songbook": "オフラインで利用可能",
+  "native.alertNotifications.songbook.add": "楽譜をオフライン用に保存しました",
+  "native.courses.complete_course": [
+    "コース「",
+    [
+      "name"
+    ],
+    "」を修了しました！"
+  ],
+  "native.courses.course_type": "コースの種類",
+  "native.screen_sft.carousel.songbook_title": "オフラインアクセス",
+  "native.credits.balance": "[b]利用可能なPROクレジット：[n]userBalance[n][/b]。クレジットを入手しましょう",
+  "native.credits.description": "膨大なコミュニティコレクション（[n]numberScores[n]M点の楽譜）からお好きな楽譜をダウンロードするなど、PRO機能を体験しましょう。",
+  "native.credits.balance_sub_title": "残高をチャージ",
+  "native.credits.balance_top_up_success": [
+    [
+      "count"
+    ],
+    " PROクレジットがアカウントにチャージされました。クレジットを使えば、どの楽譜でもPROアクセスを利用できます。"
+  ],
+  "native.sets.delete_warning": "このセットから楽譜を削除してもよろしいですか？",
+  "native.sets.no_search_result": "Sorry, we couldn’t find anything. Please try another wording.",
+  "native.screen_tour.get_most_with_pro+": "MuseScore PRO+で完璧な伴奏を追加しませんか？",
+  "native.screen_tour.achieve_goals": "年間プランを利用しているミュージシャンは、目標を達成する可能性が91%高くなります",
+  "native.screen_tour.support_program_text": "若手ミュージシャン向けの特別サポートプログラムをご用意しています",
+  "native.ebook.filter_empty_subtitle": "申し訳ありませんが、一致するものが見つかりませんでした。スペルを確認するか、別のクエリをお試しください。",
+  "native.ebooks.orders_empty_title": "まだ楽譜集がありません",
+  "native.create_account.privacy": "By creating an account you accept MuseScore's [link url=https://musescore.com/legal/terms]Terms of Service[/link] and [link url=https://musescore.com/legal/privacy]Privacy Policy[/link]",
+  "native.date.today_in": [
+    "today at ",
+    [
+      "time"
+    ]
+  ],
+  "native.date.yesterday_in": [
+    "yesterday at ",
+    [
+      "time"
+    ]
+  ],
+  "native.review.delete_confirmation_title": "Are you sure you want to delete this review?",
+  "native.marketing.7dayTrialWithPrice": [
+    "7日間無料でお試し、その後は年額",
+    [
+      "price"
+    ]
+  ],
+  "native.pedal.feedback.description": "ご要望にお応えして、この機能がMuseScoreアプリで利用可能になりました。対応デバイスが非常に多いため、現在はまだベータ版です。多くのデバイスでテストしましたが、すべてではありません。フィードバックをお待ちしています。",
+  "native.marketing.compete_your_purchase": "利用可能な決済方法のうちどれか1つを利用して、購入を完了させてください",
+  "native.marketing.questions.instrument.title": "どの楽器を演奏していますか？または、これから始めたい楽器はありますか？",
+  "native.marketing.questions.goal.teach": "他の人に音楽を教える",
+  "native.marketing.personal_songbook_title": "楽譜へのオフラインアクセス",
+  "native.courses.voted.error": "すでにこのコースに投票しています",
+  "native.user.access.premium.toast": "すべての楽譜購入が50%割引になります。",
+  "native.score.hq_settings_title": "MuseScore HQ+ Sound",
+  "native.marketing.subscription_problem": [
+    [
+      "storeName"
+    ],
+    "アカウントまたはインターネット接続に問題があります。アプリを再起動し、インターネット接続とアカウントを確認してください。"
+  ],
+  "native.sets.empty_title": "まだセットがありません",
+  "native.activity.empty_list.desc": "通知をオンにすれば、何も見逃しません。誰かがあなたをフォローしたとき、楽譜を保存したとき、コメントに返信したときにお知らせします。すべてここで確認できます。",
+  "native.addFavoritesAndSaveOffline2": "保存した楽譜に追加しました。\nオフラインでも使いますか？",
+  "native.screen_omr.error_max_one_pdf": "Max 1 PDF file allowed",
+  "native.screen_omr.error_selecting_pdf": "Error while selecting PDF",
+  "native.screen_omr.success_file_sent_title": "ファイルをスキャンに送信しました。",
+  "native.screen_omr.no_camera_permission_message": "印刷された楽譜を撮影するために、MuseScoreにカメラへのアクセスを許可してください",
+  "native.screen_omr.error_upload_mscz": "MSCZファイルのアップロード中にエラーが発生しました",
+  "native.screen_omr.error_failed_create_mscz": "MSCZファイルの作成に失敗しました",
+  "native.screen_omr.error_create_mscz": "MSCZファイルの作成中にエラーが発生しました",
+  "native.score_info.play_button": "View and Play",
+  "native.instrument.trumpet_in_b-flat": "Trumpet in B-flat",
+  "native.instrument.clarinet_in_b-flat": "Clarinet in B-flat",
+  "native.instrument.trumpet_in_c": "Trumpet in C",
+  "native.instrument.clarinet_in_e-flat": "Clarinet in E-flat",
+  "native.instrument.clarinet_in_a": "Clarinet in A",
+  "native.instrument.trumpet_in_d": "Trumpet in D",
+  "native.instrument.ondes_martenot": "Ondes Martenot",
+  "native.screen_login.consent_offer_opt_out": "特別オファーに関するメールを受け取りたくない",
+  "native.screen_login.mob_web_auth_in_progress": "認証を開始しています。しばらくお待ちください...",
+  "native.screen_login.mob_web_auth_error": "認証中にエラーが発生しました",
+  "native.alerts.error_occurred": "エラーが発生しました。",
+  "native.alerts.error_title": "エラー",
+  "native.alerts.download_failed": "ダウンロードに失敗しました",
+  "native.screen_comments.login_required_to_post": "コメントを投稿するにはログインが必要です。",
+  "native.screen_comments.login_required_to_like": "コメントに「いいね」するにはログインが必要です。",
+  "native.screen_comments.score_comments": "楽譜へのコメント",
+  "native.library.songbook.corrupted_file_title": "このファイルは破損しています",
+  "native.library.songbook.corrupted_file_message": "申し訳ありません。このファイルを削除するか、前の画面に戻ってください。",
+  "native.library.songbook.wrong_file_extension": [
+    "ファイルの拡張子は「mscz」である必要があります。現在の拡張子：「",
+    [
+      "fileExt"
+    ],
+    "」"
+  ],
+  "native.feed.items.51": "MuseScore Proクレジットを1つ使用しました",
+  "native.feed.items.57": [
+    [
+      "amount"
+    ],
+    " MuseScore PROクレジットがチャージされました"
+  ],
+  "native.feed.by": "作成者：",
+  "native.actions.try_again": "もう一度試す",
+  "native.actions.back": "戻る",
+  "native.actions.done": "完了",
+  "native.actions.later": "後で",
+  "native.bottom_bar.add_scores_tab": "楽譜を追加",
+  "native.autograde.select_main_instrument": "メインの楽器を選択",
+  "native.autograde.permission_error_title": "権限エラー",
+  "native.autograde.microphone_permission_message": "練習モードにはマイクへのアクセスが必要です。デバイスの設定で許可してください",
+  "native.autograde.tooltip_body": "ここをタップすると、練習内容に合わせたスマートなフィードバックを受け取れます。",
+  "native.autograde.ready": "準備はできましたか？",
+  "native.marketing.tour.minutes_short": [
+    [
+      "count"
+    ],
+    "分"
+  ],
+  "native.practice_mode.results.song_complete": "演奏完了",
+  "native.practice_mode.results.pitch": "音程",
+  "native.practice_mode.results.rhythm": "リズム",
+  "native.practice_mode.results.score": "スコア",
+  "native.practice_mode.results.review_and_try_again": "振り返って再挑戦",
+  "native.practice_mode.onboarding.paywall_title": "MuseScore練習モードにフルアクセスして、秘めた音楽の才能を解き放とう",
+  "native.practice_mode.onboarding.paywall_subtitle": "MuseScore PRO+へのアクセスが必要です",
+  "native.practice_mode.onboarding.step_counter": [
+    "ステップ ",
+    [
+      "step"
+    ],
+    " / ",
+    [
+      "total"
+    ]
+  ],
+  "native.song_book.section.title.downloadable_as_pdf": "PDFでダウンロード可能",
+  "native.filter_screen.instrument_count_from": "最小",
+  "native.filter_screen.instrument_count_to": "最大",
+  "native.courses.unit": [
+    "ユニット",
+    [
+      "number"
+    ]
+  ],
+  "native.courses.overall_progress": [
+    "全体の進捗 ",
+    [
+      "percents"
+    ],
+    "%"
+  ],
+  "native.courses.lite_great_choice": "いい選択です",
+  "native.courses.lite_get_free_course": "無料コースを入手",
+  "native.courses.lite_unlock_one_course": "MuseScore LEARN Liteの特典として、今月は「編集部のおすすめ」からコースを1つロック解除できます。",
+  "native.courses.lite_get_permanent_access": [
+    "[sb]",
+    [
+      "courseName"
+    ],
+    "[/sb]に\n永久にアクセス"
+  ],
+  "native.courses.lite_want_unlimited_title": "コースを無制限に受講しませんか？今すぐアップグレード",
+  "native.courses.lite_allowance_used": "今月のMuseScore LEARN Liteの特典はすでに使用済みです。",
+  "native.courses.lite_upgrade_to_play": "このコースを今すぐ受講するには、MuseScore LEARNにアップグレードしてください。",
+  "native.courses.lite_upgrade": "アップグレード",
+  "native.courses.lite_not_in_collection": [
+    "[sb]",
+    [
+      "courseName"
+    ],
+    "[/sb]はコレクションに含まれていません。このコースを始めるには、MuseScore LEARNにアップグレードしてください"
+  ],
+  "native.courses.start_this_course": "このコースを始める",
+  "native.filter_item_name.level.not_selected": "未選択",
+  "native.filter_item_name.topic.ear_training": "イヤートレーニング",
+  "native.filter_item_name.topic.licensing_publishing_and_copyright": "ライセンス・出版・著作権",
+  "native.filter_item_name.topic.music_composition": "作曲",
+  "native.filter_item_name.topic.music_production": "音楽制作",
+  "native.filter_item_name.topic.music_software": "音楽ソフトウェア",
+  "native.filter_item_name.topic.music_theory": "音楽理論",
+  "native.filter_item_name.topic.other_in_music": "その他（音楽）",
+  "native.filter_item_name.topic.playing_skills": "演奏スキル",
+  "native.filter_item_name.topic.recording_and_audio_engineering": "レコーディング・オーディオエンジニアリング",
+  "native.filter_item_name.topic.solo_and_improvisation": "ソロ・即興演奏",
+  "native.filter_item_name.topic.songwriting": "ソングライティング",
+  "native.filter_item_name.duration.0_1_hours": "0～1時間",
+  "native.filter_item_name.duration.1_4_hours": "1～4時間",
+  "native.filter_item_name.duration.4_8_hours": "4～8時間",
+  "native.filter_item_name.duration.8_24_hours": "8～24時間",
+  "native.filter_item_name.duration.24_plus_hours": "24時間以上",
+  "native.filter_item_name.type.community_scores": "コミュニティ楽譜",
+  "native.filter_item_name.format.interactive": "インタラクティブ",
+  "native.filter_item_name.format.pdf": "PDF",
+  "native.filter_item_name.status.original_composition": "オリジナル曲",
+  "native.score_onboarding.customize_view": "表示をカスタマイズ",
+  "native.score_onboarding.customize_view_desc": "拡大、設定の変更、ミックスの調整など、必要な機能はすべてここにあります。",
+  "native.score_onboarding.hear_score": "楽譜を聴く",
+  "native.score_onboarding.hear_score_desc": "楽譜を再生してみましょう。再生をタップすると、曲に合わせて楽譜がスクロールします。",
+  "native.score_onboarding.save_hint": "この楽譜が気に入りましたか？タップして保存しましょう。",
+  "native.score_onboarding.playing_one_moment": "楽譜を再生します。少々お待ちください",
+  "native.user.access.books.label": "Digital Books",
+  "native.user.unfollow_confirm_title": "このユーザーのフォローを解除しますか？",
+  "native.marketing.questions.topics.title": "興味のあるトピックは何ですか？",
+  "native.marketing.questions.topics.not_interested": "これらのトピックには興味がない",
+  "native.search.upload_now": "今すぐアップロード",
+  "native.marketing.plan_active": "利用中",
+  "native.marketing.flash_sale.title_24h": "24時間限定セール",
+  "native.marketing.flash_sale.end_time": "終了まで：",
+  "native.marketing.flash_sale.dont_miss_offer": [
+    "MuseScore ",
+    [
+      "plan"
+    ],
+    "の特別オファーをお見逃しなく"
+  ],
+  "native.marketing.special_limited_offer": "期間限定の特別オファー",
+  "native.marketing.plan_with_learn_lite_bundle": [
+    [
+      "plan"
+    ],
+    "とLearn Liteのバンドル"
+  ],
+  "native.marketing.regular_price": "通常価格",
+  "native.marketing.stay_free": "無料のまま使う",
+  "native.marketing.quarterly_access": "3か月アクセス",
+  "native.marketing.personal_offer_save": [
+    "あなた限定オファー：",
+    [
+      "discount"
+    ],
+    "オフ"
+  ],
+  "native.marketing.yearly_plan": "年間プラン",
+  "native.marketing.yearly_access": "年間アクセス",
+  "native.marketing.flash_sale.title": "タイムセール",
+  "native.marketing.thirty_days_at": "30日換算",
+  "native.marketing.ug_lineup.yearly_plan": "年間プラン",
+  "native.marketing.ug_lineup.quarterly": "3か月プラン",
+  "native.marketing.ug_lineup.weekly": "週間プラン",
+  "native.marketing.ug_lineup.welcome_offer": "ウェルカムオファー",
+  "native.marketing.ug_lineup.three_months": "3か月",
+  "native.marketing.ug_lineup.first_year": "初年度",
+  "native.marketing.ug_lineup.first_year_for": [
+    "初年度は[sb]",
+    [
+      "introPrice"
+    ],
+    "[/sb]、その後は[sb]",
+    [
+      "price"
+    ],
+    "[/sb]。"
+  ],
+  "native.marketing.ug_lineup.twelve_months": "12か月",
+  "native.marketing.billed_annually": "年払い",
+  "native.marketing.credits_count": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "クレジット"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.limited_offer": "期間限定オファー",
+  "native.marketing.something_went_wrong_try_again": "問題が発生しました。もう一度お試しください",
+  "native.marketing.purchase_content_error": "コンテンツの購入中にエラーが発生しました。サポートにお問い合わせください",
+  "native.marketing.payment_received_offline": "お支払いを受け付けました。オンラインに戻り次第、購入の有効化を完了します",
+  "native.marketing.purchase_error": "購入エラー",
+  "native.marketing.payment_declined_grace_period": "お支払いが承認されませんでした。サブスクリプションを継続するには、お支払い方法を変更してください。",
+  "native.marketing.payment_declined_access_lost": "お支払いが承認されませんでした。アクセスを再開するには、お支払い方法を変更してください。",
+  "native.marketing.fix_now": "今すぐ更新",
+  "native.marketing.gift_checklist.one_songbook": "楽譜集1冊",
+  "native.marketing.gift_checklist.one_course": "コース1つ",
+  "native.marketing.gift_checklist.one_score": "楽譜1曲",
+  "native.marketing.gift_checklist.two_songbooks": "楽譜集2冊",
+  "native.marketing.gift_checklist.two_courses": "コース2つ",
+  "native.marketing.gift_checklist.two_scores": "楽譜2曲",
+  "native.marketing.gift_checklist.three_scores": "楽譜3曲",
+  "native.marketing.gift_checklist.claim_free_songbook": "無料の楽譜集を受け取る",
+  "native.marketing.gift_checklist.claim_free_course": "無料のコースを受け取る",
+  "native.marketing.gift_checklist.claim_free_score": "無料の楽譜を受け取る",
+  "native.marketing.gift_checklist.claim_free_songbooks": "無料の楽譜集を受け取る",
+  "native.marketing.gift_checklist.claim_free_courses": "無料のコースを受け取る",
+  "native.marketing.gift_checklist.claim_free_scores": "無料の楽譜を受け取る",
+  "native.marketing.gift_checklist.open_songbooks": "楽譜集を開く",
+  "native.marketing.gift_checklist.open_courses": "コースを開く",
+  "native.marketing.gift_checklist.open_scores": "楽譜を開く",
+  "native.marketing.gift_checklist.step_open_songbooks": "1. 「楽譜集を開く」をタップ",
+  "native.marketing.gift_checklist.step_open_courses": "1. 「コースを開く」をタップ",
+  "native.marketing.gift_checklist.step_open_scores": "1. 「楽譜を開く」をタップ",
+  "native.marketing.gift_checklist.step_explore_songbooks": "2. 楽譜集ライブラリを見てみる",
+  "native.marketing.gift_checklist.step_explore_courses": "2. コースライブラリを見てみる",
+  "native.marketing.gift_checklist.step_explore_scores": "2. 楽譜ライブラリを見てみる",
+  "native.marketing.gift_checklist.step_get_free_songbook": "4. 「無料の楽譜集を入手」をタップ",
+  "native.marketing.gift_checklist.step_get_free_course": "4. 「無料のコースを入手」をタップ",
+  "native.marketing.gift_checklist.step_get_free_score": "4. 「無料の楽譜を入手」をタップ",
+  "native.marketing.gift_checklist.step_found_favorite": "3. 新しいお気に入りが見つかりましたか？",
+  "native.marketing.gift_checklist.step_enjoy": "5. お楽しみください！",
+  "native.marketing.gift_checklist.ready_to_claim": "プレゼントを受け取る準備はできましたか？次の手順に従ってください：",
+  "native.marketing.gift_checklist.day": "日目",
+  "native.marketing.gift_checklist.tap_to_open": "タップして開く",
+  "native.marketing.promo_code_applied": "プロモコードが適用されました！",
+  "native.marketing.last_chance": "ラストチャンス",
+  "native.marketing.timer_left": "残り",
+  "native.marketing.choose_your_plan": "プランを選択",
+  "native.marketing.reviews.whitney": "お気に入りの楽譜を手に入れて、一緒に練習できる最高のアプリです。速度の調整、マーク付け、お気に入りの楽譜の選択など、たくさんの機能があります。大好き.... ❤",
+  "native.marketing.reviews.lucy": "使いやすく、どんな楽器の楽譜も見つけられます！MuseScoreには情熱的なクリエイターのコミュニティがあります。サブスクリプションは本当に価値があり、払った金額以上のものが得られます！",
+  "native.marketing.reviews.jacob": "主にアメリカのソングブックの伝統に属する、幅広い曲を学ぶのにとても役立つリソースです。なかなか見つからない公式楽譜がたくさんあります。ユーザーが作成したアレンジもあり、時々役に立ちます。",
+  "native.marketing.tour_update.review_mark_name": "マーク（ピアニスト）",
+  "native.marketing.tour_update.review_mark_text": "古い楽譜が山ほどありました。今はそれをスキャンして、また練習に使えます。",
+  "native.marketing.tour_update.review_lisa_name": "リサ（音楽教師）",
+  "native.marketing.tour_update.review_lisa_text": "生徒用の教材の準備がずっと速くなりました。写真を1枚撮れば、もう授業で使えます。",
+  "native.marketing.tour_update.review_julia_name": "ジュリア（合唱指揮者）",
+  "native.marketing.tour_update.review_julia_text": "歌い手に合わせたキーの変更は本当に大変でした。今はスキャンして数秒で移調できます",
+  "native.marketing.tour_update.title_ms4_scores": "MuseScore Studio 4の楽譜が登場",
+  "native.marketing.tour_update.title_thousands_more": "さらに数千点の楽譜があなたを待っています",
+  "native.marketing.tour_update.title_elegant": "より洗練された体験",
+  "native.marketing.tour_update.title_say_thanks": "感謝の気持ちを\nレビューで伝えてください！",
+  "native.marketing.tour_update.subtitle_say_hello": "MuseScore史上最大のアップデートをお届けします",
+  "native.marketing.tour_update.subtitle_open_catalog": "200万曲以上の楽譜カタログをモバイルで開いて、演奏を始めましょう。",
+  "native.marketing.tour_update.subtitle_better_looking": "楽譜がより見やすくなり、サイズ調整もより柔軟になりました。",
+  "native.marketing.tour_update.subtitle_share_thoughts": "アプリをさらに良くするために、ご意見やフィードバックをお聞かせください。",
+  "native.marketing.tour_update.payment_title": "写真やPDFをインタラクティブな楽譜に",
+  "native.marketing.tour_update.benefit_scan_photos": "楽譜の写真をスキャンしてインタラクティブに",
+  "native.marketing.tour_update.benefit_convert_pdfs": "PDFをインタラクティブな楽譜に変換",
+  "native.marketing.tour_update.benefit_upload_arrangements": "自分のアレンジをアップロードして保存",
+  "native.marketing.tour_update.benefit_offline_library": "楽譜ライブラリにオフラインでアクセス",
+  "native.marketing.tour_update.dive_in": "さっそく始める",
+  "native.marketing.tour_update.leave_review": "レビューを書く",
+  "native.marketing.tour_update.learn_add_pro_plus": "Learnサブスクリプションはレッスンに最適です。PRO+を追加すると、この機能が使えるようになり、楽譜をインタラクティブにできます。",
+  "native.marketing.tour_update.preparing_experience": "あなた専用の体験を準備中",
+  "native.marketing.tour_update.introducing_scores_to_screen": "紙の楽譜を画面へ！",
+  "native.marketing.tour_update.omr_feature_description": "新機能のOMRを使えば、お気に入りの紙の楽譜をスマートフォンに取り込んで再生できます。",
+  "native.marketing.tour_update.thousands_of_songbooks": "数千冊の楽譜集が登場しました！",
+  "native.marketing.tour_update.covered_by_pro_plus": "PRO+サブスクリプションに含まれています",
+  "native.marketing.tour_update.upgrade_pro_to_pro_plus_required": "MuseScore PROからPRO+へのアップグレードが必要です",
+  "native.marketing.tour_update.pro_plus_access_required": "MuseScore PRO+へのアクセスが必要です",
+  "native.marketing.tour_update.upgrade_to_unlock_feature": "PRO+にアップグレードしてこの機能をロック解除",
+  "native.marketing.score_discount.today": "今日",
+  "native.marketing.auto_scroll_settings_hint": "現在はページ表示がデフォルトで有効になっています。\n「自動スクロール」機能はいつでも設定でオンにできます",
+  "native.marketing.export_community_scores_pdf_title": "コミュニティ楽譜をPDFにエクスポート",
+  "native.marketing.export_community_scores_pdf_description": "Premiumユーザーは、コミュニティ楽譜をPDF、MIDI、MP3形式でダウンロードできます。PDFは印刷も可能です",
+  "native.marketing.free_official_scores_downloads": [
+    "公式楽譜を",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "回無料でダウンロード"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.benefits.official_scores": "[sb]楽譜出版社[/sb]からライセンスを受けた公式楽譜を閲覧",
+  "native.marketing.benefits.download_print_community": "膨大なコミュニティコレクション（[sb]1,426,528[/sb]点、さらに増加中）から楽譜をダウンロード・印刷",
+  "native.marketing.benefits.one_subscription_all_devices": "1つのサブスクリプションですべてのデバイスに対応",
+  "native.marketing.benefits.offline_access": "楽譜へのオフラインアクセス",
+  "native.marketing.purchase_success.free_until": "無料期間の終了日",
+  "native.marketing.purchase_success.then": "その後",
+  "native.marketing.purchase_success.renews": "次回更新",
+  "native.marketing.purchase_success.period_year": "年",
+  "native.marketing.purchase_success.period_3_months": "3か月",
+  "native.marketing.purchase_success.period_month": "月",
+  "native.marketing.purchase_success.on_date": [
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.purchase_success.plan_unlocked": [
+    [
+      "plan"
+    ],
+    "のロックが解除されました"
+  ],
+  "native.marketing.subscription_settings.price_on_date": [
+    [
+      "date"
+    ],
+    "に",
+    [
+      "price"
+    ]
+  ],
+  "native.marketing.subscription_settings.active_until": [
+    "サブスクリプションの有効期限：",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.no_subscriptions_to_restore": "復元できるサブスクリプションがありません",
+  "native.marketing.pro_plus_benefits": "Pro+の特典",
+  "native.marketing.free": "無料",
+  "native.marketing.game.wow_off_annual": [
+    "年間プランが",
+    [
+      "discount"
+    ],
+    "%オフ！"
+  ],
+  "native.marketing.discount_off": [
+    [
+      "discount"
+    ],
+    "オフ"
+  ],
+  "native.marketing.anniversary.open_my_gift": "ギフトを開く",
+  "native.marketing.anniversary.use_my_gift": "ギフトを使う",
+  "native.marketing.pinata.hit_the_pinata": "ピニャータを叩こう！",
+  "native.marketing.restore_card.plan_expire_soon": [
+    "MuseScore ",
+    [
+      "plan"
+    ],
+    "の有効期限がまもなく切れます"
+  ],
+  "native.marketing.one_pro_credit": "PROクレジット1つ",
+  "native.make_public.screen_title": "楽譜を更新中",
+  "native.screen_omr.photos_permission_message": "設定から写真へのアクセスを許可してください",
+  "native.screen_omr.recognized_via_ai_scan": "AIスキャンで認識",
+  "native.new_concept.common.parts_count": [
+    [
+      "count"
+    ],
+    "パート"
+  ],
+  "native.new_concept.learn.lessons_progress": [
+    [
+      "completed"
+    ],
+    " / ",
+    [
+      "total"
+    ],
+    "レッスン"
+  ],
+  "native.score.more_like_this": "似た楽譜",
+  "native.score.error_loading_soundfont": "サウンドフォントの読み込み中にエラーが発生しました",
+  "native.score.failed_to_open_score": "楽譜を開けませんでした",
+  "native.score.error_opening_file": "ファイルを開く際にエラーが発生しました",
+  "native.score.feature_offline_access_title": "オフラインアクセス",
+  "native.score.feature_background_play_title": "バックグラウンド再生",
+  "native.score.feature_background_play_text": "アプリを離れたりスマートフォンをロックしたりしても、楽譜の再生を続けられます。",
+  "native.score.badge_new": "新機能",
+  "native.score.annotation.pen_size": "ペンの太さ",
+  "native.score.annotation.highlight_size": "ハイライトの太さ",
+  "native.score.annotation.text_size": "文字サイズ",
+  "native.score.part_number": [
+    "パート",
+    [
+      "number"
+    ]
+  ],
+  "native.score.bpm_value": [
+    [
+      "bpm"
+    ],
+    " BPM"
+  ],
+  "native.score.error_country_blocked": "この楽譜の著作権者は、お住まいの国での提供を許可していません",
+  "native.score.error_download_file": "ファイルのダウンロードに失敗しました。もう一度お試しください。",
+  "native.score.error_cannot_open": "この楽譜は開けません。",
+  "native.score.download_restricted_title": "ダウンロードは制限されています",
+  "native.score.download_restricted_trial_message": "この楽曲の権利を持つ出版社により、無料トライアル中のユーザーはこの楽譜をダウンロードできません",
+  "native.genre.songbook": "楽譜集",
+  "native.genre.instructional": "教則",
+  "native.genre.video_game": "ゲーム音楽",
+  "native.genre.ballad": "バラード",
+  "native.genre.bluegrass": "ブルーグラス",
+  "native.genre.celtic": "ケルト音楽",
+  "native.genre.christian": "クリスチャン",
+  "native.genre.classic_rock": "クラシックロック",
+  "native.genre.contemporary": "コンテンポラリー",
+  "native.genre.disney": "ディズニー",
+  "native.genre.downtempo": "ダウンテンポ",
+  "native.genre.educational": "教育",
+  "native.genre.flamenco": "フラメンコ",
+  "native.genre.funk": "ファンク",
+  "native.genre.fusion": "フュージョン",
+  "native.genre.future_bass": "フューチャーベース",
+  "native.genre.gospel": "ゴスペル",
+  "native.genre.hard_rock": "ハードロック",
+  "native.genre.heavy_metal": "ヘヴィメタル",
+  "native.genre.holiday": "ホリデー",
+  "native.genre.introspective": "内省的",
+  "native.genre.kids": "キッズ",
+  "native.genre.latin": "ラテン",
+  "native.genre.lullaby": "子守唄",
+  "native.genre.movie_soundtrack": "映画サウンドトラック",
+  "native.genre.musical": "ミュージカル",
+  "native.genre.orchestral": "オーケストラ",
+  "native.genre.patriotic": "愛国歌",
+  "native.genre.prog_rock": "プログレ",
+  "native.genre.progressive_rock": "プログレッシブロック",
+  "native.genre.ragtime": "ラグタイム",
+  "native.genre.rockabilly": "ロカビリー",
+  "native.genre.ska": "スカ",
+  "native.genre.soul": "ソウル",
+  "native.genre.swing": "スウィング",
+  "native.genre.tv_soundtrack": "TVサウンドトラック",
+  "native.genre.traditional": "トラディショナル",
+  "native.genre.trap": "トラップ",
+  "native.instrument.easy_piano": "やさしいピアノ",
+  "native.instrument.piano_vocal_guitar": "ピアノ/ボーカル/ギター",
+  "native.instrument.baritone_guitar": "バリトンギター",
+  "native.instrument.baritone_ukulele": "バリトンウクレレ",
+  "native.instrument.bass_clarinet": "バスクラリネット",
+  "native.instrument.bass_ukulele": "ベースウクレレ",
+  "native.instrument.bb_instruments": "B♭調楽器",
+  "native.instrument.bells": "ベル",
+  "native.instrument.c_instruments": "C調楽器",
+  "native.instrument.controller": "コントローラー",
+  "native.instrument.double_bass": "コントラバス",
+  "native.instrument.drums": "ドラム",
+  "native.instrument.dulcimer": "ダルシマー",
+  "native.instrument.eb_instruments": "E♭調楽器",
+  "native.instrument.guitarron": "ギタロン",
+  "native.instrument.handpan": "ハンドパン",
+  "native.instrument.horns": "ホルン",
+  "native.instrument.lap_steel": "ラップスチール",
+  "native.instrument.loog": "Loogギター",
+  "native.instrument.ocarina": "オカリナ",
+  "native.instrument.pedal_steel_guitar": "ペダルスチールギター",
+  "native.instrument.penny_whistle": "ペニーホイッスル",
+  "native.instrument.steelpan": "スティールパン",
+  "native.instrument.synths": "シンセサイザー",
+  "native.instrument.tin_whistle": "ティンホイッスル",
+  "native.instrument.turntables_mixers": "ターンテーブル＆ミキサー",
+  "native.instrument.venova": "ヴェノーヴァ",
+  "native.shazam.briefing.title": "聴いて、弾こう。",
+  "native.shazam.briefing.description": "スマートフォンを音楽に近づけると、曲を認識して楽譜を探します。",
+  "native.shazam.briefing.enable_microphone_title": "マイクを有効にする",
+  "native.shazam.briefing.enable_microphone_description": "楽譜を探すには、マイクへのアクセス許可が必要です。",
+  "native.shazam.briefing.tap_to_listen": "タップして聴き取る",
+  "native.shazam.powered_by": "提供",
+  "native.shazam.listening.title": "聴き取り中…",
+  "native.shazam.listening.subtitle": "デバイスを音楽に近づけてください",
+  "native.shazam.listening.tough_title": "ちょっと難しいですね",
+  "native.shazam.listening.tough_subtitle": "もう一度だけ試します…",
+  "native.shazam.listening.matching_title": "楽譜を照合中",
+  "native.shazam.listening.matching_subtitle": "もう少しです",
+  "native.shazam.no_match.title": "曲を聴き取れませんでした",
+  "native.shazam.no_match.description": "もう少し近づくか、静かな場所でもう一度お試しください。",
+  "native.shazam.no_scores.title": "この曲の楽譜が見つかりませんでした",
+  "native.shazam.no_scores.back_to_home": "ホームに戻る",
+  "native.shazam.more_from_artist": "このアーティストの他の楽譜",
+  "native.shazam.matching_scores": "一致する楽譜",
+  "native.shazam.open_in_apple_music": "Apple Musicで開く",
+  "native.shazam.error.try_again_hint": "もう一度お試しください。",
+  "native.ensemble.solo": "ソロ",
+  "native.ensemble.mixed_ensembles": "混合アンサンブル",
+  "native.ensemble.mixed_ensemble": "混合アンサンブル",
+  "native.ensemble.mixed_duet": "混合二重奏",
+  "native.ensemble.piano_ensembles": "ピアノアンサンブル",
+  "native.ensemble.vocal_ensembles": "ボーカルアンサンブル",
+  "native.ensemble.choral": "合唱",
+  "native.ensemble.piano_voice": "ピアノ・ボーカル",
+  "native.ensemble.woodwind_ensembles": "木管アンサンブル",
+  "native.ensemble.bands_orchestras": "バンド / オーケストラ",
+  "native.ensemble.string_ensembles": "弦楽アンサンブル",
+  "native.ensemble.mixed_quartet": "混合四重奏",
+  "native.ensemble.mixed_trio": "混合三重奏",
+  "native.ensemble.brass_ensembles": "金管アンサンブル",
+  "native.ensemble.mixed_quintet": "混合五重奏",
+  "native.ensemble.piano_duo": "ピアノデュオ",
+  "native.ensemble.piano_voice_guitar": "ピアノ・ボーカル・ギター",
+  "native.ensemble.satb": "SATB",
+  "native.ensemble.string_quartet": "弦楽四重奏",
+  "native.ensemble.brass_ensemble": "金管アンサンブル",
+  "native.ensemble.woodwind_duet": "木管二重奏",
+  "native.ensemble.symphony_orchestra": "交響楽団",
+  "native.ensemble.string_duet": "弦楽二重奏",
+  "native.ensemble.string_ensemble": "弦楽アンサンブル",
+  "native.ensemble.concert_band": "吹奏楽",
+  "native.ensemble.woodwind_quartet": "木管四重奏",
+  "native.ensemble.brass_duet": "金管二重奏",
+  "native.ensemble.saxophone_ensemble": "サクソフォンアンサンブル",
+  "native.ensemble.percussion_ensembles": "打楽器アンサンブル",
+  "native.ensemble.jazz_band": "ジャズバンド",
+  "native.ensemble.chamber_orchestra": "室内オーケストラ",
+  "native.ensemble.marching_band": "マーチングバンド",
+  "native.ensemble.woodwind_ensemble": "木管アンサンブル",
+  "native.ensemble.piano_sextet": "ピアノ六重奏",
+  "native.ensemble.woodwind_quintet": "木管五重奏",
+  "native.ensemble.woodwind_trio": "木管三重奏",
+  "native.ensemble.brass_quartet": "金管四重奏",
+  "native.ensemble.percussion_ensemble": "打楽器アンサンブル",
+  "native.ensemble.a_capella": "アカペラ",
+  "native.ensemble.brass_quintet": "金管五重奏",
+  "native.ensemble.church_choir": "聖歌隊",
+  "native.ensemble.piano_trio": "ピアノ三重奏",
+  "native.ensemble.string_quintet": "弦楽五重奏",
+  "native.ensemble.string_trio": "弦楽三重奏",
+  "native.ensemble.brass_band_british_style": "ブラスバンド（英国式）",
+  "native.ensemble.percussion_duet": "打楽器二重奏",
+  "native.ensemble.percussion_quartet": "打楽器四重奏",
+  "native.ensemble.piano_four_hand": "ピアノ連弾",
+  "native.ensemble.percussion_trio": "打楽器三重奏",
+  "native.ensemble.piano_quartet": "ピアノ四重奏",
+  "native.ensemble.drum_corps_modern": "ドラムコー（モダン）",
+  "native.ensemble.mens_choir": "男声合唱",
+  "native.ensemble.brass_trio": "金管三重奏",
+  "native.ensemble.piano_quintet": "ピアノ五重奏",
+  "native.ensemble.pep_band": "ペップバンド",
+  "native.ensemble.percussion_quintet": "打楽器五重奏",
+  "native.ensemble.womens_choir": "女声合唱",
+  "native.ensemble.brass_band_new_orleans": "ブラスバンド（ニューオーリンズ）",
+  "native.ensemble.indoor_percussion_ensemble": "インドア打楽器アンサンブル",
+  "native.ensemble.string_sextet": "弦楽六重奏",
+  "native.ensemble.show_choir": "ショークワイア",
+  "native.ensemble.bagpipe_band": "バグパイプバンド",
+  "native.ensemble.handbell_ensembles": "ハンドベルアンサンブル",
+  "native.shazam.by_artist": [
+    [
+      "artist"
+    ]
+  ],
+  "native.scores_after_tour.title": "最初の楽譜を選ぼう",
+  "native.scores_after_tour.recommendations": "おすすめ",
+  "native.about_screen.made_by": [
+    "開発：MuseScore\nバージョン ",
+    [
+      "version"
+    ]
+  ],
+  "native.about_screen.powered_by": [
+    "Extasy Engine搭載\nバージョン ",
+    [
+      "version"
+    ]
+  ],
+  "native.shazam.tooltip_identify_music": "近くで流れている曲を認識",
+  "native.courses.card.hours_lessons": [
+    [
+      "hours",
+      "plural",
+      {
+        "other": [
+          "#",
+          "時間"
+        ]
+      }
+    ],
+    "・",
+    [
+      "lessons",
+      "plural",
+      {
+        "other": [
+          "#",
+          "レッスン"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.completed_of_count": [
+    [
+      "completed"
+    ],
+    "/",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "レッスン"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.count_minutes": [
+    [
+      "lessons",
+      "plural",
+      {
+        "other": [
+          "#",
+          "レッスン"
+        ]
+      }
+    ],
+    "・",
+    [
+      "minutes",
+      "plural",
+      {
+        "other": [
+          "#",
+          "分"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.count_hours_minutes": [
+    [
+      "lessons",
+      "plural",
+      {
+        "other": [
+          "#",
+          "レッスン"
+        ]
+      }
+    ],
+    "・",
+    [
+      "hours",
+      "plural",
+      {
+        "other": [
+          "#",
+          "時間"
+        ]
+      }
+    ],
+    [
+      "minutes",
+      "plural",
+      {
+        "other": [
+          "#",
+          "分"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.lessons_count_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "レッスン"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.lessons_progress_plural": [
+    [
+      "completed"
+    ],
+    " / ",
+    [
+      "total",
+      "plural",
+      {
+        "other": [
+          "#",
+          "レッスン"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.course_hours_short_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "時間"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.rewind_back_seconds": [
+    "- ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "秒"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.rewind_forward_seconds": [
+    "+ ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "秒"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.quality_normal_resolution": [
+    "標準（",
+    [
+      "resolution"
+    ],
+    "）"
+  ],
+  "native.courses.lesson_number": [
+    "レッスン",
+    [
+      "number"
+    ]
+  ],
+  "native.user.sets_of_user": [
+    [
+      "userName"
+    ],
+    "さんのセット"
+  ],
+  "native.sets.empty_for_user": [
+    [
+      "userName"
+    ],
+    "さんにはまだセットがありません。"
+  ],
+  "native.score.parts_count": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "パート"
+        ]
+      }
+    ]
+  ],
+  "native.score.comments_count": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "件のコメント"
+        ]
+      }
+    ]
+  ],
+  "native.screen_comments.replies_count_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "件の返信"
+        ]
+      }
+    ]
+  ],
+  "native.feed.score_by_author": [
+    "[author]",
+    [
+      "author"
+    ],
+    "[/author]による[score]",
+    [
+      "title"
+    ],
+    "[/score]"
+  ],
+  "native.feed.items.20_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]さんがあなたの楽譜にコメントしました"
+  ],
+  "native.feed.items.21_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]さんが、楽譜に付けたあなたのコメントに返信しました"
+  ],
+  "native.feed.items.22_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]さんがあなたの楽譜を保存しました"
+  ],
+  "native.feed.items.26_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]さんが、あなたが保存した楽譜にコメントしました"
+  ],
+  "native.feed.items.30_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]さんが楽譜を追加しました"
+  ],
+  "native.feed.items.31_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]さんがあなたをフォローしました"
+  ],
+  "native.song_book_remove.title_with_score": [
+    "「",
+    [
+      "title"
+    ],
+    "」を削除してもよろしいですか？"
+  ],
+  "native.user.followers_count": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          [
+            "formattedCount"
+          ],
+          " フォロワー"
+        ]
+      }
+    ]
+  ],
+  "native.score_action_sheet.pages_value": [
+    "ページ数：",
+    [
+      "pages"
+    ]
+  ],
+  "native.score_action_sheet.duration_value": [
+    "演奏時間：",
+    [
+      "duration"
+    ]
+  ],
+  "native.artists.based_on_song": [
+    "原曲：[song]",
+    [
+      "song"
+    ],
+    "[/song]"
+  ],
+  "native.artists.by_artist": [
+    "アーティスト：[artist]",
+    [
+      "artist"
+    ],
+    "[/artist]"
+  ],
+  "native.common.label_with_colon": [
+    [
+      "label"
+    ],
+    "："
+  ],
+  "native.score.tempo_percent": [
+    "テンポ ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.bluetooth_pedal.instruction_1_with_os": [
+    "ペダルの電源を入れて、",
+    [
+      "osName"
+    ],
+    "デバイスに接続してください。"
+  ],
+  "native.screen_new_account.password_strength_line.weak": "パスワードの強度：[color]弱い[/color]",
+  "native.screen_new_account.password_strength_line.normal": "パスワードの強度：[color]標準[/color]",
+  "native.screen_new_account.password_strength_line.strong": "パスワードの強度：[color]強い[/color]",
+  "native.screen_new_account.has_account_login": "すでにアカウントをお持ちですか？[login]ログイン[/login]",
+  "native.ebooks.pages_count_label": [
+    [
+      "count",
+      "plural",
+      {
+        "other": "ページ"
+      }
+    ]
+  ],
+  "native.marketing.price_line.per_year": [
+    [
+      "price"
+    ],
+    "/年"
+  ],
+  "native.marketing.price_line.per_month": [
+    [
+      "price"
+    ],
+    "/月"
+  ],
+  "native.marketing.price_line.per_week": [
+    [
+      "price"
+    ],
+    "/週"
+  ],
+  "native.marketing.price_line.per_months": [
+    [
+      "price"
+    ],
+    "/",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "か月"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.slash_week": "/週",
+  "native.marketing.price_line.months_at_per_month": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "か月換算 ",
+          [
+            "price"
+          ],
+          "/月"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.weeks_at_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "週換算 ",
+          [
+            "price"
+          ],
+          "/週"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.weeks_at_old_price_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "週換算 [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/週"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.days_at_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "日換算 ",
+          [
+            "price"
+          ],
+          "/週"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.days_at_old_price_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "日換算 [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/週"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.first_year_then_per_year": [
+    "[sb]",
+    [
+      "introPrice"
+    ],
+    "/年[/sb]（初年度）、その後は",
+    [
+      "price"
+    ],
+    "/年"
+  ],
+  "native.marketing.price_line.first_year_then_per_year_bold": [
+    "[sb]",
+    [
+      "introPrice"
+    ],
+    "/年[/sb]（初年度）、その後は[sb]",
+    [
+      "price"
+    ],
+    "/年[/sb]"
+  ],
+  "native.marketing.price_line.trial_then_per_year": [
+    "7日間の無料トライアル。その後は[sb]",
+    [
+      "price"
+    ],
+    "/年[/sb]"
+  ],
+  "native.marketing.price_line.annual_access_per_year": [
+    "年間アクセス。[sb]",
+    [
+      "price"
+    ],
+    "/年[/sb]"
+  ],
+  "native.marketing.price_line.trial_then_per_month": [
+    "7日間の無料トライアル。その後は",
+    [
+      "price"
+    ],
+    "/月"
+  ],
+  "native.marketing.price_line.annual_access_then_per_month": [
+    "年間アクセス。その後は",
+    [
+      "price"
+    ],
+    "/月"
+  ],
+  "native.marketing.price_line.trial_per_year_cancel_anytime": [
+    "7日間無料でお試し、その後は年額",
+    [
+      "price"
+    ],
+    "。いつでもキャンセル可能"
+  ],
+  "native.marketing.price_line.one_instant_discount": [
+    "すべてをカバーする1つのサブスクリプション — ",
+    [
+      "percent"
+    ],
+    "%オフ"
+  ],
+  "native.marketing.price_line.one_time_payment": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb]（1回払い）"
+  ],
+  "native.marketing.badge.save_percent": [
+    [
+      "percent"
+    ],
+    "%オフ"
+  ],
+  "native.marketing.offer.name_save_percent": [
+    [
+      "offerName"
+    ],
+    "—",
+    [
+      "percent"
+    ],
+    "%オフ"
+  ],
+  "native.marketing.feature.scores_millions_ad_free": [
+    "[b]",
+    [
+      "scoresMillions"
+    ],
+    "M点の楽譜[/b]、すべて広告なし"
+  ],
+  "native.marketing.feature.courses_count_experts": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "[b]専門家[/b]が教える[b]",
+          "#",
+          "以上[/b]の音楽コース"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.ug_lineup.months_price": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "か月"
+        ]
+      }
+    ],
+    " • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.ug_lineup.first_year_price": [
+    "初年度 • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.ug_lineup.first_year_for_free_cancel": [
+    "初年度は[sb]",
+    [
+      "introPrice"
+    ],
+    "[/sb]、その後は[sb]",
+    [
+      "price"
+    ],
+    "[/sb]。いつでも無料でキャンセルできます。"
+  ],
+  "native.marketing.credit_pack.credits_valid_for": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "PROクレジット"
+        ]
+      }
+    ],
+    "。有効期間：",
+    [
+      "months",
+      "plural",
+      {
+        "other": [
+          "#",
+          "か月"
+        ]
+      }
+    ],
+    "。"
+  ],
+  "native.marketing.credit_pack.price_one_time": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb]（1回払い）"
+  ],
+  "native.marketing.credit_pack.price_one_time_save": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb]（1回払い）・",
+    [
+      "percent"
+    ],
+    "%オフ"
+  ],
+  "native.marketing.credit_pack.name_save_percent": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "クレジット"
+        ]
+      }
+    ],
+    " — ",
+    [
+      "percent"
+    ],
+    "%オフ"
+  ],
+  "native.marketing.billing_info.includes_plan": [
+    "このサブスクリプションでは、MuseScore ",
+    [
+      "plan"
+    ],
+    "にアクセスできます"
+  ],
+  "native.marketing.billing_info.includes_plan_and_course": [
+    "このサブスクリプションでは、MuseScore ",
+    [
+      "plan"
+    ],
+    "にアクセスできるほか、毎月「編集部のおすすめ」コレクションからお好きなコースを1つロック解除できます"
+  ],
+  "native.marketing.last_chance.start_membership": "メンバーシップを始める最後のチャンス",
+  "native.marketing.last_chance.start_with_trial": "無料トライアルで始める最後のチャンス",
+  "native.marketing.landing.upgrade_to_plan": [
+    "MuseScore ",
+    [
+      "plan"
+    ],
+    "にアップグレード"
+  ],
+  "native.marketing.score_sale.access_to_score": [
+    [
+      "title"
+    ],
+    "への永久フルアクセスを入手"
+  ],
+  "native.marketing.anniversary.dear_username": [
+    [
+      "username"
+    ],
+    "さん、こんにちは！"
+  ],
+  "native.marketing.anniversary.available_only_now_free_cancel": "このオファーは今だけです。いつでも無料でキャンセルできます",
+  "native.marketing.tour.membership_get_most_with_learn": [
+    "MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    "メンバーシップをお持ちです。MuseScore LEARNのコースで、さらに活用しましょう。"
+  ],
+  "native.marketing.tour.membership_add_pro_plus": [
+    "MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    "メンバーシップをお持ちです。MuseScore PRO+で完璧な伴奏を追加しませんか？"
+  ],
+  "native.marketing.after_sell.combines_with_trial": [
+    "ご利用中のメンバーシップはMuseScore ",
+    [
+      "type"
+    ],
+    "と相性抜群です（7日間トライアル）"
+  ],
+  "native.marketing.restore_subscription.cancels_on_date": [
+    "サブスクリプションは",
+    [
+      "date"
+    ],
+    "に終了します"
+  ],
+  "native.marketing.credits.description_pay_per_use": [
+    "膨大なコミュニティコレクション（",
+    [
+      "scoresCount"
+    ],
+    "M点の楽譜）からお好きな楽譜をダウンロードするなど、PRO機能を体験しましょう。使った分だけのお支払いで、長期契約は不要です。"
+  ],
+  "native.marketing.credits.balance_count": [
+    "[b]",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "PROクレジット"
+        ]
+      }
+    ],
+    "をご利用いただけます[/b]。クレジットを入手しましょう"
+  ],
+  "native.marketing.courses_payment.title_count": [
+    "お気に入りの曲を学べる",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "以上のコース"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.features_carousel.courses_sub_title_count": [
+    "あなたのために用意された",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "以上のコース"
+        ]
+      }
+    ],
+    "に無制限でアクセス。"
+  ],
+  "native.marketing.purchase_success.price_per_period": [
+    [
+      "price"
+    ],
+    " / ",
+    [
+      "period",
+      "select",
+      {
+        "year": "年",
+        "three_months": "3か月",
+        "month": "月",
+        "week": "週",
+        "other": [
+          [
+            "duration"
+          ]
+        ]
+      }
+    ]
+  ],
+  "native.marketing.purchase_success.price_per_period_on_date": [
+    [
+      "date"
+    ],
+    "に",
+    [
+      "price"
+    ],
+    " / ",
+    [
+      "period",
+      "select",
+      {
+        "year": "年",
+        "three_months": "3か月",
+        "month": "月",
+        "week": "週",
+        "other": [
+          [
+            "duration"
+          ]
+        ]
+      }
+    ]
+  ],
+  "native.marketing.purchase_success.price_on_date": [
+    [
+      "date"
+    ],
+    "に",
+    [
+      "price"
+    ]
+  ],
+  "native.marketing.credits.pro_balance_with_count": [
+    "PROクレジット残高：",
+    [
+      "count"
+    ]
+  ],
+  "native.marketing.credits.balance_with_count": [
+    "クレジット残高：",
+    [
+      "count"
+    ]
+  ],
+  "native.marketing.upgrade_onboarding.access_scores_count": [
+    "楽譜出版社からライセンスを受けた、ピアノ・ギター・ボーカル向けのお気に入りの曲の楽譜",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "点"
+        ]
+      }
+    ],
+    "にアクセス"
+  ],
+  "native.marketing.courses.plan_subscription_required": [
+    "MuseScore ",
+    [
+      "plan"
+    ],
+    "のサブスクリプションが必要です"
+  ],
+  "native.orders.restore_purchase_prompt_with_link": "見つからないものがありますか？[a]購入を復元[/a]",
+  "native.marketing.tour.start_now_with_name": [
+    [
+      "userName"
+    ],
+    "さん、今すぐ始めましょう"
+  ],
+  "native.marketing.gift_checklist.day_number": [
+    [
+      "number"
+    ],
+    "日目"
+  ],
+  "native.marketing.questions.social_proof.content_scores_count": [
+    "あなたのようなミュージシャンが[b]1,300万人[/b]以上。その中には、",
+    [
+      "id100"
+    ],
+    "人もいます。MuseScoreでは、",
+    [
+      "id103"
+    ],
+    "[b]",
+    [
+      "scoresCount"
+    ],
+    "M点[/b]の楽譜を提供しています"
+  ],
+  "native.marketing.personal_offer_save_named": [
+    [
+      "username"
+    ],
+    "さん限定オファー：",
+    [
+      "discount"
+    ],
+    "オフ"
+  ],
+  "native.video_player.speed_normal": "標準",
+  "native.marketing.maybe_later": "Maybe later",
+  "native.bug_report.no_mail_app.title": "Couldn't open a mail app",
+  "native.bug_report.no_mail_app.message": "Send your report to the address below. Copy it together with the report text and paste them into any mail app.",
+  "native.bug_report.no_mail_app.copy": "コピー",
+  "native.alerts.not_enough_storage.title": "Not enough storage",
+  "native.alerts.not_enough_storage.message": "There isn't enough free space on your device to download this score. Free up some space and try again.",
+  "native.auth.oauth_email_missing.title": "We couldn't get your email",
+  "native.auth.oauth_email_missing.message": "The sign-in service didn't share your email address with MuseScore, so we can't create your account. Please continue with email instead.",
+  "native.marketing.ug_lineup.weeks_price": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "週間"
+        ]
+      }
+    ],
+    " • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.upgrade_bundle.add_courses": "サブスクリプションに[color]コース[/color]を追加",
+  "native.marketing.upgrade_bundle.add_courses_and_official_scores": "サブスクリプションに[color]コース[/color]と[color]公式楽譜[/color]を追加"
+}

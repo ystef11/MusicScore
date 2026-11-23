@@ -1,0 +1,30 @@
+# JavaScript dependencies and local caches
+node_modules/
+.npm-cache/
+.metro-cache/
+coverage/
+*.log
+
+# Local IDE and SDK settings
+.idea/
+*.iml
+/android/local.properties
+
+# Android and native build output
+.gradle/
+.kotlin/
+.cxx/
+.externalNativeBuild/
+/android/build/
+/android/app/build/
+/vendor/**/android/build/
+/android/app/debug/
+/android/app/release/
+/android/app/src/main/assets/index.android.bundle
+
+# Installers and packaged artifacts
+/artifacts/
+*.apk
+*.aab
+*.apks
+*.xapk

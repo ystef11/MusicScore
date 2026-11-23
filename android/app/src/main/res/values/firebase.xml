@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources><string name="default_web_client_id">325216485207-aqa9h566e1mapbevr8p13bh341k515lf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId">325216485207</string>
+    <string name="google_api_key">AIzaSyA7-lZQeV_B4ZEfd7gzqWGoim7I89ELPtc</string>
+    <string name="google_app_id">1:325216485207:android:34205590ac7f1f4c</string>
+    <string name="google_crash_reporting_api_key">AIzaSyA7-lZQeV_B4ZEfd7gzqWGoim7I89ELPtc</string>
+    <string name="google_storage_bucket">musescore-mobile.appspot.com</string>
+    <string name="project_id">musescore-mobile</string>
+    </resources>

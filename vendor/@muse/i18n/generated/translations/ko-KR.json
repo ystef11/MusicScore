@@ -1,0 +1,3515 @@
+{
+  "marketing.available_with_premium": [
+    "프리미엄 기능으로, MuseScore ",
+    [
+      "type"
+    ],
+    "에서만 사용할 수 있습니다."
+  ],
+  "marketing.quiz.your_goal": "나의 목표",
+  "marketing.quiz.your_frequency": "나의 연습 빈도",
+  "marketing.quiz.your_instruments": "나의 악기",
+  "marketing.quiz.your_age": "나의 나이",
+  "marketing.quiz.your_topics": "나의 관심 주제",
+  "marketing.quiz.your_level": "나의 레벨",
+  "marketing.quiz.your_genres": "선호하는 장르",
+  "marketing.get_score": [
+    "악보 받기 (크레딧 ",
+    [
+      "credits"
+    ],
+    "개 남음)"
+  ],
+  "native_try_later": "나중에 다시 시도",
+  "native.offline_indicator.message": "연결을 확인하고 다시 시도해주세요.",
+  "native.daily_reminders.title": "나만의 연습 도우미",
+  "native.daily_reminders.message": "매일 목표를 달성할 수 있도록 꾸준히 연습하세요",
+  "native.daily_reminders.tour.ios_hint": "팁과 알림을 받으려면 [b]허용[/b]을 클릭하세요.",
+  "native.daily_reminders.tour.we_recommend_you_to_play": "매일 같은 시간에 최소 [minutes]23[/minutes]분 동안 연주하기를 [c]권장합니다[/c]",
+  "native.daily_reminders.tour.set_reminder_to": "연습 리마인더 설정",
+  "native.hub_new_for_you.title": "신규",
+  "native.hub_new_for_you.remindersControl.title": "주간 업데이트 알림",
+  "native.hub_new_for_you.description": "나를 위한 추천 악보 목록의 주간 업데이트를 받아보세요",
+  "native.push_notifications.forbidden_alert.title": "MuseScore 알림이 현재 꺼져 있습니다.",
+  "native.push_notifications.forbidden_alert.subtitle": "설정에서 알림을 켜 주세요",
+  "native.push_notifications.forbidden_alert.answers.not_now": "나중에",
+  "native.push_notifications.forbidden_alert.answers.settings": "설정",
+  "native.hub_popular.title": "인기",
+  "native.hub_popular.noAuthTitle": "추천",
+  "native.search.placeholder": "검색",
+  "native.search.placeholder_sets": "세트 검색",
+  "native.search.submit_button": "확인",
+  "native.search.cancel_button": "취소",
+  "native.search.empty": "죄송합니다, 일치하는 항목을 찾을 수 없습니다.\n철자를 확인하거나 다른 검색어를 시도해주세요.",
+  "native.search.empty_offline": "인터넷에 연결하여 170만 개 이상의 악보를 탐색하거나, 오프라인에서 직접 업로드하세요.",
+  "native.spotlight.parts": "파트",
+  "native.score_action_sheet.duration": "재생 시간",
+  "native.score_action_sheet.pages": "페이지",
+  "native.score_action_sheet.measures": "마디",
+  "native.score_action_sheet.key_signature": "조표",
+  "native.score_action_sheet.ensemble": "앙상블",
+  "native.score_action_sheet.part_count": "파트",
+  "native.score_action_sheet.part_names": "파트 이름",
+  "native.score_action_sheet.genre": "장르",
+  "native.score_action_sheet.license": "라이선스",
+  "native.score_action_sheet.privacy": "공개 설정",
+  "native.score_action_sheet.cancel": "건너뛰기",
+  "native.score_action_sheet.set_add_button": "세트에 추가",
+  "native.score_action_sheet.delete_button": "삭제",
+  "native.score_action_sheet.share_button": "공유",
+  "native.score_action_sheet.more": "더 보기",
+  "native.score_action_sheet.cancel_button": "취소",
+  "native.score_action_sheet.score_unavailable_contact": "고객 지원에 문의",
+  "native.bottom_bar.scores_tab": "악보",
+  "native.bottom_bar.courses_tab": "강좌",
+  "native.bottom_bar.library_tab": "라이브러리",
+  "native.bottom_bar.profile_tab": "프로필",
+  "native.failure_download_pdf_score.title": "이 항목은 일시적으로 사용할 수 없습니다.",
+  "native.score_details_sheet.save_button": "오프라인 저장",
+  "native.score_details_sheet.download_button": "다운로드",
+  "native.score_details_sheet.rate_button": "평가",
+  "native.score_details_sheet.views_number": [
+    "조회수 ",
+    [
+      "number"
+    ],
+    "회"
+  ],
+  "native.score_details_sheet.no_views": "조회수 없음",
+  "native.score_details_sheet.complexity.beginner": "초급",
+  "native.score_details_sheet.complexity.intermediate": "중급",
+  "native.score_details_sheet.complexity.advanced": "고급",
+  "native.score_details_sheet.complexity.all_levels": "모든 레벨",
+  "native.score_modals.rate_score": "악보 평가",
+  "native.score_modals.rating_saved": "평가가 저장되었습니다!",
+  "native.score_modals.rating_saved_hint": "마음에 드시나요? 앱 스토어에서 감사 인사를 남겨 주세요",
+  "native.score_modals.rate_score_hint": "평점을 매기고 댓글을 남겨 주세요.",
+  "native.score_modals.rate_score_result": "이 악보를 평가해 주셔서 감사합니다! 🤘",
+  "native.screen_explore.top_hubs": "인기 허브",
+  "native.screen_explore.highest_rated_scores": "최고 평점을 받은 악보",
+  "native.screen_explore.most_commented_scores": "댓글이 가장 많은 악보",
+  "native.screen_explore.off_scores_title": "인쇄 악보 출판사로부터 라이선스를 받은 공식 악보를 연주하세요",
+  "native.screen_explore.selected_for_you": "맞춤 추천 악보",
+  "native.screen_explore.popular": "인기",
+  "native.screen_explore.recently_viewed": "최근 본 악보",
+  "native.screen_hub.scores": "악보",
+  "native.screen_notifications.title": "새 소식을 놓치지 마세요! 푸시 알림을 켜세요",
+  "native.screen_notifications.allow": "알림 켜기",
+  "native.screen_notifications.dismiss": "나중에",
+  "native.screen_profile.finished_restore": "복원이 완료되었습니다.",
+  "native.screen_profile.want_to_delete_account": "계정을 삭제하시겠습니까?",
+  "native.screen_profile.account_will_be_removed": "계정이 삭제되고 모든 계정 정보가 지워집니다. 모든 콘텐츠도 함께 삭제됩니다. 이 작업은 되돌릴 수 없습니다.",
+  "native.screen_profile.delete_account": "계정 삭제",
+  "native.screen_profile.logout": "로그아웃",
+  "native.screen_profile.be_careful": "주의하세요!",
+  "native.screen_profile.be_careful_delete_account": "계정, 모든 계정 정보 및 모든 콘텐츠가 삭제됩니다.\n\n이 작업은 되돌릴 수 없으니 주의하세요.",
+  "native.screen_welcome.login": "이메일로 계속하기",
+  "native.screen_welcome.facebook": "Facebook으로 계속하기",
+  "native.screen_welcome.apple": "Apple로 계속하기",
+  "native.screen_welcome.google": "Google로 계속하기",
+  "native.screen_welcome.restore": "구매 복원",
+  "native.screen_welcome.open_create_account_screen_button": "계정 만들기",
+  "native.screen_welcome.skip_button": "로그인 건너뛰기",
+  "native.screen_login.login_placeholder": "사용자 이름 또는 이메일",
+  "native.screen_login.pass_placeholder": "비밀번호",
+  "native.screen_login.login_button_title": "로그인",
+  "native.screen_login.forgot_button_title": "비밀번호를 잊으셨나요?",
+  "native.screen_login.has_account": "계정이 없으신가요?",
+  "native.screen_login.create_account_motive": "가입하기",
+  "native.screen_login.email_required_error_title": "이메일 권한 필요",
+  "native.screen_login.email_required_error_text": "계속하려면 이메일 권한이 필요합니다. 다시 로그인해 주세요.",
+  "native.screen_new_account.title": "회원가입",
+  "native.screen_new_account.user": "사용자 이름",
+  "native.screen_new_account.email": "이메일",
+  "native.screen_new_account.email_placeholder": "이메일을 입력하세요",
+  "native.screen_new_account.username_placeholder": "사용자 이름을 입력하세요",
+  "native.screen_new_account.pass": "비밀번호",
+  "native.screen_new_account.register_button_title": "계정 만들기",
+  "native.screen_new_account.has_account": "이미 계정이 있으신가요?",
+  "native.screen_new_account.email_taken": "이미 사용 중인 이메일 주소입니다. 로그인해 보세요",
+  "native.screen_new_account.sign_up_musescore": "MuseScore 가입하기",
+  "native.screen_new_account.subtitle": "즐겨찾는 악보를 저장하고 MuseScore 커뮤니티에 참여하세요.",
+  "native.screen_new_account.email_screen_header": "이메일 주소를 입력해 주세요",
+  "native.screen_new_account.password_screen_header": "비밀번호를 설정해 주세요",
+  "native.screen_new_account.password_placeholder": "비밀번호 만들기",
+  "native.screen_new_account.email_taken_error": [
+    [
+      "email"
+    ],
+    " 이메일은 이미 사용 중입니다"
+  ],
+  "native.screen_new_account.username_taken_error": [
+    "사용자 이름 ",
+    [
+      "username"
+    ],
+    "은(는) 이미 사용 중입니다"
+  ],
+  "native.screen_new_account.continue": "계속",
+  "native.screen_new_account.password_rules_title": "강력한 비밀번호를 만들려면 다음을 포함하세요:",
+  "native.screen_new_account.password_strength": "비밀번호 강도:",
+  "native.screen_new_account.password_strength_normal": "보통",
+  "native.screen_new_account.password_rules_length": "8자 이상",
+  "native.screen_new_account.password_rules_lowercase_letters": "소문자 (abc...)",
+  "native.screen_new_account.password_rules_uppercase_letters": "대문자 (ABC...)",
+  "native.screen_new_account.password_rules_numbers": "숫자 (123...)",
+  "native.screen_new_account.password_rules_special_characters": "특수 문자 (!#$...)",
+  "native.screen_new_account.consent_screen_header": "MuseScore 이용약관에 동의해 주세요",
+  "native.screen_new_account.agree_to_all": "전체 동의",
+  "native.screen_new_account.required": "필수",
+  "native.screen_new_account.recommended": "권장",
+  "native.screen_new_account.terms_of_use_label": "MuseScore 이용약관",
+  "native.screen_new_account.terms_of_use": "이용약관",
+  "native.screen_new_account.privacy_policy_required": "필수 개인정보 수집 및 이용",
+  "native.screen_new_account.privacy_policy_optional": "선택 개인정보 수집 및 이용",
+  "native.screen_new_account.see_details": "자세히 보기",
+  "native.screen_new_account.age_confirm": "만 14세 이상입니다",
+  "native.screen_new_account.receive_marketing": "마케팅 정보 수신 동의",
+  "native.screen_mixer.visibility_all_parts": "모든 파트를 표시하시겠습니까?",
+  "native.screen_mixer.playability_all_parts": "모든 파트를 재생하시겠습니까?",
+  "native.screens_titles.score_screen": "악보",
+  "native.screens_titles.mixer_screen": "믹서",
+  "native.screens_titles.about_screen": "소개",
+  "native.screens_titles.my_scores_screen": "내 악보",
+  "native.screens_titles.activity_screen": "알림",
+  "native.instrument.organ": "오르간",
+  "native.instrument.accordion": "아코디언",
+  "native.instrument.bass": "베이스",
+  "native.instrument.violin": "바이올린",
+  "native.instrument.viola": "비올라",
+  "native.instrument.cello": "첼로",
+  "native.instrument.contrabass": "콘트라베이스",
+  "native.instrument.trombone": "트롬본",
+  "native.instrument.tuba": "튜바",
+  "native.instrument.french_horn": "호른",
+  "native.instrument.oboe": "오보에",
+  "native.instrument.bassoon": "바순",
+  "native.instrument.clarinet": "클라리넷",
+  "native.instrument.flute": "플루트",
+  "native.filter_screen.instrument_count": "악기 수",
+  "native.filter_screen.instruments": "악기",
+  "native.filter_screen.ensemble": "앙상블",
+  "native.filter_screen.genre": "장르",
+  "native.filter_screen.status": "상태",
+  "native.filter_screen.license": "라이선스",
+  "native.filter_screen.parts": "파트",
+  "native.filter_screen.part": "파트",
+  "native.filter_screen.scores_title": "공식 악보",
+  "native.filter_screen.scores_new": "신규!",
+  "native.settings_screen.logout_button": "로그아웃",
+  "native.settings_screen.login_button": "로그인",
+  "native.settings_screen.sing_up_button": "회원가입",
+  "native.settings_screen.login_you_account_button": "계정에 로그인",
+  "native.settings_screen.restore_purchases_subtitle": "이전에 PRO를 구매했다면 버튼을 눌러 구매를 복원하세요",
+  "native.my_profile.settings_section": "내 설정",
+  "native.my_profile.stay_awake_switch_title": "화면 켜짐 유지",
+  "native.my_profile.stay_awake_switch_subtitle": "악보를 보는 동안 절전 모드로 전환되지 않습니다",
+  "native.my_profile.notification_settings_title": "알림 설정",
+  "native.my_profile.notification_settings_subtitle": "보고 싶은 콘텐츠를 선택하세요",
+  "native.my_profile.daily_reminder_settings_title": "일일 알림",
+  "native.my_profile.daily_reminder_settings_subtitle": "매일 알림으로 음악가로 성장하세요",
+  "native.my_profile.daily_reminder_settings_description": "매일 알림 설정",
+  "native.my_profile.hq_sound_settings_title": "MuseScore HQ+ 사운드",
+  "native.my_profile.hq_sound_settings_subtitle": "스테레오 지원 16비트 오디오 샘플 1246개 다운로드",
+  "native.my_profile.hq_sound_settings_description": "모듈레이션을 지원하는 스테레오 16비트 오디오 샘플 1246개를 다운로드합니다.\n기기에 159MB의 추가 공간이 필요합니다.",
+  "native.my_profile.more_section": "더 보기",
+  "native.my_profile.restore_purchases_title": "구매 복원",
+  "native.my_profile.pp_title": "개인정보 처리방침",
+  "native.alerts.login_error.message": "로그인 정보 또는 비밀번호가 올바르지 않습니다",
+  "native.alerts.error_login_facebook.title": "로그인에 실패했습니다",
+  "native.alerts.connection_error.title": "인터넷 연결 없음",
+  "native.alerts.connection_error.message": "인터넷 연결을 확인해주세요.",
+  "native.alerts.failure_download_pdf_score.title": "이 항목은 일시적으로 사용할 수 없습니다.",
+  "native.alerts.access_denied.title": "죄송하지만, 이 악보는 사용할 수 없습니다.",
+  "native.alerts.access_denied.message": "기기가 Android 호환성 요구 사항을 충족하는지 확인하는 데 문제가 있습니다. 요구 사항에 대한 자세한 내용은 여기에서 확인하세요:",
+  "native.alerts.access_denied.action": "지원팀에 문의하기",
+  "native.alerts.try_again.title": "이런!",
+  "native.alerts.try_again.description": "앱이 백그라운드에서 종료된 것 같습니다. 새로고침해 보세요",
+  "native.settings_extasy_screen.tempo_title": "템포",
+  "native.settings.score.set_default_transposition": "기본 조 설정",
+  "native.permissions.storage.initial_alert_title": "파일 저장공간 접근",
+  "native.permissions.storage.initial_alert_message": "악보를 열려면 파일 저장공간 접근을 허용해 주세요(선택한 악보에만 적용됨).",
+  "native.permissions.storage.denied_alert_title": "접근 거부됨",
+  "native.permissions.storage.modal.cancel": "나중에",
+  "native.permissions.storage.modal.settings": "설정",
+  "native.screen_tour.rate_text": "감사 인사하기",
+  "native.screen_tour.start_trial_text": "7일 무료 체험 시작하기",
+  "native.screen_tour.free_trial_text": "7일 무료 체험",
+  "native.screen_tour.monthly_access": "월간 이용권",
+  "native.screen_tour.annual_access": "연간 이용권",
+  "native.screen_tour.annual": "연간",
+  "native.screen_tour.monthly": "월간",
+  "native.screen_tour.start_now_text": "지금 시작하기",
+  "native.screen_tour.scores_count": "인쇄 악보 출판사로부터 라이선스를 받은 피아노, 기타, 보컬용 인기곡 악보를 이용하세요",
+  "native.screen_tour.scores_pro": "PRO",
+  "native.screen_tour.scores_upgrade": "업그레이드: MuseScore",
+  "native.screen_tour.scores_switcher_title": "공식 악보로 한 단계 더 나아가세요",
+  "native.screen_tour.save": "할인",
+  "native.screen_tour.score_feature": "[b]130만 개 악보[/b] - 모두 광고 없이",
+  "native.screen_tour.score_list_feature": "악보 다운로드, 조옮김, [b]오프라인 이용[/b]",
+  "native.screen_tour.score_official_feature": "실력을 [b]빠르게 향상[/b]시켜 줄 공식 악보",
+  "native.screen_tour.courses_feature": "[b]전문가[/b]가 가르치는 [b]150개 이상의[/b] 음악 강좌",
+  "native.screen_tour.start_free": "무료로 시작하기",
+  "native.screen_tour.course_subs_required": "MuseScore LEARN 구독이 필요합니다",
+  "native.screen_tour.free_cancel": "언제든지 무료로 취소 가능",
+  "native.screen_tour.start_describe": "시대를 초월한 명곡부터 최신 히트곡까지 사랑하는 음악을 발견하세요. 필수 연습 도구와 레슨으로 어떤 곡이든 연주해보세요.",
+  "native.screen_tour.fact_sub_title": "완전 초보자부터 숙련된 음악가까지, 수백만 명의 연주자와 작곡가가 MuseScore와 함께하고 있습니다",
+  "native.screen_tour.instant_sub_title": "프리미엄 연주 및 연습 기능을 바로 이용하세요",
+  "native.screen_tour.switcher_title": "공식 악보로 레벨 업하세요",
+  "native.screen_tour.subscription_text": "이 구독에는 다음이 포함됩니다:",
+  "native.screen_tour.subscription_access": "MuseScore",
+  "native.screen_tour.subscription_unlocks_text": "및 매달 편집자 추천 컬렉션에서 원하는 강좌 1개 잠금 해제",
+  "native.payment_courses.title": "좋아하는 곡을 배우는 데 도움이 되는 150개 이상의 강좌",
+  "native.payment_popover.preview": "미리보기가 끝났습니다",
+  "native.payment_popover.continue": "이 강좌를 무료로 계속하기",
+  "native.game_screen.or": "또는",
+  "native.upgrade_messages.cant_upgrade": "MuseScore 웹사이트에서 시작한 구독이므로 앱에서는 구독을 업그레이드할 수 없습니다. '지금 업그레이드' 버튼을 클릭하여 MuseScore 웹사이트로 이동한 후 구독을 업그레이드하세요",
+  "native.upgrade_messages.upgrade_title": "피아노, 기타 및 보컬을 위한 공식 악보",
+  "native.upgrade_messages.upgrade_now": "지금 업그레이드",
+  "native.screen_anniversary_splash.available_only_now": "지금만 받을 수 있는 혜택",
+  "native.billing_restore": "복원",
+  "native.billing_info_text": "구매 확인 시 iTunes 계정으로 요금이 청구됩니다. 현재 기간이 끝나기 최소 24시간 전까지 자동 갱신을 해제하지 않으면 구독이 자동으로 갱신됩니다. 현재 기간 종료 전 24시간 이내에 갱신 요금이 계정에 청구되며, 갱신 비용이 안내됩니다. 사용자는 구독을 관리할 수 있으며, 구매 후 계정 설정에서 자동 갱신을 해제할 수 있습니다. 무료 체험 기간이 제공되는 경우, 해당 구독을 구매하면 무료 체험 기간 중 사용하지 않은 부분은 소멸됩니다(해당되는 경우).",
+  "native.billing_info_text_cancel": "자동 갱신 구독. 언제든지 취소 가능.",
+  "native.terms_of_service": "서비스 약관",
+  "native.privacy_policy": "개인정보 처리방침",
+  "native.marketing_text.restore_purchase_message_negative": [
+    [
+      "store"
+    ],
+    "에서 활성화된 구독이 없습니다"
+  ],
+  "native.marketing_text.restore_purchase_message_error": "구독을 복원하는 중 오류가 발생했습니다",
+  "native.marketing_text.auto_renewal_restored_success": "자동 갱신이 복구되었습니다",
+  "native.marketing_text.auto_renewal_restored_failure": "구독을 복원하는 중 오류가 발생했습니다. 다시 시도하거나 고객 지원에 문의하세요.",
+  "native.hqSound.button_download": "HQ+ 사운드 다운로드",
+  "native.hqSound.button_clear": "다운로드한 파일 삭제",
+  "native.hqSound.button_cancel": "취소",
+  "native.hqSound.popup_title": "정말 삭제하시겠습니까?",
+  "native.hqSound.popup_button": "삭제",
+  "native.privacy.public": "모든 사람이 이 악보를 볼 수 있습니다.",
+  "native.privacy.private": "나만 이 악보를 볼 수 있습니다.",
+  "native.marketing.slash_month": "/월",
+  "native.marketing.slash_mo": "/월",
+  "native.marketing.slash_year": "/년",
+  "native.marketing.sale_text_65": "65 할인",
+  "native.marketing.dont_show_this_again": "다시 보지 않기",
+  "native.marketing.claim_this_deal": "이 혜택 받기",
+  "native.marketing.best_value": "최고 가성비",
+  "native.marketing.most_popular": "가장 인기",
+  "native.marketing.per": "/",
+  "native.marketing.then": "이후",
+  "native.marketing.cancelAnytime": "언제든지 취소 가능",
+  "native.marketing.12MonthsAt": "12개월 구독에",
+  "native.marketing.startWithA1WeekFreeTrial": "1주일 무료 체험으로 시작하세요.",
+  "native.marketing.continue": "계속",
+  "native.marketing.create_your_account": "계정을 만들고 100만 개 이상의 악보를 이용하세요",
+  "native.marketing.enter_your_name": "이름을 입력하세요",
+  "native.marketing.nice_to_meet_you": "만나서 반갑습니다",
+  "native.marketing.fact1": [
+    "작년 한 해 MuseScore 작곡가들이 [c]",
+    [
+      "count"
+    ],
+    "개의 악보[/c]를 공유했습니다"
+  ],
+  "native.marketing.fact2": [
+    "MuseScore 카탈로그에 있는 검증된 출판사의 [c]공식 악보[/c] ",
+    [
+      "count"
+    ],
+    "개"
+  ],
+  "native.marketing.questions.instrument.list.piano": "피아노",
+  "native.marketing.questions.instrument.list.saxophone": "색소폰",
+  "native.marketing.questions.instrument.list.woodwinds": "목관악기",
+  "native.marketing.questions.instrument.list.percussion": "타악기",
+  "native.marketing.questions.instrument.list.trumpet": "트럼펫",
+  "native.marketing.questions.instrument.list.brass": "금관악기",
+  "native.marketing.questions.instrument.list.voice": "보컬",
+  "native.marketing.questions.instrument.list.guitar": "기타",
+  "native.marketing.questions.instrument.list.other": "기타",
+  "native.marketing.questions.instrument.list.violin": "바이올린",
+  "native.marketing.questions.instrument.list.string_instrument_title": "현악기",
+  "native.marketing.questions.instrument.list.viola": "비올라",
+  "native.marketing.questions.instrument.list.cello": "첼로",
+  "native.marketing.questions.instrument.list.contrabass": "콘트라베이스",
+  "native.marketing.questions.instrument.list.banjo": "밴조",
+  "native.marketing.questions.instrument.list.ukulele": "우쿨렐레",
+  "native.marketing.questions.instrument.list.other_instruments": "기타 악기",
+  "native.marketing.questions.instrument.list.other_free_reed_instruments": "기타 프리 리드 악기",
+  "native.marketing.questions.instrument.list.accordion": "아코디언",
+  "native.marketing.questions.instrument.list.organ": "오르간",
+  "native.marketing.questions.instrument.list.other_woodwinds": "기타 목관악기",
+  "native.marketing.questions.instrument.list.bassoon": "바순",
+  "native.marketing.questions.instrument.list.oboe": "오보에",
+  "native.marketing.questions.instrument.list.flute": "플루트",
+  "native.marketing.questions.instrument.list.brass_instrument": "금관악기",
+  "native.marketing.questions.instrument.list.trombone": "트롬본",
+  "native.marketing.questions.instrument.list.french_horn": "호른",
+  "native.marketing.questions.instrument.list.tuba": "튜바",
+  "native.marketing.questions.instrument.list.other_brass": "기타 금관악기",
+  "native.marketing.questions.instrument.list.free_reed_instruments": "프리 리드 악기",
+  "native.marketing.questions.instrument.list.clarinet": "클라리넷",
+  "native.marketing.questions.genre.list.blues": "블루스",
+  "native.marketing.questions.genre.list.classical": "클래식",
+  "native.marketing.questions.genre.list.country": "컨트리 음악",
+  "native.marketing.questions.genre.list.folk": "포크",
+  "native.marketing.questions.genre.list.jazz": "재즈",
+  "native.marketing.questions.genre.list.new_age": "뉴에이지",
+  "native.marketing.questions.genre.list.pop": "팝",
+  "native.marketing.questions.genre.list.rock": "록",
+  "native.marketing.questions.genre.list.other": "기타",
+  "native.marketing.questions.genre.list.soundtrack": "사운드트랙",
+  "native.marketing.questions.genre.list.religious_music": "종교 음악",
+  "native.marketing.questions.genre.list.hip_hop": "힙합",
+  "native.marketing.questions.genre.list.electronic": "일렉트로닉",
+  "native.marketing.questions.genre.list.metal": "메탈",
+  "native.marketing.questions.genre.list.reggae_and_ska": "레게 & 스카",
+  "native.marketing.questions.genre.list.rnb_funk_and_soul": "R&B, 펑크 & 소울",
+  "native.marketing.questions.genre.list.disco": "디스코",
+  "native.marketing.questions.genre.list.darkwave": "다크웨이브",
+  "native.marketing.questions.genre.list.world_music": "글로벌 음악",
+  "native.marketing.questions.genre.list.experimental": "실험 음악",
+  "native.marketing.questions.genre.list.comedy": "코미디",
+  "native.marketing.questions.genre.list.classical_modern": "현대 클래식",
+  "native.marketing.questions.genre.list.classical_cinematic": "시네마틱 클래식",
+  "native.marketing.questions.genre.list.classical_neoclassical": "네오클래식 뉴에이지",
+  "native.marketing.questions.genre.list.classical_classical": "클래식",
+  "native.marketing.questions.genre.list.pop_rock": "팝 록",
+  "native.marketing.questions.genre.list.pop_soul": "팝 소울",
+  "native.marketing.questions.genre.list.pop_indi": "인디 팝",
+  "native.marketing.questions.genre.list.pop_dance": "댄스 팝",
+  "native.marketing.questions.genre.list.pop_folk": "포크 팝",
+  "native.marketing.questions.genre.list.pop_electro": "일렉트로팝",
+  "native.marketing.questions.genre.list.pop_chamber": "챔버 팝",
+  "native.marketing.questions.genre.list.pop_art": "아트 팝",
+  "native.marketing.questions.genre.list.pop_traditional": "트래디셔널 팝",
+  "native.marketing.questions.genre.list.pop_c": "C-pop",
+  "native.marketing.questions.genre.list.soundtrack_game": "비디오 게임 음악",
+  "native.marketing.questions.genre.list.soundtrack_singer": "싱어송라이터",
+  "native.marketing.questions.genre.list.soundtrack_christmas": "크리스마스 음악",
+  "native.marketing.questions.genre.list.rock_alternative": "얼터너티브 록",
+  "native.marketing.questions.genre.list.rock_piano": "피아노 록",
+  "native.marketing.questions.genre.list.rock_hard": "하드 록",
+  "native.marketing.questions.level.list.beginner": "초급",
+  "native.marketing.questions.level.list.can_read_notation": "악보 읽기 가능",
+  "native.marketing.questions.level.list.intermediate": "중급",
+  "native.marketing.questions.level.list.professional": "전문가",
+  "native.marketing.questions.level.list.virtuoso": "명연주자",
+  "native.marketing.credit_balance_title": "크레딧 잔액",
+  "native.marketing.use_credit_title": "PRO 크레딧 1개 사용",
+  "native.marketing.restore_subscription": "구독 복원",
+  "native.marketing.restore_subscription_title": "구독을 복원하여 다운로드, 인쇄 등 프리미엄 기능을 계속 이용하세요",
+  "native.marketing.restore_subscription_cancel_title": "구독 취소 예정일:",
+  "native.marketing.personal_offer_title": "맞춤 혜택 준비 완료!",
+  "native.marketing.try_now": "지금 확인하기",
+  "native.marketing.action_required": "조치가 필요합니다",
+  "native.marketing.membership_expire_soon": "멤버십이 곧 만료됩니다",
+  "native.marketing.lose_access": "다음 기능을 더 이상 이용할 수 없게 됩니다:",
+  "native.marketing.restart_membership": "멤버십 다시 시작",
+  "native.locale_file_status.start": "시작 중",
+  "native.locale_file_status.copy": "복사 중",
+  "native.locale_file_status.open": "여는 중",
+  "native.locale_file_status.font_loading": "글꼴 불러오는 중",
+  "native.sorting.title": "정렬 기준",
+  "native.sorting.by.date": "업로드 날짜",
+  "native.sorting.by.views": "조회수",
+  "native.sorting.by.comments": "댓글 수",
+  "native.sorting.by.relevance": "관련도순",
+  "native.sorting.title_asc": "제목순 (A-Z)",
+  "native.sorting.title_desc": "제목순 (Z-A)",
+  "native.sorting.date_added_asc": "추가일순 (오래된 순)",
+  "native.sorting.date_added_desc": "추가일순 (최신순)",
+  "native.sorting.date_updated_asc": "업데이트일순 (최신순)",
+  "native.sorting.date_updated_desc": "업데이트일순 (오래된 순)",
+  "native.sorting.date_created_asc": "생성일순 (최신순)",
+  "native.sorting.date_created_desc": "생성일순 (오래된 순)",
+  "native.sorting.views_desc": "조회수순 (높은 순)",
+  "native.sorting.views_asc": "조회수순 (낮은 순)",
+  "native.instrument.any_instrument": "모든 악기",
+  "native.instrument.piano": "피아노",
+  "native.instrument.harpsichord": "하프시코드",
+  "native.instrument.percussion": "타악기",
+  "native.instrument.harmonica": "하모니카",
+  "native.instrument.guitar": "기타",
+  "native.instrument.strings": "현악기",
+  "native.instrument.harp": "하프",
+  "native.instrument.timpani": "팀파니",
+  "native.instrument.trumpet": "트럼펫",
+  "native.instrument.brass_ensemble": "브라스 앙상블",
+  "native.instrument.soprano_saxophone": "소프라노 색소폰",
+  "native.instrument.alto_saxophone": "알토 색소폰",
+  "native.instrument.tenor_saxophone": "테너 색소폰",
+  "native.instrument.baritone_saxophone": "바리톤 색소폰",
+  "native.instrument.english_horn": "잉글리시 호른",
+  "native.instrument.piccolo": "피콜로",
+  "native.instrument.recorder": "리코더",
+  "native.instrument.other_woodwinds": "기타 목관악기",
+  "native.instrument.synthesizer": "신시사이저",
+  "native.instrument.sound_effects": "음향 효과",
+  "native.instrument.bagpipe": "백파이프",
+  "native.instrument.brass": "금관악기",
+  "native.instrument.keyboard": "건반",
+  "native.instrument.effect": "효과",
+  "native.instrument.metal": "금속 악기",
+  "native.instrument.percussion_-_body": "타악기 - 바디",
+  "native.instrument.percussion_-_drum": "타악기 - 드럼",
+  "native.instrument.percussion_-_metal": "타악기 - 금속",
+  "native.instrument.percussion_-_pitched": "타악기 - 유율",
+  "native.filter.instrument": "악기",
+  "native.filter.level": "레벨",
+  "native.filter.topics": "주제",
+  "native.filter.show_all": "모두 보기",
+  "native.instrument.percussion_-_wood": "타악기 - 나무",
+  "native.instrument.strings_-_bowed": "현악기 - 찰현",
+  "native.instrument.strings_-_plucked": "현악기 - 발현",
+  "native.license.publicdomain": "퍼블릭 도메인 (권리 없음)",
+  "native.license.all_rights_reserved": "없음 (모든 권리 보유)",
+  "native.license.cc_zero": "퍼블릭 도메인 (권리 없음)",
+  "native.license.cc_by": "저작자 표시",
+  "native.license.cc_by_nd": "저작자 표시, 변경 금지",
+  "native.license.cc_by_sa": "저작자 표시, 동일조건 변경 허락",
+  "native.license.cc_by_nc": "저작자 표시, 비영리",
+  "native.license.cc_by_nc_nd": "저작자 표시, 비영리, 변경 금지",
+  "native.license.cc_by_nc_sa": "저작자 표시, 비영리, 동일조건 변경 허락",
+  "native.signInToGetUpdates": "가입하고 업데이트를 받아보세요",
+  "native.instrument.voice": "보컬",
+  "native.instrument.woodwinds": "목관악기",
+  "native.song_book_remove.subtitle": "이 항목은 즉시 삭제되며, 되돌릴 수 없습니다.",
+  "native.screen_comments.comment": "댓글",
+  "native.screen_comments.comments": "댓글",
+  "native.screen_comments.reply": "답글",
+  "native.screen_comments.likes": "좋아요",
+  "native.screen_comments.write_comment": "댓글 작성",
+  "native.screen_comments.remove": "삭제",
+  "native.screen_comments.no_comments": "아직 댓글이 없습니다.",
+  "native.screen_comments.replies_count": [
+    "답글 ",
+    [
+      "count"
+    ],
+    "개"
+  ],
+  "native.net_promoter_score.confirm_feedback_close_action": "완료",
+  "native.library.my_scores_title": "악보",
+  "native.library.my_scores_desc": "musescore.com에 업로드한 악보",
+  "native.library.my_sets_title": "내 세트",
+  "native.library.my_sets_desc": "당신이 직접 만든 세트",
+  "native.library.favorites_desc": "저장한 악보",
+  "native.library.songbook_desc": "로컬에 저장된 악보 (오프라인 가능)",
+  "native.library.scores_column": "악보",
+  "native.library.my_scores.site_link": "musescore.com으로 이동",
+  "native.library.my_scores.editor_link": "악보 편집기에 대해 자세히 알아보기",
+  "native.library.favorites_courses.title": "강좌를 추가해 보세요",
+  "native.library.favorites_courses.search_btn_title": "강좌 검색",
+  "native.library.songbook.upload_btn_title": "mscz 파일 업로드",
+  "native.library.songbook.editor_link": "악보 편집기에 대해 자세히 알아보기",
+  "native.library.created_by_me": "내가 만든 항목",
+  "native.library.available_offline": "오프라인 이용 가능",
+  "native.new_search.empty_condition.top_string": "검색 결과가 없습니다.",
+  "native.new_search.empty_condition.bottom_string": "다른 필터를 사용하거나 검색어를 바꿔보세요.",
+  "native.new_search.not_found": "찾을 수 없음",
+  "native.new_search.sources.my": "내 악보에서",
+  "native.new_search.sources.everywhere": "전체",
+  "native.tooltips.upload": "업로드",
+  "native.tooltips.more": "더 보기",
+  "native.alertNotifications.tooManyRequests": "잠시 후에 다시 시도해 주세요.",
+  "native.alertNotifications.downloading": "다운로드 중...",
+  "native.feed.items.20": "님이 내 악보에 댓글을 달았습니다",
+  "native.feed.items.21": "님이 악보에 남긴 내 댓글에 답글을 달았습니다",
+  "native.feed.items.30": "님이 악보를 추가했습니다",
+  "native.feed.items.31": "님이 나를 팔로우하기 시작했습니다",
+  "native.activity.empty_list.title": "새 소식을 받아보세요",
+  "native.activity.notifications.new_follower": "새 팔로워",
+  "native.activity.notifications.your_comment_replied": "내 댓글에 달린 답글",
+  "native.activity.notifications.your_score_commented": "내 악보에 달린 댓글",
+  "native.user.follow": "팔로우",
+  "native.user.unfollow": "언팔로우",
+  "native.user.followers": "팔로워",
+  "native.user.no_followers": "팔로워 없음",
+  "native.user.followings": "팔로잉",
+  "native.user.no_followings": "팔로잉 없음",
+  "native.user.set": "세트",
+  "native.user.sets": "세트",
+  "native.user.scores": "악보",
+  "native.user.my": "내",
+  "native.filter.actions.apply": "적용",
+  "native.filter.actions.reset": "초기화",
+  "native.key_words.settings": "설정",
+  "native.key_words.metronome": "메트로놈",
+  "native.key_words.feedback": "피드백",
+  "native.actions.close": "닫기",
+  "native.actions.change": "변경",
+  "native.actions.okay": "확인",
+  "native.actions.retry": "다시 시도",
+  "native.help_center.step_first.title": "무엇을 도와드릴까요?",
+  "native.help_center.step_first.variants.first": "질문에 대한 답변을 찾고 싶습니다",
+  "native.help_center.step_first.variants.second": "문의하고 싶습니다",
+  "native.help_center.step_second.title": "어느 이메일 주소로 답변을 보낼까요?",
+  "native.help_center.step_second.text": "연락드릴 수 있도록 아래에 이메일 주소를 입력해 주세요. (개인정보는 안전하게 보호되며 문의 답변에만 사용됩니다.)",
+  "native.help_center.step_second.placeholder": "이메일 주소",
+  "native.artists.based_on": "이 악보의 원곡:",
+  "native.artists.by": "아티스트:",
+  "native.artists.artist_info": "아티스트 정보",
+  "native.artists.composition_info": "곡 정보",
+  "native.artists.bio": "아티스트 소개",
+  "native.artists.no_bio": "아티스트 소개가 곧 추가될 예정입니다.\n준비 중입니다!",
+  "native.artists.read_more": "더 보기",
+  "native.artists.links": "링크",
+  "native.artists.score": "악보",
+  "native.artists.composition": "곡",
+  "native.courses.courses": "강좌",
+  "native.courses.instrument": "악기",
+  "native.courses.theme": "강좌 주제",
+  "native.courses.favorites": "저장한 강좌",
+  "native.courses.play_speed": "재생 속도",
+  "native.courses.video_quality": "화질",
+  "native.courses.lesson": "레슨",
+  "native.courses.lessons": "레슨",
+  "native.courses.pdf_lesson": "강사가 이 강의용으로 제공한 PDF를 다운로드하여 확인하세요.",
+  "native.courses.download_material": [
+    "레슨 자료 ",
+    [
+      "number"
+    ],
+    "개 다운로드"
+  ],
+  "native.courses.download_materials": [
+    "레슨 자료 ",
+    [
+      "number"
+    ],
+    "개 다운로드"
+  ],
+  "native.courses.course_completed": "완료",
+  "native.artists.scores": "악보",
+  "native.courses.hours": "시간",
+  "native.artists.compositions": "곡",
+  "native.courses.minutes": "분",
+  "native.courses.seconds": "초",
+  "native.courses.materials": "레슨 자료",
+  "native.courses.what_will_you_learn": "무엇을 배우게 될까요?",
+  "native.courses.level": "레벨",
+  "native.courses.about_course": "강좌 정보",
+  "native.courses.about": "소개",
+  "native.courses.comments": "댓글",
+  "native.courses.no_comments_title": "아직 댓글이 없습니다.",
+  "native.courses.no_comments_description": "이 강좌에 댓글을 남긴 첫 번째 사람이 될 수 있습니다!",
+  "native.courses.rate_course": "이 강좌를 평가해 주세요",
+  "native.courses.congratulations": "축하합니다! 🎉",
+  "native.courses.your_impressions": "더 나은 학습 경험을 위해 여러분의 소감과 의견을 기다리고 있습니다.",
+  "native.courses.send_feedback": "의견 보내기",
+  "native.courses.are_you_enjoying": "이 강좌가 마음에 드시나요?",
+  "native.courses.share_your_thoughts": "의견을 들려주세요",
+  "native.courses.what_do_you_think_about_platform": "학습 플랫폼에 대해 어떻게 생각하시나요?",
+  "native.courses.what_could_be_done_better": "어떤 점을 개선하면 좋을까요?",
+  "native.courses.thank_you": "감사합니다!",
+  "native.courses.help_us_improve": "보내주신 의견은 학습 경험을 개선하고 공부를 더 흥미롭고 효과적으로 만드는 데 도움이 됩니다.",
+  "native.courses.youre_welcome": "천만에요",
+  "native.screen_sft.carousel.courses_sub_title": "여러분을 위해 준비된 200개 이상의 강좌를 무제한으로 이용하세요.",
+  "native.screen_sft.carousel.material_sub_title": "다운로드할 수 있는 자료 포함.",
+  "native.screen_sft.carousel.keyboard_sub_title": "건반으로 악보를 더 빠르고 즐겁게 연주하는 법을 배우세요.",
+  "native.screen_sft.carousel.transpose_sub_title": "악보의 조를 바꿔 악기에 맞는 조성을 찾으세요.",
+  "native.screen_sft.carousel.songbook_sub_title": "오프라인에서도 악보를 보고 재생하세요. 기기 저장공간의 음악 파일을 불러올 수 있습니다.",
+  "native.screen_sft.carousel.mixer_sub_title": "악보에서 악기별 표시 여부와 볼륨을 조절하세요.",
+  "native.screen_sft.carousel.auto_scroll_sub_title": "자동 스크롤로 악보를 연주하고 다가오는 음표를 미리 보세요. 페이지를 넘길 필요가 없습니다.",
+  "native.screen_sft.carousel.more_sub_title": "메트로놈과 예비박을 켜세요. HQ 사운드로 더 좋은 음질을 즐기세요.",
+  "native.screen_sft.carousel.pdf_sub_title": "프리미엄 사용자는 악보를 PDF, MIDI, MP3 형식으로 다운로드할 수 있습니다. PDF는 인쇄도 가능합니다.",
+  "native.screen_sft.carousel.courses_title": "강좌",
+  "native.screen_sft.carousel.material_title": "자료",
+  "native.screen_sft.carousel.pdf_title": "PDF로 내보내기",
+  "native.screen_sft.carousel.midi_title": "MIDI로 내보내기",
+  "native.screen_sft.carousel.mp3_title": "MP3로 내보내기",
+  "native.screen_sft.carousel.transpose_title": "조옮김",
+  "native.screen_sft.carousel.mixer_title": "믹서",
+  "native.screen_sft.carousel.auto_scroll_title": "자동 스크롤",
+  "native.screen_sft.carousel.more_title": "그 외 다양한 기능...",
+  "native.screen_sft.carousel.full_access_title": "모든 기능 이용",
+  "native.screen_sft.carousel.keyboard_title": "건반",
+  "native.screen_sft.switcher_title": "Lite 버전으로 시작하기",
+  "native.preferences.main_title": "선호 항목을 설정하세요",
+  "native.preferences.sub_title": "MuseScore 경험을 맞춤 설정하세요",
+  "native.preferences.profile_title": "내 선호 설정",
+  "native.preferences.current_preferences": "현재 선호 설정",
+  "native.preferences.update": "업데이트",
+  "native.bluetooth_pedal.profile_subtitle": "페달 옵션을 설정하세요",
+  "native.bluetooth_pedal.profile_title": "블루투스 페달",
+  "native.bluetooth_pedal.instruction_5": "완료! 이제 키를 누를 때마다 선택한 동작이 실행됩니다.",
+  "native.bluetooth_pedal.instruction_4": "페달의 키를 누르세요. 선택한 동작 옆에 키가 표시됩니다.",
+  "native.bluetooth_pedal.instruction_2": "iOS/Android 모드를 선택하세요.",
+  "native.bluetooth_pedal.instruction_3": "목록에서 페달 키에 연결할 동작을 고르고 \"설정\"을 누르세요.",
+  "native.bluetooth_pedal.instruction_1": "페달을 켜고 [n]osName[n] 기기에 연결하세요.",
+  "native.bluetooth_pedal.instruction_title": "연결 및 설정 방법",
+  "native.bluetooth_pedal.pedal_title": "페달 설정",
+  "native.bluetooth_pedal.next_page": "다음 페이지",
+  "native.bluetooth_pedal.prev_page": "이전 페이지",
+  "native.bluetooth_pedal.play": "재생/정지",
+  "native.bluetooth_pedal.autoscroll": "자동 스크롤 켜기/끄기",
+  "native.bluetooth_pedal.press": "페달의 키를 누르세요.",
+  "native.bluetooth_pedal.set": "설정",
+  "native.credits.title": "PRO 크레딧 사용",
+  "native.credits.second_description": "사용한 만큼만 지불하세요. 장기 약정이 없습니다.",
+  "native.credits.balance_title": "PRO 크레딧 잔액",
+  "native.anniversary.title_offer": "나만을 위한 특별 혜택",
+  "native.anniversary.title": "MuseScore에 함께해 주셔서 감사합니다. 특별한 선물을 드리고자 합니다...",
+  "native.anniversary.main_title": [
+    "함께한 지 [d]",
+    [
+      "d"
+    ],
+    "[/d]일이 넘었습니다"
+  ],
+  "native.anniversary.hi_title": "안녕하세요!",
+  "native.anniversary.dear_title": "안녕하세요,",
+  "native.sets.multiple_success_modified": [
+    "세트 ",
+    [
+      "count"
+    ],
+    "개가 수정되었습니다"
+  ],
+  "native.sets.create_title": "세트 정보 입력",
+  "native.sets.edit_title": "세트 정보",
+  "native.sets.set_title": "세트 제목",
+  "native.sets.set_description": "세트 설명",
+  "native.sets.placeholder_title": "세트 제목 입력",
+  "native.sets.placeholder_description": "세트 설명 입력 (선택 사항)",
+  "native.sets.private": "이 세트를 비공개로 지정",
+  "native.sets.creating_new_set": "새 세트 만들기",
+  "native.sets.editing_set": "세트 편집",
+  "native.sets.adding_to_set": "세트에 추가",
+  "native.sets.save_changes": "변경 사항 저장",
+  "native.sets.add_to": "추가하기",
+  "native.sets.adding": "추가 중",
+  "native.sets.adding_description": "악보를 여러 세트에 추가하여 카테고리별로 그룹화할 수 있습니다.",
+  "native.sets.be_careful": "주의하세요",
+  "native.sets.delete_button": "제거",
+  "native.sets.go_back": "뒤로 가기",
+  "native.sets.delete_set": [
+    [
+      "setName"
+    ],
+    " 세트를 삭제하시겠습니까?"
+  ],
+  "native.sets.be_careful_warning": "주의하세요. 이 작업은 되돌릴 수 없습니다.",
+  "native.sets.delete_set_button": "세트 삭제",
+  "native.sets.empty": "님은 아직 세트가 없습니다.",
+  "native.sets.empty_my": "악보를 여러 세트에 추가하여 카테고리별로 정리할 수 있습니다.\n \n아직 세트가 없습니다. 지금 만들어 보세요!",
+  "native.sets.empty_set": "이 세트에는 아직 악보가 없습니다. 악보를 추가해 보세요!\n\n악보 옵션 메뉴를 열고 «세트에 추가»를 탭하세요.",
+  "native.sets.empty_set_my": "이 세트는 아직 비어 있지만, 곧 채워질 수도 있어요!",
+  "native.sets.empty_set_my_title": "이 세트에 아직 악보가 없습니다. 악보를 추가해 보세요!",
+  "native.sets.empty_set_my_description": "악보 옵션 메뉴를 열고 “세트에 추가”를 탭하세요.",
+  "native.sets.done": "완료!",
+  "native.sets.success_add_to_set": [
+    [
+      "scoreName"
+    ],
+    "이(가) 세트에 추가되었습니다."
+  ],
+  "native.sets.success_remove_from_set": [
+    [
+      "scoreName"
+    ],
+    "이(가) 세트에서 제거되었습니다."
+  ],
+  "native.vocals": "보컬",
+  "native.string_instruments": "현악기",
+  "native.banjo": "밴조",
+  "native.ukulele": "우쿨렐레",
+  "native.other_strings": "기타 현악기",
+  "native.brass_instruments": "금관악기",
+  "native.other_brass": "기타 금관악기",
+  "native.other_woodwinds": "기타 목관악기",
+  "native.free_reed_instruments": "프리 리드 악기",
+  "native.other_free_reed_instruments": "기타 프리 리드 악기",
+  "native.other_instruments": "기타 악기",
+  "native.buyThisScore": "이 악보 구매하기",
+  "native.accessToScore": "영구 이용 권한:",
+  "native.oneTimePay": "일회성 결제",
+  "native.didntBuy": "아직 구매한 악보가 없습니다",
+  "native.getPermanentAccess": "모든 프리미엄 기능이 포함된, 좋아하는 악보에 대한 영구 이용 권한을 받으세요",
+  "native.ordersTitle": "구매 내역",
+  "native.scoresYouBuy": "당신이 샀던 음악 점수",
+  "native.titleListWhatInstruments": "어떤 [c]악기[/c]를 연주하시나요, 또는 연주를 시작하고 싶으신가요?",
+  "native.titleListWhatGenres": "어떤 [c]장르[/c]의 음악에 관심이 있으신가요?",
+  "native.titleListLevel": "악기 [c]연주 실력[/c]은 어느 수준이라고 생각하시나요?",
+  "native.gotIt": "알겠습니다, 감사합니다",
+  "native.blinkListToday": "오늘",
+  "native.blinkListTrialEnd": "체험 기간이 끝나기 전에 이메일이나 알림으로 알려드립니다.",
+  "native.blinkListhowYourTrialWork": "무료 체험 진행 방식",
+  "native.enjoyTrial": "프리미엄 기능을 무료로 이용할 수 있는 기간이 2일 남았습니다",
+  "native.screen_tour.congrats": "축하합니다",
+  "native.screen_tour.membership_text": [
+    "현재 MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    " 멤버십을 이용 중입니다."
+  ],
+  "native.screen_tour.get_most_with_learn": "MuseScore LEARN 강좌로 더 알차게 활용해 보세요.",
+  "native.screen_tour.student_text_1": "18세 미만 청소년에게는 1년치 큰 금액을 한 번에 지불하는 것이 쉽지 않을 수 있습니다.",
+  "native.screen_tour.student_text_2": "젊은 성인에게는 1년치 큰 금액을 한 번에 지불하는 것이 쉽지 않을 수 있습니다.",
+  "native.screen_no_landing.subscription_start": [
+    "MuseScore ",
+    [
+      "subscriptionType"
+    ],
+    "(으)로 시작하기"
+  ],
+  "native.screen_tour.trial_modal_period_title": [
+    [
+      "dayNumber"
+    ],
+    "일차"
+  ],
+  "native.screen_tour.trial_modal_charged_title": [
+    [
+      "dateTrialEnd"
+    ],
+    "에 요금이 청구되며, 그 전에 언제든지 취소할 수 있습니다"
+  ],
+  "native.or": "또는",
+  "native.artist": "아티스트",
+  "native.myCourses": "내 강좌",
+  "native.pricing": "요금제",
+  "native.official": "공식",
+  "native.original": "창작곡",
+  "native.add_comment": "댓글 추가...",
+  "native.send_button": "보내기",
+  "native.reply_to": [
+    [
+      "replied"
+    ],
+    "님에게 답글 작성 중"
+  ],
+  "native.scoreSaved.rateScoreText.title": "악보 저장 완료",
+  "native.scoreLiked.rateScoreText.subtitle": "이 악보가 마음에 드시나요? 평점을 주고 댓글을 남겨주세요.",
+  "native.scoreLiked.reviewAppText.title": "평가해 주셔서 감사합니다!",
+  "native.scoreLiked.reviewAppText.subtitle": "앱이 마음에 드신다면 의견을 들려주세요",
+  "native.add_comment_placeholder": "여기에 댓글 추가 (선택 사항)",
+  "native.ms4_dummy_title": "현재 이 MuseScore 4 파일을 미리 볼 수 없습니다.",
+  "native.ms4_dummy_subtitle": "죄송합니다. MuseScore 4 파일 지원을 추가하기 위해 열심히 작업 중입니다. 그동안은 아래 링크를 클릭하여 MuseScore.com에서 이 악보를 찾고 볼 수 있습니다.",
+  "native.open_muse_score_website": "MuseScore 웹사이트 열기",
+  "native.courses.lessons.duration_title": [
+    [
+      "lessons"
+    ],
+    " ",
+    [
+      "lessonsCount"
+    ],
+    "개 · ",
+    [
+      "lessonsDuration"
+    ]
+  ],
+  "native.courses.lessons.completed": [
+    [
+      "completedLessons"
+    ],
+    "/",
+    [
+      "lessonsCount"
+    ],
+    " ",
+    [
+      "lessons"
+    ],
+    " 완료"
+  ],
+  "native.screen_tour.choose_subs": "구독 선택",
+  "native.screen_tour.proven": "많은 사용자가 효과를 입증했습니다",
+  "native.screen_tour.five_star": "별 5개 리뷰",
+  "native.screen_tour.secured": [
+    [
+      "storeName"
+    ],
+    "을(를) 통한 안전한 결제"
+  ],
+  "native.screen_tour.trusted": "전 세계 1300만 명 이상의 음악가들에게 신뢰받고 있습니다.",
+  "native.screen_tour.downloads": "다운로드",
+  "native.screen_tour.unlock_benefits": [
+    "[color]",
+    [
+      "subscriptionGroup"
+    ],
+    "[/color] 회원 혜택을 모두 잠금 해제하세요"
+  ],
+  "native.screen_tour.benefit_download": "좋아하는 악보를 원하는 형식으로 소장하세요. 커뮤니티에서 만든 170만 개의 악보를 바로 인쇄할 수 있습니다.",
+  "native.screen_tour.benefit_download_title": "다운로드 및 인쇄",
+  "native.screen_tour.benefit_ad_free_title": "광고 없음",
+  "native.screen_tour.benefit_ad_free": "음악에 온전히 몰입하세요. 광고 없이, 스트레스 없이.",
+  "native.screen_tour.benefit_offscores_title": "Hal Leonard, Faber 등 주요 출판사의 전문 채보 악보를 온라인으로 보거나 연주하세요.",
+  "native.screen_tour.benefit_playback": "재생 맞춤 설정",
+  "native.screen_tour.benefit_mixer": "믹서를 사용하여 악기를 음소거하고 솔로로 설정할 수 있습니다. 볼륨과 패닝도 조절할 수 있습니다.",
+  "native.search.placeholder_books": "악보집 검색",
+  "native.search.placeholder_library": "검색",
+  "native.success_remove_from_set": [
+    [
+      "scoreName"
+    ],
+    "이(가) 세트에서 제거되었습니다."
+  ],
+  "native.sets.success_create": [
+    [
+      "setName"
+    ],
+    " 세트가 생성되었습니다."
+  ],
+  "native.score_staff_measure_sheet_title": "보표 및 마디 크기",
+  "native.score_staff_measure_sheet_description": "선택한 크기가 자동으로 저장됩니다.",
+  "native.base_reduce": "축소",
+  "native.base_enlarge": "확대",
+  "native.base_set_default_size": "기본 크기 설정",
+  "native.offline_indicator.title": "인터넷 연결 없음",
+  "native.screen_hub.followers": "팔로워",
+  "native.success": "성공!",
+  "native.bottom_bar.books_tab": "악보집",
+  "native.ebooks.my_books": "악보집",
+  "native.ebooks.my_bought_books": "구매한 악보집",
+  "native.courses.my_courses": "내 강좌",
+  "native.courses.my_courses_bought": "구매한 강의들",
+  "native.ebooks.learn_more": "더 알아보기",
+  "native.screen_tour.immerse": "[c]200만 개 이상의 악보[/c]에 빠져 보세요",
+  "native.screen_tour.join": "세계 최대 악보 커뮤니티에 참여하세요",
+  "native.screen_tour.generate_password": "강력한 비밀번호가 자동 생성되어 이메일로 전송됩니다",
+  "native.screen_tour.enter_email": "이메일을 입력하세요",
+  "native.screen_tour.create_account": "새 계정 만들기",
+  "native.scores.includes_pdf_title": "PDF 다운로드 포함",
+  "native.score.valid_access": [
+    [
+      "month"
+    ],
+    "개월 동안 유효합니다."
+  ],
+  "native.ebooks.get_songbook": "악보집 받기",
+  "native.ebooks.sample": "샘플",
+  "native.ebooks.includes": "수록 내용",
+  "native.ebooks.you_may_also_like": "추천 악보집",
+  "native.ebooks.reviews": "리뷰",
+  "native.ebooks.info.released": "출시일",
+  "native.ebooks.info.length": "분량",
+  "native.ebooks.info.publisher": "출판사",
+  "native.ebooks.info.composers": "작곡가",
+  "native.ebooks.read": "보기",
+  "native.ebooks.pages": "페이지",
+  "native.ebooks.topics": "주제",
+  "native.ebooks.isbn": "ISBN",
+  "native.ebooks.rating": [
+    [
+      "number"
+    ],
+    "점 만점"
+  ],
+  "native.ebooks.rate_book": "악보집 평가하기",
+  "native.ebooks.rate_book_title": "악보집 평가하기",
+  "native.ebooks.rate_book_description": "탭하여 평가하세요. 다른 사용자들이 \n악보집의 품질을 파악하는 데 도움이 됩니다.",
+  "native.ebooks.rate_success": "평가를 남겨 주셔서 감사합니다.\n원하시면 리뷰도 작성해 주세요.",
+  "native.ebooks.verified_title": "인증된 리뷰만",
+  "native.ebooks.verified_sub_title": "신뢰할 수 있는 리뷰를 남기려면 먼저 악보집을 구매하고 읽어 주세요.",
+  "native.ebooks.favorites_button_title": "악보집",
+  "native.ebooks.favorites_button_subtitle": "저장한 악보집",
+  "native.ebooks.favorites_title": "악보집",
+  "native.ebooks.favorites_empty_title": "아직 추가한 악보집이 없습니다",
+  "native.library.filter_show_button": [
+    "악보집 ",
+    [
+      "count"
+    ],
+    "개 표시"
+  ],
+  "native.ebook.filter_instrument": "악기",
+  "native.ebook.filter_genre": "장르",
+  "native.ebook.filter_artist_composer": "아티스트/작곡가",
+  "native.ebook.filter_quick": "빠른 필터",
+  "native.ebook.filter_sort": "정렬 기준",
+  "native.ebook.filter_empty_title": "검색 결과 없음",
+  "native.screen_new_account.password_strength_weak": "약함",
+  "native.screen_new_account.password_strength_strong": "강함",
+  "native.ebook.filter_show_more": "더 보기",
+  "native.ebook.filter_show_less": "간략히 표시",
+  "native.ebook.filter_clear": "모두 지우기",
+  "native.ebooks.orders_empty_subtitle": "악보집을 구매하면 여기에 표시됩니다.",
+  "native.screen_tour.login_muse_title": "MuseScore 로그인",
+  "native.hub_new.title": "신규",
+  "native.hub_piano.title": "피아노",
+  "native.hub_film, tv & video games.title": "영화, TV 및 비디오 게임",
+  "native.hub_strings.title": "현악기",
+  "native.hub_woodwinds.title": "목관악기",
+  "native.hub_saxophone.title": "색소폰",
+  "native.hub_trumpet.title": "트럼펫",
+  "native.hub_guitar.title": "기타",
+  "native.hub_voice.title": "보컬",
+  "native.hub_keyboard.title": "건반",
+  "native.hub_percussion.title": "타악기",
+  "native.hub_disney.title": "디즈니",
+  "native.hub_marching percussion.title": "마칭 타악기",
+  "native.hub_brass.title": "금관악기",
+  "native.hub_electronics.title": "전자 악기",
+  "native.hub_folk.title": "포크",
+  "native.hub_museclass.title": "MuseClass",
+  "native.date.minutes_ago": [
+    [
+      "minutes"
+    ],
+    "분 전"
+  ],
+  "native.date.just_now": "방금",
+  "native.date.hours_ago": [
+    [
+      "hours"
+    ],
+    "시간 전"
+  ],
+  "native.date.days_ago": [
+    [
+      "days"
+    ],
+    "일 전"
+  ],
+  "native.shared.delete": "삭제",
+  "native.shared.cancel": "취소",
+  "native.review.tap_to_rate": "탭하여 평가",
+  "native.review.thanks_for_rating": "평가해주셔서 감사합니다.",
+  "native.screen_tour.confirm": "확인",
+  "native.sorting_type.relevance": "관련도순",
+  "native.sorting_type.comment count": "댓글 수",
+  "native.sorting_type.view count": "조회수",
+  "native.sorting_type.rating": "평점",
+  "native.sorting_type.score_type": "악보 유형",
+  "native.sorting_type.upload date": "업로드일",
+  "native.sorting_type.difficulty_level": "난이도",
+  "native.restore.title": "복원을 시작했습니다",
+  "native.preferences.title": "선호 설정이 업데이트되었습니다",
+  "native.profile.question_answers_title": "질문과 답변",
+  "native.courses.title.continue studying": "이어서 학습하기",
+  "native.courses.title.editor's picks": "편집자 추천",
+  "native.courses.title.top music courses": "인기 음악 강좌",
+  "native.courses.title.latest music courses": "최신 음악 강좌",
+  "native.courses.title.piano courses": "피아노 강좌",
+  "native.courses.title.violin courses": "바이올린 강좌",
+  "native.courses.title.music theory courses": "음악 이론 강좌",
+  "native.courses.title.wind instruments courses": "관악기 강좌",
+  "native.courses.title.guitar courses": "기타 강좌",
+  "native.courses.title.music production courses": "음악 프로듀싱 강좌",
+  "native.courses.title.music software courses": "음악 소프트웨어 강좌",
+  "native.courses.orders_empty_title": "아직 구매한 강좌가 없습니다",
+  "native.courses.orders_empty_subtitle": "구매하시면 여기에 강좌가 표시됩니다.",
+  "native.score.layout_title": "보기 모드",
+  "native.score.layout_landscape": "가로 보기",
+  "native.score.standard_title": "기본",
+  "native.score.hq_title": "MuseScore HQ+ 설정",
+  "native.score.title_file": "파일",
+  "native.score.download_size_title": [
+    "추가 ",
+    [
+      "size"
+    ],
+    " 다운로드 필요"
+  ],
+  "native.score.downloaded_title": "파일이 기기에 저장되어 있습니다",
+  "native.score.transposition_title": "조옮김",
+  "native.score.default_title": "기본",
+  "native.score.views": "조회수",
+  "native.score.volume_title": "볼륨",
+  "native.score.keyboard_title": "건반 표시",
+  "native.sorting_type.default_title": "기본",
+  "native.review.empty_list_title": "아직 리뷰가 없습니다",
+  "native.review.empty_list_message": "첫 리뷰를 남겨 다른 사람들이\n좋은 악보집을 찾도록 도와주세요",
+  "native.my_profile.pricing_sub_title": "나에게 맞는 요금제를 선택하세요",
+  "native.my_profile.pricing_title": "요금제",
+  "native.marketing.subscription.for_the_year": "(첫해 요금)",
+  "native.marketing.subscription.week": "주",
+  "native.marketing.subscription.52weeks": "52주",
+  "native.marketing.feature.quick_load": "빠른 로딩",
+  "native.marketing.feature.quick_load_sub_title": "데스크톱과 모바일에서 빠른 로딩",
+  "native.marketing.feature.seamless": "끊김 없는 읽기",
+  "native.marketing.feature.seamless_sub_title": "여러 기기에서 자동으로 이어 보기",
+  "native.marketing.feature.quick_search": "빠른 검색",
+  "native.marketing.feature.mobile_design": "모바일 디자인",
+  "native.marketing.feature.mobile_design_sub_title": "반응형 도서 디자인으로 모바일에서도 보기 좋습니다",
+  "native.marketing.feature.growing_library_sub_title": "새로운 도서가 정기적으로 추가됩니다",
+  "native.marketing.feature.growing_library": "계속 늘어나는 라이브러리",
+  "native.marketing.feature.editor_picks": "편집자 추천 강좌",
+  "native.marketing.feature.editor_picks_enjoy": "매월 편집자 추천 강좌 1개 이용",
+  "native.score.blocked.in.country": "악보 차단됨",
+  "native.marketing_text.restore_purchase_message_has_rights": "구독 복원이 필요하지 않습니다.",
+  "native.force.logout.title": "세션이 만료되었습니다.",
+  "native.force.logout.message": "계정에 다시 로그인해 주세요",
+  "native.score.error_forbidden": "악보를 여는 중 오류 발생 (접근 금지됨)",
+  "native.marketing.already_have_pro": "이미 PRO 혜택을 이용 중입니다",
+  "native.ebooks.get_access_songbook": "악보집 이용하기",
+  "native.marketing.downlodable_materials": "다운로드 가능한 레슨 자료",
+  "native.marketing.online_access": [
+    "MuseScore ",
+    [
+      "type"
+    ],
+    " 온라인 이용"
+  ],
+  "native.marketing.7_day_title": "(7일 체험)",
+  "native.marketing.right_choice_title": "탁월한 선택입니다. MuseScore는 여러분 같은 음악가를 위해 만들어졌습니다.",
+  "native.marketing.welcome_subscription_title": [
+    "MuseScore ",
+    [
+      "type"
+    ],
+    " 멤버십에 오신 것을 환영합니다."
+  ],
+  "native.marketing.skip_for_now": "지금은 건너뛰기",
+  "native.hub_advent.title": "어드벤트",
+  "native.autograde.title": "연습 모드",
+  "native.autograde.feature_subtitle": "정확성과 리듬에 대한 즉각적인 피드백 받기 (PRO+ 전용)",
+  "native.screen_sft.carousel.course_title": "편집자 추천 강좌",
+  "native.screen_sft.carousel.course_sub_title": "매월 편집자 추천 강좌 1개 이용",
+  "native.marketing_text.restore_purchase_message_has_rights_sub_title": "이미 모든 권한을 보유하고 있습니다.",
+  "native.score.enable_metronome": "메트로놈 켜기",
+  "native.score.count_off": "예비박",
+  "native.marketing.start_7_day_trial": "7일 무료 체험 시작",
+  "native.marketing.get_more_with_musescore": [
+    "MuseScore [color]",
+    [
+      "title"
+    ],
+    "[/color](으)로 더 많은 혜택을 누리세요"
+  ],
+  "native.marketing.tap_unlock": "탭하여 7일 무료 체험 시작하기",
+  "native.marketing.tap_unlock_discount": [
+    "탭하여 ",
+    [
+      "discount"
+    ],
+    " 할인 받기"
+  ],
+  "native.marketing.tour.feature_learn_1": "세계적인 수준의 음악 교육",
+  "native.marketing.tour.feature_learn_2": "보충 자료",
+  "native.marketing.tour.feature_learn_3": "전문 교육",
+  "native.marketing.tour.feature_sub_title_learn_3": "피아노, 드럼, 기타 및 다양한 악기를 자신만의 속도로 배워보세요.",
+  "native.marketing.tour.feature_sub_title_learn_2": "레슨용 다운로드 자료",
+  "native.marketing.tour.feature_sub_title_learn_1": [
+    "전문 강사가 준비한 레슨 ",
+    [
+      "count"
+    ],
+    "개를 무제한으로 이용하세요."
+  ],
+  "native.user.empty_scores": "이 사용자는 악보를 업로드하지 않았습니다.",
+  "native.score_details_sheet.unsave_button": "저장 취소",
+  "native.score_details_sheet.sound": "사운드",
+  "native.score_details_sheet.sound.description": "모듈레이션 지원 16비트 오디오 샘플",
+  "native.score_details_sheet.download_title": "다운로드",
+  "native.score_details_sheet.download_description": "파일이 선택한 형식으로\n기기에 다운로드됩니다.",
+  "native.load_score.title": "잠시만 기다려 주세요. 악보를 불러오는 중입니다...",
+  "native.marketing.feature.access_offscores": "공식 악보 이용",
+  "native.marketing.subscription.52weeksAt": "52주 기준",
+  "native.marketing.free_trial": "무료 체험",
+  "native.filter_type.free to view & play": "무료 보기 및 연주",
+  "native.filter_type.free to view, play & download": "무료 보기, 연주 및 다운로드",
+  "native.marketing.add_musescore_title": [
+    "구독에 MuseScore ",
+    [
+      "type"
+    ],
+    "을(를) 추가할 수 있습니다. \"확인\" 버튼을 눌러 확정하세요"
+  ],
+  "native.filter.duration": "소요 시간",
+  "native.marketing.monthsAt": [
+    [
+      "count"
+    ],
+    "개월 기준"
+  ],
+  "native.marketing.slashMonths": [
+    "/",
+    [
+      "count"
+    ],
+    "개월"
+  ],
+  "native.screen_explore.best_of_musescore": "MuseScore 베스트",
+  "native.screen_explore.songbooks_for_you": "맞춤 추천 악보집",
+  "native.profile.settings": "설정",
+  "native.score.settings.practice_mode": "연습 모드",
+  "native.score.settings.settings": "설정",
+  "native.practice_mode.onboarding.first_step.subtitle": "AI 기술을 사용하여 즉각적인 피드백으로 연주를 분석하고 개선하세요.",
+  "native.practice_mode.onboarding.third_step.subtitle": "정확한 피드백으로 정확성을 높이고 음악적 기술을 향상시키세요.",
+  "native.practice_mode.onboarding.fourth_step.subtitle": "늘 연주하고 싶었던 곡을 마스터하세요. 이제 아무것도 막을 수 없습니다.",
+  "native.artist.segment.compositions": "곡",
+  "native.song_book.section.title.recently_viewed": "최근 본 악보집",
+  "native.song_book.section.title.staff_picks": "스태프 추천",
+  "native.song_book.section.title.piano_favourites": "인기 피아노 곡",
+  "native.song_book.section.title.most_popular": "가장 인기",
+  "native.song_book.section.title.bestsellers": "베스트셀러",
+  "native.screen_explore.explore_sheet_music": "악보 둘러보기",
+  "native.filter_screen.format": "형식",
+  "native.filter_screen.popular": "인기",
+  "native.hub_advent.gifts": "선물",
+  "native.autoscroll.alert.title": "자동 스크롤",
+  "native.score_onboarding.got_it_button": "알겠습니다",
+  "native.score.chip_mixer": "믹서",
+  "native.score.chip_metronome": "메트로놈",
+  "native.score.chip_loop": "반복",
+  "native.score.layout_title_horizontal": "페이지",
+  "native.score.comment": "댓글",
+  "native.score.display_keyboard": "건반",
+  "native.score.chip_transpose": "조옮김",
+  "native.score.transpose_up": "올리기",
+  "native.marketing.questions.genre.title": "어떤 음악 장르에 관심이 있으신가요?",
+  "native.marketing.questions.genre.vocal_jazz": "보컬 재즈",
+  "native.marketing.questions.genre.world_music": "월드 뮤직",
+  "native.marketing.questions.level.list.title": "악기 연주 실력은 어느 수준이라고 생각하시나요?",
+  "native.marketing.questions.age.list.title": "나이를 선택하세요",
+  "native.marketing.questions.age.list.sub_title": "더 적합한 콘텐츠를 추천하는 데 도움이 됩니다",
+  "native.marketing.questions.age.list.18": "18세 미만",
+  "native.marketing.questions.age.list.55": "55세 이상",
+  "native.marketing.questions.goal.title": "현재 가장 중요한 음악 목표는 무엇인가요?",
+  "native.marketing.questions.goal.master": "특정 곡 마스터하기",
+  "native.marketing.questions.goal.prepare": "공연, 리사이틀 또는 콘서트 준비하기",
+  "native.marketing.questions.goal.learn": "재미로 연주 배우기",
+  "native.marketing.questions.goal.find": "양질의 콘텐츠 찾기",
+  "native.marketing.questions.goal.title2": "좋은 선택입니다. 목표를 향한 MuseScore와의 첫걸음은 무엇인가요?",
+  "native.marketing.questions.goal.discover": "새로운 악보 발견하기",
+  "native.marketing.questions.goal.specific": "연주하고 싶은 특정 곡 찾기",
+  "native.marketing.questions.goal.music": "내 실력에 맞춘 음악 찾기",
+  "native.marketing.questions.agree.yes": "예",
+  "native.marketing.questions.agree.no": "아니오",
+  "native.marketing.advanced_tools": "연주 실력을 한 단계 높여 줄 고급 도구",
+  "native.marketing.get_score": [
+    "악보 받기 (크레딧 ",
+    [
+      "credits"
+    ],
+    "개 남음)"
+  ],
+  "native.score_details_sheet.saved_button": "저장됨",
+  "native.screens_titles.songbook_screen": "오프라인 이용 가능",
+  "native.comment.empty_title": "아직 댓글이 없습니다",
+  "native.library.favorites_title": "저장한 항목",
+  "native.screens_titles.favorite_courses_screen": "저장한 강좌",
+  "native.screens_titles.favorites_screen": "저장한 악보",
+  "native.make_public.make_public_button": "공개하기",
+  "native.make_public.score_title_label": "악보 제목",
+  "native.make_public.genre_label": "장르",
+  "native.make_public.description_label": "설명",
+  "native.make_public.description_placeholder": "발매일, 창작 배경, 앨범, 분위기",
+  "native.make_public.show_parts": "파트 표시(있는 경우)",
+  "native.make_public.update_button": "업데이트",
+  "native.make_public.access_anyone": "누구나 볼 수 있음",
+  "native.make_public.access_link": "링크가 있는 사용자는 누구나 볼 수 있음",
+  "native.make_public.access_private": "비공개",
+  "native.make_public.copyright_all_rights": "없음 (모든 권리 보유)",
+  "native.make_public.copyright_cc_by": "저작자 표시",
+  "native.make_public.copyright_cc_by_nd": "저작자 표시, 변경 금지",
+  "native.make_public.copyright_cc_by_sa": "저작자 표시, 동일조건 변경허락",
+  "native.make_public.copyright_cc_by_nc": "저작자 표시, 비영리",
+  "native.make_public.copyright_cc_by_nc_nd": "저작자 표시, 비영리, 변경 금지",
+  "native.make_public.copyright_cc_by_nc_sa": "저작자 표시, 비영리, 동일조건 변경 허락",
+  "native.next.payment": "다음 결제",
+  "native.shared_continue": "계속",
+  "native.privacy.public_badge": "공개",
+  "native.privacy.private_badge": "비공개",
+  "native.screen_omr.start_free_trial": "무료 체험 시작하기",
+  "native.marketing.weekly_access": "주간 이용권",
+  "native.viewAllPlans": "모든 요금제 보기",
+  "native.theHomeOfSheetMusic": "악보의 모든 것",
+  "native.viewAllReplies": [
+    "답글 ",
+    [
+      "count"
+    ],
+    "개 모두 보기"
+  ],
+  "native.getFreeSongBook": "무료 악보집 받기",
+  "native.reportIssueButton": "이 문제 신고하기",
+  "native.scoreIsLoading": "악보를 불러오는 중입니다. 잠시 시간이 걸릴 수 있습니다...",
+  "native.marketing.get_free_score": "악보 받기",
+  "native.marketing.export_pdf_midi_mp3_title": "PDF, MIDI, MP3로 내보내기",
+  "native.marketing.editors_picks_title": "편집자 추천 강좌 1개",
+  "native.marketing.access_songbook_title": "Hal Leonard의 악보집 및 교본 이용",
+  "native.marketing.learning_title": "학습 자료",
+  "native.marketing.number_courses_title": [
+    [
+      "courses"
+    ],
+    "개 이상의 강좌"
+  ],
+  "native.marketing.export_community_scores_title": "커뮤니티 악보 내보내기",
+  "native.marketing.tools_title": "도구",
+  "native.marketing.unlimited_access_courses_title": "강좌 무제한 이용",
+  "native.screen_explore.new_for_you": "새로운 맞춤 추천",
+  "native.screen_explore.trending_now": "현재 인기",
+  "native.screen_explore.recommended_courses": "추천 강좌",
+  "native.screen_explore.new_playlists": "새 플레이리스트",
+  "native.profile.subscriptions": "구독",
+  "native.subscriptions.manage": "관리",
+  "native.score.settings.zoom": "확대/축소",
+  "native.practice_mode.onboarding.first_step.title": "연습 모드의 강력한 기능을 만나 보세요",
+  "native.practice_mode.onboarding.second_step.title": "연주하기만 하면 실력이 향상됩니다",
+  "native.practice_mode.onboarding.second_step.subtitle": "곡을 연주하기만 하면 연주를 악보와 비교해 드립니다.",
+  "native.practice_mode.onboarding.third_step.title": "실력이 쑥쑥 늘어납니다",
+  "native.practice_mode.onboarding.fourth_step.title": "도전해 보세요",
+  "native.practice_mode.onboarding.fifth_step.title": "개선하고 싶은 부분을 연습하세요",
+  "native.practice_mode.onboarding.fifth_step.subtitle": "곡에서 연습하고 싶은 구간을 선택해 잘라내세요.",
+  "native.practice_mode.onboarding.sixth_step.title": "마이크 권한",
+  "native.practice_mode.onboarding.sixth_step.subtitle": "녹음에 대한 스마트 피드백을 위해 악기 소리를 들어야 합니다.",
+  "native.practice_mode.onboarding.sixth_step.button": "좋습니다",
+  "native.practice_mode.onboarding.seventh_step.title": "악기를 조율하세요",
+  "native.practice_mode.onboarding.seventh_step.subtitle": "잘 조율된 악기는 정확한 결과를 제공합니다.",
+  "native.practice_mode.onboarding.eighth_step.title": "연습 중에는 헤드폰을 사용하세요.",
+  "native.practice_mode.onboarding.eighth_step.subtitle": "불필요한 소리가 없으면 녹음이 더 깔끔해집니다.",
+  "native.practice_mode.onboarding.ninth_step.title": "개선하고 싶은 부분을 연습하세요",
+  "native.practice_mode.onboarding.ninth_step.subtitle": "곡에서 연습하고 싶은 구간을 선택해 잘라내세요.",
+  "native.artist.segment.sheet_music": "악보",
+  "native.pedal.feedback.placeholder": "피드백 입력",
+  "native.pedal.feedback.thanks": "피드백 주셔서 감사합니다!",
+  "native.shared.rating": [
+    "평가 ",
+    [
+      "rating"
+    ],
+    "개"
+  ],
+  "native.shared.ratings": [
+    "평가 ",
+    [
+      "rating"
+    ],
+    "개"
+  ],
+  "native.filter_screen.select_all": "모두 선택",
+  "native.marketing.buy_this_score": [
+    "이 악보를 ",
+    [
+      "price"
+    ],
+    "에 구매"
+  ],
+  "native.marketing.download_pdf": "[sb]이 악보[/sb] PDF 다운로드 또는 인쇄",
+  "native.marketing.full_view_score_title": "[sb]이 악보[/sb] 전체 보기 이용 권한 받기",
+  "native.autoscroll.alert.description": "이제 '자동 스크롤' 기능을 켜서 연주할 때\n음표가 항상 보이도록 할 수 있습니다",
+  "native.marketing.doubt_title": "아직 망설여지시나요?",
+  "native.marketing.doubt_offer": "신규 사용자 전용 특별 혜택!",
+  "native.marketing.terms_title": "더 짧은 기간으로 시작해 보세요",
+  "native.marketing.last_chance_title": [
+    [
+      "offerName"
+    ],
+    " 시작할 수 있는 마지막 기회"
+  ],
+  "native.marketing.membership_title": "멤버십을",
+  "native.marketing.with_trial_title": "무료 체험으로",
+  "native.filter_item_name.license.modify_commercially": "상업적 수정 가능",
+  "native.filter_item_name.license.use_commercially": "상업적 이용 가능",
+  "native.filter_item_name.license.share": "공유 가능",
+  "native.filter_item_name.license.personal_use": "개인적 용도로만",
+  "native.score_onboarding.tap_fullscreen": "전체 화면으로 보려면 탭하세요",
+  "native.score_onboarding.tap_fullscreen_desc": "악보 중앙을 한 번 탭하면 전체 화면으로 볼 수 있습니다.",
+  "native.score_onboarding.next_button": "다음",
+  "native.score_onboarding.change_notation_size": "악보 크기 변경",
+  "native.score_onboarding.change_notation_size_desc": "확대 아이콘을 탭하여 악보 크기를 변경하세요.",
+  "native.score_onboarding.toggle_cursor": "커서 켜기/끄기",
+  "native.score_onboarding.toggle_cursor_desc": "오디오 재생 커서를 표시하거나 숨깁니다.",
+  "native.score_onboarding.long_press_to_move": "길게 눌러 이동",
+  "native.score_onboarding.long_press_to_move_desc": "악보 아무 곳이나 길게 눌러 커서를 이동하세요.",
+  "native.user.access.pro.toast": "200만 개 이상의 커뮤니티 악보를 다운로드할 수 있습니다.",
+  "native.user.access.proPlus.toast": "100만 개 이상의 공식 악보를 연주하고 200만 개 이상의 커뮤니티 악보를 다운로드할 수 있습니다.",
+  "native.user.access.learn.toast": "강좌와 레슨을 무제한으로 이용할 수 있습니다.",
+  "native.user.access.learnLite.toast": "매월 강좌 1개를 이용할 수 있습니다.",
+  "native.user.access.books.toast": "Hal Leonard 악보집과 교본을 이용할 수 있습니다.",
+  "native.library.songbook_order_title": "저장된 주문",
+  "native.score.chip_ai_tutor": "AI 튜터",
+  "native.score.chip_zoom": "줌",
+  "native.score.chip_transp": "조옮김",
+  "native.score.transp_title": "선택한 조",
+  "native.score.save_for_offline": "오프라인 저장",
+  "native.score.about_this_score": "이 악보 정보",
+  "native.score.layout_title_vertical": "세로 스크롤",
+  "native.score.single_line": "한 줄 보기",
+  "native.score.hq_settings_description": "향상된 음질을 즐길 수 있는 기술입니다. (159MB)",
+  "native.score.display_cursor": "커서",
+  "native.marketing.download_this_score": "이 악보 다운로드",
+  "native.action.try": "사용해 보기",
+  "native.score.transpose_down": "내리기",
+  "native.apple_watch_control.title": "Apple Watch 제어",
+  "native.apple_watch_control.feature_subtitle": "재생 제어부터 메트로놈까지, 모두 Apple Watch에서",
+  "native.marketing.gift_title": "선물을 확인하세요",
+  "native.marketing.gift_disable_subscription": "활성 멤버십에는 반가운 깜짝 선물이 가득합니다. PRO, PRO+, LEARN, ONE 이용 권한도 포함됩니다.",
+  "native.marketing.gift_active_subscription": "활성 멤버십(모든 MuseScore 구독)이 있어야 선물을 받을 수 있습니다. 여기에는 PRO, PRO+, LEARN 및 ONE 구독이 포함됩니다.",
+  "native.marketing.gift_tomorrow_title": "내일 다시 방문하여 MuseScore의 새로운 혜택을 확인하세요",
+  "native.marketing.gift_daily_title": "오늘의 선물",
+  "native.marketing.gift_check_daily_title": "매일 체크인하고 모든 선물을 받아보세요",
+  "native.screen_tour.happy": "93% 이상의 사용자가 만족하고 있습니다.",
+  "native.marketing.get_premium_discount": [
+    "Premium 멤버십으로 [b]",
+    [
+      "discount"
+    ],
+    "% 할인[/b] 받기"
+  ],
+  "native.marketing.get_premium_discount_switch": "[b]할인 없음.[/b] 40% 할인을 적용하려면 스위치를 켜세요.",
+  "native.marketing.for_this_score": "(이 악보)",
+  "native.marketing.download_premium_score": [
+    "신뢰할 수 있는 사용자 커뮤니티가 채보한 최대 규모의 온라인 카탈로그(",
+    [
+      "scores"
+    ],
+    "m개 악보)에서 이 악보 또는 다른 악보를 무료로 다운로드하세요"
+  ],
+  "native.marketing.no_commitments": "약정 없음",
+  "native.marketing.secured_payment": "개인 및 결제 정보 보안",
+  "native.marketing.up_to_discount_scores": [
+    "이 악보 및 다른 악보에 대해 최대 ",
+    [
+      "discount"
+    ],
+    "% 할인"
+  ],
+  "native.marketing.continue_download": "다운로드 계속하기",
+  "native.trending_searches": "인기 검색어",
+  "native.trending_scores": "인기 악보",
+  "native.marketing.questions.agree.title": "이 말에 동의하시나요?",
+  "native.marketing.questions.agree.stay": "연습 의욕을 꾸준히 유지하기는 때때로 어려울 수 있습니다",
+  "native.marketing.questions.agree.stay_in_rhythm": "리듬을 유지하세요",
+  "native.marketing.questions.agree.can_remind": "MuseScore가 연습할 시간을 알려 드릴 수 있습니다",
+  "native.marketing.questions.social_proof.title": "MuseScore는 음악가를 위해 만들어졌습니다.",
+  "native.marketing.questions.social_proof.content": [
+    "여러분과 같은 음악가가 [b]1300만[/b] 명 이상 있으며, 그중에는 ",
+    [
+      "id100"
+    ],
+    " 사람들도 있습니다. MuseScore는",
+    [
+      "id103"
+    ],
+    " [b]160만[/b] 개의 악보를 제공합니다"
+  ],
+  "native.marketing.questions.agree.play_hard": "악기 연주는 어려울 수 있습니다",
+  "native.marketing.questions.agree.takes_time": "어떤 악곡이든 연주를 연습하는 데에는 시간이 걸립니다.",
+  "native.marketing.questions.agree.you_come": "제대로 찾아오셨습니다",
+  "native.marketing.questions.agree.we_know": "그래서 MuseScore는 연습 모드, 반복, 템포 조절 같은 도구를 제공합니다.",
+  "native.marketing.questions.agree.support": "MuseScore가 여러분의 연습을 도와드립니다",
+  "native.marketing.questions.agree.easier": "음악이 내 수준에 맞을 때 더 쉽게 성장할 수 있습니다",
+  "native.marketing.questions.agree.offers": "MuseScore는 다양한 악기와 레벨에 맞는 여러 버전을 제공합니다",
+  "native.marketing.questions.agree.reminds": "MuseScore가 연습 시간을 알려 드립니다",
+  "native.marketing.questions.social.trust": "공연을 준비하며 MuseScore를 믿고 의지하는",
+  "native.marketing.questions.social.spanning": " 20개의 다양한 장르에 걸쳐",
+  "native.marketing.questions.social.including": " 출판사로부터 직접 라이선스를 받은 고품질 콘텐츠를 포함해",
+  "native.marketing.questions.social.variety": " 다양한 편곡을 포함해",
+  "native.marketing.questions.social.suitable": " 완전 초보자부터 거장까지 여러분의 수준에 맞는",
+  "native.marketing.questions.social.more": " 170개 이상의 악기를 위한",
+  "native.marketing.questions.social.trust_rely": "좋아하는 음악을 마스터하기 위해 MuseScore를 믿고 의지하는",
+  "native.marketing.questions.social.different": "다양한 수준의 학생들을 열정적으로 가르치는",
+  "native.marketing.questions.social.share": "음악에 대한 열정을 나누는",
+  "native.typo_search.title": [
+    [
+      "result"
+    ],
+    "에 대한\n검색 결과"
+  ],
+  "native.typo_search.description": [
+    [
+      "result"
+    ],
+    "(으)로 검색하시겠어요?"
+  ],
+  "native.search.no.results_for_query": [
+    [
+      "query"
+    ],
+    "에 대한 검색 결과가 없습니다"
+  ],
+  "native.accessibility_statement": "접근성 선언문",
+  "native.ebooks.added_to_favorite": "저장한 악보집에 추가되었습니다. 🎉\n라이브러리에서 이 악보집을 찾을 수 있습니다.",
+  "native.ebooks.favorites_empty_subtitle": "악보집을 저장하면\n여기에 표시됩니다",
+  "native.ebooks.removed_from_favorite": "저장한 악보집에서 삭제되었습니다.",
+  "native.favorite_songbooks.empty_description": "악보집 라이브러리를 둘러보고 하트를 탭하여 여기에 저장하세요.",
+  "native.favorite_songbooks.empty_title": "나만의 악보집 컬렉션을 만드세요",
+  "native.followers.empty_description": "내 음악을 공유하고 팔로워가 늘어나는 것을 지켜보세요.",
+  "native.followers.empty_title": "아직 나를 찾은 청중이 없습니다",
+  "native.following.empty_description": "커뮤니티를 둘러보고 마음에 드는 창작자를 팔로우하세요.",
+  "native.following.empty_title": "아직 아무도 팔로우하지 않았습니다.",
+  "native.leave_a_review": "리뷰 남기기",
+  "native.marketing.combines_title": [
+    "현재 멤버십은 MuseScore ",
+    [
+      "type"
+    ],
+    "과(와) 완벽하게 어울립니다"
+  ],
+  "native.marketing.enjoy_discount": [
+    [
+      "planName"
+    ],
+    " 멤버십으로 [sb]",
+    [
+      "discount"
+    ],
+    "% 할인[/sb] 혜택을 누리세요"
+  ],
+  "native.marketing.offscores_licensed": "인쇄 악보 출판사로부터 라이선스를 받은 공식 악보 보기",
+  "native.marketing.use_credit": [
+    "MuseScore 크레딧 ",
+    [
+      "numberCredits"
+    ],
+    "개 사용"
+  ],
+  "native.new_search.sources.favorites": "저장한 항목에서",
+  "native.offline_scores.empty_description": "기기에 악보를 저장하는 공간입니다. 인터넷이 없어도 악보를 계속 이용할 수 있습니다. 검색에서 원하는 악보를 저장할 수 있습니다.",
+  "native.score.display_settings": "보기 설정",
+  "native.score_details_sheet.favorite_button": "저장",
+  "native.scoreLiked.rateScoreText.title": "저장한 악보에 추가됨",
+  "native.set.empty_button": "악보 추가",
+  "native.set.empty_description": "악보를 열고 “세트에 추가”를 탭하거나, 아래 버튼을 눌러 시작하세요.",
+  "native.set.empty_title": "이 세트리스트를 나만의 것으로 만들어 보세요",
+  "native.sets.empty_button": "세트 만들기",
+  "native.sets.empty_description": "플러스 아이콘을 탭하거나 아래 버튼을 눌러 시작하세요.",
+  "native.activity.notifications.your_score_favorited": "내 악보를 저장한 사용자",
+  "native.alertNotifications.favorites.remove_exp": "저장한 악보에서 삭제됨",
+  "native.comment.empty_description": "첫 댓글을 남겨 보세요.",
+  "native.empty_orders.description": "구매한 모든 악보가 여기에 표시되며, 다운로드, 인쇄, PDF 저장이 가능합니다.",
+  "native.empty_orders.title": "구매한 악보 컬렉션을 시작해 보세요",
+  "native.favorite_courses.empty_description": "마음에 드는 강좌를 찾으셨나요? 하트를 탭하여 여기에 보관하세요.",
+  "native.favorite_courses.empty_title": "나만의 강좌 라이브러리를 만드세요",
+  "native.feed.items.22": "님이 내 악보를 저장했습니다",
+  "native.feed.items.26": "님이 내가 저장한 악보에 댓글을 남겼습니다",
+  "native.filter.results": "결과",
+  "native.identify_sheet_description": "악보를 찾아 드립니다",
+  "native.identify_sheet_title": "탭하여 곡 인식하기",
+  "native.identify_song_button_title": "곡 인식하기",
+  "native.identify_song_notification_title": "감사합니다! 기능 우선순위를 정할 수 있도록 응답을 팀과 공유하겠습니다.",
+  "native.identify_song_sheet_no": "괜찮습니다",
+  "native.identify_song_sheet_subtitle": "곧 주변에서 재생되는 곡을 들려주면 MuseScore가 이를 듣고 식별한 뒤 악보를 찾아드릴 수 있게 됩니다. 준비되면 알림을 받으시겠어요?",
+  "native.identify_song_sheet_title": "음악 인식 기능이\n곧 출시됩니다",
+  "native.library.empty_favorites_title": "아직 저장한 악보가 없습니다",
+  "native.library.favorites.desc": "저장한 모든 항목은 여기에서 확인할 수 있습니다. 마음에 드는 악보의 하트를 탭하면 여기에 저장됩니다.",
+  "native.library.favorites.desc_offline": "인터넷에 연결하여 악보를 찾고 저장하세요",
+  "native.library.favorites.search_btn_title": "악보 찾기",
+  "native.library.my_local_saved_scores": "내 기기에 저장된 악보",
+  "native.library.my_purchased_courses_title": "내가 구매한 강좌",
+  "native.library.my_purchased_scores_title": "내가 구매한 악보",
+  "native.library.my_purchased_songbooks_title": "내가 구매한 악보집",
+  "native.library.my_uploaded_scores_title": "내가 업로드한 악보",
+  "native.library.recent_favorites": "최근 저장한 항목",
+  "native.library.songbook.title": "오프라인 악보",
+  "native.notifications.empty_description": "여기에서 모든 팔로우, 좋아요 및 댓글을 확인하세요.",
+  "native.notifications.empty_title": "사랑을 느껴보세요",
+  "native.score_actions.can_be_made_offline": "저장한 악보에 추가되었습니다.\n오프라인에서도 이용하도록 설정할 수 있습니다",
+  "native.search.placeholder_scores": "악보 검색",
+  "native.sure_thing": "물론입니다",
+  "native.make_public.update_visibility": "공개 범위 업데이트",
+  "native.make_public.manage_access": "접근 권한 관리",
+  "native.make_public.copyright_settings": "저작권 설정",
+  "native.make_public.based_on_toggle": "기존 음악을 바탕으로 한 악보입니다",
+  "native.make_public.based_on_toggle_subtitle": "(예: The Beatles, Ludwig van Beethoven)",
+  "native.make_public.based_on_label": "악보의 원곡",
+  "native.make_public.based_on_placeholder": "곡 선택",
+  "native.make_public.score_title_placeholder": "곡 제목 – 작곡가 또는 아티스트",
+  "native.make_public.genre_placeholder": "장르 선택",
+  "native.make_public.select_genre": "장르 선택",
+  "native.make_public.genre_subtitle": [
+    "악보에 장르를 최대 ",
+    [
+      "count"
+    ],
+    "개까지 추가하세요"
+  ],
+  "native.make_public.genre_limit_error": [
+    "악보에는 장르를 ",
+    [
+      "count"
+    ],
+    "개까지만 추가할 수 있습니다"
+  ],
+  "native.make_public.enable_download": "악보 다운로드 허용",
+  "native.make_public.legal_text": "게시하면 악보가 이용약관을 준수하며 타인의 권리를 침해하지 않음을 확인하는 것입니다. 확실하지 않다면 저작권 정보 페이지와 커뮤니티 가이드라인을 확인하세요.",
+  "native.make_public.success_toast": "악보 공개 범위가 업데이트되었습니다",
+  "native.make_public.error_generic": "악보를 업데이트하지 못했습니다. 다시 시도해 주세요.",
+  "native.make_public.composition_error": "악보를 업데이트하려면 정보를 입력하세요",
+  "native.make_public.unsaved_title": "변경 사항이 저장되지 않았습니다",
+  "native.make_public.unsaved_message": "변경 사항을 버리시겠습니까?",
+  "native.make_public.unsaved_stay": "계속 편집",
+  "native.make_public.unsaved_leave": "나가기",
+  "native.make_public.copyright_cc_zero": "크리에이티브 커먼즈, 저작권 포기",
+  "native.library.favorites.title": "좋아하는 악보를 저장하세요",
+  "native.library.favorites_courses.desc_1": "저장한 모든 강좌는 여기에서 확인할 수 있습니다. 영감을 주는 강좌나 나중에 들어 보고 싶은 강좌를 추가해 보세요.",
+  "native.alertNotifications.favorites.remove": "저장한 악보에서 삭제됨",
+  "native.alertNotifications.favorites.add": "저장한 악보에 추가됨",
+  "native.marketing.up_to_discount": [
+    "악보 최대 ",
+    [
+      "discount"
+    ],
+    "% 할인"
+  ],
+  "native.identify_song_sheet_yes": "관심 있습니다",
+  "native.unsubscribe.button": "구독을 취소하고 싶습니다",
+  "native.manage.subscription": "구독 관리",
+  "native.subscription_description": [
+    "웹 또는 MuseScore ",
+    [
+      "platform"
+    ],
+    " 앱에서 가입한 구독의 가격은 웹사이트 프로필에서 확인할 수 있습니다"
+  ],
+  "native.your_preference": "내 선호 설정",
+  "native.start_calibration": "보정 시작",
+  "native.soundcheck": "사운드 체크",
+  "native.calibration_text": "마이크 보정을 위해 짧고 큰 소리가 재생됩니다. 잠시만 기다려 주세요!",
+  "native.score_details.accessibility.favorite_inactive": "라이브러리에 악보 저장",
+  "native.score_details.accessibility.favorite_active": "라이브러리에 악보가 저장됨",
+  "native.screen_omr.choose_title": "방법 선택",
+  "native.screen_omr.error_recommendation": "다른 파일을 선택하거나 나누어서 스캔하세요. 오류 해결 방법 안내입니다.",
+  "native.screen_omr.upload_musescore_studio_score": "MuseScore Studio 악보 업로드",
+  "native.screen_omr.upload_pdf_file": "PDF 파일 업로드",
+  "native.screen_omr.upload_image_from_gallery": "갤러리에서 이미지 업로드",
+  "native.screen_omr.scan_from_photo": "사진에서 스캔",
+  "native.screen_omr.error_file_size_exceeds_5mb": "파일 크기가 5MB를 초과합니다. 더 작은 파일을 선택하세요",
+  "native.screen_omr.error_total_size_exceeds_75mb": "전체 파일 크기가 75MB를 초과합니다. 파일 수를 줄이거나 더 작은 파일을 선택하세요",
+  "native.screen_omr.error_total_size_exceeds_50mb": "전체 파일 크기가 50MB를 초과합니다. 파일 수를 줄이거나 더 작은 파일을 선택하세요",
+  "native.screen_omr.error_max_files_allowed": [
+    "최대 ",
+    [
+      "count"
+    ],
+    "개의 파일을 선택할 수 있습니다"
+  ],
+  "native.screen_omr.how_to_scan_title": "악보 스캔 방법",
+  "native.screen_omr.incorrect": "잘못된 예",
+  "native.screen_omr.correct": "올바른 예",
+  "native.screen_omr.general_tips": "일반 팁:",
+  "native.screen_omr.tip_keep_page_in_frame": "페이지 전체가 프레임 안에 들어오게 하세요",
+  "native.screen_omr.tip_hold_steady": "이미지가 선명하도록 휴대폰을 흔들림 없이 잡으세요",
+  "native.screen_omr.tip_one_page_per_photo": "사진 한 장에 한 페이지씩 촬영하세요",
+  "native.screen_omr.tip_shoot_straight_down": "카메라를 기울이지 말고 바로 위에서 촬영하세요",
+  "native.screen_omr.take_photo": "사진 촬영",
+  "native.screen_omr.file_uploading": "파일 업로드 중...",
+  "native.screen_omr.upload_error": "업로드 오류",
+  "native.screen_omr.no_files_to_scan": "스캔할 파일이 없습니다",
+  "native.screen_omr.ai_scan_title": "AI 스캔",
+  "native.screen_omr.start_scanning": "스캔 시작",
+  "native.screen_omr.files_sent_title": "파일이 스캔을 위해\n전송되었습니다",
+  "native.screen_omr.files_sent_description": "시간이 다소 걸릴 수 있습니다.\n\n모든 준비가 완료되면 알림을 보내 드리겠습니다.",
+  "native.screen_omr.success_take_some_time": "시간이 다소 걸릴 수 있습니다.",
+  "native.screen_omr.success_will_notify": "모든 준비가 완료되면 알림을 보내 드리겠습니다.",
+  "native.screen_omr.cancel_upload_title": "업로드를 취소하시겠습니까?",
+  "native.screen_omr.cancel_upload_description": "지금 중단하면 파일 처리가 완료되지 않습니다. 준비되면 언제든지 무료로 다시 스캔할 수 있습니다.",
+  "native.screen_omr.continue_upload": "업로드 계속하기",
+  "native.screen_omr.cancel_upload": "업로드 취소",
+  "native.screen_omr.ai_scan_description": "좋아하는 악보의 디지털 버전을 이용하고 오프라인에서도 언제든지 볼 수 있습니다.",
+  "native.screen_omr.continue_to_scan": "스캔 계속하기",
+  "native.screen_omr.open_settings": "설정 열기",
+  "native.screen_omr.no_camera_message": "카메라 모듈을 찾을 수 없습니다. 기기가 사진 촬영을 지원하지 않거나 카메라 모듈이 고장 났을 수 있습니다.",
+  "native.screen_omr.error_uploading_file": "파일 업로드 중 오류 발생",
+  "native.screen_omr.error_uploading_files": "파일 업로드 중 오류 발생",
+  "native.marketing.question.do_yo_like": [
+    [
+      "authorName"
+    ],
+    "의 음악을 좋아하시나요?"
+  ],
+  "native.score.layout_title_portrait_view": "페이지 보기",
+  "native.settings.score.set_default_tempo": "기본 템포 설정",
+  "native.score.play_button": "재생",
+  "native.alertNotifications.songbook.remove": "악보가 오프라인 이용 목록에서 삭제되었습니다",
+  "native.alertNotifications.songbook.add_exp": "악보가 오프라인용으로 저장되었습니다",
+  "native.instrument.saxophone": "색소폰",
+  "native.new_concept.tab_bar.home": "홈",
+  "native.new_concept.tab_bar.learn": "Learn",
+  "native.new_concept.common.all": "전체",
+  "native.new_concept.common.purchased": "구매한 항목",
+  "native.new_concept.common.check_spelling_hint": "철자를 확인하거나 다른 검색어를 시도해 주세요",
+  "native.new_concept.common.results_count": [
+    "결과 ",
+    [
+      "count"
+    ],
+    "개"
+  ],
+  "native.new_concept.common.error_title": "문제가 발생했습니다",
+  "native.new_concept.common.error_connection_hint": "연결 상태를 확인하고 다시 시도해 주세요",
+  "native.new_concept.common.sorting_options": "정렬 옵션",
+  "native.new_concept.common.filters": "필터",
+  "native.new_concept.home.greeting.morning": "좋은 아침이에요",
+  "native.new_concept.home.greeting.afternoon": "좋은 오후예요",
+  "native.new_concept.home.greeting.evening": "좋은 저녁이에요",
+  "native.new_concept.home.greeting.night": "편안한 밤 되세요",
+  "native.new_concept.home.playlists": "플레이리스트",
+  "native.new_concept.home.easy_pieces_for_you": "맞춤 추천 쉬운 곡",
+  "native.new_concept.home.browse_favorite_genres": "좋아하는 장르 둘러보기",
+  "native.new_concept.home.level_up_music_theory": "음악 이론 실력 향상",
+  "native.new_concept.home.explore_scores": "악보 둘러보기",
+  "native.new_concept.home.scores_count": [
+    "악보 ",
+    [
+      "count"
+    ],
+    "개"
+  ],
+  "native.new_concept.home.genre_empty": "이 장르에는 아직 악보가 없습니다",
+  "native.new_concept.home.view_more_scores": "악보 더 보기",
+  "native.new_concept.playlist.empty_title": "이 플레이리스트는 비어 있습니다",
+  "native.new_concept.playlist.empty_description": "이 플레이리스트의 악보가 여기에 표시됩니다.",
+  "native.new_concept.search.popular_songbooks": "인기 악보집",
+  "native.new_concept.search.browse_by_genre": "장르별 둘러보기",
+  "native.new_concept.search.recent_searches": "최근 검색어",
+  "native.new_concept.learn.no_courses_found": "강좌를 찾을 수 없습니다",
+  "native.new_concept.learn.empty_all_title": "아직 강좌가 없습니다",
+  "native.new_concept.learn.empty_all_description": "카탈로그를 둘러보고 새로운 것을 배워 보세요.",
+  "native.new_concept.learn.empty_saved_title": "저장한 강좌가 없습니다",
+  "native.new_concept.learn.empty_saved_description": "관심 있는 강좌를 저장하면 나중에 여기에서 찾을 수 있습니다.",
+  "native.new_concept.learn.empty_purchased_title": "구매한 강좌가 없습니다",
+  "native.new_concept.learn.empty_purchased_description": "구매한 강좌가 여기에 표시됩니다.",
+  "native.new_concept.learn.lessons_count": [
+    "레슨 ",
+    [
+      "count"
+    ],
+    "개"
+  ],
+  "native.new_concept.learn.course_hours_short": [
+    [
+      "count"
+    ],
+    "시간"
+  ],
+  "native.new_concept.library.search_placeholder": "내 라이브러리에서 악보 검색",
+  "native.new_concept.library.filter_my_uploads": "내 업로드",
+  "native.new_concept.library.filter_offline_access": "오프라인 이용",
+  "native.new_concept.library.sort_recent": "최근",
+  "native.new_concept.library.sort_most_viewed": "조회수 높은 순",
+  "native.new_concept.library.empty_scores_title": "나만의 악보 컬렉션을 만드세요",
+  "native.new_concept.library.empty_scores_description": "악보를 둘러보고 마음에 드는 악보의 하트를 탭해 저장하세요.",
+  "native.new_concept.library.empty_songbooks_title": "나만의 악보집 컬렉션을 만드세요",
+  "native.new_concept.library.empty_songbooks_description": "악보집을 둘러보고 마음에 드는 악보집을 저장하세요.",
+  "native.new_concept.library.empty_set_title": "이 세트는 비어 있습니다",
+  "native.new_concept.library.empty_set_description": "이 세트에 추가한 악보가 여기에 표시됩니다.",
+  "native.new_concept.library.search_empty_title": "라이브러리에서 일치하는 항목을 찾을 수 없습니다",
+  "native.new_concept.filter_sheet.all_instruments": "모든 악기",
+  "native.new_concept.filter_sheet.all_ensembles": "모든 앙상블",
+  "native.new_concept.filter_sheet.all_genres": "모든 장르",
+  "native.new_concept.upload.title": "악보 추가",
+  "native.new_concept.upload.description": "악보 사진을 찍거나 파일을 선택하세요",
+  "native.new_concept.upload.from_gallery": "갤러리에서",
+  "native.new_concept.upload.scan_with_camera": "카메라로 스캔",
+  "native.new_concept.upload.browse_files": "파일 찾아보기",
+  "native.new_concept.upload.invalid_file_error": "MSCZ 또는 PDF 파일을 선택하세요",
+  "native.search.placeholder_courses": "강좌 검색",
+  "native.search.no.results": "검색 결과 없음",
+  "native.view.all": "모두 보기",
+  "native.screen_omr.upload": "업로드",
+  "native.screen_omr.retake_photo": "다시 촬영",
+  "native.genre.classical": "클래식",
+  "native.genre.pop": "팝",
+  "native.genre.rock": "록",
+  "native.genre.folk": "포크",
+  "native.genre.jazz": "재즈",
+  "native.genre.soundtrack": "사운드트랙",
+  "native.genre.electronic": "일렉트로닉",
+  "native.genre.hip_hop": "힙합",
+  "native.genre.metal": "메탈",
+  "native.genre.religious_music": "종교 음악",
+  "native.genre.world_music": "월드 뮤직",
+  "native.genre.country": "컨트리",
+  "native.genre.reggae_and_ska": "레게 & 스카",
+  "native.genre.rnb_funk_and_soul": "R&B, 펑크 & 소울",
+  "native.genre.experimental": "실험 음악",
+  "native.genre.new_age": "뉴에이지",
+  "native.genre.blues": "블루스",
+  "native.genre.comedy": "코미디",
+  "native.genre.disco": "디스코",
+  "native.genre.darkwave": "다크웨이브",
+  "native.instrument.bass_guitar": "베이스 기타",
+  "native.instrument.soprano": "소프라노",
+  "native.instrument.tenor": "테너",
+  "native.instrument.alto": "알토",
+  "native.instrument.glockenspiel": "글로켄슈필",
+  "native.instrument.bass_voice": "베이스(성악)",
+  "native.instrument.snare_drum": "스네어 드럼",
+  "native.instrument.bass_drum": "베이스 드럼",
+  "native.instrument.marimba": "마림바",
+  "native.instrument.vibraphone": "비브라폰",
+  "native.instrument.euphonium": "유포니움",
+  "native.instrument.crash": "크래시 심벌",
+  "native.instrument.clarinet_bass": "베이스 클라리넷",
+  "native.instrument.xylophone": "실로폰",
+  "native.instrument.tubular_bells": "튜블러 벨",
+  "native.instrument.tenor_drum": "테너 드럼",
+  "native.instrument.trombone_bass": "베이스 트롬본",
+  "native.instrument.baritone": "바리톤",
+  "native.instrument.ukulele": "우쿨렐레",
+  "native.instrument.trombone_tenor": "테너 트롬본",
+  "native.instrument.tambourine": "탬버린",
+  "native.instrument.natural_horn": "내추럴 호른",
+  "native.instrument.cornet": "코넷",
+  "native.instrument.triangle": "트라이앵글",
+  "native.instrument.mellophone": "멜로폰",
+  "native.instrument.celesta": "첼레스타",
+  "native.instrument.hand_clap": "손뼉",
+  "native.instrument.mezzo_soprano": "메조 소프라노",
+  "native.instrument.banjo": "밴조",
+  "native.instrument.female": "여성",
+  "native.instrument.male": "남성",
+  "native.instrument.flute_alto": "알토 플루트",
+  "native.instrument.woodblock": "우드블록",
+  "native.instrument.flugelhorn": "플루겔혼",
+  "native.instrument.handbells": "핸드벨",
+  "native.instrument.claves": "클라베스",
+  "native.instrument.mandolin": "만돌린",
+  "native.instrument.conga": "콩가",
+  "native.instrument.contrabassoon": "콘트라바순",
+  "native.instrument.bongo": "봉고",
+  "native.instrument.trumpet_piccolo": "피콜로 트럼펫",
+  "native.instrument.steel_drums": "스틸 드럼",
+  "native.instrument.tom_tom": "톰톰",
+  "native.instrument.maraca": "마라카스",
+  "native.instrument.saxophone_bass": "베이스 색소폰",
+  "native.instrument.harmonium": "풍금",
+  "native.instrument.hi-hat": "하이햇",
+  "native.instrument.crotales": "크로탈레스",
+  "native.instrument.pipes": "파이프 악기",
+  "native.instrument.clavichord": "클라비코드",
+  "native.instrument.kalimba": "칼림바",
+  "native.instrument.lute": "류트",
+  "native.instrument.trumpet_bass": "베이스 트럼펫",
+  "native.instrument.cabasa": "카바사",
+  "native.instrument.kazoo": "카주",
+  "native.instrument.stamp": "스탬프",
+  "native.instrument.tamtam": "탐탐",
+  "native.instrument.clarinet_contrabass": "콘트라베이스 클라리넷",
+  "native.instrument.trombone_alto": "알토 트롬본",
+  "native.instrument.snap": "스냅",
+  "native.instrument.sitar": "시타르",
+  "native.instrument.gong": "공",
+  "native.instrument.melodica": "멜로디카",
+  "native.instrument.ride": "라이드 심벌",
+  "native.instrument.castanets": "캐스터네츠",
+  "native.instrument.flute_bass": "베이스 플루트",
+  "native.instrument.viol": "비올",
+  "native.instrument.nyckelharpa": "니켈하르파",
+  "native.instrument.erhu": "얼후",
+  "native.instrument.metallophone": "철금",
+  "native.instrument.rototom": "로토톰",
+  "native.instrument.shamisen": "샤미센",
+  "native.instrument.guiro": "구이로",
+  "native.instrument.fiddle": "피들",
+  "native.instrument.bouzouki": "부주키",
+  "native.instrument.timbale": "팀발레스",
+  "native.instrument.alto_horn": "알토 호른",
+  "native.instrument.slap": "슬랩",
+  "native.instrument.chinese": "중국 악기",
+  "native.instrument.frame_drum": "프레임 드럼",
+  "native.instrument.bandoneon": "반도네온",
+  "native.instrument.child": "어린이",
+  "native.instrument.synth_voice": "신스 보이스",
+  "native.instrument.tabla": "타블라",
+  "native.instrument.zither": "치터",
+  "native.instrument.whistle": "휘슬",
+  "native.instrument.celtic_harp": "켈틱 하프",
+  "native.instrument.taiko": "타이코",
+  "native.instrument.tambura": "탐부라",
+  "native.instrument.strings_synth": "현악기 신스",
+  "native.instrument.concertina": "콘서티나",
+  "native.instrument.virginal": "버지널",
+  "native.instrument.trumpet_tenor": "테너 트럼펫",
+  "native.instrument.theorbo": "테오르보",
+  "native.instrument.vienna_horn": "비엔나 호른",
+  "native.instrument.baryton": "바리톤",
+  "native.instrument.balalaika_contrabass": "콘트라베이스 발랄라이카",
+  "native.instrument.rag-dung": "라그둥",
+  "native.instrument.octobass": "옥토베이스",
+  "native.instrument.balalaika_bass": "베이스 발랄라이카",
+  "native.instrument.flute_contra-alto": "콘트라 알토 플루트",
+  "native.instrument.balalaika_prima": "프리마 발랄라이카",
+  "native.instrument.balalaika_piccolo": "피콜로 발랄라이카",
+  "native.instrument.cajon": "카혼",
+  "native.instrument.balalaika_alto": "알토 발랄라이카",
+  "native.instrument.djembe": "젬베",
+  "native.instrument.balalaika_secunda": "세쿤다 발랄라이카",
+  "native.instrument.fiscorn": "피스콘",
+  "native.instrument.kuhlohorn": "쿨로혼",
+  "native.instrument.bell-lyre": "벨리라",
+  "native.instrument.autoharp": "오토하프",
+  "native.instrument.bodhran": "보드란",
+  "native.instrument.guzheng": "고쟁",
+  "native.instrument.dumbek": "둠벡",
+  "native.instrument.baglama": "바을라마",
+  "native.instrument.domra": "돔라",
+  "native.instrument.jarana_huasteca": "하라나 우아스테카",
+  "native.instrument.darabuka": "다라부카",
+  "native.instrument.percussion_-_hand_drum": "타악기 - 핸드 드럼",
+  "native.instrument.percussion_-_unpitched": "타악기 - 무음정",
+  "native.instrument.select_all": "모두 선택",
+  "native.marketing.download_community_scores_title": "커뮤니티 악보 다운로드",
+  "native.marketing.mixer_metronome_hq_title": "조옮김, 믹서, 메트로놈, HQ 사운드",
+  "native.marketing.your_personal_offer": "맞춤 혜택",
+  "native.marketing.your_plan": "내 요금제",
+  "native.orders.empty_purchased_title": "아직 구매한 항목이 없습니다",
+  "native.orders.restore_purchase_prompt": "빠진 항목이 있나요?",
+  "native.orders.restore_purchase_link": "구매 복원",
+  "native.orders.restore_purchase_checking": "구매 내역 확인 중...",
+  "native.orders.restore_purchase_toast": "새 악보가 라이브러리에 추가되었습니다",
+  "native.email_verification.toast_title": "가입을 완료하려면 이메일을 인증하세요.",
+  "native.email_verification.toast_action": "탭하여 링크 보내기",
+  "native.email_verification.link_sent_toast": "인증 링크가 전송되었습니다",
+  "native.instrument.acoustic_guitar": "어쿠스틱 기타",
+  "native.instrument.all_instruments": "모든 악기",
+  "native.instrument.classical_guitar": "클래식 기타",
+  "native.instrument.electric_guitar": "일렉트릭 기타",
+  "native.instrument.drum_(other)": "드럼 (기타)",
+  "native.device_verification.title": "기기를 인증할 수 없습니다",
+  "native.device_verification.message": "MuseScore에서 이 기기가 Google의 Android 호환성 요구 사항을 충족하는지 확인하지 못해 지금은 악보를 열 수 없습니다. 일시적인 문제인 경우가 많습니다. 다시 시도하거나 요구 사항에 대해 자세히 알아보세요.",
+  "native.device_verification.learn_more": "자세히 알아보기",
+  "native.nps.rating_title": "악보를 보고 연주하는 사람에게 이 앱을 추천할 가능성은 얼마나 되나요?",
+  "native.nps.rating_min": "전혀 추천하지 않음",
+  "native.nps.rating_max": "매우 추천함",
+  "native.nps.reason_title": "그렇게 평가하신 가장 큰 이유는 무엇인가요?",
+  "native.nps.reason_subtitle": "더 나은 경험을 위해 도와주세요",
+  "native.nps.reason_placeholder": "의견 남기기",
+  "native.nps.submit": "제출",
+  "native.nps.thanks": "의견을 보내 주셔서 감사합니다!",
+  "native.screen_omr.error_photo_unavailable": "사진을 불러올 수 없습니다. iCloud에 저장되어 있다면, Photos에서 해당 사진을 열어 다운로드한 다음 다시 시도해 주세요.",
+  "native.daily_reminders.tour.almost_there": "Almost there!",
+  "native.score_action_sheet.your_review_helps": "리뷰를 남겨 주시면 더 많은 사람에게 알려지고 음악가 커뮤니티가 성장하는 데 큰 도움이 됩니다",
+  "native.screen_notifications.description": "신곡과 독점 콘텐츠 소식을 바로 받아보세요!",
+  "native.screen_profile.want_to_logout": "Are you sure you want to log out?",
+  "native.screen_mixer.visibility_one_part": "이 파트만 표시하시겠습니까?",
+  "native.share.title": "MuseScore 악보",
+  "native.permissions.storage.denied_alert_message": "기기의 설정 메뉴에서 MuseScore 앱의 저장공간 접근을 허용해 주세요: 설정 -> 앱 -> MuseScore -> 권한 -> 저장공간",
+  "native.permissions.storage.modal.title": "MuseScore의 저장공간 접근 허용",
+  "native.permissions.storage.modal.message": "MuseScore 앱에서 악보를 열려면 MuseScore의 기기 저장공간 접근을 허용해 주세요.",
+  "native.screen_tour.muse_score_one_instant_text": [
+    "구독 하나로 모든 것을 해결하세요 — ",
+    [
+      "discount"
+    ],
+    "% 할인"
+  ],
+  "native.marketing_text.metronome": "[b]\"메트로놈\"[/b] 도구를 잠금 해제하여 정확한 박자와 템포 감각을 익히고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing_text.mixer": "[b]믹서[/b] 도구를 잠금 해제하여 악기별로 따로 조절하고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing_text.export_pdf": "[b]\"PDF로 내보내기\"[/b] 도구를 잠금 해제하여 악보를 인쇄하고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing_text.export_midi": "[b]\"MIDI로 내보내기\"[/b] 도구를 잠금 해제하여 다른 음악 소프트웨어에서 악보를 사용하고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing_text.export_mp3": "[b]\"MP3로 내보내기\"[/b] 도구를 잠금 해제하여 악보를 오디오 파일로 듣고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing_text.transpose": "[b]\"조옮김\"[/b] 도구를 잠금 해제하여 원하는 조성으로 바꾸고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing_text.songbook": "[b]오프라인 이용[/b]을 잠금 해제하여 인터넷 연결 없이도 좋아하는 악보를 보고 연주하고, [b]PRO[/b] 계정의 [a]다른 멋진 도구들[/a]도 이용해 보세요.",
+  "native.marketing_text.open_file": "더 편리하게 이용할 수 있는 [b]\"다양한 출처에서 파일 열기\"[/b] 기능을 잠금 해제하고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing_text.hq_sound": "[b]\"향상된 사운드\"[/b]와 [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]을 잠금 해제하세요. 추가 사운드 파일(159MB)을 다운로드해야 하며, Wi-Fi 사용을 권장합니다.",
+  "native.marketing_text.keyboard": "[b]건반[/b] 도구를 잠금 해제하여 각 음을 어떻게 연주하는지 확인하고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing_text.auto_scroll": "[b]자동 스크롤[/b] 도구를 잠금 해제하여 연주하는 동안 음표가 항상 보이게 하고, [b]PRO[/b] 계정의 [a]다른 멋진 기능들[/a]도 이용해 보세요.",
+  "native.marketing.lets_get_started": "[c]시작해 볼까요?[/c]",
+  "native.marketing.lets_get_to_know_each_other": "서로 알아가 볼까요?",
+  "native.marketing.questions.instrument.list.other_strings": "기타 현악기",
+  "native.song_book_remove.title": "다음 악보를 삭제하시겠습니까:",
+  "native.screen_comments.be_first": "첫 댓글을 남겨 대화를 시작해 보세요",
+  "native.library.my_scores.title": "MuseScore에 악보를 보관하세요!",
+  "native.library.my_scores.desc": "악보를 MuseScore.com에 업로드하면 어떤 기기에서든 온라인으로 이용할 수 있습니다.\n\n현재 악보 업로드는 MuseScore.com 데스크톱 버전에서만 가능합니다.",
+  "native.library.songbook.desc_android": "기기에 악보를 저장하는 공간입니다. 인터넷이 없어도 악보를 계속 이용할 수 있습니다. 검색에서 원하는 악보를 저장하거나, 편집기에서 만든 MSCZ 파일을 불러올 수 있습니다.",
+  "native.library.songbook.desc": "기기에 악보를 저장하는 공간입니다. 인터넷이 없어도 악보를 계속 이용할 수 있습니다. 검색에서 원하는 악보를 저장할 수 있습니다.",
+  "native.library.songbook.desc_order": "기기에 악보를 저장하는 공간입니다. 인터넷이 없어도 악보를 계속 이용할 수 있습니다. 주문 목록에서 원하는 악보를 저장할 수 있습니다.",
+  "native.new_search.sources.songbook": "오프라인 이용 가능",
+  "native.alertNotifications.songbook.add": "악보가 오프라인용으로 저장되었습니다",
+  "native.courses.complete_course": [
+    "«",
+    [
+      "name"
+    ],
+    "» 강좌를 완료했습니다!"
+  ],
+  "native.courses.course_type": "Course type",
+  "native.screen_sft.carousel.songbook_title": "오프라인 이용",
+  "native.credits.balance": "사용 가능한 [b]PRO 크레딧이 [n]userBalance[n]개[/b] 있습니다. 크레딧 받기",
+  "native.credits.description": "방대한 커뮤니티 컬렉션([n]numberScores[n]M개의 악보)에서 원하는 악보를 다운로드하는 등 PRO 기능을 경험해 보세요.",
+  "native.credits.balance_sub_title": "잔액 충전",
+  "native.credits.balance_top_up_success": [
+    "계정에 PRO 크레딧 ",
+    [
+      "count"
+    ],
+    "개가 충전되었습니다. 크레딧으로 원하는 악보의 PRO 이용 권한을 받으세요."
+  ],
+  "native.sets.delete_warning": "이 악보를 세트에서 제거하시겠습니까?",
+  "native.sets.no_search_result": "Sorry, we couldn’t find anything. Please try another wording.",
+  "native.screen_tour.get_most_with_pro+": "MuseScore PRO+로 완벽한 반주를 더해 보는 건 어떨까요?",
+  "native.screen_tour.achieve_goals": "연간 요금제를 이용하는 음악가는 목표를 달성할 가능성이 91% 더 높습니다.",
+  "native.screen_tour.support_program_text": "젊은 음악가를 위한 전용 지원 프로그램이 있습니다.",
+  "native.ebook.filter_empty_subtitle": "죄송합니다. 일치하는 항목을 찾을 수 없습니다. \n 철자를 확인하거나 다른 검색어를 시도해 주세요.",
+  "native.ebooks.orders_empty_title": "아직 보유한 악보집이 없습니다",
+  "native.create_account.privacy": "계정을 만들면 MuseScore [link url=https://musescore.com/legal/terms]서비스 약관[/link] 및 [link url=https://musescore.com/legal/privacy]개인정보 처리방침[/link]에 동의하는 것으로 간주됩니다.",
+  "native.date.today_in": [
+    "오늘 ",
+    [
+      "time"
+    ]
+  ],
+  "native.date.yesterday_in": [
+    "어제 ",
+    [
+      "time"
+    ]
+  ],
+  "native.review.delete_confirmation_title": "Are you sure you want to delete this review?",
+  "native.marketing.7dayTrialWithPrice": [
+    "7일 무료 체험 후 연 ",
+    [
+      "price"
+    ]
+  ],
+  "native.pedal.feedback.description": "요청하신 기능이 MuseScore 앱에 추가되었습니다. 기기 종류가 매우 다양해 아직 베타 버전으로 제공됩니다. 많은 기기에서 테스트했지만 모든 기기를 확인하지는 못했으니, 피드백을 보내 주시면 감사하겠습니다.",
+  "native.marketing.compete_your_purchase": "사용 가능한 결제 수단 중 하나로 구매를 완료하세요",
+  "native.marketing.questions.instrument.title": "어떤 악기를 연주하시나요, 또는 연주를 시작하고 싶으신가요?",
+  "native.marketing.questions.goal.teach": "음악 가르치기",
+  "native.marketing.personal_songbook_title": "오프라인에서 악보 이용",
+  "native.courses.voted.error": "이미 이 강좌를 평가하셨습니다",
+  "native.user.access.premium.toast": "모든 악보 구매 시 50% 할인 혜택을 받습니다.",
+  "native.score.hq_settings_title": "MuseScore HQ+ Sound",
+  "native.marketing.subscription_problem": [
+    "Something is wrong with your ",
+    [
+      "storeName"
+    ],
+    " account or internet connection. Try restarting the application and check your internet connection and your account."
+  ],
+  "native.sets.empty_title": "You don’t have sets yet",
+  "native.activity.empty_list.desc": "알림을 켜 두면 아무것도 놓치지 않습니다. 누군가 나를 팔로우하거나, 내 악보를 저장하거나, 내 댓글에 답글을 달면 바로 알 수 있습니다. 모두 여기에서 확인하세요.",
+  "native.addFavoritesAndSaveOffline2": "저장한 악보에 추가되었습니다. \n인터넷 없이도 이용하시겠어요?",
+  "native.screen_omr.error_max_one_pdf": "PDF 파일은 1개만 선택할 수 있습니다",
+  "native.screen_omr.error_selecting_pdf": "PDF 선택 중 오류 발생",
+  "native.screen_omr.success_file_sent_title": "파일이 스캔을 위해 전송되었습니다.",
+  "native.screen_omr.no_camera_permission_message": "인쇄된 악보를 촬영할 수 있도록 MuseScore의 카메라 접근을 허용해 주세요",
+  "native.screen_omr.error_upload_mscz": "MSCZ 파일 업로드 오류",
+  "native.screen_omr.error_failed_create_mscz": "MSCZ 파일을 생성하지 못했습니다",
+  "native.screen_omr.error_create_mscz": "MSCZ 파일 생성 오류",
+  "native.score_info.play_button": "보기 및 연주",
+  "native.instrument.trumpet_in_b-flat": "B♭ 트럼펫",
+  "native.instrument.clarinet_in_b-flat": "B♭ 클라리넷",
+  "native.instrument.trumpet_in_c": "C 트럼펫",
+  "native.instrument.clarinet_in_e-flat": "E♭ 클라리넷",
+  "native.instrument.clarinet_in_a": "A 클라리넷",
+  "native.instrument.trumpet_in_d": "D 트럼펫",
+  "native.instrument.ondes_martenot": "Ondes Martenot",
+  "native.screen_login.consent_offer_opt_out": "특별 혜택 이메일을 받지 않겠습니다",
+  "native.screen_login.mob_web_auth_in_progress": "인증을 시작합니다. 잠시 기다려 주세요...",
+  "native.screen_login.mob_web_auth_error": "인증 중 오류가 발생했습니다",
+  "native.alerts.error_occurred": "오류가 발생했습니다.",
+  "native.alerts.error_title": "오류",
+  "native.alerts.download_failed": "다운로드 실패",
+  "native.screen_comments.login_required_to_post": "댓글을 작성하려면 로그인해야 합니다.",
+  "native.screen_comments.login_required_to_like": "댓글에 좋아요를 누르려면 로그인해야 합니다.",
+  "native.screen_comments.score_comments": "악보 댓글",
+  "native.library.songbook.corrupted_file_title": "손상된 파일입니다",
+  "native.library.songbook.corrupted_file_message": "죄송합니다. 이 파일을 삭제하거나 이전 화면으로 돌아갈 수 있습니다.",
+  "native.library.songbook.wrong_file_extension": [
+    "파일 확장자는 \"mscz\"여야 합니다. 현재 확장자: \"",
+    [
+      "fileExt"
+    ],
+    "\""
+  ],
+  "native.feed.items.51": "MuseScore PRO 크레딧 1개가 사용되었습니다",
+  "native.feed.items.57": [
+    "MuseScore PRO 크레딧 ",
+    [
+      "amount"
+    ],
+    "개가 충전되었습니다"
+  ],
+  "native.feed.by": "작성자:",
+  "native.actions.try_again": "다시 시도",
+  "native.actions.back": "뒤로",
+  "native.actions.done": "완료",
+  "native.actions.later": "나중에",
+  "native.bottom_bar.add_scores_tab": "악보 추가",
+  "native.autograde.select_main_instrument": "주 악기를 선택하세요",
+  "native.autograde.permission_error_title": "권한 오류",
+  "native.autograde.microphone_permission_message": "연습 모드를 사용하려면 마이크 접근 권한이 필요합니다. 기기 설정에서 허용해 주세요",
+  "native.autograde.tooltip_body": "여기를 탭하면 연습에 대한 스마트 피드백을 받을 수 있습니다.",
+  "native.autograde.ready": "준비되셨나요?",
+  "native.marketing.tour.minutes_short": [
+    [
+      "count"
+    ],
+    "분"
+  ],
+  "native.practice_mode.results.song_complete": "곡 완료",
+  "native.practice_mode.results.pitch": "음정",
+  "native.practice_mode.results.rhythm": "리듬",
+  "native.practice_mode.results.score": "점수",
+  "native.practice_mode.results.review_and_try_again": "확인 후 다시 도전",
+  "native.practice_mode.onboarding.paywall_title": "MuseScore 연습 모드의 모든 기능으로 내 안의 음악가를 깨우세요",
+  "native.practice_mode.onboarding.paywall_subtitle": "MuseScore PRO+ 이용권이 필요합니다",
+  "native.practice_mode.onboarding.step_counter": [
+    [
+      "step"
+    ],
+    "/",
+    [
+      "total"
+    ],
+    "단계"
+  ],
+  "native.song_book.section.title.downloadable_as_pdf": "PDF로 다운로드 가능",
+  "native.filter_screen.instrument_count_from": "최소",
+  "native.filter_screen.instrument_count_to": "최대",
+  "native.courses.unit": [
+    "유닛 ",
+    [
+      "number"
+    ]
+  ],
+  "native.courses.overall_progress": [
+    "전체 진행률 ",
+    [
+      "percents"
+    ],
+    "%"
+  ],
+  "native.courses.lite_great_choice": "탁월한 선택입니다",
+  "native.courses.lite_get_free_course": "무료 강좌 받기",
+  "native.courses.lite_unlock_one_course": "MuseScore LEARN Lite 혜택으로 이번 달 편집자 추천 강좌 중 하나를 잠금 해제할 수 있습니다.",
+  "native.courses.lite_get_permanent_access": [
+    "영구 이용 권한 받기:\n[sb]",
+    [
+      "courseName"
+    ],
+    "[/sb]"
+  ],
+  "native.courses.lite_want_unlimited_title": "강좌를 무제한으로 이용하고 싶으신가요? 지금 업그레이드하세요",
+  "native.courses.lite_allowance_used": "이번 달 MuseScore LEARN Lite 혜택을 이미 사용하셨습니다.",
+  "native.courses.lite_upgrade_to_play": "지금 이 강좌를 이용하려면 MuseScore LEARN으로 구독을 업그레이드하세요.",
+  "native.courses.lite_upgrade": "업그레이드",
+  "native.courses.lite_not_in_collection": [
+    "[sb]",
+    [
+      "courseName"
+    ],
+    "[/sb] 강좌는 컬렉션에 포함되어 있지 않습니다. 강좌를 시작하려면 MuseScore LEARN으로 구독을 업그레이드하세요"
+  ],
+  "native.courses.start_this_course": "이 강좌 시작하기",
+  "native.filter_item_name.level.not_selected": "미지정",
+  "native.filter_item_name.topic.ear_training": "청음 훈련",
+  "native.filter_item_name.topic.licensing_publishing_and_copyright": "라이선스, 출판 및 저작권",
+  "native.filter_item_name.topic.music_composition": "작곡",
+  "native.filter_item_name.topic.music_production": "음악 프로듀싱",
+  "native.filter_item_name.topic.music_software": "음악 소프트웨어",
+  "native.filter_item_name.topic.music_theory": "음악 이론",
+  "native.filter_item_name.topic.other_in_music": "기타 음악 주제",
+  "native.filter_item_name.topic.playing_skills": "연주 기술",
+  "native.filter_item_name.topic.recording_and_audio_engineering": "레코딩 및 오디오 엔지니어링",
+  "native.filter_item_name.topic.solo_and_improvisation": "솔로 및 즉흥 연주",
+  "native.filter_item_name.topic.songwriting": "작사·작곡",
+  "native.filter_item_name.duration.0_1_hours": "0~1시간",
+  "native.filter_item_name.duration.1_4_hours": "1~4시간",
+  "native.filter_item_name.duration.4_8_hours": "4~8시간",
+  "native.filter_item_name.duration.8_24_hours": "8~24시간",
+  "native.filter_item_name.duration.24_plus_hours": "24시간 이상",
+  "native.filter_item_name.type.community_scores": "커뮤니티 악보",
+  "native.filter_item_name.format.interactive": "인터랙티브",
+  "native.filter_item_name.format.pdf": "PDF",
+  "native.filter_item_name.status.original_composition": "창작곡",
+  "native.score_onboarding.customize_view": "보기 맞춤 설정",
+  "native.score_onboarding.customize_view_desc": "확대하거나 설정을 바꾸거나 믹스를 조절해 보세요. 필요한 모든 것이 여기에 있습니다.",
+  "native.score_onboarding.hear_score": "악보 들어보기",
+  "native.score_onboarding.hear_score_desc": "악보를 들어보세요. 재생을 탭하면 곡에 맞춰 악보가 스크롤됩니다.",
+  "native.score_onboarding.save_hint": "이 악보가 마음에 드시나요? 탭해서 저장하세요.",
+  "native.score_onboarding.playing_one_moment": "악보를 재생하는 중입니다. 잠시만 기다려 주세요",
+  "native.user.access.books.label": "Digital Books",
+  "native.user.unfollow_confirm_title": "이 사용자를 언팔로우하시겠습니까?",
+  "native.marketing.questions.topics.title": "어떤 주제에 관심이 있으신가요?",
+  "native.marketing.questions.topics.not_interested": "이 주제들에는 관심이 없습니다",
+  "native.search.upload_now": "지금 업로드",
+  "native.marketing.plan_active": "사용 중",
+  "native.marketing.flash_sale.title_24h": "24시간 특가",
+  "native.marketing.flash_sale.end_time": "종료 시간:",
+  "native.marketing.flash_sale.dont_miss_offer": [
+    "MuseScore ",
+    [
+      "plan"
+    ],
+    " 특별 혜택을 놓치지 마세요"
+  ],
+  "native.marketing.special_limited_offer": "기간 한정 특별 혜택",
+  "native.marketing.plan_with_learn_lite_bundle": [
+    [
+      "plan"
+    ],
+    " + Learn Lite 번들"
+  ],
+  "native.marketing.regular_price": "정가",
+  "native.marketing.stay_free": "무료로 계속 이용",
+  "native.marketing.quarterly_access": "분기별 이용권",
+  "native.marketing.personal_offer_save": [
+    "맞춤 혜택 - ",
+    [
+      "discount"
+    ],
+    " 할인"
+  ],
+  "native.marketing.yearly_plan": "연간 요금제",
+  "native.marketing.yearly_access": "연간 이용권",
+  "native.marketing.flash_sale.title": "반짝 세일",
+  "native.marketing.thirty_days_at": "30일 기준",
+  "native.marketing.ug_lineup.yearly_plan": "연간 요금제",
+  "native.marketing.ug_lineup.quarterly": "분기별",
+  "native.marketing.ug_lineup.weekly": "주간",
+  "native.marketing.ug_lineup.welcome_offer": "웰컴 혜택",
+  "native.marketing.ug_lineup.three_months": "3개월",
+  "native.marketing.ug_lineup.first_year": "첫해",
+  "native.marketing.ug_lineup.first_year_for": [
+    "첫해 [sb]",
+    [
+      "introPrice"
+    ],
+    "[/sb], 이후 [sb]",
+    [
+      "price"
+    ],
+    "[/sb]."
+  ],
+  "native.marketing.ug_lineup.twelve_months": "12개월",
+  "native.marketing.billed_annually": "연간 결제",
+  "native.marketing.credits_count": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "크레딧"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.limited_offer": "기간 한정 혜택",
+  "native.marketing.something_went_wrong_try_again": "문제가 발생했습니다. 다시 시도해 주세요",
+  "native.marketing.purchase_content_error": "콘텐츠 구매 중 오류가 발생했습니다. 고객 지원팀에 문의해 주세요",
+  "native.marketing.payment_received_offline": "결제가 완료되었습니다. 다시 온라인에 연결되면 구매 항목 활성화를 완료하겠습니다",
+  "native.marketing.purchase_error": "구매 오류",
+  "native.marketing.payment_declined_grace_period": "결제가 거부되었습니다. 구독을 유지하려면 결제 수단을 변경해 주세요.",
+  "native.marketing.payment_declined_access_lost": "결제가 거부되었습니다. 이용 권한을 다시 얻으려면 결제 수단을 변경해 주세요.",
+  "native.marketing.fix_now": "지금 해결",
+  "native.marketing.gift_checklist.one_songbook": "악보집 1권",
+  "native.marketing.gift_checklist.one_course": "강좌 1개",
+  "native.marketing.gift_checklist.one_score": "악보 1개",
+  "native.marketing.gift_checklist.two_songbooks": "악보집 2권",
+  "native.marketing.gift_checklist.two_courses": "강좌 2개",
+  "native.marketing.gift_checklist.two_scores": "악보 2개",
+  "native.marketing.gift_checklist.three_scores": "악보 3개",
+  "native.marketing.gift_checklist.claim_free_songbook": "무료 악보집 받기",
+  "native.marketing.gift_checklist.claim_free_course": "무료 강좌 받기",
+  "native.marketing.gift_checklist.claim_free_score": "무료 악보 받기",
+  "native.marketing.gift_checklist.claim_free_songbooks": "무료 악보집 받기",
+  "native.marketing.gift_checklist.claim_free_courses": "무료 강좌 받기",
+  "native.marketing.gift_checklist.claim_free_scores": "무료 악보 받기",
+  "native.marketing.gift_checklist.open_songbooks": "악보집 열기",
+  "native.marketing.gift_checklist.open_courses": "강좌 열기",
+  "native.marketing.gift_checklist.open_scores": "악보 열기",
+  "native.marketing.gift_checklist.step_open_songbooks": "1.  “악보집 열기”를 탭하세요",
+  "native.marketing.gift_checklist.step_open_courses": "1.  “강좌 열기”를 탭하세요",
+  "native.marketing.gift_checklist.step_open_scores": "1.  “악보 열기”를 탭하세요",
+  "native.marketing.gift_checklist.step_explore_songbooks": "2. 악보집 라이브러리를 둘러보세요",
+  "native.marketing.gift_checklist.step_explore_courses": "2. 강좌 라이브러리를 둘러보세요",
+  "native.marketing.gift_checklist.step_explore_scores": "2. 악보 라이브러리를 둘러보세요",
+  "native.marketing.gift_checklist.step_get_free_songbook": "4. “무료 악보집 받기”를 탭하세요",
+  "native.marketing.gift_checklist.step_get_free_course": "4. “무료 강좌 받기”를 탭하세요",
+  "native.marketing.gift_checklist.step_get_free_score": "4. “무료 악보 받기”를 탭하세요",
+  "native.marketing.gift_checklist.step_found_favorite": "3. 마음에 드는 항목을 찾으셨나요?",
+  "native.marketing.gift_checklist.step_enjoy": "5. 마음껏 즐기세요!",
+  "native.marketing.gift_checklist.ready_to_claim": "선물을 받을 준비가 되셨나요? 다음 단계를 따라 하세요:",
+  "native.marketing.gift_checklist.day": "일차",
+  "native.marketing.gift_checklist.tap_to_open": "탭하여 열기",
+  "native.marketing.promo_code_applied": "프로모션 코드가 적용되었습니다!",
+  "native.marketing.last_chance": "마지막 기회",
+  "native.marketing.timer_left": "남음",
+  "native.marketing.choose_your_plan": "요금제를 선택하세요",
+  "native.marketing.reviews.whitney": "좋아하는 악보를 구하고, 따라 배우고, 속도 조절, 표시, 즐겨찾기 등 정말 많은 기능을 쓸 수 있는 멋진 앱이에요. 너무 좋아요.... ❤",
+  "native.marketing.reviews.lucy": "사용하기 쉽고 어떤 악기의 악보든 찾기 좋아요! MuseScore에는 열정적인 크리에이터 커뮤니티가 있어요. 구독료가 전혀 아깝지 않고, 낸 돈 이상의 가치가 있어요!",
+  "native.marketing.reviews.jacob": "다양한 곡, 특히 미국 스탠더드 송북 계열의 곡을 배우기에 정말 훌륭한 자료예요. 구하기 어려운 공식 악보가 많고, 사용자가 만든 편곡 버전도 있어서 가끔 도움이 돼요.",
+  "native.marketing.tour_update.review_mark_name": "Mark, 피아니스트",
+  "native.marketing.tour_update.review_mark_text": "오래된 악보가 산더미처럼 쌓여 있었는데, 이제 스캔해서 다시 연습에 쓸 수 있어요.",
+  "native.marketing.tour_update.review_lisa_name": "Lisa, 음악 교사",
+  "native.marketing.tour_update.review_lisa_text": "학생들을 위한 자료 준비가 훨씬 빨라졌어요. 사진 한 장이면 수업 준비 끝이에요.",
+  "native.marketing.tour_update.review_julia_name": "Julia, 합창 지휘자",
+  "native.marketing.tour_update.review_julia_text": "가수들에 맞춰 조를 바꾸는 게 정말 힘들었는데, 이제는 스캔해서 몇 초 만에 조옮김해요",
+  "native.marketing.tour_update.title_ms4_scores": "MuseScore Studio 4 악보가 왔어요",
+  "native.marketing.tour_update.title_thousands_more": "수천 개의 악보가 더 기다리고 있어요",
+  "native.marketing.tour_update.title_elegant": "더욱 세련된 경험",
+  "native.marketing.tour_update.title_say_thanks": "고마움을 전해 주세요\n리뷰를 남겨 주세요!",
+  "native.marketing.tour_update.subtitle_say_hello": "MuseScore 역대 최대 업데이트를 만나보세요",
+  "native.marketing.tour_update.subtitle_open_catalog": "200만 개 이상의 악보 카탈로그 전체를 모바일에서 열고 연주를 시작하세요.",
+  "native.marketing.tour_update.subtitle_better_looking": "악보가 더 보기 좋아졌고 크기 조절도 더 자유로워졌습니다.",
+  "native.marketing.tour_update.subtitle_share_thoughts": "앱을 계속 개선할 수 있도록 의견과 피드백을 들려주세요.",
+  "native.marketing.tour_update.payment_title": "사진 및 PDF를 인터랙티브 악보로",
+  "native.marketing.tour_update.benefit_scan_photos": "악보 사진을 스캔해 인터랙티브 악보로 만들기",
+  "native.marketing.tour_update.benefit_convert_pdfs": "PDF를 인터랙티브 악보로 변환",
+  "native.marketing.tour_update.benefit_upload_arrangements": "나만의 편곡을 업로드하고 보관",
+  "native.marketing.tour_update.benefit_offline_library": "오프라인에서도 악보 라이브러리 이용",
+  "native.marketing.tour_update.dive_in": "시작하기",
+  "native.marketing.tour_update.leave_review": "리뷰 남기기",
+  "native.marketing.tour_update.learn_add_pro_plus": "Learn 구독은 레슨용으로 훌륭합니다. PRO+를 추가하면 이 기능을 잠금 해제하고 악보를 인터랙티브하게 만들 수 있습니다.",
+  "native.marketing.tour_update.preparing_experience": "맞춤 환경을 준비하는 중",
+  "native.marketing.tour_update.introducing_scores_to_screen": "종이 악보를 화면 속으로!",
+  "native.marketing.tour_update.omr_feature_description": "새로운 기능 OMR로 좋아하는 종이 악보를 휴대폰으로 옮겨 바로 재생할 수 있습니다.",
+  "native.marketing.tour_update.thousands_of_songbooks": "이제 수천 권의 악보집을 만나보세요!",
+  "native.marketing.tour_update.covered_by_pro_plus": "PRO+ 구독에 포함됨",
+  "native.marketing.tour_update.upgrade_pro_to_pro_plus_required": "MuseScore PRO를 PRO+로 업그레이드해야 합니다",
+  "native.marketing.tour_update.pro_plus_access_required": "MuseScore PRO+ 이용권이 필요합니다",
+  "native.marketing.tour_update.upgrade_to_unlock_feature": "PRO+로 업그레이드하고 이 기능을 잠금 해제하세요",
+  "native.marketing.score_discount.today": "오늘",
+  "native.marketing.auto_scroll_settings_hint": "이제 페이지 보기가 기본으로 설정됩니다.\n언제든지 설정에서 \"자동 스크롤\" 기능을 켤 수 있습니다",
+  "native.marketing.export_community_scores_pdf_title": "커뮤니티 악보를 PDF로 내보내기",
+  "native.marketing.export_community_scores_pdf_description": "Premium 사용자는 커뮤니티 악보를 PDF, MIDI, MP3 형식으로 다운로드할 수 있습니다. PDF는 인쇄도 가능합니다",
+  "native.marketing.free_official_scores_downloads": [
+    "공식 악보 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "회 무료 다운로드"
+        ]
+      }
+    ],
+    " 제공"
+  ],
+  "native.marketing.benefits.official_scores": "[sb]악보 출판사[/sb]로부터 라이선스를 받은 공식 악보 보기",
+  "native.marketing.benefits.download_print_community": "방대한 커뮤니티 컬렉션([sb]1,426,528[/sb]개 이상, 계속 증가 중)의 악보 다운로드 및 인쇄",
+  "native.marketing.benefits.one_subscription_all_devices": "하나의 구독으로 모든 기기에서 이용",
+  "native.marketing.benefits.offline_access": "오프라인에서 악보 이용",
+  "native.marketing.purchase_success.free_until": "무료 이용 종료일",
+  "native.marketing.purchase_success.then": "이후",
+  "native.marketing.purchase_success.renews": "갱신 요금",
+  "native.marketing.purchase_success.period_year": "년",
+  "native.marketing.purchase_success.period_3_months": "3개월",
+  "native.marketing.purchase_success.period_month": "월",
+  "native.marketing.purchase_success.on_date": [
+    "(",
+    [
+      "date"
+    ],
+    " 결제)"
+  ],
+  "native.marketing.purchase_success.plan_unlocked": [
+    [
+      "plan"
+    ],
+    " 잠금 해제 완료"
+  ],
+  "native.marketing.subscription_settings.price_on_date": [
+    [
+      "date"
+    ],
+    "에 ",
+    [
+      "price"
+    ]
+  ],
+  "native.marketing.subscription_settings.active_until": [
+    [
+      "date"
+    ],
+    "까지 구독 이용 가능"
+  ],
+  "native.marketing.no_subscriptions_to_restore": "복원할 구독이 없습니다",
+  "native.marketing.pro_plus_benefits": "Pro+ 혜택",
+  "native.marketing.free": "무료",
+  "native.marketing.game.wow_off_annual": [
+    "와! 연간 구독 ",
+    [
+      "discount"
+    ],
+    "% 할인"
+  ],
+  "native.marketing.discount_off": [
+    [
+      "discount"
+    ],
+    " 할인"
+  ],
+  "native.marketing.anniversary.open_my_gift": "선물 열기",
+  "native.marketing.anniversary.use_my_gift": "선물 사용하기",
+  "native.marketing.pinata.hit_the_pinata": "피냐타를 터뜨리세요!",
+  "native.marketing.restore_card.plan_expire_soon": [
+    "MuseScore ",
+    [
+      "plan"
+    ],
+    "이(가) 곧 만료됩니다"
+  ],
+  "native.marketing.one_pro_credit": "PRO 크레딧 1개",
+  "native.make_public.screen_title": "악보 업데이트 중",
+  "native.screen_omr.photos_permission_message": "설정에서 사진 접근을 허용해 주세요",
+  "native.screen_omr.recognized_via_ai_scan": "AI 스캔으로 인식됨",
+  "native.new_concept.common.parts_count": [
+    [
+      "count"
+    ],
+    "개 파트"
+  ],
+  "native.new_concept.learn.lessons_progress": [
+    "레슨 ",
+    [
+      "completed"
+    ],
+    " / ",
+    [
+      "total"
+    ]
+  ],
+  "native.score.more_like_this": "비슷한 악보",
+  "native.score.error_loading_soundfont": "사운드폰트를 불러오는 중 오류가 발생했습니다",
+  "native.score.failed_to_open_score": "악보를 열지 못했습니다",
+  "native.score.error_opening_file": "파일을 여는 중 오류가 발생했습니다",
+  "native.score.feature_offline_access_title": "오프라인 이용",
+  "native.score.feature_background_play_title": "백그라운드 재생",
+  "native.score.feature_background_play_text": "앱을 나가거나 휴대폰을 잠가도 악보가 계속 재생됩니다.",
+  "native.score.badge_new": "신규",
+  "native.score.annotation.pen_size": "펜 크기",
+  "native.score.annotation.highlight_size": "형광펜 크기",
+  "native.score.annotation.text_size": "텍스트 크기",
+  "native.score.part_number": [
+    "파트 ",
+    [
+      "number"
+    ]
+  ],
+  "native.score.bpm_value": [
+    [
+      "bpm"
+    ],
+    " BPM"
+  ],
+  "native.score.error_country_blocked": "저작권자가 회원님의 국가에서 이 악보를 제공하지 않습니다",
+  "native.score.error_download_file": "파일을 다운로드하지 못했습니다. 다시 시도해 주세요.",
+  "native.score.error_cannot_open": "이 악보를 열 수 없습니다.",
+  "native.score.download_restricted_title": "다운로드 제한됨",
+  "native.score.download_restricted_trial_message": "이 원곡의 권리를 보유한 출판사가 무료 체험 사용자의 이 악보 다운로드를 허용하지 않습니다",
+  "native.genre.songbook": "악보집",
+  "native.genre.instructional": "교본",
+  "native.genre.video_game": "비디오 게임",
+  "native.genre.ballad": "발라드",
+  "native.genre.bluegrass": "블루그래스",
+  "native.genre.celtic": "켈틱",
+  "native.genre.christian": "기독교 음악",
+  "native.genre.classic_rock": "클래식 록",
+  "native.genre.contemporary": "컨템퍼러리",
+  "native.genre.disney": "디즈니",
+  "native.genre.downtempo": "다운템포",
+  "native.genre.educational": "교육용",
+  "native.genre.flamenco": "플라멩코",
+  "native.genre.funk": "펑크",
+  "native.genre.fusion": "퓨전",
+  "native.genre.future_bass": "퓨처 베이스",
+  "native.genre.gospel": "가스펠",
+  "native.genre.hard_rock": "하드 록",
+  "native.genre.heavy_metal": "헤비메탈",
+  "native.genre.holiday": "홀리데이",
+  "native.genre.introspective": "사색적",
+  "native.genre.kids": "어린이",
+  "native.genre.latin": "라틴",
+  "native.genre.lullaby": "자장가",
+  "native.genre.movie_soundtrack": "영화 OST",
+  "native.genre.musical": "뮤지컬",
+  "native.genre.orchestral": "오케스트라",
+  "native.genre.patriotic": "애국 음악",
+  "native.genre.prog_rock": "프로그 록",
+  "native.genre.progressive_rock": "프로그레시브 록",
+  "native.genre.ragtime": "래그타임",
+  "native.genre.rockabilly": "로커빌리",
+  "native.genre.ska": "스카",
+  "native.genre.soul": "소울",
+  "native.genre.swing": "스윙",
+  "native.genre.tv_soundtrack": "TV OST",
+  "native.genre.traditional": "전통 음악",
+  "native.genre.trap": "트랩",
+  "native.instrument.easy_piano": "쉬운 피아노",
+  "native.instrument.piano_vocal_guitar": "피아노/보컬/기타",
+  "native.instrument.baritone_guitar": "바리톤 기타",
+  "native.instrument.baritone_ukulele": "바리톤 우쿨렐레",
+  "native.instrument.bass_clarinet": "베이스 클라리넷",
+  "native.instrument.bass_ukulele": "베이스 우쿨렐레",
+  "native.instrument.bb_instruments": "B♭ 악기",
+  "native.instrument.bells": "벨",
+  "native.instrument.c_instruments": "C 악기",
+  "native.instrument.controller": "컨트롤러",
+  "native.instrument.double_bass": "더블베이스",
+  "native.instrument.drums": "드럼",
+  "native.instrument.dulcimer": "덜시머",
+  "native.instrument.eb_instruments": "E♭ 악기",
+  "native.instrument.guitarron": "기타론",
+  "native.instrument.handpan": "핸드팬",
+  "native.instrument.horns": "호른",
+  "native.instrument.lap_steel": "랩 스틸",
+  "native.instrument.loog": "Loog 기타",
+  "native.instrument.ocarina": "오카리나",
+  "native.instrument.pedal_steel_guitar": "페달 스틸 기타",
+  "native.instrument.penny_whistle": "페니 휘슬",
+  "native.instrument.steelpan": "스틸팬",
+  "native.instrument.synths": "신시사이저",
+  "native.instrument.tin_whistle": "틴 휘슬",
+  "native.instrument.turntables_mixers": "턴테이블 및 믹서",
+  "native.instrument.venova": "베노바",
+  "native.shazam.briefing.title": "듣고, 연주하세요",
+  "native.shazam.briefing.description": "휴대폰을 음악 가까이에 대면 곡을 인식하고, 연주할 수 있는 악보를 찾아 드립니다.",
+  "native.shazam.briefing.enable_microphone_title": "마이크 허용",
+  "native.shazam.briefing.enable_microphone_description": "악보를 찾아 드리려면 마이크 권한이 필요합니다.",
+  "native.shazam.briefing.tap_to_listen": "탭하여 듣기",
+  "native.shazam.powered_by": "제공:",
+  "native.shazam.listening.title": "듣는 중…",
+  "native.shazam.listening.subtitle": "기기를 음악 가까이에 대 주세요",
+  "native.shazam.listening.tough_title": "쉽지 않네요",
+  "native.shazam.listening.tough_subtitle": "마지막으로 한 번 더…",
+  "native.shazam.listening.matching_title": "악보 찾는 중",
+  "native.shazam.listening.matching_subtitle": "거의 다 됐습니다",
+  "native.shazam.no_match.title": "곡을 인식하지 못했습니다",
+  "native.shazam.no_match.description": "좀 더 가까이에서, 또는 조용한 곳에서 다시 시도해 보세요.",
+  "native.shazam.no_scores.title": "이 곡의 악보를 찾지 못했습니다",
+  "native.shazam.no_scores.back_to_home": "홈으로 돌아가기",
+  "native.shazam.more_from_artist": "이 아티스트의 다른 곡",
+  "native.shazam.matching_scores": "일치하는 악보",
+  "native.shazam.open_in_apple_music": "Apple Music에서 열기",
+  "native.shazam.error.try_again_hint": "다시 시도해 주세요.",
+  "native.ensemble.solo": "솔로",
+  "native.ensemble.mixed_ensembles": "혼성 앙상블",
+  "native.ensemble.mixed_ensemble": "혼성 앙상블",
+  "native.ensemble.mixed_duet": "혼성 듀엣",
+  "native.ensemble.piano_ensembles": "피아노 앙상블",
+  "native.ensemble.vocal_ensembles": "보컬 앙상블",
+  "native.ensemble.choral": "합창",
+  "native.ensemble.piano_voice": "피아노-보컬",
+  "native.ensemble.woodwind_ensembles": "목관 앙상블",
+  "native.ensemble.bands_orchestras": "밴드 / 오케스트라",
+  "native.ensemble.string_ensembles": "현악 앙상블",
+  "native.ensemble.mixed_quartet": "혼성 4중주",
+  "native.ensemble.mixed_trio": "혼성 3중주",
+  "native.ensemble.brass_ensembles": "브라스 앙상블",
+  "native.ensemble.mixed_quintet": "혼성 5중주",
+  "native.ensemble.piano_duo": "피아노 듀오",
+  "native.ensemble.piano_voice_guitar": "피아노-보컬-기타",
+  "native.ensemble.satb": "SATB",
+  "native.ensemble.string_quartet": "현악 4중주",
+  "native.ensemble.brass_ensemble": "브라스 앙상블",
+  "native.ensemble.woodwind_duet": "목관 2중주",
+  "native.ensemble.symphony_orchestra": "교향악단",
+  "native.ensemble.string_duet": "현악 2중주",
+  "native.ensemble.string_ensemble": "현악 앙상블",
+  "native.ensemble.concert_band": "콘서트 밴드",
+  "native.ensemble.woodwind_quartet": "목관 4중주",
+  "native.ensemble.brass_duet": "금관 2중주",
+  "native.ensemble.saxophone_ensemble": "색소폰 앙상블",
+  "native.ensemble.percussion_ensembles": "타악기 앙상블",
+  "native.ensemble.jazz_band": "재즈 밴드",
+  "native.ensemble.chamber_orchestra": "챔버 오케스트라",
+  "native.ensemble.marching_band": "마칭 밴드",
+  "native.ensemble.woodwind_ensemble": "목관 앙상블",
+  "native.ensemble.piano_sextet": "피아노 6중주",
+  "native.ensemble.woodwind_quintet": "목관 5중주",
+  "native.ensemble.woodwind_trio": "목관 3중주",
+  "native.ensemble.brass_quartet": "금관 4중주",
+  "native.ensemble.percussion_ensemble": "타악기 앙상블",
+  "native.ensemble.a_capella": "아카펠라",
+  "native.ensemble.brass_quintet": "금관 5중주",
+  "native.ensemble.church_choir": "교회 성가대",
+  "native.ensemble.piano_trio": "피아노 3중주",
+  "native.ensemble.string_quintet": "현악 5중주",
+  "native.ensemble.string_trio": "현악 3중주",
+  "native.ensemble.brass_band_british_style": "브라스 밴드(영국식)",
+  "native.ensemble.percussion_duet": "타악기 2중주",
+  "native.ensemble.percussion_quartet": "타악기 4중주",
+  "native.ensemble.piano_four_hand": "피아노 연탄",
+  "native.ensemble.percussion_trio": "타악기 3중주",
+  "native.ensemble.piano_quartet": "피아노 4중주",
+  "native.ensemble.drum_corps_modern": "드럼 코어(모던)",
+  "native.ensemble.mens_choir": "남성 합창단",
+  "native.ensemble.brass_trio": "금관 3중주",
+  "native.ensemble.piano_quintet": "피아노 5중주",
+  "native.ensemble.pep_band": "펩 밴드",
+  "native.ensemble.percussion_quintet": "타악기 5중주",
+  "native.ensemble.womens_choir": "여성 합창단",
+  "native.ensemble.brass_band_new_orleans": "브라스 밴드(뉴올리언스)",
+  "native.ensemble.indoor_percussion_ensemble": "실내 타악기 앙상블",
+  "native.ensemble.string_sextet": "현악 6중주",
+  "native.ensemble.show_choir": "쇼 콰이어",
+  "native.ensemble.bagpipe_band": "백파이프 밴드",
+  "native.ensemble.handbell_ensembles": "핸드벨 앙상블",
+  "native.shazam.by_artist": [
+    [
+      "artist"
+    ]
+  ],
+  "native.scores_after_tour.title": "첫 악보를 골라 보세요",
+  "native.scores_after_tour.recommendations": "추천",
+  "native.about_screen.made_by": [
+    "MuseScore 제작\n버전 ",
+    [
+      "version"
+    ]
+  ],
+  "native.about_screen.powered_by": [
+    "Extasy Engine 기반\n버전 ",
+    [
+      "version"
+    ]
+  ],
+  "native.shazam.tooltip_identify_music": "주변에서 재생 중인 음악 찾기",
+  "native.courses.card.hours_lessons": [
+    [
+      "hours",
+      "plural",
+      {
+        "other": [
+          "#",
+          "시간"
+        ]
+      }
+    ],
+    ", 레슨 ",
+    [
+      "lessons",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.completed_of_count": [
+    "레슨 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    " 중 ",
+    [
+      "completed"
+    ],
+    "개 완료"
+  ],
+  "native.courses.lessons.count_minutes": [
+    "레슨 ",
+    [
+      "lessons",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    " · ",
+    [
+      "minutes",
+      "plural",
+      {
+        "other": [
+          "#",
+          "분"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.count_hours_minutes": [
+    "레슨 ",
+    [
+      "lessons",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    " · ",
+    [
+      "hours",
+      "plural",
+      {
+        "other": [
+          "#",
+          "시간"
+        ]
+      }
+    ],
+    " ",
+    [
+      "minutes",
+      "plural",
+      {
+        "other": [
+          "#",
+          "분"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.lessons_count_plural": [
+    "레슨 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.lessons_progress_plural": [
+    "레슨 ",
+    [
+      "completed"
+    ],
+    " / ",
+    [
+      "total",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.course_hours_short_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "시간"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.rewind_back_seconds": [
+    "- ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "초"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.rewind_forward_seconds": [
+    "+ ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "초"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.quality_normal_resolution": [
+    "보통 (",
+    [
+      "resolution"
+    ],
+    ")"
+  ],
+  "native.courses.lesson_number": [
+    "레슨 ",
+    [
+      "number"
+    ]
+  ],
+  "native.user.sets_of_user": [
+    [
+      "userName"
+    ],
+    "님의 세트"
+  ],
+  "native.sets.empty_for_user": [
+    [
+      "userName"
+    ],
+    "님은 아직 세트가 없습니다."
+  ],
+  "native.score.parts_count": [
+    "파트 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ]
+  ],
+  "native.score.comments_count": [
+    "댓글 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ]
+  ],
+  "native.screen_comments.replies_count_plural": [
+    "답글 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ]
+  ],
+  "native.feed.score_by_author": [
+    "[author]",
+    [
+      "author"
+    ],
+    "[/author]의 [score]",
+    [
+      "title"
+    ],
+    "[/score]"
+  ],
+  "native.feed.items.20_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]님이 내 악보에 댓글을 달았습니다"
+  ],
+  "native.feed.items.21_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]님이 악보에 남긴 내 댓글에 답글을 달았습니다"
+  ],
+  "native.feed.items.22_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]님이 내 악보를 저장했습니다"
+  ],
+  "native.feed.items.26_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]님이 내가 저장한 악보에 댓글을 남겼습니다"
+  ],
+  "native.feed.items.30_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]님이 악보를 추가했습니다"
+  ],
+  "native.feed.items.31_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user]님이 나를 팔로우하기 시작했습니다"
+  ],
+  "native.song_book_remove.title_with_score": [
+    "\"",
+    [
+      "title"
+    ],
+    "\" 악보를 삭제하시겠습니까?"
+  ],
+  "native.user.followers_count": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "팔로워 ",
+          [
+            "formattedCount"
+          ],
+          "명"
+        ]
+      }
+    ]
+  ],
+  "native.score_action_sheet.pages_value": [
+    "페이지: ",
+    [
+      "pages"
+    ]
+  ],
+  "native.score_action_sheet.duration_value": [
+    "재생 시간: ",
+    [
+      "duration"
+    ]
+  ],
+  "native.artists.based_on_song": [
+    "이 악보의 원곡: [song]",
+    [
+      "song"
+    ],
+    "[/song]"
+  ],
+  "native.artists.by_artist": [
+    "아티스트: [artist]",
+    [
+      "artist"
+    ],
+    "[/artist]"
+  ],
+  "native.common.label_with_colon": [
+    [
+      "label"
+    ],
+    ":"
+  ],
+  "native.score.tempo_percent": [
+    "템포 ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.bluetooth_pedal.instruction_1_with_os": [
+    "페달을 켜고 ",
+    [
+      "osName"
+    ],
+    " 기기에 연결하세요."
+  ],
+  "native.screen_new_account.password_strength_line.weak": "비밀번호 강도: [color]약함[/color]",
+  "native.screen_new_account.password_strength_line.normal": "비밀번호 강도: [color]보통[/color]",
+  "native.screen_new_account.password_strength_line.strong": "비밀번호 강도: [color]강함[/color]",
+  "native.screen_new_account.has_account_login": "이미 계정이 있으신가요? [login]로그인[/login]",
+  "native.ebooks.pages_count_label": [
+    [
+      "count",
+      "plural",
+      {
+        "other": "페이지"
+      }
+    ]
+  ],
+  "native.marketing.price_line.per_year": [
+    [
+      "price"
+    ],
+    "/년"
+  ],
+  "native.marketing.price_line.per_month": [
+    [
+      "price"
+    ],
+    "/월"
+  ],
+  "native.marketing.price_line.per_week": [
+    [
+      "price"
+    ],
+    "/주"
+  ],
+  "native.marketing.price_line.per_months": [
+    [
+      "price"
+    ],
+    "/",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개월"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.slash_week": "/주",
+  "native.marketing.price_line.months_at_per_month": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개월 기준 ",
+          [
+            "price"
+          ],
+          "/월"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.weeks_at_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "주 기준 ",
+          [
+            "price"
+          ],
+          "/주"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.weeks_at_old_price_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "주 기준 [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/주"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.days_at_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "일 기준 ",
+          [
+            "price"
+          ],
+          "/주"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.days_at_old_price_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "일 기준 [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/주"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.first_year_then_per_year": [
+    "첫해 [sb]",
+    [
+      "introPrice"
+    ],
+    "/년[/sb], 이후 ",
+    [
+      "price"
+    ],
+    "/년"
+  ],
+  "native.marketing.price_line.first_year_then_per_year_bold": [
+    "첫해 [sb]",
+    [
+      "introPrice"
+    ],
+    "/년[/sb], 이후 [sb]",
+    [
+      "price"
+    ],
+    "/년[/sb]"
+  ],
+  "native.marketing.price_line.trial_then_per_year": [
+    "7일 무료 체험 후 [sb]",
+    [
+      "price"
+    ],
+    "/년[/sb]"
+  ],
+  "native.marketing.price_line.annual_access_per_year": [
+    "연간 이용권. [sb]",
+    [
+      "price"
+    ],
+    "/년[/sb]"
+  ],
+  "native.marketing.price_line.trial_then_per_month": [
+    "7일 무료 체험 후 ",
+    [
+      "price"
+    ],
+    "/월"
+  ],
+  "native.marketing.price_line.annual_access_then_per_month": [
+    "연간 이용권. 이후 ",
+    [
+      "price"
+    ],
+    "/월"
+  ],
+  "native.marketing.price_line.trial_per_year_cancel_anytime": [
+    "7일 무료 체험 후 연 ",
+    [
+      "price"
+    ],
+    ". 언제든지 취소 가능"
+  ],
+  "native.marketing.price_line.one_instant_discount": [
+    "구독 하나로 모든 것을 해결하세요 - ",
+    [
+      "percent"
+    ],
+    "% 할인"
+  ],
+  "native.marketing.price_line.one_time_payment": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb] 일회성 결제"
+  ],
+  "native.marketing.badge.save_percent": [
+    [
+      "percent"
+    ],
+    "% 할인"
+  ],
+  "native.marketing.offer.name_save_percent": [
+    [
+      "offerName"
+    ],
+    "—",
+    [
+      "percent"
+    ],
+    "% 할인"
+  ],
+  "native.marketing.feature.scores_millions_ad_free": [
+    "[b]악보 ",
+    [
+      "scoresMillions"
+    ],
+    "M개[/b] - 모두 광고 없이"
+  ],
+  "native.marketing.feature.courses_count_experts": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "[b]전문가[/b]가 가르치는 [b]",
+          "#",
+          "개 이상의[/b] 음악 강좌"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.ug_lineup.months_price": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개월"
+        ]
+      }
+    ],
+    " • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.ug_lineup.first_year_price": [
+    "첫해 • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.ug_lineup.first_year_for_free_cancel": [
+    "첫해 [sb]",
+    [
+      "introPrice"
+    ],
+    "[/sb], 이후 [sb]",
+    [
+      "price"
+    ],
+    "[/sb]. 언제든지 무료로 취소 가능."
+  ],
+  "native.marketing.credit_pack.credits_valid_for": [
+    "PRO 크레딧 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    ". ",
+    [
+      "months",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개월"
+        ]
+      }
+    ],
+    " 동안 유효합니다."
+  ],
+  "native.marketing.credit_pack.price_one_time": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb] 일회성 결제."
+  ],
+  "native.marketing.credit_pack.price_one_time_save": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb] 일회성 결제. ",
+    [
+      "percent"
+    ],
+    "% 할인"
+  ],
+  "native.marketing.credit_pack.name_save_percent": [
+    "크레딧 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    " — ",
+    [
+      "percent"
+    ],
+    "% 할인"
+  ],
+  "native.marketing.billing_info.includes_plan": [
+    "이 구독에는 MuseScore ",
+    [
+      "plan"
+    ],
+    " 이용 권한이 포함됩니다"
+  ],
+  "native.marketing.billing_info.includes_plan_and_course": [
+    "이 구독에는 MuseScore ",
+    [
+      "plan"
+    ],
+    " 이용 권한이 포함되며, 매달 편집자 추천 컬렉션에서 원하는 강좌 1개를 잠금 해제할 수 있습니다"
+  ],
+  "native.marketing.last_chance.start_membership": "멤버십을 시작할 수 있는 마지막 기회",
+  "native.marketing.last_chance.start_with_trial": "무료 체험으로 시작할 수 있는 마지막 기회",
+  "native.marketing.landing.upgrade_to_plan": [
+    "MuseScore ",
+    [
+      "plan"
+    ],
+    "로 업그레이드"
+  ],
+  "native.marketing.score_sale.access_to_score": [
+    [
+      "title"
+    ],
+    " 악보의 영구 전체 이용 권한 받기"
+  ],
+  "native.marketing.anniversary.dear_username": [
+    [
+      "username"
+    ],
+    "님, 안녕하세요!"
+  ],
+  "native.marketing.anniversary.available_only_now_free_cancel": "지금만 받을 수 있는 혜택. 언제든지 무료로 취소 가능",
+  "native.marketing.tour.membership_get_most_with_learn": [
+    "현재 MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    " 멤버십을 이용 중입니다. MuseScore LEARN 강좌로 더 알차게 활용해 보세요."
+  ],
+  "native.marketing.tour.membership_add_pro_plus": [
+    "현재 MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    " 멤버십을 이용 중입니다. MuseScore PRO+로 완벽한 반주를 더해 보는 건 어떨까요?"
+  ],
+  "native.marketing.after_sell.combines_with_trial": [
+    "현재 멤버십과 완벽하게 어울리는 MuseScore ",
+    [
+      "type"
+    ],
+    " (7일 체험)"
+  ],
+  "native.marketing.restore_subscription.cancels_on_date": [
+    "구독 취소 예정일: ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.credits.description_pay_per_use": [
+    "방대한 커뮤니티 컬렉션(",
+    [
+      "scoresCount"
+    ],
+    "M개의 악보)에서 원하는 악보를 다운로드하는 등 PRO 기능을 경험해 보세요. 사용한 만큼만 지불하고, 장기 약정은 없습니다."
+  ],
+  "native.marketing.credits.balance_count": [
+    "[b]PRO 크레딧 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    "[/b]를 사용할 수 있습니다. 크레딧 받기"
+  ],
+  "native.marketing.courses_payment.title_count": [
+    "좋아하는 곡을 배우는 데 도움이 되는 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    " 이상의 강좌"
+  ],
+  "native.marketing.features_carousel.courses_sub_title_count": [
+    "여러분을 위해 준비된 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    " 이상의 강좌를 무제한으로 이용하세요."
+  ],
+  "native.marketing.purchase_success.price_per_period": [
+    [
+      "price"
+    ],
+    " / ",
+    [
+      "period",
+      "select",
+      {
+        "year": "년",
+        "three_months": "3개월",
+        "month": "월",
+        "week": "주",
+        "other": [
+          [
+            "duration"
+          ]
+        ]
+      }
+    ]
+  ],
+  "native.marketing.purchase_success.price_per_period_on_date": [
+    [
+      "price"
+    ],
+    " / ",
+    [
+      "period",
+      "select",
+      {
+        "year": "년",
+        "three_months": "3개월",
+        "month": "월",
+        "week": "주",
+        "other": [
+          [
+            "duration"
+          ]
+        ]
+      }
+    ],
+    " (",
+    [
+      "date"
+    ],
+    " 결제)"
+  ],
+  "native.marketing.purchase_success.price_on_date": [
+    [
+      "price"
+    ],
+    " (",
+    [
+      "date"
+    ],
+    " 결제)"
+  ],
+  "native.marketing.credits.pro_balance_with_count": [
+    "PRO 크레딧 잔액: ",
+    [
+      "count"
+    ]
+  ],
+  "native.marketing.credits.balance_with_count": [
+    "크레딧 잔액: ",
+    [
+      "count"
+    ]
+  ],
+  "native.marketing.upgrade_onboarding.access_scores_count": [
+    "인쇄 악보 출판사로부터 라이선스를 받은 피아노, 기타, 보컬용 인기곡 악보 ",
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "개"
+        ]
+      }
+    ],
+    "를 이용하세요"
+  ],
+  "native.marketing.courses.plan_subscription_required": [
+    "MuseScore ",
+    [
+      "plan"
+    ],
+    " 구독이 필요합니다"
+  ],
+  "native.orders.restore_purchase_prompt_with_link": "빠진 항목이 있나요? [a]구매 복원[/a]",
+  "native.marketing.tour.start_now_with_name": [
+    [
+      "userName"
+    ],
+    "님, 지금 시작하세요"
+  ],
+  "native.marketing.gift_checklist.day_number": [
+    [
+      "number"
+    ],
+    "일차"
+  ],
+  "native.marketing.questions.social_proof.content_scores_count": [
+    "여러분과 같은 음악가가 [b]1300만[/b] 명 이상 있으며, 그중에는 ",
+    [
+      "id100"
+    ],
+    " 사람들도 있습니다. MuseScore는",
+    [
+      "id103"
+    ],
+    " [b]",
+    [
+      "scoresCount"
+    ],
+    "M[/b]개의 악보를 제공합니다"
+  ],
+  "native.marketing.personal_offer_save_named": [
+    [
+      "username"
+    ],
+    "님을 위한 맞춤 혜택 - ",
+    [
+      "discount"
+    ],
+    " 할인"
+  ],
+  "native.video_player.speed_normal": "보통",
+  "native.marketing.maybe_later": "Maybe later",
+  "native.bug_report.no_mail_app.title": "Couldn't open a mail app",
+  "native.bug_report.no_mail_app.message": "Send your report to the address below. Copy it together with the report text and paste them into any mail app.",
+  "native.bug_report.no_mail_app.copy": "복사",
+  "native.alerts.not_enough_storage.title": "Not enough storage",
+  "native.alerts.not_enough_storage.message": "There isn't enough free space on your device to download this score. Free up some space and try again.",
+  "native.auth.oauth_email_missing.title": "We couldn't get your email",
+  "native.auth.oauth_email_missing.message": "The sign-in service didn't share your email address with MuseScore, so we can't create your account. Please continue with email instead.",
+  "native.marketing.ug_lineup.weeks_price": [
+    [
+      "count",
+      "plural",
+      {
+        "other": [
+          "#",
+          "주"
+        ]
+      }
+    ],
+    " • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.upgrade_bundle.add_courses": "구독에 [color]강좌[/color]를 추가하세요",
+  "native.marketing.upgrade_bundle.add_courses_and_official_scores": "구독에 [color]강좌[/color]와 [color]공식 악보[/color]를 추가하세요"
+}

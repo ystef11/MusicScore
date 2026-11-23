@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources><style name="Animation.AppCompat.Dialog" parent="@style/Base.Animation.AppCompat.Dialog">
+    </style>
+    <style name="Animation.Design.BottomSheetDialog" parent="@style/Animation.AppCompat.Dialog">
+        <item name="android:windowEnterAnimation">@anim/design_bottom_sheet_slide_in</item>
+        <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
+    </style>
+    <style name="AppBottomSheetDialog" parent="@style/Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Design.BottomSheetDialog</item>
+        <item name="android:windowSoftInputMode">adjustNothing</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="bottomSheetStyle">@style/AppBottomSheetModalBehavior</item>
+        <item name="statusBarBackground">@android:color/transparent</item>
+    </style>
+    <style name="AppBottomSheetModalBehavior" parent="@android:style/Widget">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:elevation">16dp</item>
+        <item name="behavior_hideable">true</item>
+        <item name="behavior_skipCollapsed">true</item>
+    </style>
+    <style name="Base.Animation.AppCompat.Dialog" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/abc_popup_enter</item>
+        <item name="android:windowExitAnimation">@anim/abc_popup_exit</item>
+    </style>
+    <style name="Custom.Theme.FullScreenDialog" parent="@style/Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="Custom.Theme.FullScreenDialog.Fade" parent="@style/Custom.Theme.FullScreenDialog">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="Custom.Theme.FullScreenDialog.Slide" parent="@style/Custom.Theme.FullScreenDialog">
+        <item name="android:windowEnterAnimation">@anim/slide_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_down</item>
+    </style>
+    </resources>

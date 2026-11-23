@@ -1,0 +1,7 @@
+{
+  "name": "@muse/i18n",
+  "version": "3.2.0",
+  "main": "I18nModule.ts",
+  "react-native": "I18nModule.ts",
+  "private": true
+}

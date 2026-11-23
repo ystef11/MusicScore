@@ -1,0 +1,5 @@
+SoundTouchJS 0.1.30
+Upstream: https://github.com/cutterbl/SoundTouchJS
+Package: https://registry.npmjs.org/soundtouchjs/-/soundtouchjs-0.1.30.tgz
+License: LGPL-2.1-or-later, see LICENSE.soundtouchjs and source headers.
+Local changes: AudioWorklet export, normalized overlap matching, and state reset on seeking and tempo changes.

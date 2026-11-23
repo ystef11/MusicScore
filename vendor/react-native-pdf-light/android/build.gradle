@@ -1,0 +1,13 @@
+apply plugin: "com.android.library"
+android {
+ namespace "com.alpha0010.pdf"
+ compileSdk rootProject.ext.compileSdkVersion
+ defaultConfig { minSdk rootProject.ext.minSdkVersion; targetSdk rootProject.ext.targetSdkVersion }
+}
+dependencies {
+ implementation("com.facebook.react:react-android")
+ implementation("androidx.core:core-ktx:1.17.0")
+ implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
+ implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.1")
+ api(files("libs/pdf-light-original.jar"))
+}

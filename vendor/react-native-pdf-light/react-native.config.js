@@ -1,0 +1,1 @@
+module.exports={dependency:{platforms:{android:{sourceDir:"./android",packageImportPath:"import com.alpha0010.pdf.PdfViewPackage;",packageInstance:"new PdfViewPackage()"}}}};

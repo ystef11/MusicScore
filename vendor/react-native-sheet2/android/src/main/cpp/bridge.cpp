@@ -1,0 +1,1 @@
+// Original renderer is linked from the matching APK split.

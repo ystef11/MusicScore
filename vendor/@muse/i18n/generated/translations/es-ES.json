@@ -1,0 +1,3829 @@
+{
+  "marketing.available_with_premium": [
+    "Esta es una función premium, solo disponible con MuseScore ",
+    [
+      "type"
+    ]
+  ],
+  "marketing.quiz.your_goal": "Tu objetivo",
+  "marketing.quiz.your_frequency": "Tu frecuencia",
+  "marketing.quiz.your_instruments": "Tus instrumentos",
+  "marketing.quiz.your_age": "Tu edad",
+  "marketing.quiz.your_topics": "Tus temas",
+  "marketing.quiz.your_level": "Tu nivel",
+  "marketing.quiz.your_genres": "Tus géneros favoritos",
+  "marketing.get_score": [
+    "Consigue tu partitura (",
+    [
+      "credits"
+    ],
+    " créditos restantes)"
+  ],
+  "native_try_later": "Inténtalo más tarde",
+  "native.offline_indicator.message": "Revisa la conexión e inténtalo de nuevo.",
+  "native.daily_reminders.title": "Tu compañero de práctica",
+  "native.daily_reminders.message": "Sigue practicando para alcanzar tus objetivos diarios",
+  "native.daily_reminders.tour.ios_hint": "Toca [b]Permitir[/b] para recibir consejos y recordatorios",
+  "native.daily_reminders.tour.we_recommend_you_to_play": "Te [c]recomendamos[/c] tocar al menos [minutes]23[/minutes] minutos todos los días a la misma hora",
+  "native.daily_reminders.tour.set_reminder_to": "Poner un recordatorio",
+  "native.hub_new_for_you.title": "Novedades",
+  "native.hub_new_for_you.remindersControl.title": "Recordatorios de actualización semanal",
+  "native.hub_new_for_you.description": "Recibe actualizaciones semanales sobre nuestra lista de partituras recomendadas para ti",
+  "native.push_notifications.forbidden_alert.title": "Las notificaciones de MuseScore están desactivadas actualmente",
+  "native.push_notifications.forbidden_alert.subtitle": "Ve a Ajustes para activarlas",
+  "native.push_notifications.forbidden_alert.answers.not_now": "Ahora no",
+  "native.push_notifications.forbidden_alert.answers.settings": "Ajustes",
+  "native.hub_popular.title": "Popular",
+  "native.hub_popular.noAuthTitle": "Para ti",
+  "native.search.placeholder": "Buscar",
+  "native.search.placeholder_sets": "Buscar listas",
+  "native.search.submit_button": "Enviar",
+  "native.search.cancel_button": "Cancelar",
+  "native.search.empty": "Lo sentimos, no encontramos coincidencias.\nRevisa la ortografía o prueba con otra búsqueda.",
+  "native.search.empty_offline": "Conéctate a Internet para navegar por nuestras más de 1.7M partituras, o sube las tuyas sin conexión.",
+  "native.spotlight.parts": "partes",
+  "native.score_action_sheet.duration": "Duración",
+  "native.score_action_sheet.pages": "Páginas",
+  "native.score_action_sheet.measures": "Compases",
+  "native.score_action_sheet.key_signature": "Armadura de clave",
+  "native.score_action_sheet.ensemble": "Conjunto",
+  "native.score_action_sheet.part_count": "Partes",
+  "native.score_action_sheet.part_names": "Nombres de las partes",
+  "native.score_action_sheet.genre": "Género",
+  "native.score_action_sheet.license": "Licencia",
+  "native.score_action_sheet.privacy": "Privacidad",
+  "native.score_action_sheet.cancel": "Omitir",
+  "native.score_action_sheet.set_add_button": "Añadir a una lista",
+  "native.score_action_sheet.delete_button": "Borrar",
+  "native.score_action_sheet.share_button": "Compartir",
+  "native.score_action_sheet.more": "Más acciones",
+  "native.score_action_sheet.cancel_button": "Cancelar",
+  "native.score_action_sheet.score_unavailable_contact": "Contactar con soporte",
+  "native.bottom_bar.scores_tab": "Partituras",
+  "native.bottom_bar.courses_tab": "Cursos",
+  "native.bottom_bar.library_tab": "Mi biblioteca",
+  "native.bottom_bar.profile_tab": "Perfil",
+  "native.failure_download_pdf_score.title": "Este elemento no está disponible temporalmente",
+  "native.score_details_sheet.save_button": "Guardar sin conexión",
+  "native.score_details_sheet.download_button": "Descargar",
+  "native.score_details_sheet.rate_button": "Valorar",
+  "native.score_details_sheet.views_number": [
+    [
+      "number"
+    ],
+    " visitas"
+  ],
+  "native.score_details_sheet.no_views": "Sin visitas",
+  "native.score_details_sheet.complexity.beginner": "Principiante",
+  "native.score_details_sheet.complexity.intermediate": "Intermedio",
+  "native.score_details_sheet.complexity.advanced": "Avanzado",
+  "native.score_details_sheet.complexity.all_levels": "Todos los niveles",
+  "native.score_modals.rate_score": "Valorar partitura",
+  "native.score_modals.rating_saved": "¡Valoración guardada!",
+  "native.score_modals.rating_saved_hint": "¿Te gusta? Danos las gracias en la App Store",
+  "native.score_modals.rate_score_hint": "Añade tu valoración y deja un comentario.",
+  "native.score_modals.rate_score_result": "¡Gracias por valorar esta partitura! 🤘",
+  "native.screen_explore.top_hubs": "Categorías populares",
+  "native.screen_explore.highest_rated_scores": "Partituras mejor valoradas",
+  "native.screen_explore.most_commented_scores": "Partituras con más comentarios",
+  "native.screen_explore.off_scores_title": "Toca partituras oficiales con licencia de editoriales musicales",
+  "native.screen_explore.selected_for_you": "Para ti",
+  "native.screen_explore.popular": "Popular",
+  "native.screen_explore.recently_viewed": "Vistas recientemente",
+  "native.screen_hub.scores": "Partituras",
+  "native.screen_notifications.title": "¡No te pierdas nada! Activa las notificaciones",
+  "native.screen_notifications.allow": "Activar notificaciones",
+  "native.screen_notifications.dismiss": "Ahora no",
+  "native.screen_profile.finished_restore": "Restauración finalizada",
+  "native.screen_profile.want_to_delete_account": "¿Seguro que quieres eliminar tu cuenta?",
+  "native.screen_profile.account_will_be_removed": "Tu cuenta se eliminará junto con toda su información. También se eliminará todo tu contenido. Esta acción no se puede deshacer.",
+  "native.screen_profile.delete_account": "Eliminar cuenta",
+  "native.screen_profile.logout": "Cerrar sesión",
+  "native.screen_profile.be_careful": "¡Ten cuidado!",
+  "native.screen_profile.be_careful_delete_account": "Tu cuenta, toda la información de la cuenta y todo tu contenido serán eliminados.\n\nTen cuidado, porque esta acción no se puede deshacer.",
+  "native.screen_welcome.login": "Continuar con el correo electrónico",
+  "native.screen_welcome.facebook": "Continuar con Facebook",
+  "native.screen_welcome.apple": "Continuar con Apple",
+  "native.screen_welcome.google": "Continuar con Google",
+  "native.screen_welcome.restore": "Restaurar compras",
+  "native.screen_welcome.open_create_account_screen_button": "Crear cuenta",
+  "native.screen_welcome.skip_button": "Omitir inicio de sesión",
+  "native.screen_login.login_placeholder": "Usuario o correo electrónico",
+  "native.screen_login.pass_placeholder": "Contraseña",
+  "native.screen_login.login_button_title": "Iniciar sesión",
+  "native.screen_login.forgot_button_title": "¿Has olvidado la contraseña?",
+  "native.screen_login.has_account": "¿No tienes una cuenta?",
+  "native.screen_login.create_account_motive": "Crear cuenta",
+  "native.screen_login.email_required_error_title": "Se necesita acceso a tu correo electrónico",
+  "native.screen_login.email_required_error_text": "Necesitamos acceso a tu correo electrónico para continuar. Intenta iniciar sesión de nuevo.",
+  "native.screen_new_account.title": "Registrarse",
+  "native.screen_new_account.user": "Usuario",
+  "native.screen_new_account.email": "Correo electrónico",
+  "native.screen_new_account.email_placeholder": "Introduce tu correo electrónico",
+  "native.screen_new_account.username_placeholder": "Introduce tu nombre de usuario",
+  "native.screen_new_account.pass": "Contraseña",
+  "native.screen_new_account.register_button_title": "Crear cuenta",
+  "native.screen_new_account.has_account": "¿Ya tienes una cuenta?",
+  "native.screen_new_account.email_taken": "Esta dirección de correo ya está registrada. Intenta iniciar sesión",
+  "native.screen_new_account.sign_up_musescore": "Regístrate en MuseScore",
+  "native.screen_new_account.subtitle": "Guarda tus partituras favoritas y únete a la comunidad de MuseScore",
+  "native.screen_new_account.email_screen_header": "¿Cuál es tu correo?",
+  "native.screen_new_account.password_screen_header": "¿Cuál es tu contraseña?",
+  "native.screen_new_account.password_placeholder": "Crea una contraseña",
+  "native.screen_new_account.email_taken_error": [
+    "El correo ",
+    [
+      "email"
+    ],
+    " ya está en uso"
+  ],
+  "native.screen_new_account.username_taken_error": [
+    "El nombre de usuario ",
+    [
+      "username"
+    ],
+    " ya está en uso"
+  ],
+  "native.screen_new_account.continue": "Continuar",
+  "native.screen_new_account.password_rules_title": "Crea una contraseña segura con:",
+  "native.screen_new_account.password_strength": "Seguridad de la contraseña:",
+  "native.screen_new_account.password_strength_normal": "Normal",
+  "native.screen_new_account.password_rules_length": "Mínimo 8 caracteres",
+  "native.screen_new_account.password_rules_lowercase_letters": "Letras en minúscula (abc...)",
+  "native.screen_new_account.password_rules_uppercase_letters": "Letras en mayúscula (ABC...)",
+  "native.screen_new_account.password_rules_numbers": "Números (123...)",
+  "native.screen_new_account.password_rules_special_characters": "Caracteres especiales (!#$...)",
+  "native.screen_new_account.consent_screen_header": "Acepta los términos de uso de MuseScore",
+  "native.screen_new_account.agree_to_all": "Aceptar todo",
+  "native.screen_new_account.required": "Obligatorio",
+  "native.screen_new_account.recommended": "Recomendado",
+  "native.screen_new_account.terms_of_use_label": "Términos de uso de MuseScore",
+  "native.screen_new_account.terms_of_use": "Términos de uso",
+  "native.screen_new_account.privacy_policy_required": "Recopilación y uso de información personal obligatoria",
+  "native.screen_new_account.privacy_policy_optional": "Recopilación y uso de información personal opcional",
+  "native.screen_new_account.see_details": "Ver detalles",
+  "native.screen_new_account.age_confirm": "Tengo 14 años o más",
+  "native.screen_new_account.receive_marketing": "Acepto recibir información publicitaria",
+  "native.screen_mixer.visibility_all_parts": "¿Habilitar la visibilidad de todas las partes?",
+  "native.screen_mixer.playability_all_parts": "¿Habilitar la reproducción de todas las partes?",
+  "native.screens_titles.score_screen": "Partitura",
+  "native.screens_titles.mixer_screen": "Mezclador",
+  "native.screens_titles.about_screen": "Acerca de",
+  "native.screens_titles.my_scores_screen": "Mis partituras",
+  "native.screens_titles.activity_screen": "Notificaciones",
+  "native.instrument.organ": "Órgano",
+  "native.instrument.accordion": "Acordeón",
+  "native.instrument.bass": "Bajo",
+  "native.instrument.violin": "Violín",
+  "native.instrument.viola": "Viola",
+  "native.instrument.cello": "Violonchelo",
+  "native.instrument.contrabass": "Contrabajo",
+  "native.instrument.trombone": "Trombón",
+  "native.instrument.tuba": "Tuba",
+  "native.instrument.french_horn": "Trompa",
+  "native.instrument.oboe": "Oboe",
+  "native.instrument.bassoon": "Fagot",
+  "native.instrument.clarinet": "Clarinete",
+  "native.instrument.flute": "Flauta",
+  "native.filter_screen.instrument_count": "Número de instrumentos",
+  "native.filter_screen.instruments": "Instrumentos",
+  "native.filter_screen.ensemble": "Conjunto",
+  "native.filter_screen.genre": "Género",
+  "native.filter_screen.status": "Estado",
+  "native.filter_screen.license": "Licencia",
+  "native.filter_screen.parts": "partes",
+  "native.filter_screen.part": "parte",
+  "native.filter_screen.scores_title": "Partituras oficiales",
+  "native.filter_screen.scores_new": "¡Nuevo!",
+  "native.settings_screen.logout_button": "Cerrar sesión",
+  "native.settings_screen.login_button": "Iniciar sesión",
+  "native.settings_screen.sing_up_button": "Registrarse",
+  "native.settings_screen.login_you_account_button": "Inicia sesión en tu cuenta",
+  "native.settings_screen.restore_purchases_subtitle": "Si compraste PRO anteriormente, pulsa el botón para restaurar las compras",
+  "native.my_profile.settings_section": "Tu configuración",
+  "native.my_profile.stay_awake_switch_title": "Mantener pantalla activa",
+  "native.my_profile.stay_awake_switch_subtitle": "La pantalla no se bloqueará mientras ves una partitura",
+  "native.my_profile.notification_settings_title": "Configuración de notificaciones",
+  "native.my_profile.notification_settings_subtitle": "Elige el contenido que quieres ver",
+  "native.my_profile.daily_reminder_settings_title": "Recordatorio diario",
+  "native.my_profile.daily_reminder_settings_subtitle": "Crece como músico con un recordatorio diario",
+  "native.my_profile.daily_reminder_settings_description": "Establece tu recordatorio diario",
+  "native.my_profile.hq_sound_settings_title": "Sonido HQ+ de MuseScore",
+  "native.my_profile.hq_sound_settings_subtitle": "Descarga 1246 muestras de audio estéreo de 16 bits",
+  "native.my_profile.hq_sound_settings_description": "Descarga 1246 muestras de audio estéreo de 16 bits con soporte de modulación.\nRequiere 159 MB adicionales en tu dispositivo.",
+  "native.my_profile.more_section": "Más",
+  "native.my_profile.restore_purchases_title": "Restaurar compras",
+  "native.my_profile.pp_title": "Política de privacidad",
+  "native.alerts.login_error.message": "Usuario o contraseña incorrectos",
+  "native.alerts.error_login_facebook.title": "Error al iniciar sesión",
+  "native.alerts.connection_error.title": "No hay conexión",
+  "native.alerts.connection_error.message": "Revisa tu conexión a internet",
+  "native.alerts.failure_download_pdf_score.title": "Este elemento no está disponible temporalmente",
+  "native.alerts.access_denied.title": "Lamentablemente, esta partitura no está disponible",
+  "native.alerts.access_denied.message": "Tenemos problemas para verificar que tu dispositivo cumpla los requisitos de compatibilidad de Android. Más información sobre estos requisitos:",
+  "native.alerts.access_denied.action": "Contacta con nuestro equipo de soporte",
+  "native.alerts.try_again.title": "¡Ups!",
+  "native.alerts.try_again.description": "Parece que la aplicación se ha cerrado en segundo plano. Intenta actualizar",
+  "native.settings_extasy_screen.tempo_title": "Tempo",
+  "native.settings.score.set_default_transposition": "Establecer tonalidad predeterminada",
+  "native.permissions.storage.initial_alert_title": "Acceder al almacenamiento de archivos",
+  "native.permissions.storage.initial_alert_message": "Permitir acceso al almacenamiento de archivos para abrir una partitura (habilitado solo para la partitura seleccionada).",
+  "native.permissions.storage.denied_alert_title": "Acceso denegado",
+  "native.permissions.storage.modal.cancel": "Más tarde",
+  "native.permissions.storage.modal.settings": "Ajustes",
+  "native.screen_tour.rate_text": "Da las gracias",
+  "native.screen_tour.start_trial_text": "Iniciar mi prueba gratuita de 7 días",
+  "native.screen_tour.free_trial_text": "Prueba gratuita de 7 días",
+  "native.screen_tour.monthly_access": "Acceso mensual",
+  "native.screen_tour.annual_access": "Acceso anual",
+  "native.screen_tour.annual": "anual",
+  "native.screen_tour.monthly": "Mensual",
+  "native.screen_tour.start_now_text": "Empieza ahora",
+  "native.screen_tour.scores_count": "Accede a partituras de tus piezas favoritas para piano, guitarra y canto con licencia de editoriales musicales",
+  "native.screen_tour.scores_pro": "PRO",
+  "native.screen_tour.scores_upgrade": "Pásate a MuseScore",
+  "native.screen_tour.scores_switcher_title": "Sube de nivel con partituras oficiales",
+  "native.screen_tour.save": "Ahorra",
+  "native.screen_tour.score_feature": "[b]1,3 M de partituras[/b] - sin anuncios",
+  "native.screen_tour.score_list_feature": "Descarga partituras, transporta, [b]accede sin conexión[/b]",
+  "native.screen_tour.score_official_feature": "Partituras oficiales para [b]acelerar[/b] tu progreso",
+  "native.screen_tour.courses_feature": "[b]Más de 150[/b] cursos de música impartidos por [b]expertos[/b]",
+  "native.screen_tour.start_free": "Empezar gratis",
+  "native.screen_tour.course_subs_required": "Se requiere una suscripción a MuseScore LEARN",
+  "native.screen_tour.free_cancel": "Puedes cancelar gratis cuando quieras",
+  "native.screen_tour.start_describe": "Descubre la música que te encanta, desde clásicos atemporales hasta éxitos actuales. Toca cualquier pieza con herramientas de práctica y lecciones esenciales.",
+  "native.screen_tour.fact_sub_title": "Desde principiantes hasta músicos expertos: millones de intérpretes y compositores han hecho de MuseScore su casa",
+  "native.screen_tour.instant_sub_title": "Accede al instante a funciones premium de interpretación y práctica",
+  "native.screen_tour.switcher_title": "Sube de nivel con partituras oficiales",
+  "native.screen_tour.subscription_text": "Esta suscripción",
+  "native.screen_tour.subscription_access": "incluye acceso a MuseScore",
+  "native.screen_tour.subscription_unlocks_text": "y desbloquea un curso de tu elección al mes de la Selección de los editores",
+  "native.payment_courses.title": "Más de 150 cursos con los que aprenderás tus composiciones favoritas",
+  "native.payment_popover.preview": "Aquí termina la vista previa",
+  "native.payment_popover.continue": "Continúa este curso gratis",
+  "native.game_screen.or": "o",
+  "native.upgrade_messages.cant_upgrade": "No podemos mejorar tu suscripción en la aplicación porque la iniciaste en el sitio web de MuseScore. Toca el botón «Mejorar ahora» para ir al sitio web de MuseScore y mejorar tu suscripción",
+  "native.upgrade_messages.upgrade_title": "Partituras oficiales para piano, guitarra y canto",
+  "native.upgrade_messages.upgrade_now": "Mejorar ahora",
+  "native.screen_anniversary_splash.available_only_now": "Oferta disponible solo ahora",
+  "native.billing_restore": "Restaurar",
+  "native.billing_info_text": "El pago se cargará en tu cuenta de iTunes al confirmar la compra. La suscripción se renueva automáticamente, a menos que desactives la renovación automática al menos 24 horas antes de que finalice el periodo actual. El importe de la renovación se cargará en tu cuenta en las 24 horas previas al final del periodo actual, y se indicará su coste. Puedes gestionar tus suscripciones y desactivar la renovación automática en los ajustes de tu cuenta después de la compra. Si se ofrece un periodo de prueba gratuita, cualquier parte no utilizada se perderá al adquirir una suscripción a esa publicación, cuando corresponda.",
+  "native.billing_info_text_cancel": "Suscripción con renovación automática. Puedes cancelarla cuando quieras",
+  "native.terms_of_service": "Términos de servicio",
+  "native.privacy_policy": "Política de privacidad",
+  "native.marketing_text.restore_purchase_message_negative": [
+    "No tienes una suscripción activa en ",
+    [
+      "store"
+    ]
+  ],
+  "native.marketing_text.restore_purchase_message_error": "Error al restaurar la suscripción",
+  "native.marketing_text.auto_renewal_restored_success": "Se ha reactivado tu renovación automática",
+  "native.marketing_text.auto_renewal_restored_failure": "Algo ha fallado al restaurar tu suscripción. Inténtalo de nuevo o contacta con el soporte.",
+  "native.hqSound.button_download": "Descargar sonido HQ+",
+  "native.hqSound.button_clear": "Borrar archivos descargados",
+  "native.hqSound.button_cancel": "Cancelar",
+  "native.hqSound.popup_title": "¿Estás seguro?",
+  "native.hqSound.popup_button": "Borrar",
+  "native.privacy.public": "Todos pueden ver esta partitura",
+  "native.privacy.private": "Solo tú puedes ver esta partitura",
+  "native.marketing.slash_month": "/mes",
+  "native.marketing.slash_mo": "/mes",
+  "native.marketing.slash_year": "/año",
+  "native.marketing.sale_text_65": "Ahorra un 65",
+  "native.marketing.dont_show_this_again": "No volver a mostrar",
+  "native.marketing.claim_this_deal": "Aprovechar oferta",
+  "native.marketing.best_value": "mejor oferta",
+  "native.marketing.most_popular": "más popular",
+  "native.marketing.per": "por",
+  "native.marketing.then": "después",
+  "native.marketing.cancelAnytime": "Cancela en cualquier momento",
+  "native.marketing.12MonthsAt": "12 meses por",
+  "native.marketing.startWithA1WeekFreeTrial": "Empieza con una prueba gratuita de 1 semana",
+  "native.marketing.continue": "Continuar",
+  "native.marketing.create_your_account": "Crea una cuenta para acceder a más de un millón de partituras",
+  "native.marketing.enter_your_name": "Escribe tu nombre",
+  "native.marketing.nice_to_meet_you": "Encantados de conocerte",
+  "native.marketing.fact1": [
+    "[c]",
+    [
+      "count"
+    ],
+    " partituras[/c] fueron compartidas por compositores de MuseScore el año pasado"
+  ],
+  "native.marketing.fact2": [
+    [
+      "count"
+    ],
+    " [c]partituras oficiales[/c] de editores verificados en el catálogo de MuseScore"
+  ],
+  "native.marketing.questions.instrument.list.piano": "Piano",
+  "native.marketing.questions.instrument.list.saxophone": "Saxofón",
+  "native.marketing.questions.instrument.list.woodwinds": "Viento madera",
+  "native.marketing.questions.instrument.list.percussion": "Percusión",
+  "native.marketing.questions.instrument.list.trumpet": "Trompeta",
+  "native.marketing.questions.instrument.list.brass": "Viento metal",
+  "native.marketing.questions.instrument.list.voice": "Voz",
+  "native.marketing.questions.instrument.list.guitar": "Guitarra",
+  "native.marketing.questions.instrument.list.other": "Otro",
+  "native.marketing.questions.instrument.list.violin": "Violín",
+  "native.marketing.questions.instrument.list.string_instrument_title": "Instrumentos de cuerda",
+  "native.marketing.questions.instrument.list.viola": "Viola",
+  "native.marketing.questions.instrument.list.cello": "Violonchelo",
+  "native.marketing.questions.instrument.list.contrabass": "Contrabajo",
+  "native.marketing.questions.instrument.list.banjo": "Banjo",
+  "native.marketing.questions.instrument.list.ukulele": "Ukelele",
+  "native.marketing.questions.instrument.list.other_instruments": "Otros instrumentos",
+  "native.marketing.questions.instrument.list.other_free_reed_instruments": "Otros instrumentos de lengüeta libre",
+  "native.marketing.questions.instrument.list.accordion": "Acordeón",
+  "native.marketing.questions.instrument.list.organ": "Órgano",
+  "native.marketing.questions.instrument.list.other_woodwinds": "Otros instrumentos de viento madera",
+  "native.marketing.questions.instrument.list.bassoon": "Fagot",
+  "native.marketing.questions.instrument.list.oboe": "Oboe",
+  "native.marketing.questions.instrument.list.flute": "Flauta",
+  "native.marketing.questions.instrument.list.brass_instrument": "Instrumentos de viento metal",
+  "native.marketing.questions.instrument.list.trombone": "Trombón",
+  "native.marketing.questions.instrument.list.french_horn": "Trompa",
+  "native.marketing.questions.instrument.list.tuba": "Tuba",
+  "native.marketing.questions.instrument.list.other_brass": "Otros instrumentos de viento metal",
+  "native.marketing.questions.instrument.list.free_reed_instruments": "Instrumentos de lengüeta libre",
+  "native.marketing.questions.instrument.list.clarinet": "Clarinete",
+  "native.marketing.questions.genre.list.blues": "Blues",
+  "native.marketing.questions.genre.list.classical": "Clásica",
+  "native.marketing.questions.genre.list.country": "Música country",
+  "native.marketing.questions.genre.list.folk": "Folk",
+  "native.marketing.questions.genre.list.jazz": "Jazz",
+  "native.marketing.questions.genre.list.new_age": "New age",
+  "native.marketing.questions.genre.list.pop": "Pop",
+  "native.marketing.questions.genre.list.rock": "Rock",
+  "native.marketing.questions.genre.list.other": "Otro",
+  "native.marketing.questions.genre.list.soundtrack": "Banda sonora",
+  "native.marketing.questions.genre.list.religious_music": "Música religiosa",
+  "native.marketing.questions.genre.list.hip_hop": "Hip hop",
+  "native.marketing.questions.genre.list.electronic": "Electrónica",
+  "native.marketing.questions.genre.list.metal": "Metal",
+  "native.marketing.questions.genre.list.reggae_and_ska": "Reggae y ska",
+  "native.marketing.questions.genre.list.rnb_funk_and_soul": "R&B, funk y soul",
+  "native.marketing.questions.genre.list.disco": "Disco",
+  "native.marketing.questions.genre.list.darkwave": "Darkwave",
+  "native.marketing.questions.genre.list.world_music": "Música global",
+  "native.marketing.questions.genre.list.experimental": "Experimental",
+  "native.marketing.questions.genre.list.comedy": "Humor",
+  "native.marketing.questions.genre.list.classical_modern": "Clásica moderna",
+  "native.marketing.questions.genre.list.classical_cinematic": "Clásica cinematográfica",
+  "native.marketing.questions.genre.list.classical_neoclassical": "New age neoclásico",
+  "native.marketing.questions.genre.list.classical_classical": "Clásica",
+  "native.marketing.questions.genre.list.pop_rock": "Pop rock",
+  "native.marketing.questions.genre.list.pop_soul": "Pop soul",
+  "native.marketing.questions.genre.list.pop_indi": "Indie pop",
+  "native.marketing.questions.genre.list.pop_dance": "Dance pop",
+  "native.marketing.questions.genre.list.pop_folk": "Folk pop",
+  "native.marketing.questions.genre.list.pop_electro": "Electropop",
+  "native.marketing.questions.genre.list.pop_chamber": "Pop de cámara",
+  "native.marketing.questions.genre.list.pop_art": "Art pop",
+  "native.marketing.questions.genre.list.pop_traditional": "Pop tradicional",
+  "native.marketing.questions.genre.list.pop_c": "C-pop",
+  "native.marketing.questions.genre.list.soundtrack_game": "Música de videojuegos",
+  "native.marketing.questions.genre.list.soundtrack_singer": "Cantautor",
+  "native.marketing.questions.genre.list.soundtrack_christmas": "Música navideña",
+  "native.marketing.questions.genre.list.rock_alternative": "Rock alternativo",
+  "native.marketing.questions.genre.list.rock_piano": "Piano rock",
+  "native.marketing.questions.genre.list.rock_hard": "Hard rock",
+  "native.marketing.questions.level.list.beginner": "Principiante",
+  "native.marketing.questions.level.list.can_read_notation": "Sé leer partituras",
+  "native.marketing.questions.level.list.intermediate": "Intermedio",
+  "native.marketing.questions.level.list.professional": "Profesional",
+  "native.marketing.questions.level.list.virtuoso": "Virtuoso",
+  "native.marketing.credit_balance_title": "Saldo de créditos",
+  "native.marketing.use_credit_title": "Usar 1 crédito PRO",
+  "native.marketing.restore_subscription": "Restaurar la suscripción",
+  "native.marketing.restore_subscription_title": "Restaura tu suscripción para seguir accediendo a funciones premium como Descargar e Imprimir",
+  "native.marketing.restore_subscription_cancel_title": "La suscripción se cancelará el",
+  "native.marketing.personal_offer_title": "Tu oferta personalizada está lista",
+  "native.marketing.try_now": "Descúbrela",
+  "native.marketing.action_required": "Acción requerida",
+  "native.marketing.membership_expire_soon": "Tu suscripción caducará pronto",
+  "native.marketing.lose_access": "Perderás el acceso a:",
+  "native.marketing.restart_membership": "Reactivar suscripción",
+  "native.locale_file_status.start": "Empezando",
+  "native.locale_file_status.copy": "Copiando",
+  "native.locale_file_status.open": "Abriendo",
+  "native.locale_file_status.font_loading": "Cargando fuentes",
+  "native.sorting.title": "Ordenar por",
+  "native.sorting.by.date": "Fecha de subida",
+  "native.sorting.by.views": "Número de visitas",
+  "native.sorting.by.comments": "Número de comentarios",
+  "native.sorting.by.relevance": "Relevancia",
+  "native.sorting.title_asc": "Por título A-Z",
+  "native.sorting.title_desc": "Por título Z-A",
+  "native.sorting.date_added_asc": "Por fecha de adición (más antiguas primero)",
+  "native.sorting.date_added_desc": "Por fecha de adición (más recientes primero)",
+  "native.sorting.date_updated_asc": "Por fecha de actualización (más recientes primero)",
+  "native.sorting.date_updated_desc": "Por fecha de actualización (más antiguas primero)",
+  "native.sorting.date_created_asc": "Por fecha de creación (más recientes primero)",
+  "native.sorting.date_created_desc": "Por fecha de creación (más antiguas primero)",
+  "native.sorting.views_desc": "Por visitas (de más a menos)",
+  "native.sorting.views_asc": "Por visitas (de menos a más)",
+  "native.instrument.any_instrument": "Cualquier instrumento",
+  "native.instrument.piano": "Piano",
+  "native.instrument.harpsichord": "Clave",
+  "native.instrument.percussion": "Percusión",
+  "native.instrument.harmonica": "Armónica",
+  "native.instrument.guitar": "Guitarra",
+  "native.instrument.strings": "Cuerdas",
+  "native.instrument.harp": "Arpa",
+  "native.instrument.timpani": "Timbales",
+  "native.instrument.trumpet": "Trompeta",
+  "native.instrument.brass_ensemble": "Conjunto de viento metal",
+  "native.instrument.soprano_saxophone": "Saxofón soprano",
+  "native.instrument.alto_saxophone": "Saxofón alto",
+  "native.instrument.tenor_saxophone": "Saxofón tenor",
+  "native.instrument.baritone_saxophone": "Saxofón barítono",
+  "native.instrument.english_horn": "Corno inglés",
+  "native.instrument.piccolo": "Flautín",
+  "native.instrument.recorder": "Flauta dulce",
+  "native.instrument.other_woodwinds": "Otros instrumentos de viento madera",
+  "native.instrument.synthesizer": "Sintetizador",
+  "native.instrument.sound_effects": "Efectos de sonido",
+  "native.instrument.bagpipe": "Gaita",
+  "native.instrument.brass": "Viento metal",
+  "native.instrument.keyboard": "Teclado",
+  "native.instrument.effect": "Efecto",
+  "native.instrument.metal": "Metal",
+  "native.instrument.percussion_-_body": "Percusión - Cuerpo",
+  "native.instrument.percussion_-_drum": "Percusión - Tambor",
+  "native.instrument.percussion_-_metal": "Percusión - Metal",
+  "native.instrument.percussion_-_pitched": "Percusión - Afinada",
+  "native.filter.instrument": "Instrumento",
+  "native.filter.level": "Nivel",
+  "native.filter.topics": "Temas",
+  "native.filter.show_all": "Mostrar todo",
+  "native.instrument.percussion_-_wood": "Percusión - Madera",
+  "native.instrument.strings_-_bowed": "Cuerdas - Frotadas",
+  "native.instrument.strings_-_plucked": "Cuerdas - Pulsadas",
+  "native.license.publicdomain": "Dominio público (sin derechos reservados)",
+  "native.license.all_rights_reserved": "Ninguna (todos los derechos reservados)",
+  "native.license.cc_zero": "Dominio público (sin derechos reservados)",
+  "native.license.cc_by": "Atribución",
+  "native.license.cc_by_nd": "Atribución, sin obras derivadas",
+  "native.license.cc_by_sa": "Atribución, compartir igual",
+  "native.license.cc_by_nc": "Atribución, no comercial",
+  "native.license.cc_by_nc_nd": "Atribución, no comercial, sin obras derivadas",
+  "native.license.cc_by_nc_sa": "Atribución, no comercial, compartir igual",
+  "native.signInToGetUpdates": "Regístrate para recibir actualizaciones",
+  "native.instrument.voice": "Voz",
+  "native.instrument.woodwinds": "Viento madera",
+  "native.song_book_remove.subtitle": "Este elemento se eliminará inmediatamente. Esta acción no se puede deshacer.",
+  "native.screen_comments.comment": "comentario",
+  "native.screen_comments.comments": "Comentarios",
+  "native.screen_comments.reply": "Responder",
+  "native.screen_comments.likes": "Me gusta",
+  "native.screen_comments.write_comment": "Escribir un comentario",
+  "native.screen_comments.remove": "Borrar",
+  "native.screen_comments.no_comments": "Aún no hay comentarios",
+  "native.screen_comments.replies_count": [
+    [
+      "count"
+    ],
+    " respuestas"
+  ],
+  "native.net_promoter_score.confirm_feedback_close_action": "Listo",
+  "native.library.my_scores_title": "Partituras",
+  "native.library.my_scores_desc": "Partituras que has subido a musescore.com",
+  "native.library.my_sets_title": "Mis listas",
+  "native.library.my_sets_desc": "Conjuntos que has creado tú mismo",
+  "native.library.favorites_desc": "Partituras que has añadido a Favoritos",
+  "native.library.songbook_desc": "Partituras almacenadas localmente (disponibles sin conexión)",
+  "native.library.scores_column": "Partituras",
+  "native.library.my_scores.site_link": "Ir a musescore.com",
+  "native.library.my_scores.editor_link": "Más información sobre el editor de música",
+  "native.library.favorites_courses.title": "Añade algunos cursos",
+  "native.library.favorites_courses.search_btn_title": "Buscar cursos",
+  "native.library.songbook.upload_btn_title": "Subir archivo mscz",
+  "native.library.songbook.editor_link": "Más información sobre el editor de música",
+  "native.library.created_by_me": "Creado por mí",
+  "native.library.available_offline": "Disponible sin conexión",
+  "native.new_search.empty_condition.top_string": "Lo sentimos, no hay resultados.",
+  "native.new_search.empty_condition.bottom_string": "Prueba con otros filtros o cambia la búsqueda.",
+  "native.new_search.not_found": "no hay resultados",
+  "native.new_search.sources.my": "En mis partituras",
+  "native.new_search.sources.everywhere": "En todas partes",
+  "native.tooltips.upload": "Subir",
+  "native.tooltips.more": "Más",
+  "native.alertNotifications.tooManyRequests": "Inténtalo de nuevo más tarde",
+  "native.alertNotifications.downloading": "Descargando...",
+  "native.feed.items.20": "ha comentado tu partitura",
+  "native.feed.items.21": "ha respondido a tu comentario en la partitura",
+  "native.feed.items.30": "ha añadido la partitura",
+  "native.feed.items.31": "ha empezado a seguirte",
+  "native.activity.empty_list.title": "Mantente informado",
+  "native.activity.notifications.new_follower": "Nuevos seguidores",
+  "native.activity.notifications.your_comment_replied": "Respuestas a tus comentarios",
+  "native.activity.notifications.your_score_commented": "Comentarios en tu partitura",
+  "native.user.follow": "Seguir",
+  "native.user.unfollow": "Dejar de seguir",
+  "native.user.followers": "Seguidores",
+  "native.user.no_followers": "Sin seguidores",
+  "native.user.followings": "Siguiendo",
+  "native.user.no_followings": "No sigue a nadie",
+  "native.user.set": "Lista",
+  "native.user.sets": "Listas",
+  "native.user.scores": "Partituras",
+  "native.user.my": "Mi",
+  "native.filter.actions.apply": "Aplicar",
+  "native.filter.actions.reset": "Restablecer",
+  "native.key_words.settings": "Configuración",
+  "native.key_words.metronome": "Metrónomo",
+  "native.key_words.feedback": "Comentarios",
+  "native.actions.close": "Cerrar",
+  "native.actions.change": "Cambiar",
+  "native.actions.okay": "De acuerdo",
+  "native.actions.retry": "Reintentar",
+  "native.help_center.step_first.title": "¿En qué podemos ayudarte?",
+  "native.help_center.step_first.variants.first": "Me gustaría encontrar la respuesta a mi pregunta",
+  "native.help_center.step_first.variants.second": "Me gustaría hacer una pregunta",
+  "native.help_center.step_second.title": "¿A qué correo respondemos?",
+  "native.help_center.step_second.text": "Introduce tu dirección de correo electrónico para que podamos ponernos en contacto contigo. (Tus datos están seguros y solo se utilizarán para responder a tu consulta).",
+  "native.help_center.step_second.placeholder": "Dirección de correo electrónico",
+  "native.artists.based_on": "Esta partitura está basada en",
+  "native.artists.by": "De",
+  "native.artists.artist_info": "Información del artista",
+  "native.artists.composition_info": "Información de la composición",
+  "native.artists.bio": "Biografía del artista",
+  "native.artists.no_bio": "La biografía del artista se añadirá aquí pronto.\n¡Estamos trabajando en ello!",
+  "native.artists.read_more": "Leer más",
+  "native.artists.links": "Enlaces",
+  "native.artists.score": "Partitura",
+  "native.artists.composition": "Composición",
+  "native.courses.courses": "Cursos",
+  "native.courses.instrument": "Instrumento",
+  "native.courses.theme": "Tema del curso",
+  "native.courses.favorites": "Cursos que has añadido a Favoritos",
+  "native.courses.play_speed": "Velocidad de reproducción",
+  "native.courses.video_quality": "Calidad de vídeo",
+  "native.courses.lesson": "Lección",
+  "native.courses.lessons": "Lecciones",
+  "native.courses.pdf_lesson": "Descarga y revisa el PDF que tu instructor ha preparado para esta lección.",
+  "native.courses.download_material": [
+    "Descargar ",
+    [
+      "number"
+    ],
+    " material de la lección"
+  ],
+  "native.courses.download_materials": [
+    "Descargar ",
+    [
+      "number"
+    ],
+    " materiales de la lección"
+  ],
+  "native.courses.course_completed": "completado",
+  "native.artists.scores": "Partituras",
+  "native.courses.hours": "h",
+  "native.artists.compositions": "Composiciones",
+  "native.courses.minutes": "min",
+  "native.courses.seconds": "s",
+  "native.courses.materials": "Materiales de la lección",
+  "native.courses.what_will_you_learn": "¿Qué aprenderás?",
+  "native.courses.level": "Nivel",
+  "native.courses.about_course": "Acerca del curso",
+  "native.courses.about": "Información",
+  "native.courses.comments": "Comentarios",
+  "native.courses.no_comments_title": "Todavía no hay comentarios",
+  "native.courses.no_comments_description": "¡Sé el primero en dejar un comentario sobre este curso!",
+  "native.courses.rate_course": "Valora este curso",
+  "native.courses.congratulations": "¡Felicidades! 🎉",
+  "native.courses.your_impressions": "Estamos deseando conocer tu opinión para mejorar la experiencia de aprendizaje.",
+  "native.courses.send_feedback": "Enviar comentarios",
+  "native.courses.are_you_enjoying": "¿Te está gustando este curso?",
+  "native.courses.share_your_thoughts": "Comparte tu opinión",
+  "native.courses.what_do_you_think_about_platform": "¿Qué opinas de la plataforma de aprendizaje?",
+  "native.courses.what_could_be_done_better": "¿Qué podemos mejorar?",
+  "native.courses.thank_you": "¡Gracias!",
+  "native.courses.help_us_improve": "Tus comentarios nos ayudarán a mejorar la experiencia de aprendizaje y a que estudiar sea más interesante y productivo.",
+  "native.courses.youre_welcome": "De nada",
+  "native.screen_sft.carousel.courses_sub_title": "Acceso ilimitado a más de 200 cursos preparados para ti.",
+  "native.screen_sft.carousel.material_sub_title": "Material descargable incluido.",
+  "native.screen_sft.carousel.keyboard_sub_title": "Aprende a tocar partituras más rápido y de forma más amena con un teclado.",
+  "native.screen_sft.carousel.transpose_sub_title": "Cambia la tonalidad de la partitura para encontrar la que más se ajuste a tu instrumento.",
+  "native.screen_sft.carousel.songbook_sub_title": "Accede a partituras y tócalas sin conexión. Carga archivos de música de tu dispositivo.",
+  "native.screen_sft.carousel.mixer_sub_title": "Gestiona la visibilidad y el volumen de cada instrumento en la partitura.",
+  "native.screen_sft.carousel.auto_scroll_sub_title": "Toca partituras con desplazamiento automático y ve las próximas notas sin tener que pasar páginas.",
+  "native.screen_sft.carousel.more_sub_title": "Activa el metrónomo y la cuenta previa. Disfruta de un sonido mejor con el sonido HQ+.",
+  "native.screen_sft.carousel.pdf_sub_title": "Los usuarios premium pueden descargar partituras en PDF, MIDI y MP3. Los PDF se pueden imprimir.",
+  "native.screen_sft.carousel.courses_title": "Cursos",
+  "native.screen_sft.carousel.material_title": "Materiales",
+  "native.screen_sft.carousel.pdf_title": "Exportar a PDF",
+  "native.screen_sft.carousel.midi_title": "Exportar a MIDI",
+  "native.screen_sft.carousel.mp3_title": "Exportar a MP3",
+  "native.screen_sft.carousel.transpose_title": "Transportar",
+  "native.screen_sft.carousel.mixer_title": "Mezclador",
+  "native.screen_sft.carousel.auto_scroll_title": "Desplazamiento automático",
+  "native.screen_sft.carousel.more_title": "Y mucho más...",
+  "native.screen_sft.carousel.full_access_title": "Acceso total",
+  "native.screen_sft.carousel.keyboard_title": "Teclado",
+  "native.screen_sft.switcher_title": "Empieza con la versión Lite",
+  "native.preferences.main_title": "Establece tus preferencias",
+  "native.preferences.sub_title": "Personaliza tu experiencia en MuseScore",
+  "native.preferences.profile_title": "Mis preferencias",
+  "native.preferences.current_preferences": "Tus preferencias actuales",
+  "native.preferences.update": "Actualizar",
+  "native.bluetooth_pedal.profile_subtitle": "Configura las opciones del pedal",
+  "native.bluetooth_pedal.profile_title": "Pedal Bluetooth",
+  "native.bluetooth_pedal.instruction_5": "¡Listo! Cada vez que pulses la tecla, se realizará la acción seleccionada.",
+  "native.bluetooth_pedal.instruction_4": "Pulsa una tecla de tu pedal. La tecla debería aparecer al lado de la acción seleccionada.",
+  "native.bluetooth_pedal.instruction_2": "Elige el modo iOS/Android.",
+  "native.bluetooth_pedal.instruction_3": "Elige una acción de la lista anterior para asignarla a una tecla de tu pedal y pulsa «Configurar».",
+  "native.bluetooth_pedal.instruction_1": "Enciende el pedal y conéctalo a tu dispositivo [n]osName[n].",
+  "native.bluetooth_pedal.instruction_title": "Cómo conectarlo y configurarlo",
+  "native.bluetooth_pedal.pedal_title": "Configuración del pedal",
+  "native.bluetooth_pedal.next_page": "Página siguiente",
+  "native.bluetooth_pedal.prev_page": "Página anterior",
+  "native.bluetooth_pedal.play": "Reproducir/pausar",
+  "native.bluetooth_pedal.autoscroll": "Cambiar desplazamiento automático",
+  "native.bluetooth_pedal.press": "Pulsa una tecla de tu pedal",
+  "native.bluetooth_pedal.set": "Configurar",
+  "native.credits.title": "Usar créditos PRO",
+  "native.credits.second_description": "Paga solo lo que usas, sin compromisos.",
+  "native.credits.balance_title": "Saldo de créditos PRO",
+  "native.anniversary.title_offer": "Oferta exclusiva para ti",
+  "native.anniversary.title": "Valoramos que seas parte de MuseScore y queremos darte algo especial...",
+  "native.anniversary.main_title": [
+    "Llevamos juntos más de [d]",
+    [
+      "d"
+    ],
+    "[/d] días"
+  ],
+  "native.anniversary.hi_title": "¡Hola!",
+  "native.anniversary.dear_title": "Hola",
+  "native.sets.multiple_success_modified": [
+    "Se han modificado ",
+    [
+      "count"
+    ],
+    " listas"
+  ],
+  "native.sets.create_title": "Introduce la información de la lista",
+  "native.sets.edit_title": "Información de la lista",
+  "native.sets.set_title": "Título de la lista",
+  "native.sets.set_description": "Descripción de la lista",
+  "native.sets.placeholder_title": "Escribe el título de la lista",
+  "native.sets.placeholder_description": "Escribe una descripción de la lista (opcional)",
+  "native.sets.private": "Hacer privada esta lista",
+  "native.sets.creating_new_set": "Crear lista nueva",
+  "native.sets.editing_set": "Editar lista",
+  "native.sets.adding_to_set": "Añadir a una lista",
+  "native.sets.save_changes": "Guardar los cambios",
+  "native.sets.add_to": "Añadir a",
+  "native.sets.adding": "Añadiendo",
+  "native.sets.adding_description": "Puedes agrupar partituras por categorías añadiéndolas a diferentes listas.",
+  "native.sets.be_careful": "Cuidado",
+  "native.sets.delete_button": "Eliminar",
+  "native.sets.go_back": "Volver",
+  "native.sets.delete_set": [
+    "¿Seguro que quieres eliminar la lista ",
+    [
+      "setName"
+    ],
+    "?"
+  ],
+  "native.sets.be_careful_warning": "Ten cuidado, esta acción no se puede deshacer",
+  "native.sets.delete_set_button": "Eliminar lista",
+  "native.sets.empty": "aún no tiene listas.",
+  "native.sets.empty_my": "Puedes agrupar partituras por categorías añadiéndolas a diferentes listas.\n \nAún no tienes listas, ¡pero puedes crear una!",
+  "native.sets.empty_set": "Aún no tienes partituras en esta lista, ¡pero puedes añadir algunas!\n\nAbre el menú de opciones de la partitura y toca «Añadir a una lista».",
+  "native.sets.empty_set_my": "Esta lista está vacía por ahora, ¡pero eso puede cambiar pronto!",
+  "native.sets.empty_set_my_title": "Aún no tienes partituras en esta lista, ¡pero puedes añadir algunas!",
+  "native.sets.empty_set_my_description": "Abre el menú de opciones de la partitura y toca «Añadir a una lista»",
+  "native.sets.done": "¡Hecho!",
+  "native.sets.success_add_to_set": [
+    [
+      "scoreName"
+    ],
+    " se ha añadido correctamente a la lista."
+  ],
+  "native.sets.success_remove_from_set": [
+    [
+      "scoreName"
+    ],
+    " se ha eliminado correctamente de la lista."
+  ],
+  "native.vocals": "Voz",
+  "native.string_instruments": "Instrumentos de cuerda",
+  "native.banjo": "Banjo",
+  "native.ukulele": "Ukelele",
+  "native.other_strings": "Otros instrumentos de cuerda",
+  "native.brass_instruments": "Instrumentos de viento metal",
+  "native.other_brass": "Otros instrumentos de viento metal",
+  "native.other_woodwinds": "Otros instrumentos de viento madera",
+  "native.free_reed_instruments": "Instrumentos de lengüeta libre",
+  "native.other_free_reed_instruments": "Otros instrumentos de lengüeta libre",
+  "native.other_instruments": "Otros instrumentos",
+  "native.buyThisScore": "Comprar esta partitura",
+  "native.accessToScore": "Consigue acceso completo y permanente a",
+  "native.oneTimePay": "pago único",
+  "native.didntBuy": "Aún no has comprado ninguna partitura",
+  "native.getPermanentAccess": "Consigue acceso completo y permanente a tus partituras favoritas, con todas las funciones premium incluidas",
+  "native.ordersTitle": "Pedidos",
+  "native.scoresYouBuy": "Partituras compradas.",
+  "native.titleListWhatInstruments": "¿Qué [c]instrumentos[/c] tocas o te gustaría empezar a tocar?",
+  "native.titleListWhatGenres": "¿Qué [c]géneros[/c] de música te interesan?",
+  "native.titleListLevel": "¿Cómo valorarías tu [c]nivel máximo[/c] tocando un instrumento musical?",
+  "native.gotIt": "Entendido, gracias",
+  "native.blinkListToday": "Hoy",
+  "native.blinkListTrialEnd": "Te avisaremos por correo electrónico o con una notificación cuando tu prueba esté a punto de terminar",
+  "native.blinkListhowYourTrialWork": "Cómo funciona tu prueba gratuita",
+  "native.enjoyTrial": "Te quedan 2 días más para disfrutar gratis de tu acceso premium",
+  "native.screen_tour.congrats": "Enhorabuena",
+  "native.screen_tour.membership_text": [
+    "Tienes una suscripción a MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    "."
+  ],
+  "native.screen_tour.get_most_with_learn": "Sácale partido con los cursos de MuseScore LEARN.",
+  "native.screen_tour.student_text_1": "A veces no es fácil para los menores de 18 años pagar de golpe una suma importante por todo un año",
+  "native.screen_tour.student_text_2": "A veces no es fácil para los jóvenes adultos pagar de golpe una suma importante por todo un año",
+  "native.screen_no_landing.subscription_start": [
+    "Empieza con MuseScore ",
+    [
+      "subscriptionType"
+    ]
+  ],
+  "native.screen_tour.trial_modal_period_title": [
+    "Día ",
+    [
+      "dayNumber"
+    ]
+  ],
+  "native.screen_tour.trial_modal_charged_title": [
+    "Se te cobrará el ",
+    [
+      "dateTrialEnd"
+    ],
+    ". Puedes cancelar en cualquier momento antes de esa fecha"
+  ],
+  "native.or": "o",
+  "native.artist": "Artista",
+  "native.myCourses": "Mis cursos",
+  "native.pricing": "Precios",
+  "native.official": "Oficial",
+  "native.original": "Original",
+  "native.add_comment": "Añade un comentario...",
+  "native.send_button": "Enviar",
+  "native.reply_to": [
+    "Respondiendo a ",
+    [
+      "replied"
+    ]
+  ],
+  "native.scoreSaved.rateScoreText.title": "Partitura guardada",
+  "native.scoreLiked.rateScoreText.subtitle": "¿Te gusta esta partitura? Añade una valoración y deja un comentario",
+  "native.scoreLiked.reviewAppText.title": "¡Gracias por tu valoración!",
+  "native.scoreLiked.reviewAppText.subtitle": "Si estás disfrutando de la aplicación, nos encantaría saber de ti",
+  "native.add_comment_placeholder": "Añade un comentario aquí (opcional)",
+  "native.ms4_dummy_title": "No podemos previsualizar este archivo de MuseScore 4 en este momento",
+  "native.ms4_dummy_subtitle": "Lo sentimos: estamos trabajando para añadir compatibilidad con los archivos de MuseScore 4. Mientras tanto, puedes encontrar y ver esta partitura en MuseScore.com con el enlace de abajo.",
+  "native.open_muse_score_website": "Abrir el sitio web de MuseScore",
+  "native.courses.lessons.duration_title": [
+    [
+      "lessonsCount"
+    ],
+    " ",
+    [
+      "lessons"
+    ],
+    " ",
+    [
+      "lessonsDuration"
+    ]
+  ],
+  "native.courses.lessons.completed": [
+    [
+      "completedLessons"
+    ],
+    " de ",
+    [
+      "lessonsCount"
+    ],
+    " ",
+    [
+      "lessons"
+    ]
+  ],
+  "native.screen_tour.choose_subs": "Elige una suscripción",
+  "native.screen_tour.proven": "Avalado por muchos usuarios",
+  "native.screen_tour.five_star": "Reseñas de 5 estrellas",
+  "native.screen_tour.secured": [
+    "Transacción segura con ",
+    [
+      "storeName"
+    ]
+  ],
+  "native.screen_tour.trusted": "Más de 13 millones de músicos de todo el mundo confían en nosotros.",
+  "native.screen_tour.downloads": "Descargas",
+  "native.screen_tour.unlock_benefits": [
+    "Desbloquea todas las ventajas de [color]",
+    [
+      "subscriptionGroup"
+    ],
+    "[/color]"
+  ],
+  "native.screen_tour.benefit_download": "Guarda tus partituras favoritas en cualquier formato. Imprime al instante cualquiera de las más de 1,7 M de composiciones creadas por la comunidad.",
+  "native.screen_tour.benefit_download_title": "Descargar e imprimir",
+  "native.screen_tour.benefit_ad_free_title": "Sin anuncios",
+  "native.screen_tour.benefit_ad_free": "Sumérgete en la música con una reproducción sin interrupciones. Sin anuncios de terceros, sin estrés.",
+  "native.screen_tour.benefit_offscores_title": "Accede a partituras transcritas profesionalmente por las mejores editoriales como Hal Leonard y Faber para tocarlas o verlas en línea.",
+  "native.screen_tour.benefit_playback": "Personaliza la reproducción",
+  "native.screen_tour.benefit_mixer": "Usa el mezclador para silenciar instrumentos o dejarlos en solo. También puedes ajustar el volumen y el panorama.",
+  "native.search.placeholder_books": "Buscar cancioneros",
+  "native.search.placeholder_library": "Buscar",
+  "native.success_remove_from_set": [
+    [
+      "scoreName"
+    ],
+    " se ha eliminado correctamente de la lista."
+  ],
+  "native.sets.success_create": [
+    [
+      "setName"
+    ],
+    " se ha creado correctamente"
+  ],
+  "native.score_staff_measure_sheet_title": "Tamaño del pentagrama y de los compases",
+  "native.score_staff_measure_sheet_description": "El tamaño elegido se guardará automáticamente.",
+  "native.base_reduce": "Reducir",
+  "native.base_enlarge": "Agrandar",
+  "native.base_set_default_size": "Establecer tamaño predeterminado",
+  "native.offline_indicator.title": "No hay conexión a internet",
+  "native.screen_hub.followers": "Seguidores",
+  "native.success": "¡Hecho!",
+  "native.bottom_bar.books_tab": "Cancioneros",
+  "native.ebooks.my_books": "Cancioneros",
+  "native.ebooks.my_bought_books": "Cancioneros comprados",
+  "native.courses.my_courses": "Mis cursos",
+  "native.courses.my_courses_bought": "Cursos que has comprado",
+  "native.ebooks.learn_more": "Más información",
+  "native.screen_tour.immerse": "Sumérgete en [c]más de 2 M de partituras[/c]",
+  "native.screen_tour.join": "Únete a la comunidad de partituras más grande del mundo",
+  "native.screen_tour.generate_password": "Se generará automáticamente una contraseña segura y te la enviaremos por correo",
+  "native.screen_tour.enter_email": "Introduce tu correo electrónico",
+  "native.screen_tour.create_account": "Crear una cuenta nueva",
+  "native.scores.includes_pdf_title": "Incluye descarga en PDF",
+  "native.score.valid_access": [
+    "Validez: ",
+    [
+      "month"
+    ],
+    " meses."
+  ],
+  "native.ebooks.get_songbook": "Conseguir cancionero",
+  "native.ebooks.sample": "Muestra",
+  "native.ebooks.includes": "Incluye",
+  "native.ebooks.you_may_also_like": "También te puede gustar",
+  "native.ebooks.reviews": "Reseñas",
+  "native.ebooks.info.released": "Publicado",
+  "native.ebooks.info.length": "Duración",
+  "native.ebooks.info.publisher": "Editorial",
+  "native.ebooks.info.composers": "Compositores",
+  "native.ebooks.read": "Leer",
+  "native.ebooks.pages": "páginas",
+  "native.ebooks.topics": "Temas",
+  "native.ebooks.isbn": "ISBN",
+  "native.ebooks.rating": [
+    "de ",
+    [
+      "number"
+    ]
+  ],
+  "native.ebooks.rate_book": "Valorar cancionero",
+  "native.ebooks.rate_book_title": "Valorar cancionero",
+  "native.ebooks.rate_book_description": "Toca para valorar. Así ayudarás a otros usuarios\na conocer la calidad del cancionero.",
+  "native.ebooks.rate_success": "Gracias por dejar tu valoración.\nPuedes dejar también una reseña si quieres.",
+  "native.ebooks.verified_title": "Solo reseñas verificadas",
+  "native.ebooks.verified_sub_title": "Compra y lee primero el cancionero para dejar una reseña fiable.",
+  "native.ebooks.favorites_button_title": "Cancioneros",
+  "native.ebooks.favorites_button_subtitle": "Cancioneros que has añadido a favoritos",
+  "native.ebooks.favorites_title": "Cancioneros",
+  "native.ebooks.favorites_empty_title": "Aún no has añadido ningún cancionero",
+  "native.library.filter_show_button": [
+    "Mostrar ",
+    [
+      "count"
+    ],
+    " cancioneros"
+  ],
+  "native.ebook.filter_instrument": "Instrumento",
+  "native.ebook.filter_genre": "Género",
+  "native.ebook.filter_artist_composer": "Artista/compositor",
+  "native.ebook.filter_quick": "Filtros rápidos",
+  "native.ebook.filter_sort": "Ordenar por",
+  "native.ebook.filter_empty_title": "No se han encontrado resultados",
+  "native.screen_new_account.password_strength_weak": "Débil",
+  "native.screen_new_account.password_strength_strong": "Fuerte",
+  "native.ebook.filter_show_more": "Mostrar más",
+  "native.ebook.filter_show_less": "Mostrar menos",
+  "native.ebook.filter_clear": "Quitar filtros",
+  "native.ebooks.orders_empty_subtitle": "Cuando compres un cancionero, aparecerá aquí.",
+  "native.screen_tour.login_muse_title": "Iniciar sesión en MuseScore",
+  "native.hub_new.title": "Novedades",
+  "native.hub_piano.title": "Piano",
+  "native.hub_film, tv & video games.title": "Cine, series y videojuegos",
+  "native.hub_strings.title": "Cuerdas",
+  "native.hub_woodwinds.title": "Viento madera",
+  "native.hub_saxophone.title": "Saxofón",
+  "native.hub_trumpet.title": "Trompeta",
+  "native.hub_guitar.title": "Guitarra",
+  "native.hub_voice.title": "Voz",
+  "native.hub_keyboard.title": "Teclado",
+  "native.hub_percussion.title": "Percusión",
+  "native.hub_disney.title": "Disney",
+  "native.hub_marching percussion.title": "Percusión de marcha",
+  "native.hub_brass.title": "Viento metal",
+  "native.hub_electronics.title": "Electrónica",
+  "native.hub_folk.title": "Folk",
+  "native.hub_museclass.title": "MuseClass",
+  "native.date.minutes_ago": [
+    "hace ",
+    [
+      "minutes"
+    ],
+    " minutos"
+  ],
+  "native.date.just_now": "ahora mismo",
+  "native.date.hours_ago": [
+    "hace ",
+    [
+      "hours"
+    ],
+    " horas"
+  ],
+  "native.date.days_ago": [
+    "hace ",
+    [
+      "days"
+    ],
+    " días"
+  ],
+  "native.shared.delete": "Borrar",
+  "native.shared.cancel": "Cancelar",
+  "native.review.tap_to_rate": "Toca para valorar",
+  "native.review.thanks_for_rating": "¡Gracias por tu valoración!",
+  "native.screen_tour.confirm": "Confirmar",
+  "native.sorting_type.relevance": "Relevancia",
+  "native.sorting_type.comment count": "Comentarios",
+  "native.sorting_type.view count": "Visitas",
+  "native.sorting_type.rating": "Valoración",
+  "native.sorting_type.score_type": "Tipo de partitura",
+  "native.sorting_type.upload date": "Fecha de publicación",
+  "native.sorting_type.difficulty_level": "Nivel de dificultad",
+  "native.restore.title": "Restauración iniciada",
+  "native.preferences.title": "Se han actualizado tus preferencias",
+  "native.profile.question_answers_title": "Preguntas y respuestas",
+  "native.courses.title.continue studying": "Continuar estudiando",
+  "native.courses.title.editor's picks": "Selección de los editores",
+  "native.courses.title.top music courses": "Mejores cursos de música",
+  "native.courses.title.latest music courses": "Últimos cursos de música",
+  "native.courses.title.piano courses": "Cursos de piano",
+  "native.courses.title.violin courses": "Cursos de violín",
+  "native.courses.title.music theory courses": "Cursos de teoría de la música",
+  "native.courses.title.wind instruments courses": "Cursos de instrumentos de viento",
+  "native.courses.title.guitar courses": "Cursos de guitarra",
+  "native.courses.title.music production courses": "Cursos de producción musical",
+  "native.courses.title.music software courses": "Cursos de software de música",
+  "native.courses.orders_empty_title": "Aún no has comprado ningún curso",
+  "native.courses.orders_empty_subtitle": "Tus cursos aparecerán aquí una vez que realices una compra.",
+  "native.score.layout_title": "MODO DE VISUALIZACIÓN",
+  "native.score.layout_landscape": "Vista horizontal",
+  "native.score.standard_title": "Estándar",
+  "native.score.hq_title": "Configuración de MuseScore HQ+",
+  "native.score.title_file": "Archivo",
+  "native.score.download_size_title": [
+    "Requiere una descarga adicional de ",
+    [
+      "size"
+    ]
+  ],
+  "native.score.downloaded_title": "El archivo está guardado en tu dispositivo",
+  "native.score.transposition_title": "Transposición",
+  "native.score.default_title": "Predeterminado",
+  "native.score.views": "Visitas",
+  "native.score.volume_title": "Volumen",
+  "native.score.keyboard_title": "Mostrar teclado",
+  "native.sorting_type.default_title": "Predeterminado",
+  "native.review.empty_list_title": "Aún no hay reseñas",
+  "native.review.empty_list_message": "Sé el primero en compartir tu opinión y ayuda a otros\na descubrir grandes cancioneros",
+  "native.my_profile.pricing_sub_title": "Elige el plan que más te convenga",
+  "native.my_profile.pricing_title": "Precios",
+  "native.marketing.subscription.for_the_year": "para el primer año",
+  "native.marketing.subscription.week": "semana",
+  "native.marketing.subscription.52weeks": "52 semanas",
+  "native.marketing.feature.quick_load": "Carga rápida",
+  "native.marketing.feature.quick_load_sub_title": "Experiencia de carga rápida en escritorio y móvil",
+  "native.marketing.feature.seamless": "Lectura sin interrupciones",
+  "native.marketing.feature.seamless_sub_title": "Reanudación automática en todos los dispositivos",
+  "native.marketing.feature.quick_search": "Búsqueda rápida",
+  "native.marketing.feature.mobile_design": "Diseño móvil",
+  "native.marketing.feature.mobile_design_sub_title": "Diseño adaptable para que todo se vea genial también en el móvil",
+  "native.marketing.feature.growing_library_sub_title": "Se añaden libros nuevos con regularidad",
+  "native.marketing.feature.growing_library": "Biblioteca en crecimiento",
+  "native.marketing.feature.editor_picks": "Cursos de la Selección de los editores",
+  "native.marketing.feature.editor_picks_enjoy": "Disfruta de 1 curso de la Selección de los editores al mes",
+  "native.score.blocked.in.country": "Partitura bloqueada",
+  "native.marketing_text.restore_purchase_message_has_rights": "No es necesario restaurar la suscripción.",
+  "native.force.logout.title": "Tu sesión ha expirado",
+  "native.force.logout.message": "Vuelve a iniciar sesión en tu cuenta",
+  "native.score.error_forbidden": "Error al abrir la partitura: acceso prohibido",
+  "native.marketing.already_have_pro": "Ya tienes una oferta PRO",
+  "native.ebooks.get_access_songbook": "Consigue acceso al cancionero",
+  "native.marketing.downlodable_materials": "Materiales descargables de las lecciones",
+  "native.marketing.online_access": [
+    "Acceso en línea a MuseScore ",
+    [
+      "type"
+    ]
+  ],
+  "native.marketing.7_day_title": "(prueba de 7 días)",
+  "native.marketing.right_choice_title": "Has tomado la decisión correcta. MuseScore está hecho para músicos como tú.",
+  "native.marketing.welcome_subscription_title": [
+    "Te damos la bienvenida a tu suscripción MuseScore ",
+    [
+      "type"
+    ]
+  ],
+  "native.marketing.skip_for_now": "Omitir por ahora",
+  "native.hub_advent.title": "Adviento",
+  "native.autograde.title": "Modo de práctica",
+  "native.autograde.feature_subtitle": "Obtén una evaluación instantánea de tu precisión y ritmo (solo con PRO+)",
+  "native.screen_sft.carousel.course_title": "Cursos de la Selección de los editores",
+  "native.screen_sft.carousel.course_sub_title": "Disfruta de 1 curso de la Selección de los editores al mes",
+  "native.marketing_text.restore_purchase_message_has_rights_sub_title": "ya tienes acceso a todo.",
+  "native.score.enable_metronome": "Activar metrónomo",
+  "native.score.count_off": "Cuenta previa",
+  "native.marketing.start_7_day_trial": "Iniciar prueba gratuita de 7 días",
+  "native.marketing.get_more_with_musescore": [
+    "Consigue más con MuseScore [color]",
+    [
+      "title"
+    ],
+    "[/color]"
+  ],
+  "native.marketing.tap_unlock": "Toca para desbloquear tu prueba gratuita de 7 días",
+  "native.marketing.tap_unlock_discount": [
+    "Toca para desbloquear tu descuento del ",
+    [
+      "discount"
+    ]
+  ],
+  "native.marketing.tour.feature_learn_1": "Educación musical de primer nivel",
+  "native.marketing.tour.feature_learn_2": "Materiales complementarios",
+  "native.marketing.tour.feature_learn_3": "Educación profesional",
+  "native.marketing.tour.feature_sub_title_learn_3": "Aprende a tocar el piano, la batería, la guitarra y muchos otros instrumentos a tu propio ritmo",
+  "native.marketing.tour.feature_sub_title_learn_2": "Materiales descargables para las lecciones",
+  "native.marketing.tour.feature_sub_title_learn_1": [
+    "Acceso ilimitado a ",
+    [
+      "count"
+    ],
+    " lecciones preparadas para ti por profesores expertos"
+  ],
+  "native.user.empty_scores": "Este usuario no ha subido ninguna partitura.",
+  "native.score_details_sheet.unsave_button": "Quitar de guardados",
+  "native.score_details_sheet.sound": "Sonido",
+  "native.score_details_sheet.sound.description": "Muestras de audio de 16 bits con soporte de modulación",
+  "native.score_details_sheet.download_title": "Descargar",
+  "native.score_details_sheet.download_description": "El archivo se descargará en tu dispositivo\nen el formato seleccionado.",
+  "native.load_score.title": "Un momento, tu partitura se está cargando...",
+  "native.marketing.feature.access_offscores": "Acceso a partituras oficiales",
+  "native.marketing.subscription.52weeksAt": "52 semanas a",
+  "native.marketing.free_trial": "Prueba gratuita",
+  "native.filter_type.free to view & play": "Gratis para ver y tocar",
+  "native.filter_type.free to view, play & download": "Gratis para ver, tocar y descargar",
+  "native.marketing.add_musescore_title": [
+    "Puedes añadir MuseScore ",
+    [
+      "type"
+    ],
+    " a tu suscripción. Confírmalo pulsando el botón «Confirmar»"
+  ],
+  "native.filter.duration": "Duración",
+  "native.marketing.monthsAt": [
+    [
+      "count"
+    ],
+    " meses a"
+  ],
+  "native.marketing.slashMonths": [
+    "/",
+    [
+      "count"
+    ],
+    " meses"
+  ],
+  "native.screen_explore.best_of_musescore": "Lo mejor de MuseScore",
+  "native.screen_explore.songbooks_for_you": "Cancioneros para ti",
+  "native.profile.settings": "Configuración",
+  "native.score.settings.practice_mode": "Modo de práctica",
+  "native.score.settings.settings": "Configuración",
+  "native.practice_mode.onboarding.first_step.subtitle": "Analiza y mejora tu interpretación con evaluaciones instantáneas gracias a la IA.",
+  "native.practice_mode.onboarding.third_step.subtitle": "Mejora tu precisión y tus habilidades musicales con evaluaciones precisas.",
+  "native.practice_mode.onboarding.fourth_step.subtitle": "Domina la canción que siempre quisiste tocar. Nada puede detenerte ahora.",
+  "native.artist.segment.compositions": "Composiciones",
+  "native.song_book.section.title.recently_viewed": "Vistos recientemente",
+  "native.song_book.section.title.staff_picks": "Selección del equipo",
+  "native.song_book.section.title.piano_favourites": "Favoritos para piano",
+  "native.song_book.section.title.most_popular": "Más populares",
+  "native.song_book.section.title.bestsellers": "Más vendidos",
+  "native.screen_explore.explore_sheet_music": "Explorar partituras",
+  "native.filter_screen.format": "Formato",
+  "native.filter_screen.popular": "Populares",
+  "native.hub_advent.gifts": "Regalos",
+  "native.autoscroll.alert.title": "Desplazamiento automático",
+  "native.score_onboarding.got_it_button": "Entendido",
+  "native.score.chip_mixer": "Mezclador",
+  "native.score.chip_metronome": "Metrónomo",
+  "native.score.chip_loop": "Bucle",
+  "native.score.layout_title_horizontal": "Páginas",
+  "native.score.comment": "Comentario",
+  "native.score.display_keyboard": "Teclado",
+  "native.score.chip_transpose": "Transportar",
+  "native.score.transpose_up": "Arriba",
+  "native.marketing.questions.genre.title": "¿Qué géneros musicales te interesan?",
+  "native.marketing.questions.genre.vocal_jazz": "Jazz vocal",
+  "native.marketing.questions.genre.world_music": "Música del mundo",
+  "native.marketing.questions.level.list.title": "¿Cómo valorarías tu nivel máximo tocando un instrumento musical?",
+  "native.marketing.questions.age.list.title": "Selecciona tu edad",
+  "native.marketing.questions.age.list.sub_title": "Esto nos ayudará a sugerir contenido más relevante para ti",
+  "native.marketing.questions.age.list.18": "Menos de 18 años",
+  "native.marketing.questions.age.list.55": "55 años o más",
+  "native.marketing.questions.goal.title": "¿Cuál es tu principal objetivo musical en este momento?",
+  "native.marketing.questions.goal.master": "Dominar una pieza específica",
+  "native.marketing.questions.goal.prepare": "Prepararme para actuaciones, recitales o conciertos",
+  "native.marketing.questions.goal.learn": "Aprender a tocar por diversión",
+  "native.marketing.questions.goal.find": "Encontrar contenido de calidad",
+  "native.marketing.questions.goal.title2": "Buena elección. ¿Cuál va a ser tu primer paso en MuseScore para alcanzar tu objetivo?",
+  "native.marketing.questions.goal.discover": "Descubrir nuevas partituras",
+  "native.marketing.questions.goal.specific": "Encontrar una grabación concreta que quiero tocar",
+  "native.marketing.questions.goal.music": "Encontrar música adaptada a mi nivel",
+  "native.marketing.questions.agree.yes": "Sí",
+  "native.marketing.questions.agree.no": "No",
+  "native.marketing.advanced_tools": "Herramientas avanzadas para mejorar tus habilidades de interpretación",
+  "native.marketing.get_score": [
+    "Consigue tu partitura (te quedan ",
+    [
+      "credits"
+    ],
+    " créditos)"
+  ],
+  "native.score_details_sheet.saved_button": "Guardado",
+  "native.screens_titles.songbook_screen": "Disponible sin conexión",
+  "native.comment.empty_title": "Aún no hay comentarios",
+  "native.library.favorites_title": "Guardados",
+  "native.screens_titles.favorite_courses_screen": "Cursos guardados",
+  "native.screens_titles.favorites_screen": "Partituras guardadas",
+  "native.make_public.make_public_button": "Hacer pública",
+  "native.make_public.score_title_label": "Título de la partitura",
+  "native.make_public.genre_label": "Género",
+  "native.make_public.description_label": "Descripción",
+  "native.make_public.description_placeholder": "Fecha de lanzamiento, historia de la creación, álbum, estado de ánimo",
+  "native.make_public.show_parts": "Mostrar partes (si las hay)",
+  "native.make_public.update_button": "Actualizar",
+  "native.make_public.access_anyone": "Cualquiera puede ver",
+  "native.make_public.access_link": "Cualquiera con el enlace puede ver",
+  "native.make_public.access_private": "Privado",
+  "native.make_public.copyright_all_rights": "Ninguna (todos los derechos reservados)",
+  "native.make_public.copyright_cc_by": "Atribución",
+  "native.make_public.copyright_cc_by_nd": "Atribución, sin obras derivadas",
+  "native.make_public.copyright_cc_by_sa": "Atribución, compartir igual",
+  "native.make_public.copyright_cc_by_nc": "Atribución, no comercial",
+  "native.make_public.copyright_cc_by_nc_nd": "Atribución, no comercial, sin obras derivadas",
+  "native.make_public.copyright_cc_by_nc_sa": "Atribución, no comercial, compartir igual",
+  "native.next.payment": "Próximo pago",
+  "native.shared_continue": "Continuar",
+  "native.privacy.public_badge": "Pública",
+  "native.privacy.private_badge": "Privada",
+  "native.screen_omr.start_free_trial": "Empieza tu prueba gratuita",
+  "native.marketing.weekly_access": "Acceso semanal",
+  "native.viewAllPlans": "Ver todos los planes",
+  "native.theHomeOfSheetMusic": "El hogar de las partituras",
+  "native.viewAllReplies": [
+    "Ver todas las ",
+    [
+      "count"
+    ],
+    " respuestas"
+  ],
+  "native.getFreeSongBook": "Consigue tu cancionero gratis",
+  "native.reportIssueButton": "Informar de este problema",
+  "native.scoreIsLoading": "La partitura se está cargando, puede tardar un poco...",
+  "native.marketing.get_free_score": "Consigue tu partitura",
+  "native.marketing.export_pdf_midi_mp3_title": "Exportar a PDF, MIDI y MP3",
+  "native.marketing.editors_picks_title": "1 curso de la Selección de los editores",
+  "native.marketing.access_songbook_title": "Acceso a cancioneros y métodos de Hal Leonard",
+  "native.marketing.learning_title": "Materiales de aprendizaje",
+  "native.marketing.number_courses_title": [
+    [
+      "courses"
+    ],
+    "+ cursos"
+  ],
+  "native.marketing.export_community_scores_title": "Exportar partituras de la comunidad",
+  "native.marketing.tools_title": "Herramientas",
+  "native.marketing.unlimited_access_courses_title": "Acceso ilimitado a cursos",
+  "native.screen_explore.new_for_you": "Nuevo para ti",
+  "native.screen_explore.trending_now": "Tendencias",
+  "native.screen_explore.recommended_courses": "Cursos recomendados",
+  "native.screen_explore.new_playlists": "Nuevas playlists",
+  "native.profile.subscriptions": "Suscripciones",
+  "native.subscriptions.manage": "Gestionar",
+  "native.score.settings.zoom": "Zoom",
+  "native.practice_mode.onboarding.first_step.title": "Descubre el poder del modo de práctica",
+  "native.practice_mode.onboarding.second_step.title": "Mejora solo tocando",
+  "native.practice_mode.onboarding.second_step.subtitle": "Toca una canción y compararemos tu interpretación con la partitura.",
+  "native.practice_mode.onboarding.third_step.title": "Mira cómo se disparan tus habilidades",
+  "native.practice_mode.onboarding.fourth_step.title": "Acepta el desafío",
+  "native.practice_mode.onboarding.fifth_step.title": "Practica los fragmentos que quieras mejorar",
+  "native.practice_mode.onboarding.fifth_step.subtitle": "Elige y recorta el fragmento de la composición que quieras practicar.",
+  "native.practice_mode.onboarding.sixth_step.title": "Acceso al micrófono",
+  "native.practice_mode.onboarding.sixth_step.subtitle": "Necesitamos oír tu instrumento para darte una evaluación inteligente de tu grabación.",
+  "native.practice_mode.onboarding.sixth_step.button": "Me parece bien",
+  "native.practice_mode.onboarding.seventh_step.title": "Afina tu instrumento musical",
+  "native.practice_mode.onboarding.seventh_step.subtitle": "Un instrumento musical bien afinado proporcionará un resultado preciso.",
+  "native.practice_mode.onboarding.eighth_step.title": "Usa tus auriculares durante la práctica",
+  "native.practice_mode.onboarding.eighth_step.subtitle": "La ausencia de ruidos externos ayudará a que la grabación sea más limpia.",
+  "native.practice_mode.onboarding.ninth_step.title": "Practica los fragmentos que quieras mejorar",
+  "native.practice_mode.onboarding.ninth_step.subtitle": "Elige y recorta el fragmento de la composición que quieras practicar.",
+  "native.artist.segment.sheet_music": "Partituras",
+  "native.pedal.feedback.placeholder": "Tus comentarios",
+  "native.pedal.feedback.thanks": "¡Gracias por tus comentarios!",
+  "native.shared.rating": [
+    [
+      "rating"
+    ],
+    " valoración"
+  ],
+  "native.shared.ratings": [
+    [
+      "rating"
+    ],
+    " valoraciones"
+  ],
+  "native.filter_screen.select_all": "Seleccionar todo",
+  "native.marketing.buy_this_score": [
+    "Comprar esta partitura por ",
+    [
+      "price"
+    ]
+  ],
+  "native.marketing.download_pdf": "Descarga en PDF o imprime [sb]esta partitura[/sb]",
+  "native.marketing.full_view_score_title": "Consigue acceso completo a [sb]esta partitura[/sb]",
+  "native.autoscroll.alert.description": "Ahora puedes activar el «Desplazamiento automático» para que las notas estén siempre visibles mientras tocas",
+  "native.marketing.doubt_title": "¿Todavía tienes dudas?",
+  "native.marketing.doubt_offer": "¡Oferta especial solo para nuevos usuarios!",
+  "native.marketing.terms_title": "Empieza con un plazo más corto",
+  "native.marketing.last_chance_title": [
+    "Última oportunidad para empezar ",
+    [
+      "offerName"
+    ]
+  ],
+  "native.marketing.membership_title": "tu suscripción",
+  "native.marketing.with_trial_title": "con una prueba gratuita",
+  "native.filter_item_name.license.modify_commercially": "Modificar con fines comerciales",
+  "native.filter_item_name.license.use_commercially": "Usar con fines comerciales",
+  "native.filter_item_name.license.share": "Compartir",
+  "native.filter_item_name.license.personal_use": "Solo para uso personal",
+  "native.score_onboarding.tap_fullscreen": "Toca para ver en pantalla completa",
+  "native.score_onboarding.tap_fullscreen_desc": "Toca una vez en el centro de la partitura para leer en pantalla completa.",
+  "native.score_onboarding.next_button": "Siguiente",
+  "native.score_onboarding.change_notation_size": "Cambiar el tamaño de la notación",
+  "native.score_onboarding.change_notation_size_desc": "Toca el icono de zoom para cambiar el tamaño de la notación.",
+  "native.score_onboarding.toggle_cursor": "Mostrar/ocultar cursor",
+  "native.score_onboarding.toggle_cursor_desc": "Muestra u oculta el cursor de reproducción.",
+  "native.score_onboarding.long_press_to_move": "Mantén pulsado para mover",
+  "native.score_onboarding.long_press_to_move_desc": "Mantén pulsado cualquier punto de la partitura para mover el cursor.",
+  "native.user.access.pro.toast": "Puedes descargar más de 2 millones de partituras de la comunidad.",
+  "native.user.access.proPlus.toast": "Puedes tocar más de 1 M de partituras oficiales y descargar más de 2 M de partituras de la comunidad.",
+  "native.user.access.learn.toast": "Tienes acceso ilimitado a cursos y lecciones.",
+  "native.user.access.learnLite.toast": "Puedes disfrutar de 1 curso al mes.",
+  "native.user.access.books.toast": "Tienes acceso a los cancioneros y métodos de Hal Leonard.",
+  "native.library.songbook_order_title": "Pedidos guardados",
+  "native.score.chip_ai_tutor": "Tutor de IA",
+  "native.score.chip_zoom": "Zoom",
+  "native.score.chip_transp": "Transp.",
+  "native.score.transp_title": "Transposición seleccionada",
+  "native.score.save_for_offline": "Guardar sin conexión",
+  "native.score.about_this_score": "Acerca de esta partitura",
+  "native.score.layout_title_vertical": "Desplazamiento vertical",
+  "native.score.single_line": "Línea única",
+  "native.score.hq_settings_description": "Esta tecnología te permite disfrutar de una mejor calidad de sonido (159 MB).",
+  "native.score.display_cursor": "Cursor",
+  "native.marketing.download_this_score": "Descargar esta partitura",
+  "native.action.try": "Probar",
+  "native.score.transpose_down": "Abajo",
+  "native.apple_watch_control.title": "Control de Apple Watch",
+  "native.apple_watch_control.feature_subtitle": "Controla la reproducción y accede a tu metrónomo, todo desde tu Apple Watch",
+  "native.marketing.gift_title": "Descubre tus regalos",
+  "native.marketing.gift_disable_subscription": "Una suscripción activa está llena de sorpresas de bienvenida, incluido el acceso a PRO, PRO+, LEARN y ONE.",
+  "native.marketing.gift_active_subscription": "Necesitas una suscripción activa (cualquier suscripción de MuseScore) para recibir tus regalos. Esto incluye las suscripciones PRO, PRO+, LEARN y ONE.",
+  "native.marketing.gift_tomorrow_title": "Vuelve mañana y descubre una nueva oferta de MuseScore",
+  "native.marketing.gift_daily_title": "Tu regalo diario",
+  "native.marketing.gift_check_daily_title": "Vuelve cada día para conseguir todos tus regalos",
+  "native.screen_tour.happy": "Con más del 93% de usuarios satisfechos.",
+  "native.marketing.get_premium_discount": [
+    "Consigue [b]un ",
+    [
+      "discount"
+    ],
+    "% de descuento[/b] con la suscripción Premium"
+  ],
+  "native.marketing.get_premium_discount_switch": "[b]Sin descuento.[/b] Activa el interruptor para aplicar tu descuento del 40%.",
+  "native.marketing.for_this_score": "para esta partitura",
+  "native.marketing.download_premium_score": [
+    "Descarga gratis esta partitura o cualquier otra del mayor catálogo en línea, transcrito por una comunidad de usuarios de confianza (",
+    [
+      "scores"
+    ],
+    " M de partituras)"
+  ],
+  "native.marketing.no_commitments": "Sin compromisos",
+  "native.marketing.secured_payment": "Datos personales y de pago protegidos",
+  "native.marketing.up_to_discount_scores": [
+    "Hasta un ",
+    [
+      "discount"
+    ],
+    " % de descuento en esta y otras partituras"
+  ],
+  "native.marketing.continue_download": "Continuar con la descarga",
+  "native.trending_searches": "Búsquedas populares",
+  "native.trending_scores": "Partituras populares",
+  "native.marketing.questions.agree.title": "¿Estás de acuerdo con la afirmación?",
+  "native.marketing.questions.agree.stay": "Mantener la motivación para practicar puede ser complicado a veces",
+  "native.marketing.questions.agree.stay_in_rhythm": "Mantén el ritmo",
+  "native.marketing.questions.agree.can_remind": "MuseScore puede recordarte cuándo es hora de practicar",
+  "native.marketing.questions.social_proof.title": "MuseScore está hecho para músicos",
+  "native.marketing.questions.social_proof.content": [
+    "Hay más de [b]13 M[/b] de músicos como tú, incluidos aquellos que ",
+    [
+      "id100"
+    ],
+    ". MuseScore ofrece [b]1,6 M[/b] de partituras",
+    [
+      "id103"
+    ]
+  ],
+  "native.marketing.questions.agree.play_hard": "Tocar un instrumento musical puede ser todo un reto",
+  "native.marketing.questions.agree.takes_time": "Se necesita tiempo para practicar la interpretación de cualquier composición",
+  "native.marketing.questions.agree.you_come": "Has llegado al lugar indicado",
+  "native.marketing.questions.agree.we_know": "Lo sabemos; por eso ofrecemos herramientas como el modo de práctica, el bucle y el control del tempo.",
+  "native.marketing.questions.agree.support": "MuseScore apoya tu práctica",
+  "native.marketing.questions.agree.easier": "A menudo es más fácil crecer cuando la música se adapta a tu nivel",
+  "native.marketing.questions.agree.offers": "MuseScore ofrece una variedad de versiones para diferentes instrumentos y niveles",
+  "native.marketing.questions.agree.reminds": "MuseScore te recuerda que practiques",
+  "native.marketing.questions.social.trust": "confían y cuentan con MuseScore al prepararse para una actuación",
+  "native.marketing.questions.social.spanning": " que abarcan 20 géneros distintos",
+  "native.marketing.questions.social.including": ", incluido contenido de alta calidad con licencia directa de las editoriales",
+  "native.marketing.questions.social.variety": " que incluyen una amplia variedad de arreglos",
+  "native.marketing.questions.social.suitable": " adecuadas para tu nivel, desde principiante absoluto hasta maestro",
+  "native.marketing.questions.social.more": " para más de 170 instrumentos musicales",
+  "native.marketing.questions.social.trust_rely": "confían y cuentan con MuseScore para dominar la música que aman",
+  "native.marketing.questions.social.different": "enseñan con pasión a estudiantes de diferentes niveles",
+  "native.marketing.questions.social.share": "comparten tu pasión por la música",
+  "native.typo_search.title": [
+    "Mostrando resultados\npara ",
+    [
+      "result"
+    ]
+  ],
+  "native.typo_search.description": [
+    "¿Quieres buscar ",
+    [
+      "result"
+    ],
+    "?"
+  ],
+  "native.search.no.results_for_query": [
+    "No se han encontrado resultados para ",
+    [
+      "query"
+    ]
+  ],
+  "native.accessibility_statement": "Declaración de accesibilidad",
+  "native.ebooks.added_to_favorite": "Añadido a los cancioneros guardados. 🎉\nPuedes encontrar este cancionero en la biblioteca.",
+  "native.ebooks.favorites_empty_subtitle": "Cuando guardes un cancionero,\naparecerá aquí",
+  "native.ebooks.removed_from_favorite": "Eliminado de los cancioneros guardados.",
+  "native.favorite_songbooks.empty_description": "Explora la biblioteca de cancioneros y toca el corazón para guardarlos aquí.",
+  "native.favorite_songbooks.empty_title": "Crea tu colección de cancioneros",
+  "native.followers.empty_description": "Comparte tu música y observa cómo crece tu número de seguidores.",
+  "native.followers.empty_title": "Tu público aún no te ha encontrado",
+  "native.following.empty_description": "Explora la comunidad y sigue a los creadores que te llamen la atención.",
+  "native.following.empty_title": "Aún no sigues a nadie",
+  "native.leave_a_review": "Dejar una reseña",
+  "native.marketing.combines_title": [
+    "Tu suscripción combina perfectamente con MuseScore ",
+    [
+      "type"
+    ]
+  ],
+  "native.marketing.enjoy_discount": [
+    "Disfruta de tu [sb]",
+    [
+      "discount"
+    ],
+    "% de descuento[/sb] con la suscripción ",
+    [
+      "planName"
+    ]
+  ],
+  "native.marketing.offscores_licensed": "Ver partituras oficiales con licencia de editoriales musicales",
+  "native.marketing.use_credit": [
+    "Usar ",
+    [
+      "numberCredits"
+    ],
+    " crédito de MuseScore"
+  ],
+  "native.new_search.sources.favorites": "En guardados",
+  "native.offline_scores.empty_description": "Es un espacio de almacenamiento de partituras en tu dispositivo. Aunque te quedes sin internet, las partituras seguirán contigo. Puedes guardar cualquier partitura desde la búsqueda.",
+  "native.score.display_settings": "Configuración de visualización",
+  "native.score_details_sheet.favorite_button": "Guardar",
+  "native.scoreLiked.rateScoreText.title": "Añadida a partituras guardadas",
+  "native.set.empty_button": "Añadir partituras",
+  "native.set.empty_description": "Abre cualquier partitura, toca «Añadir a una lista» o pulsa el botón de abajo para empezar.",
+  "native.set.empty_title": "Es hora de hacer tuya esta lista",
+  "native.sets.empty_button": "Crear una lista",
+  "native.sets.empty_description": "Toca el icono «+» o pulsa el botón de abajo para empezar.",
+  "native.activity.notifications.your_score_favorited": "Alguien ha guardado tu partitura",
+  "native.alertNotifications.favorites.remove_exp": "Eliminada de partituras guardadas",
+  "native.comment.empty_description": "Sé el primero en opinar.",
+  "native.empty_orders.description": "Cada partitura que compres aparecerá aquí, lista para descargar, imprimir y guardar en PDF.",
+  "native.empty_orders.title": "Empieza tu colección de partituras compradas",
+  "native.favorite_courses.empty_description": "¿Has encontrado una lección que te encanta? Toca el corazón y guárdala aquí.",
+  "native.favorite_courses.empty_title": "Crea tu biblioteca de cursos",
+  "native.feed.items.22": "ha guardado tu partitura",
+  "native.feed.items.26": "ha comentado tu partitura guardada",
+  "native.filter.results": "Resultados",
+  "native.identify_sheet_description": "y encontraremos la partitura",
+  "native.identify_sheet_title": "Toca para identificar una canción",
+  "native.identify_song_button_title": "Identificar canción",
+  "native.identify_song_notification_title": "¡Gracias! Compartiremos tus respuestas con el equipo para priorizar las funciones.",
+  "native.identify_song_sheet_no": "No, gracias",
+  "native.identify_song_sheet_subtitle": "Pronto podrás reproducir una canción cerca y MuseScore la escuchará, la identificará y luego encontrará la partitura. ¿Quieres que te avisemos cuando esté lista?",
+  "native.identify_song_sheet_title": "El reconocimiento de música\nllegará pronto",
+  "native.library.empty_favorites_title": "Aún no hay partituras guardadas",
+  "native.library.favorites.desc": "Aquí encontrarás todo lo que guardes. Toca el corazón en las partituras que te encanten y se guardarán aquí.",
+  "native.library.favorites.desc_offline": "Conéctate a Internet para encontrar y guardar partituras",
+  "native.library.favorites.search_btn_title": "Encontrar partituras",
+  "native.library.my_local_saved_scores": "Mis partituras guardadas localmente",
+  "native.library.my_purchased_courses_title": "Mis cursos comprados",
+  "native.library.my_purchased_scores_title": "Mis partituras compradas",
+  "native.library.my_purchased_songbooks_title": "Mis cancioneros comprados",
+  "native.library.my_uploaded_scores_title": "Mis partituras subidas",
+  "native.library.recent_favorites": "Guardadas recientemente",
+  "native.library.songbook.title": "Partituras sin conexión",
+  "native.notifications.empty_description": "Aquí verás todos tus seguidores, «me gusta» y comentarios.",
+  "native.notifications.empty_title": "Siente el amor",
+  "native.score_actions.can_be_made_offline": "Añadida a partituras guardadas.\nPuedes hacer que esté disponible sin conexión",
+  "native.search.placeholder_scores": "Buscar partituras",
+  "native.sure_thing": "Claro",
+  "native.make_public.update_visibility": "Actualizar visibilidad",
+  "native.make_public.manage_access": "Gestionar acceso",
+  "native.make_public.copyright_settings": "Configuración de derechos de autor",
+  "native.make_public.based_on_toggle": "La partitura se basa en música existente",
+  "native.make_public.based_on_toggle_subtitle": "(por ejemplo: The Beatles o Ludwig van Beethoven)",
+  "native.make_public.based_on_label": "Tu partitura se basa en",
+  "native.make_public.based_on_placeholder": "Selecciona la composición",
+  "native.make_public.score_title_placeholder": "Título de la obra – compositor o artista",
+  "native.make_public.genre_placeholder": "Selecciona un género",
+  "native.make_public.select_genre": "Selecciona un género",
+  "native.make_public.genre_subtitle": [
+    "Añade hasta ",
+    [
+      "count"
+    ],
+    " géneros a tu partitura"
+  ],
+  "native.make_public.genre_limit_error": [
+    "No puedes añadir más de ",
+    [
+      "count"
+    ],
+    " géneros a una partitura"
+  ],
+  "native.make_public.enable_download": "Activar descarga de la partitura",
+  "native.make_public.legal_text": "Al publicar, confirmas que tus partituras cumplen con nuestros términos de uso y que no violas los derechos de terceros. En caso de duda, consulta nuestras páginas de información sobre derechos de autor y las normas de la comunidad.",
+  "native.make_public.success_toast": "Se ha actualizado la visibilidad de tu partitura",
+  "native.make_public.error_generic": "Error al actualizar la partitura. Inténtalo de nuevo.",
+  "native.make_public.composition_error": "Rellena la información para actualizar la partitura",
+  "native.make_public.unsaved_title": "No se han guardado los cambios",
+  "native.make_public.unsaved_message": "¿Seguro que quieres descartar los cambios?",
+  "native.make_public.unsaved_stay": "Quedarme",
+  "native.make_public.unsaved_leave": "Salir",
+  "native.make_public.copyright_cc_zero": "Creative Commons, renuncia de derechos de autor",
+  "native.library.favorites.title": "Guarda las partituras que te encantan",
+  "native.library.favorites_courses.desc_1": "Aquí encontrarás todos los cursos que guardes. Añade los que te inspiren o los que quieras probar más adelante.",
+  "native.alertNotifications.favorites.remove": "Eliminada de partituras guardadas",
+  "native.alertNotifications.favorites.add": "Añadida a partituras guardadas",
+  "native.marketing.up_to_discount": [
+    "Hasta un ",
+    [
+      "discount"
+    ],
+    "% de descuento en partituras"
+  ],
+  "native.identify_song_sheet_yes": "Me interesa",
+  "native.unsubscribe.button": "Quiero cancelar mi suscripción",
+  "native.manage.subscription": "Gestionar suscripción",
+  "native.subscription_description": [
+    "Para suscripciones desde la web o la aplicación ",
+    [
+      "platform"
+    ],
+    " de MuseScore, el precio se puede consultar en el perfil del sitio web"
+  ],
+  "native.your_preference": "Tu preferencia",
+  "native.start_calibration": "Iniciar calibración",
+  "native.soundcheck": "Prueba de sonido",
+  "native.calibration_text": "Se va a emitir un sonido fuerte y breve para calibrar el micrófono. ¡Espera un momento!",
+  "native.score_details.accessibility.favorite_inactive": "Guardar partitura en la biblioteca",
+  "native.score_details.accessibility.favorite_active": "Partitura guardada en la biblioteca",
+  "native.screen_omr.choose_title": "Elige una opción",
+  "native.screen_omr.error_recommendation": "Selecciona otro archivo o escanea por partes. Recomendación para solucionar el error.",
+  "native.screen_omr.upload_musescore_studio_score": "Subir partitura de MuseScore Studio",
+  "native.screen_omr.upload_pdf_file": "Subir archivo PDF",
+  "native.screen_omr.upload_image_from_gallery": "Subir imagen de la galería",
+  "native.screen_omr.scan_from_photo": "Escanear a partir de una foto",
+  "native.screen_omr.error_file_size_exceeds_5mb": "El archivo supera los 5 MB. Selecciona un archivo más pequeño",
+  "native.screen_omr.error_total_size_exceeds_75mb": "El tamaño total supera los 75 MB. Selecciona menos archivos o que sean más pequeños",
+  "native.screen_omr.error_total_size_exceeds_50mb": "El tamaño total supera los 50 MB. Selecciona menos archivos o que sean más pequeños",
+  "native.screen_omr.error_max_files_allowed": [
+    "Puedes seleccionar hasta ",
+    [
+      "count"
+    ],
+    " archivos"
+  ],
+  "native.screen_omr.how_to_scan_title": "Cómo escanear partituras",
+  "native.screen_omr.incorrect": "Incorrecto",
+  "native.screen_omr.correct": "Correcto",
+  "native.screen_omr.general_tips": "Consejos generales:",
+  "native.screen_omr.tip_keep_page_in_frame": "Mantén toda la página dentro del marco",
+  "native.screen_omr.tip_hold_steady": "Sujeta bien el móvil para que la imagen salga nítida",
+  "native.screen_omr.tip_one_page_per_photo": "Haz una foto por página",
+  "native.screen_omr.tip_shoot_straight_down": "Haz la foto justo desde arriba (sin inclinar la cámara)",
+  "native.screen_omr.take_photo": "Hacer foto",
+  "native.screen_omr.file_uploading": "Subiendo archivo...",
+  "native.screen_omr.upload_error": "Error de subida",
+  "native.screen_omr.no_files_to_scan": "No hay archivos para escanear",
+  "native.screen_omr.ai_scan_title": "Escaneo por IA",
+  "native.screen_omr.start_scanning": "Iniciar escaneo",
+  "native.screen_omr.files_sent_title": "Los archivos se han enviado\npara escanearlos",
+  "native.screen_omr.files_sent_description": "Esto puede tardar un poco.\n\nTe enviaremos una notificación cuando todo esté listo.",
+  "native.screen_omr.success_take_some_time": "Esto puede tardar un poco.",
+  "native.screen_omr.success_will_notify": "Te enviaremos una notificación cuando todo esté listo.",
+  "native.screen_omr.cancel_upload_title": "¿Cancelar la subida?",
+  "native.screen_omr.cancel_upload_description": "Si cancelas ahora, el archivo no terminará de procesarse. Puedes volver a escanear gratis cuando quieras.",
+  "native.screen_omr.continue_upload": "Continuar subida",
+  "native.screen_omr.cancel_upload": "Cancelar subida",
+  "native.screen_omr.ai_scan_description": "Accede a versiones digitales de tus partituras favoritas y visualízalas cuando quieras, incluso sin conexión.",
+  "native.screen_omr.continue_to_scan": "Continuar con el escaneo",
+  "native.screen_omr.open_settings": "Abrir ajustes",
+  "native.screen_omr.no_camera_message": "No se ha encontrado el módulo de cámara. Es posible que tu dispositivo no permita hacer fotos o que la cámara esté dañada.",
+  "native.screen_omr.error_uploading_file": "Error al subir el archivo",
+  "native.screen_omr.error_uploading_files": "Error al subir los archivos",
+  "native.marketing.question.do_yo_like": [
+    "¿Te gusta la música de ",
+    [
+      "authorName"
+    ],
+    "?"
+  ],
+  "native.score.layout_title_portrait_view": "Vista de página",
+  "native.settings.score.set_default_tempo": "Establecer tempo predeterminado",
+  "native.score.play_button": "Reproducir",
+  "native.alertNotifications.songbook.remove": "Partitura eliminada del acceso sin conexión",
+  "native.alertNotifications.songbook.add_exp": "Partitura guardada para uso sin conexión",
+  "native.instrument.saxophone": "Saxofón",
+  "native.new_concept.tab_bar.home": "Inicio",
+  "native.new_concept.tab_bar.learn": "Aprender",
+  "native.new_concept.common.all": "Todas",
+  "native.new_concept.common.purchased": "Compradas",
+  "native.new_concept.common.check_spelling_hint": "Comprueba la ortografía o prueba con otra búsqueda",
+  "native.new_concept.common.results_count": [
+    [
+      "count"
+    ],
+    " resultados"
+  ],
+  "native.new_concept.common.error_title": "Ha habido un error",
+  "native.new_concept.common.error_connection_hint": "Comprueba tu conexión e inténtalo de nuevo",
+  "native.new_concept.common.sorting_options": "Opciones de ordenación",
+  "native.new_concept.common.filters": "Filtros",
+  "native.new_concept.home.greeting.morning": "Buenos días",
+  "native.new_concept.home.greeting.afternoon": "Buenas tardes",
+  "native.new_concept.home.greeting.evening": "Buenas noches",
+  "native.new_concept.home.greeting.night": "Buenas noches",
+  "native.new_concept.home.playlists": "Playlists",
+  "native.new_concept.home.easy_pieces_for_you": "Piezas fáciles para ti",
+  "native.new_concept.home.browse_favorite_genres": "Explora tus géneros favoritos",
+  "native.new_concept.home.level_up_music_theory": "Sube de nivel en teoría musical",
+  "native.new_concept.home.explore_scores": "Explorar partituras",
+  "native.new_concept.home.scores_count": [
+    [
+      "count"
+    ],
+    " partituras"
+  ],
+  "native.new_concept.home.genre_empty": "Aún no hay partituras en este género",
+  "native.new_concept.home.view_more_scores": "Ver más partituras",
+  "native.new_concept.playlist.empty_title": "Esta playlist está vacía",
+  "native.new_concept.playlist.empty_description": "Las partituras de esta playlist aparecerán aquí.",
+  "native.new_concept.search.popular_songbooks": "Cancioneros populares",
+  "native.new_concept.search.browse_by_genre": "Explorar por género",
+  "native.new_concept.search.recent_searches": "Búsquedas recientes",
+  "native.new_concept.learn.no_courses_found": "No se han encontrado cursos",
+  "native.new_concept.learn.empty_all_title": "Aún no hay cursos",
+  "native.new_concept.learn.empty_all_description": "Explora el catálogo y empieza a aprender algo nuevo.",
+  "native.new_concept.learn.empty_saved_title": "No hay cursos guardados",
+  "native.new_concept.learn.empty_saved_description": "Guarda los cursos que te interesen para encontrarlos aquí más tarde.",
+  "native.new_concept.learn.empty_purchased_title": "No hay cursos comprados",
+  "native.new_concept.learn.empty_purchased_description": "Los cursos que compres aparecerán aquí.",
+  "native.new_concept.learn.lessons_count": [
+    [
+      "count"
+    ],
+    " lecciones"
+  ],
+  "native.new_concept.learn.course_hours_short": [
+    [
+      "count"
+    ],
+    " h"
+  ],
+  "native.new_concept.library.search_placeholder": "Buscar partituras en mi biblioteca",
+  "native.new_concept.library.filter_my_uploads": "Mis subidas",
+  "native.new_concept.library.filter_offline_access": "Acceso sin conexión",
+  "native.new_concept.library.sort_recent": "Recientes",
+  "native.new_concept.library.sort_most_viewed": "Más vistas",
+  "native.new_concept.library.empty_scores_title": "Crea tu colección de partituras",
+  "native.new_concept.library.empty_scores_description": "Explora las partituras y toca el corazón en tus favoritas para tenerlas a mano.",
+  "native.new_concept.library.empty_songbooks_title": "Crea tu colección de cancioneros",
+  "native.new_concept.library.empty_songbooks_description": "Explora los cancioneros y guarda tus favoritos para tenerlos a mano.",
+  "native.new_concept.library.empty_set_title": "Esta lista está vacía",
+  "native.new_concept.library.empty_set_description": "Las partituras que añadas a esta lista aparecerán aquí.",
+  "native.new_concept.library.search_empty_title": "No hemos encontrado nada que coincida en tu biblioteca",
+  "native.new_concept.filter_sheet.all_instruments": "Todos los instrumentos",
+  "native.new_concept.filter_sheet.all_ensembles": "Todos los conjuntos",
+  "native.new_concept.filter_sheet.all_genres": "Todos los géneros",
+  "native.new_concept.upload.title": "Añadir una partitura",
+  "native.new_concept.upload.description": "Haz una foto o elige un archivo de partitura",
+  "native.new_concept.upload.from_gallery": "Desde la galería",
+  "native.new_concept.upload.scan_with_camera": "Escanear con la cámara",
+  "native.new_concept.upload.browse_files": "Explorar archivos",
+  "native.new_concept.upload.invalid_file_error": "Selecciona un archivo MSCZ o PDF",
+  "native.search.placeholder_courses": "Buscar cursos",
+  "native.search.no.results": "Sin resultados",
+  "native.view.all": "ver todo",
+  "native.screen_omr.upload": "Subir",
+  "native.screen_omr.retake_photo": "Repetir foto",
+  "native.genre.classical": "Clásica",
+  "native.genre.pop": "Pop",
+  "native.genre.rock": "Rock",
+  "native.genre.folk": "Folk",
+  "native.genre.jazz": "Jazz",
+  "native.genre.soundtrack": "Banda sonora",
+  "native.genre.electronic": "Electrónica",
+  "native.genre.hip_hop": "Hip hop",
+  "native.genre.metal": "Metal",
+  "native.genre.religious_music": "Música religiosa",
+  "native.genre.world_music": "Música del mundo",
+  "native.genre.country": "Country",
+  "native.genre.reggae_and_ska": "Reggae y ska",
+  "native.genre.rnb_funk_and_soul": "R&B, funk y soul",
+  "native.genre.experimental": "Experimental",
+  "native.genre.new_age": "New age",
+  "native.genre.blues": "Blues",
+  "native.genre.comedy": "Humor",
+  "native.genre.disco": "Disco",
+  "native.genre.darkwave": "Darkwave",
+  "native.instrument.bass_guitar": "Bajo eléctrico",
+  "native.instrument.soprano": "Soprano",
+  "native.instrument.tenor": "Tenor",
+  "native.instrument.alto": "Alto",
+  "native.instrument.glockenspiel": "Glockenspiel",
+  "native.instrument.bass_voice": "Voz de bajo",
+  "native.instrument.snare_drum": "Caja",
+  "native.instrument.bass_drum": "Bombo",
+  "native.instrument.marimba": "Marimba",
+  "native.instrument.vibraphone": "Vibráfono",
+  "native.instrument.euphonium": "Bombardino",
+  "native.instrument.crash": "Platillo crash",
+  "native.instrument.clarinet_bass": "Clarinete bajo",
+  "native.instrument.xylophone": "Xilófono",
+  "native.instrument.tubular_bells": "Campanas tubulares",
+  "native.instrument.tenor_drum": "Tambor tenor",
+  "native.instrument.trombone_bass": "Trombón bajo",
+  "native.instrument.baritone": "Barítono",
+  "native.instrument.ukulele": "Ukelele",
+  "native.instrument.trombone_tenor": "Trombón tenor",
+  "native.instrument.tambourine": "Pandereta",
+  "native.instrument.natural_horn": "Trompa natural",
+  "native.instrument.cornet": "Corneta",
+  "native.instrument.triangle": "Triángulo",
+  "native.instrument.mellophone": "Melófono",
+  "native.instrument.celesta": "Celesta",
+  "native.instrument.hand_clap": "Palmas",
+  "native.instrument.mezzo_soprano": "Mezzosoprano",
+  "native.instrument.banjo": "Banjo",
+  "native.instrument.female": "Voz femenina",
+  "native.instrument.male": "Voz masculina",
+  "native.instrument.flute_alto": "Flauta contralto",
+  "native.instrument.woodblock": "Caja china",
+  "native.instrument.flugelhorn": "Fliscorno",
+  "native.instrument.handbells": "Campanas de mano",
+  "native.instrument.claves": "Claves",
+  "native.instrument.mandolin": "Mandolina",
+  "native.instrument.conga": "Conga",
+  "native.instrument.contrabassoon": "Contrafagot",
+  "native.instrument.bongo": "Bongo",
+  "native.instrument.trumpet_piccolo": "Trompeta piccolo",
+  "native.instrument.steel_drums": "Steel drum",
+  "native.instrument.tom_tom": "Tom tom",
+  "native.instrument.maraca": "Maracas",
+  "native.instrument.saxophone_bass": "Saxofón bajo",
+  "native.instrument.harmonium": "Armonio",
+  "native.instrument.hi-hat": "Hi-hat",
+  "native.instrument.crotales": "Crótalos",
+  "native.instrument.pipes": "Flautas",
+  "native.instrument.clavichord": "Clavicordio",
+  "native.instrument.kalimba": "Kalimba",
+  "native.instrument.lute": "Laúd",
+  "native.instrument.trumpet_bass": "Trompeta baja",
+  "native.instrument.cabasa": "Cabasa",
+  "native.instrument.kazoo": "Kazoo",
+  "native.instrument.stamp": "Pisotón",
+  "native.instrument.tamtam": "Tam-tam",
+  "native.instrument.clarinet_contrabass": "Clarinete contrabajo",
+  "native.instrument.trombone_alto": "Trombón alto",
+  "native.instrument.snap": "Snap",
+  "native.instrument.sitar": "Sitar",
+  "native.instrument.gong": "Gong",
+  "native.instrument.melodica": "Melódica",
+  "native.instrument.ride": "Platillo ride",
+  "native.instrument.castanets": "Castañuelas",
+  "native.instrument.flute_bass": "Flauta baja",
+  "native.instrument.viol": "Viola da gamba",
+  "native.instrument.nyckelharpa": "Nyckelharpa",
+  "native.instrument.erhu": "Erhu",
+  "native.instrument.metallophone": "Metalófono",
+  "native.instrument.rototom": "Rototom",
+  "native.instrument.shamisen": "Shamisen",
+  "native.instrument.guiro": "Güiro",
+  "native.instrument.fiddle": "Violín folk",
+  "native.instrument.bouzouki": "Buzuki",
+  "native.instrument.timbale": "Timbal",
+  "native.instrument.alto_horn": "Saxhorno alto",
+  "native.instrument.slap": "Slap",
+  "native.instrument.chinese": "Chino",
+  "native.instrument.frame_drum": "Tambor de marco",
+  "native.instrument.bandoneon": "Bandoneón",
+  "native.instrument.child": "Voz infantil",
+  "native.instrument.synth_voice": "Voz sintetizada",
+  "native.instrument.tabla": "Tabla",
+  "native.instrument.zither": "Cítara",
+  "native.instrument.whistle": "Silbato",
+  "native.instrument.celtic_harp": "Arpa celta",
+  "native.instrument.taiko": "Taiko",
+  "native.instrument.tambura": "Tambura",
+  "native.instrument.strings_synth": "Sintetizador de cuerdas",
+  "native.instrument.concertina": "Concertina",
+  "native.instrument.virginal": "Virginal",
+  "native.instrument.trumpet_tenor": "Trompeta tenor",
+  "native.instrument.theorbo": "Tiorba",
+  "native.instrument.vienna_horn": "Trompa vienesa",
+  "native.instrument.baryton": "Baritón",
+  "native.instrument.balalaika_contrabass": "Balalaika contrabajo",
+  "native.instrument.rag-dung": "Dungchen",
+  "native.instrument.octobass": "Octobajo",
+  "native.instrument.balalaika_bass": "Balalaika bajo",
+  "native.instrument.flute_contra-alto": "Flauta contralto",
+  "native.instrument.balalaika_prima": "Balalaika prima",
+  "native.instrument.balalaika_piccolo": "Balalaika piccolo",
+  "native.instrument.cajon": "Cajón",
+  "native.instrument.balalaika_alto": "Balalaika alto",
+  "native.instrument.djembe": "Djembe",
+  "native.instrument.balalaika_secunda": "Balalaika secunda",
+  "native.instrument.fiscorn": "Fiscorno",
+  "native.instrument.kuhlohorn": "Kuhlohorn",
+  "native.instrument.bell-lyre": "Lira de campanas",
+  "native.instrument.autoharp": "Autoarpa",
+  "native.instrument.bodhran": "Bodhran",
+  "native.instrument.guzheng": "Guzheng",
+  "native.instrument.dumbek": "Dumbek",
+  "native.instrument.baglama": "Baglamá",
+  "native.instrument.domra": "Domra",
+  "native.instrument.jarana_huasteca": "Jarana huasteca",
+  "native.instrument.darabuka": "Darabuka",
+  "native.instrument.percussion_-_hand_drum": "Percusión: tambor de mano",
+  "native.instrument.percussion_-_unpitched": "Percusión: sin altura definida",
+  "native.instrument.select_all": "Seleccionar todo",
+  "native.marketing.download_community_scores_title": "Descarga de partituras de la comunidad",
+  "native.marketing.mixer_metronome_hq_title": "Transposición, mezclador, metrónomo, sonido HQ",
+  "native.marketing.your_personal_offer": "Tu oferta personalizada",
+  "native.marketing.your_plan": "Tu plan",
+  "native.orders.empty_purchased_title": "Aún no has comprado nada",
+  "native.orders.restore_purchase_prompt": "¿Falta algo?",
+  "native.orders.restore_purchase_link": "Restaurar compra",
+  "native.orders.restore_purchase_checking": "Comprobando tus compras...",
+  "native.orders.restore_purchase_toast": "Se ha añadido una nueva partitura a tu biblioteca",
+  "native.email_verification.toast_title": "Verifica tu correo para terminar de registrarte.",
+  "native.email_verification.toast_action": "Toca para enviar el enlace.",
+  "native.email_verification.link_sent_toast": "Enlace de verificación enviado",
+  "native.instrument.acoustic_guitar": "Guitarra acústica",
+  "native.instrument.all_instruments": "Todos los instrumentos",
+  "native.instrument.classical_guitar": "Guitarra clásica",
+  "native.instrument.electric_guitar": "Guitarra eléctrica",
+  "native.instrument.drum_(other)": "Tambor (otro)",
+  "native.device_verification.title": "No hemos podido verificar tu dispositivo",
+  "native.device_verification.message": "MuseScore no ha podido confirmar si este dispositivo cumple con los requisitos de compatibilidad de Android de Google; por lo tanto, las partituras no pueden abrirse ahora mismo. Esto suele ser algo temporal. Inténtalo de nuevo u obtén más información acerca de los requisitos.",
+  "native.device_verification.learn_more": "Más información",
+  "native.nps.rating_title": "¿Qué probabilidad hay de que recomiendes esta aplicación a alguien que toque música a partir de partituras?",
+  "native.nps.rating_min": "Nada probable",
+  "native.nps.rating_max": "Muy probable",
+  "native.nps.reason_title": "¿Cuál es el principal motivo de tu valoración?",
+  "native.nps.reason_subtitle": "Ayúdanos a mejorar tu experiencia",
+  "native.nps.reason_placeholder": "Comparte tu opinión",
+  "native.nps.submit": "Enviar",
+  "native.nps.thanks": "¡Gracias por tu opinión!",
+  "native.screen_omr.error_photo_unavailable": "No se ha podido cargar la foto. Si está almacenada en iCloud, ábrela en Fotos para descargarla e inténtalo de nuevo",
+  "native.daily_reminders.tour.almost_there": "Almost there!",
+  "native.score_action_sheet.your_review_helps": "Tu reseña ayuda a dar a conocer la app y a hacer crecer la comunidad de músicos",
+  "native.screen_notifications.description": "Instant updates on new releases and exclusive content, right at your fingertips!",
+  "native.screen_profile.want_to_logout": "¿Seguro que quieres cerrar sesión?",
+  "native.screen_mixer.visibility_one_part": "Enable visibility of only this part?",
+  "native.share.title": "Partituras de MuseScore",
+  "native.permissions.storage.denied_alert_message": "Permite que la aplicación MuseScore acceda al almacenamiento en los ajustes de tu dispositivo: Ajustes -> Aplicaciones -> MuseScore -> Permisos -> Almacenamiento",
+  "native.permissions.storage.modal.title": "Permite que MuseScore acceda a tu almacenamiento",
+  "native.permissions.storage.modal.message": "Para abrir partituras con la aplicación MuseScore, permite que MuseScore acceda a tu almacenamiento local.",
+  "native.screen_tour.muse_score_one_instant_text": [
+    "Una sola suscripción para todo lo que necesitas: ",
+    [
+      "discount"
+    ],
+    "% de descuento"
+  ],
+  "native.marketing_text.metronome": "Desbloquea el [b]«metrónomo»[/b] que te ayudará a interiorizar el ritmo y el compás y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.mixer": "Desbloquea las herramientas del [b]mezclador[/b] para controlar cada instrumento por separado y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.export_pdf": "Desbloquea [b]«exportar a PDF»[/b] para imprimir partituras y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.export_midi": "Desbloquea [b]«exportar a MIDI»[/b] para usar partituras en otros programas de música y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.export_mp3": "Desbloquea [b]«exportar a MP3»[/b] para escuchar partituras como archivo de audio y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.transpose": "Desbloquea [b]«transportar»[/b] para ajustar las tonalidades a tus necesidades y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.songbook": "Desbloquea el [b]acceso sin conexión[/b] para ver y tocar tus partituras favoritas sin internet y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.open_file": "Desbloquea [b]«abrir archivos de diferentes fuentes»[/b] para una mayor comodidad y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.hq_sound": "Desbloquea [b]«sonido mejorado»[/b] y [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]. Tendrás que descargar archivos de sonido adicionales (159 MB). Te recomendamos el uso de wifi",
+  "native.marketing_text.keyboard": "Desbloquea la herramienta [b]Teclado[/b] para ver cómo tocar cada nota y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing_text.auto_scroll": "Desbloquea el [b]desplazamiento automático[/b] para que las notas estén siempre visibles mientras tocas y accede a [a]otras funciones maravillosas[/a] con una cuenta [b]PRO[/b]",
+  "native.marketing.lets_get_started": "Let’s [c]get started[/c]",
+  "native.marketing.lets_get_to_know_each_other": "Let’s get to know each other",
+  "native.marketing.questions.instrument.list.other_strings": "Other string instruments",
+  "native.song_book_remove.title": "¿Seguro que quieres eliminar",
+  "native.screen_comments.be_first": "Say something to start a conversation",
+  "native.library.my_scores.title": "¡Guarda tus partituras en MuseScore!",
+  "native.library.my_scores.desc": "Al subir tus partituras a MuseScore.com, estarán disponibles en línea en cualquier dispositivo.\n\nActualmente, solo puedes subir partituras desde la versión de escritorio de MuseScore.com.",
+  "native.library.songbook.desc_android": "Es un espacio de almacenamiento de partituras en tu dispositivo. Aunque te quedes sin internet, las partituras seguirán contigo. Puedes guardar cualquier partitura de una búsqueda o cargar un archivo MSCZ creado en el editor.",
+  "native.library.songbook.desc": "Es un espacio de almacenamiento de partituras en tu dispositivo. Aunque te quedes sin internet, las partituras seguirán contigo. Puedes guardar cualquier partitura desde la búsqueda.",
+  "native.library.songbook.desc_order": "Es un espacio de almacenamiento de partituras en tu dispositivo. Aunque te quedes sin internet, las partituras seguirán contigo. Puedes guardar cualquier partitura de tus pedidos.",
+  "native.new_search.sources.songbook": "Disponible sin conexión",
+  "native.alertNotifications.songbook.add": "Partitura guardada para uso sin conexión",
+  "native.courses.complete_course": [
+    "You have successfully completed the course «",
+    [
+      "name"
+    ],
+    "»!"
+  ],
+  "native.courses.course_type": "Course type",
+  "native.screen_sft.carousel.songbook_title": "Acceso sin conexión",
+  "native.credits.balance": "Tienes [b][n]userBalance[n] créditos PRO disponibles[/b]. Consigue más créditos",
+  "native.credits.description": "Disfruta de funciones PRO, como descargar cualquier partitura que elijas de la enorme colección de la comunidad ([n]numberScores[n] millones de partituras).",
+  "native.credits.balance_sub_title": "Recarga tu saldo",
+  "native.credits.balance_top_up_success": [
+    "Acabas de recargar tu cuenta con ",
+    [
+      "count"
+    ],
+    " créditos PRO. Usa los créditos para obtener acceso PRO a cualquier partitura."
+  ],
+  "native.sets.delete_warning": "¿Seguro que quieres eliminar esta partitura de la lista?",
+  "native.sets.no_search_result": "Lo sentimos, no hemos encontrado nada. Prueba con otras palabras.",
+  "native.screen_tour.get_most_with_pro+": "Why not add the perfect accompaniment with MuseScore PRO+?",
+  "native.screen_tour.achieve_goals": "Musicians with annual plans are 91% more likely to reach their goals",
+  "native.screen_tour.support_program_text": "Contamos con un programa de apoyo a músicos jóvenes",
+  "native.ebook.filter_empty_subtitle": "Lo sentimos, no encontramos coincidencias. \n Revisa la ortografía o prueba con otra búsqueda.",
+  "native.ebooks.orders_empty_title": "Aún no tienes ningún cancionero",
+  "native.create_account.privacy": "Al crear una cuenta, aceptas los [link url=https://musescore.com/legal/terms]Términos de servicio[/link] y la [link url=https://musescore.com/legal/privacy]Política de privacidad[/link] de MuseScore",
+  "native.date.today_in": [
+    "today at ",
+    [
+      "time"
+    ]
+  ],
+  "native.date.yesterday_in": [
+    "yesterday at ",
+    [
+      "time"
+    ]
+  ],
+  "native.review.delete_confirmation_title": "Are you sure you want to delete this review?",
+  "native.marketing.7dayTrialWithPrice": [
+    "Prueba 7 días gratis y después paga ",
+    [
+      "price"
+    ],
+    " al año"
+  ],
+  "native.pedal.feedback.description": "Lo pediste y te escuchamos. Esta función ya está disponible en la aplicación\nMuseScore. Todavía está en beta debido a la gran cantidad de dispositivos que existen.\nHemos probado muchos, pero no todos, y agradecemos tus comentarios.",
+  "native.marketing.compete_your_purchase": "Completa tu compra con uno de los métodos de pago disponibles",
+  "native.marketing.questions.instrument.title": "¿Qué instrumentos tocas o te gustaría empezar a tocar?",
+  "native.marketing.questions.goal.teach": "Enseñar música a otras personas",
+  "native.marketing.personal_songbook_title": "Acceso a partituras sin conexión",
+  "native.courses.voted.error": "Ya has valorado este curso",
+  "native.user.access.premium.toast": "Obtienes un 50 % de descuento en todas las compras de partituras.",
+  "native.score.hq_settings_title": "Sonido MuseScore HQ+",
+  "native.marketing.subscription_problem": [
+    "Something is wrong with your ",
+    [
+      "storeName"
+    ],
+    " account or internet connection. Try restarting the application and check your internet connection and your account."
+  ],
+  "native.sets.empty_title": "Aún no tienes listas",
+  "native.activity.empty_list.desc": "With notifications, you won't miss anything. Find out when anyone follows you, saves your score or replies to your comments. It's all here.",
+  "native.addFavoritesAndSaveOffline2": "Añadida a partituras guardadas. \n¿Necesitas acceso sin internet?",
+  "native.screen_omr.error_max_one_pdf": "Solo se permite 1 archivo PDF",
+  "native.screen_omr.error_selecting_pdf": "Error al seleccionar el PDF",
+  "native.screen_omr.success_file_sent_title": "Los archivos se han enviado para escanearlos.",
+  "native.screen_omr.no_camera_permission_message": "Allow MuseScore to access the camera to take pictures of printed versions of scores",
+  "native.screen_omr.error_upload_mscz": "Error uploading mscz file",
+  "native.screen_omr.error_failed_create_mscz": "No se ha podido crear el archivo mscz",
+  "native.screen_omr.error_create_mscz": "Error creating mscz file",
+  "native.score_info.play_button": "Ver y tocar",
+  "native.instrument.trumpet_in_b-flat": "Trumpet in B-flat",
+  "native.instrument.clarinet_in_b-flat": "Clarinet in B-flat",
+  "native.instrument.trumpet_in_c": "Trompeta en do",
+  "native.instrument.clarinet_in_e-flat": "Clarinet in E-flat",
+  "native.instrument.clarinet_in_a": "Clarinete en la",
+  "native.instrument.trumpet_in_d": "Trompeta en re",
+  "native.instrument.ondes_martenot": "Ondes Martenot",
+  "native.screen_login.consent_offer_opt_out": "No quiero recibir correos ocasionales con ofertas especiales",
+  "native.screen_login.mob_web_auth_in_progress": "Iniciando la autenticación. Espera un momento...",
+  "native.screen_login.mob_web_auth_error": "Error durante la autenticación",
+  "native.alerts.error_occurred": "Se ha producido un error.",
+  "native.alerts.error_title": "Error",
+  "native.alerts.download_failed": "Error en la descarga",
+  "native.screen_comments.login_required_to_post": "Debes iniciar sesión para publicar un comentario.",
+  "native.screen_comments.login_required_to_like": "Debes iniciar sesión para dar «me gusta» a un comentario.",
+  "native.screen_comments.score_comments": "Comentarios de la partitura",
+  "native.library.songbook.corrupted_file_title": "Este archivo está dañado",
+  "native.library.songbook.corrupted_file_message": "Lo sentimos. Puedes eliminar este archivo o volver atrás.",
+  "native.library.songbook.wrong_file_extension": [
+    "La extensión del archivo debe ser «mscz», no «",
+    [
+      "fileExt"
+    ],
+    "»"
+  ],
+  "native.feed.items.51": "Se ha usado 1 crédito PRO de MuseScore",
+  "native.feed.items.57": [
+    "Se han añadido ",
+    [
+      "amount"
+    ],
+    " créditos PRO de MuseScore a tu saldo"
+  ],
+  "native.feed.by": "de",
+  "native.actions.try_again": "Reintentar",
+  "native.actions.back": "Atrás",
+  "native.actions.done": "Listo",
+  "native.actions.later": "Más tarde",
+  "native.bottom_bar.add_scores_tab": "Añadir partituras",
+  "native.autograde.select_main_instrument": "Selecciona tu instrumento principal",
+  "native.autograde.permission_error_title": "Error de permisos",
+  "native.autograde.microphone_permission_message": "El modo de práctica necesita acceso al micrófono. Actívalo en los ajustes del dispositivo",
+  "native.autograde.tooltip_body": "Toca aquí para recibir una evaluación inteligente de tu sesión de práctica.",
+  "native.autograde.ready": "¿Todo listo?",
+  "native.marketing.tour.minutes_short": [
+    [
+      "count"
+    ],
+    " min"
+  ],
+  "native.practice_mode.results.song_complete": "Canción completada",
+  "native.practice_mode.results.pitch": "Afinación",
+  "native.practice_mode.results.rhythm": "Ritmo",
+  "native.practice_mode.results.score": "Puntuación",
+  "native.practice_mode.results.review_and_try_again": "Revisar y reintentar",
+  "native.practice_mode.onboarding.paywall_title": "Libera al músico que llevas dentro con acceso completo al modo de práctica de MuseScore",
+  "native.practice_mode.onboarding.paywall_subtitle": "Se requiere acceso a MuseScore PRO+",
+  "native.practice_mode.onboarding.step_counter": [
+    "Paso ",
+    [
+      "step"
+    ],
+    " / ",
+    [
+      "total"
+    ]
+  ],
+  "native.song_book.section.title.downloadable_as_pdf": "Descargables en PDF",
+  "native.filter_screen.instrument_count_from": "Desde",
+  "native.filter_screen.instrument_count_to": "Hasta",
+  "native.courses.unit": [
+    "Unidad ",
+    [
+      "number"
+    ]
+  ],
+  "native.courses.overall_progress": [
+    "Progreso total: ",
+    [
+      "percents"
+    ],
+    "%"
+  ],
+  "native.courses.lite_great_choice": "Buena elección",
+  "native.courses.lite_get_free_course": "Consigue tu curso gratis",
+  "native.courses.lite_unlock_one_course": "Este mes puedes desbloquear un curso de la Selección de los editores con tu cupo de MuseScore LEARN Lite.",
+  "native.courses.lite_get_permanent_access": [
+    "Consigue acceso permanente a \n[sb]",
+    [
+      "courseName"
+    ],
+    "[/sb]"
+  ],
+  "native.courses.lite_want_unlimited_title": "¿Quieres cursos ilimitados? Mejora ahora",
+  "native.courses.lite_allowance_used": "Ya has usado tu cupo de MuseScore LEARN Lite de este mes.",
+  "native.courses.lite_upgrade_to_play": "Mejora tu suscripción a MuseScore LEARN para ver este curso ahora.",
+  "native.courses.lite_upgrade": "Mejorar",
+  "native.courses.lite_not_in_collection": [
+    "[sb]",
+    [
+      "courseName"
+    ],
+    "[/sb] no forma parte de la colección. Si quieres empezar el curso, mejora tu suscripción a MuseScore LEARN"
+  ],
+  "native.courses.start_this_course": "Empezar este curso",
+  "native.filter_item_name.level.not_selected": "Sin seleccionar",
+  "native.filter_item_name.topic.ear_training": "Entrenamiento auditivo",
+  "native.filter_item_name.topic.licensing_publishing_and_copyright": "Licencias, edición y derechos de autor",
+  "native.filter_item_name.topic.music_composition": "Composición musical",
+  "native.filter_item_name.topic.music_production": "Producción musical",
+  "native.filter_item_name.topic.music_software": "Software musical",
+  "native.filter_item_name.topic.music_theory": "Teoría musical",
+  "native.filter_item_name.topic.other_in_music": "Otros temas musicales",
+  "native.filter_item_name.topic.playing_skills": "Técnica instrumental",
+  "native.filter_item_name.topic.recording_and_audio_engineering": "Grabación e ingeniería de sonido",
+  "native.filter_item_name.topic.solo_and_improvisation": "Solos e improvisación",
+  "native.filter_item_name.topic.songwriting": "Composición de canciones",
+  "native.filter_item_name.duration.0_1_hours": "0 - 1 horas",
+  "native.filter_item_name.duration.1_4_hours": "1 - 4 horas",
+  "native.filter_item_name.duration.4_8_hours": "4 - 8 horas",
+  "native.filter_item_name.duration.8_24_hours": "8 - 24 horas",
+  "native.filter_item_name.duration.24_plus_hours": "Más de 24 horas",
+  "native.filter_item_name.type.community_scores": "Partituras de la comunidad",
+  "native.filter_item_name.format.interactive": "Interactiva",
+  "native.filter_item_name.format.pdf": "PDF",
+  "native.filter_item_name.status.original_composition": "Composición original",
+  "native.score_onboarding.customize_view": "Personaliza la vista",
+  "native.score_onboarding.customize_view_desc": "Amplía, cambia la configuración o ajusta la mezcla: todo lo que necesitas está aquí.",
+  "native.score_onboarding.hear_score": "Escucha la partitura",
+  "native.score_onboarding.hear_score_desc": "Escucha la partitura. Toca Reproducir y mira cómo la notación avanza con la canción.",
+  "native.score_onboarding.save_hint": "¿Te gusta esta partitura? Toca para guardarla.",
+  "native.score_onboarding.playing_one_moment": "Reproduciendo tu partitura… un momento",
+  "native.user.access.books.label": "Digital Books",
+  "native.user.unfollow_confirm_title": "¿Dejar de seguir a este usuario?",
+  "native.marketing.questions.topics.title": "¿Qué temas te podrían interesar?",
+  "native.marketing.questions.topics.not_interested": "No me interesan estos temas",
+  "native.search.upload_now": "Subir ahora",
+  "native.marketing.plan_active": "Activo",
+  "native.marketing.flash_sale.title_24h": "Oferta relámpago 24 h",
+  "native.marketing.flash_sale.end_time": "Termina en:",
+  "native.marketing.flash_sale.dont_miss_offer": [
+    "No te pierdas tu oferta especial de MuseScore ",
+    [
+      "plan"
+    ]
+  ],
+  "native.marketing.special_limited_offer": "Oferta especial limitada",
+  "native.marketing.plan_with_learn_lite_bundle": [
+    [
+      "plan"
+    ],
+    " con el paquete Learn Lite"
+  ],
+  "native.marketing.regular_price": "Precio habitual",
+  "native.marketing.stay_free": "Seguir gratis",
+  "native.marketing.quarterly_access": "Acceso trimestral",
+  "native.marketing.personal_offer_save": [
+    "Tu oferta personalizada: ahorra ",
+    [
+      "discount"
+    ]
+  ],
+  "native.marketing.yearly_plan": "Plan anual",
+  "native.marketing.yearly_access": "Acceso anual",
+  "native.marketing.flash_sale.title": "Oferta relámpago",
+  "native.marketing.thirty_days_at": "30 días a",
+  "native.marketing.ug_lineup.yearly_plan": "Plan anual",
+  "native.marketing.ug_lineup.quarterly": "Trimestral",
+  "native.marketing.ug_lineup.weekly": "Semanal",
+  "native.marketing.ug_lineup.welcome_offer": "Oferta de bienvenida",
+  "native.marketing.ug_lineup.three_months": "3 meses",
+  "native.marketing.ug_lineup.first_year": "Primer año",
+  "native.marketing.ug_lineup.first_year_for": [
+    "Primer año por [sb]",
+    [
+      "introPrice"
+    ],
+    "[/sb] y después [sb]",
+    [
+      "price"
+    ],
+    "[/sb]."
+  ],
+  "native.marketing.ug_lineup.twelve_months": "12 meses",
+  "native.marketing.billed_annually": "Facturación anual",
+  "native.marketing.credits_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " crédito"
+        ],
+        "many": [
+          "#",
+          " créditos"
+        ],
+        "other": [
+          "#",
+          " créditos"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.limited_offer": "oferta limitada",
+  "native.marketing.something_went_wrong_try_again": "Algo ha salido mal. Inténtalo de nuevo",
+  "native.marketing.purchase_content_error": "Error al comprar el contenido. Ponte en contacto con el soporte",
+  "native.marketing.payment_received_offline": "Pago recibido. Terminaremos de activar tu compra cuando vuelvas a estar en línea",
+  "native.marketing.purchase_error": "Error de compra",
+  "native.marketing.payment_declined_grace_period": "Se ha rechazado tu pago. Para mantener tu suscripción activa, cambia tu método de pago.",
+  "native.marketing.payment_declined_access_lost": "Se ha rechazado tu pago. Para recuperar el acceso, cambia tu método de pago.",
+  "native.marketing.fix_now": "Solucionar ahora",
+  "native.marketing.gift_checklist.one_songbook": "Un cancionero",
+  "native.marketing.gift_checklist.one_course": "Un curso",
+  "native.marketing.gift_checklist.one_score": "Una partitura",
+  "native.marketing.gift_checklist.two_songbooks": "Dos cancioneros",
+  "native.marketing.gift_checklist.two_courses": "Dos cursos",
+  "native.marketing.gift_checklist.two_scores": "Dos partituras",
+  "native.marketing.gift_checklist.three_scores": "Tres partituras",
+  "native.marketing.gift_checklist.claim_free_songbook": "Consigue tu cancionero gratis",
+  "native.marketing.gift_checklist.claim_free_course": "Consigue tu curso gratis",
+  "native.marketing.gift_checklist.claim_free_score": "Consigue tu partitura gratis",
+  "native.marketing.gift_checklist.claim_free_songbooks": "Consigue tus cancioneros gratis",
+  "native.marketing.gift_checklist.claim_free_courses": "Consigue tus cursos gratis",
+  "native.marketing.gift_checklist.claim_free_scores": "Consigue tus partituras gratis",
+  "native.marketing.gift_checklist.open_songbooks": "Abrir cancioneros",
+  "native.marketing.gift_checklist.open_courses": "Abrir cursos",
+  "native.marketing.gift_checklist.open_scores": "Abrir partituras",
+  "native.marketing.gift_checklist.step_open_songbooks": "1.  Toca «Abrir cancioneros»",
+  "native.marketing.gift_checklist.step_open_courses": "1.  Toca «Abrir cursos»",
+  "native.marketing.gift_checklist.step_open_scores": "1.  Toca «Abrir partituras»",
+  "native.marketing.gift_checklist.step_explore_songbooks": "2. Explora la biblioteca de cancioneros",
+  "native.marketing.gift_checklist.step_explore_courses": "2. Explora la biblioteca de cursos",
+  "native.marketing.gift_checklist.step_explore_scores": "2. Explora la biblioteca de partituras",
+  "native.marketing.gift_checklist.step_get_free_songbook": "4. Toca «Consigue tu cancionero gratis»",
+  "native.marketing.gift_checklist.step_get_free_course": "4. Toca «Consigue tu curso gratis»",
+  "native.marketing.gift_checklist.step_get_free_score": "4. Toca «Consigue tu partitura»",
+  "native.marketing.gift_checklist.step_found_favorite": "3. ¿Has encontrado un nuevo favorito?",
+  "native.marketing.gift_checklist.step_enjoy": "5. ¡Disfruta!",
+  "native.marketing.gift_checklist.ready_to_claim": "¿Todo listo para recibir tu premio? Solo tienes que seguir estos pasos:",
+  "native.marketing.gift_checklist.day": "día",
+  "native.marketing.gift_checklist.tap_to_open": "Toca para abrir",
+  "native.marketing.promo_code_applied": "¡Código promocional aplicado!",
+  "native.marketing.last_chance": "Última oportunidad",
+  "native.marketing.timer_left": "restantes",
+  "native.marketing.choose_your_plan": "Elige tu plan",
+  "native.marketing.reviews.whitney": "Es un producto increíble para conseguir tus partituras favoritas y aprender con ellas, con funciones para controlar la velocidad, hacer anotaciones, marcar tus partituras favoritas y muchísimas más. Me encanta... ❤",
+  "native.marketing.reviews.lucy": "¡Fácil de usar y genial para encontrar partituras para cualquier instrumento! En MuseScore hay una comunidad de creadores muy apasionada. La suscripción merece mucho la pena y ofrece mucho más de lo que pagas.",
+  "native.marketing.reviews.jacob": "Ha sido un recurso fantástico para aprender una gran variedad de material, sobre todo del repertorio clásico de la canción estadounidense. Hay muchas partituras oficiales que suelen ser difíciles de encontrar. También hay versiones de arreglos creadas por usuarios que a veces resultan útiles.",
+  "native.marketing.tour_update.review_mark_name": "Mark, pianista",
+  "native.marketing.tour_update.review_mark_text": "Tengo montones de partituras antiguas. Ahora puedo escanearlas y volver a usarlas de verdad para practicar.",
+  "native.marketing.tour_update.review_lisa_name": "Lisa, profesora de música",
+  "native.marketing.tour_update.review_lisa_text": "Preparar material para mis alumnos es muchísimo más rápido. Una foto y está listo para la clase.",
+  "native.marketing.tour_update.review_julia_name": "Julia, directora de coro",
+  "native.marketing.tour_update.review_julia_text": "Cambiar de tonalidad para los cantantes era un suplicio. Ahora escaneo y transporto en segundos",
+  "native.marketing.tour_update.title_ms4_scores": "Ya están aquí las partituras de MuseScore Studio 4",
+  "native.marketing.tour_update.title_thousands_more": "Miles de partituras más te están esperando",
+  "native.marketing.tour_update.title_elegant": "Una experiencia más elegante",
+  "native.marketing.tour_update.title_say_thanks": "Danos las gracias\n¡Déjanos una reseña!",
+  "native.marketing.tour_update.subtitle_say_hello": "Te presentamos la mayor actualización de MuseScore hasta la fecha",
+  "native.marketing.tour_update.subtitle_open_catalog": "Accede a todo el catálogo de más de 2 millones de partituras en el móvil y empieza a tocar.",
+  "native.marketing.tour_update.subtitle_better_looking": "Las partituras ahora se ven mejor y tienen opciones de tamaño más flexibles.",
+  "native.marketing.tour_update.subtitle_share_thoughts": "Comparte tu opinión y tus comentarios para que podamos seguir mejorando la aplicación.",
+  "native.marketing.tour_update.payment_title": "De foto y PDF a partitura interactiva",
+  "native.marketing.tour_update.benefit_scan_photos": "Escanea fotos de partituras para hacerlas interactivas",
+  "native.marketing.tour_update.benefit_convert_pdfs": "Convierte archivos PDF en partituras interactivas",
+  "native.marketing.tour_update.benefit_upload_arrangements": "Sube y guarda tus propios arreglos",
+  "native.marketing.tour_update.benefit_offline_library": "Accede a tu biblioteca de partituras sin conexión",
+  "native.marketing.tour_update.dive_in": "Empezar",
+  "native.marketing.tour_update.leave_review": "Dejar una reseña",
+  "native.marketing.tour_update.learn_add_pro_plus": "Tu suscripción a Learn es ideal para las lecciones. Añade PRO+ para desbloquear esta función y hacer tus partituras interactivas.",
+  "native.marketing.tour_update.preparing_experience": "Preparando tu experiencia personalizada",
+  "native.marketing.tour_update.introducing_scores_to_screen": "¡De la partitura a la pantalla!",
+  "native.marketing.tour_update.omr_feature_description": "Con nuestra nueva función OMR puedes pasar tus partituras en papel favoritas al móvil para tocarlas.",
+  "native.marketing.tour_update.thousands_of_songbooks": "¡Ya están aquí miles de cancioneros!",
+  "native.marketing.tour_update.covered_by_pro_plus": "Incluido en tu suscripción PRO+",
+  "native.marketing.tour_update.upgrade_pro_to_pro_plus_required": "Tienes que pasarte de MuseScore PRO a PRO+",
+  "native.marketing.tour_update.pro_plus_access_required": "Se requiere acceso a MuseScore PRO+",
+  "native.marketing.tour_update.upgrade_to_unlock_feature": "Pásate a PRO+ para desbloquear esta función",
+  "native.marketing.score_discount.today": "Hoy",
+  "native.marketing.auto_scroll_settings_hint": "Ahora la vista de página está activada por defecto.\nSiempre puedes activar el «Desplazamiento automático» en la configuración",
+  "native.marketing.export_community_scores_pdf_title": "Exportar partituras de la comunidad a PDF",
+  "native.marketing.export_community_scores_pdf_description": "Los usuarios premium pueden descargar partituras de la comunidad en PDF, MIDI y MP3. Después puedes imprimir el PDF",
+  "native.marketing.free_official_scores_downloads": [
+    "Consigue ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " descarga gratis"
+        ],
+        "many": [
+          "#",
+          " descargas gratis"
+        ],
+        "other": [
+          "#",
+          " descargas gratis"
+        ]
+      }
+    ],
+    " de partituras oficiales"
+  ],
+  "native.marketing.benefits.official_scores": "Consulta partituras oficiales con licencia de [sb]editoriales musicales[/sb]",
+  "native.marketing.benefits.download_print_community": "Descarga e imprime partituras de la enorme colección de la comunidad ([sb]1.426.528[/sb] y sumando)",
+  "native.marketing.benefits.one_subscription_all_devices": "Una sola suscripción para todos tus dispositivos",
+  "native.marketing.benefits.offline_access": "Acceso sin conexión a las partituras",
+  "native.marketing.purchase_success.free_until": "Gratis hasta",
+  "native.marketing.purchase_success.then": "Después",
+  "native.marketing.purchase_success.renews": "Se renueva",
+  "native.marketing.purchase_success.period_year": "año",
+  "native.marketing.purchase_success.period_3_months": "3 meses",
+  "native.marketing.purchase_success.period_month": "mes",
+  "native.marketing.purchase_success.on_date": [
+    "el ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.purchase_success.plan_unlocked": [
+    [
+      "plan"
+    ],
+    " desbloqueado"
+  ],
+  "native.marketing.subscription_settings.price_on_date": [
+    [
+      "price"
+    ],
+    " el ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.subscription_settings.active_until": [
+    "La suscripción está activa hasta el ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.no_subscriptions_to_restore": "No hay suscripciones que restaurar",
+  "native.marketing.pro_plus_benefits": "Ventajas de Pro+",
+  "native.marketing.free": "Gratis",
+  "native.marketing.game.wow_off_annual": [
+    "¡Guau! Un ",
+    [
+      "discount"
+    ],
+    "% de descuento en la suscripción anual"
+  ],
+  "native.marketing.discount_off": [
+    [
+      "discount"
+    ],
+    " de descuento"
+  ],
+  "native.marketing.anniversary.open_my_gift": "Abrir mi regalo",
+  "native.marketing.anniversary.use_my_gift": "Usar mi regalo",
+  "native.marketing.pinata.hit_the_pinata": "¡Rompe la piñata!",
+  "native.marketing.restore_card.plan_expire_soon": [
+    "Tu suscripción a MuseScore ",
+    [
+      "plan"
+    ],
+    " caducará pronto"
+  ],
+  "native.marketing.one_pro_credit": "1 crédito PRO",
+  "native.make_public.screen_title": "Actualizando partitura",
+  "native.screen_omr.photos_permission_message": "Permite el acceso a tus fotos en los ajustes",
+  "native.screen_omr.recognized_via_ai_scan": "Reconocida mediante escaneo por IA",
+  "native.new_concept.common.parts_count": [
+    [
+      "count"
+    ],
+    " partes"
+  ],
+  "native.new_concept.learn.lessons_progress": [
+    [
+      "completed"
+    ],
+    " / ",
+    [
+      "total"
+    ],
+    " lecciones"
+  ],
+  "native.score.more_like_this": "Similares",
+  "native.score.error_loading_soundfont": "Error al cargar el banco de sonidos",
+  "native.score.failed_to_open_score": "No se ha podido abrir la partitura",
+  "native.score.error_opening_file": "Error al abrir el archivo",
+  "native.score.feature_offline_access_title": "Acceso sin conexión",
+  "native.score.feature_background_play_title": "Reproducción en segundo plano",
+  "native.score.feature_background_play_text": "Sigue escuchando tu partitura aunque salgas de la aplicación o bloquees el móvil.",
+  "native.score.badge_new": "Nuevo",
+  "native.score.annotation.pen_size": "Tamaño del lápiz",
+  "native.score.annotation.highlight_size": "Tamaño del resaltado",
+  "native.score.annotation.text_size": "Tamaño del texto",
+  "native.score.part_number": [
+    "Parte n.º ",
+    [
+      "number"
+    ]
+  ],
+  "native.score.bpm_value": [
+    [
+      "bpm"
+    ],
+    " BPM"
+  ],
+  "native.score.error_country_blocked": "El titular de los derechos de autor de esta partitura no la ha puesto a disposición en tu país",
+  "native.score.error_download_file": "No se ha podido descargar el archivo. Inténtalo de nuevo.",
+  "native.score.error_cannot_open": "No se puede abrir esta partitura.",
+  "native.score.download_restricted_title": "Descarga restringida",
+  "native.score.download_restricted_trial_message": "La editorial propietaria de esta música no permite que los usuarios de la prueba gratuita descarguen esta partitura",
+  "native.genre.songbook": "Cancionero",
+  "native.genre.instructional": "Didáctica",
+  "native.genre.video_game": "Videojuegos",
+  "native.genre.ballad": "Balada",
+  "native.genre.bluegrass": "Bluegrass",
+  "native.genre.celtic": "Celta",
+  "native.genre.christian": "Cristiana",
+  "native.genre.classic_rock": "Rock clásico",
+  "native.genre.contemporary": "Contemporánea",
+  "native.genre.disney": "Disney",
+  "native.genre.downtempo": "Downtempo",
+  "native.genre.educational": "Educativa",
+  "native.genre.flamenco": "Flamenco",
+  "native.genre.funk": "Funk",
+  "native.genre.fusion": "Fusión",
+  "native.genre.future_bass": "Future bass",
+  "native.genre.gospel": "Góspel",
+  "native.genre.hard_rock": "Hard rock",
+  "native.genre.heavy_metal": "Heavy metal",
+  "native.genre.holiday": "Festiva",
+  "native.genre.introspective": "Introspectiva",
+  "native.genre.kids": "Infantil",
+  "native.genre.latin": "Latina",
+  "native.genre.lullaby": "Nana",
+  "native.genre.movie_soundtrack": "Banda sonora de cine",
+  "native.genre.musical": "Musical",
+  "native.genre.orchestral": "Orquestal",
+  "native.genre.patriotic": "Patriótica",
+  "native.genre.prog_rock": "Rock progresivo",
+  "native.genre.progressive_rock": "Rock progresivo",
+  "native.genre.ragtime": "Ragtime",
+  "native.genre.rockabilly": "Rockabilly",
+  "native.genre.ska": "Ska",
+  "native.genre.soul": "Soul",
+  "native.genre.swing": "Swing",
+  "native.genre.tv_soundtrack": "Banda sonora de TV",
+  "native.genre.traditional": "Tradicional",
+  "native.genre.trap": "Trap",
+  "native.instrument.easy_piano": "Piano fácil",
+  "native.instrument.piano_vocal_guitar": "Piano/Voz/Guitarra",
+  "native.instrument.baritone_guitar": "Guitarra barítono",
+  "native.instrument.baritone_ukulele": "Ukelele barítono",
+  "native.instrument.bass_clarinet": "Clarinete bajo",
+  "native.instrument.bass_ukulele": "Ukelele bajo",
+  "native.instrument.bb_instruments": "Instrumentos en si bemol",
+  "native.instrument.bells": "Campanas",
+  "native.instrument.c_instruments": "Instrumentos en do",
+  "native.instrument.controller": "Controlador",
+  "native.instrument.double_bass": "Contrabajo",
+  "native.instrument.drums": "Batería",
+  "native.instrument.dulcimer": "Dulcémele",
+  "native.instrument.eb_instruments": "Instrumentos en mi bemol",
+  "native.instrument.guitarron": "Guitarrón",
+  "native.instrument.handpan": "Handpan",
+  "native.instrument.horns": "Metales",
+  "native.instrument.lap_steel": "Lap steel",
+  "native.instrument.loog": "Loog",
+  "native.instrument.ocarina": "Ocarina",
+  "native.instrument.pedal_steel_guitar": "Guitarra pedal steel",
+  "native.instrument.penny_whistle": "Penny whistle",
+  "native.instrument.steelpan": "Steelpan",
+  "native.instrument.synths": "Sintetizadores",
+  "native.instrument.tin_whistle": "Tin whistle",
+  "native.instrument.turntables_mixers": "Platos y mezcladores",
+  "native.instrument.venova": "Venova",
+  "native.shazam.briefing.title": "Escúchala. Tócala.",
+  "native.shazam.briefing.description": "Acerca el teléfono a la música: identificaremos la canción y luego buscaremos la partitura para que la toques.",
+  "native.shazam.briefing.enable_microphone_title": "Activa el micrófono",
+  "native.shazam.briefing.enable_microphone_description": "Necesitamos tu permiso para poder encontrar la partitura.",
+  "native.shazam.briefing.tap_to_listen": "Toca para escuchar",
+  "native.shazam.powered_by": "con la tecnología de",
+  "native.shazam.listening.title": "Escuchando…",
+  "native.shazam.listening.subtitle": "Acerca el dispositivo a la música",
+  "native.shazam.listening.tough_title": "Esta se resiste",
+  "native.shazam.listening.tough_subtitle": "Un último intento…",
+  "native.shazam.listening.matching_title": "Buscando la partitura",
+  "native.shazam.listening.matching_subtitle": "Solo un momento",
+  "native.shazam.no_match.title": "No hemos podido reconocerla",
+  "native.shazam.no_match.description": "Vuelve a intentarlo un poco más cerca o en un lugar más tranquilo.",
+  "native.shazam.no_scores.title": "No hemos encontrado ninguna partitura de esta canción",
+  "native.shazam.no_scores.back_to_home": "Volver al inicio",
+  "native.shazam.more_from_artist": "Más de este artista",
+  "native.shazam.matching_scores": "Partituras coincidentes",
+  "native.shazam.open_in_apple_music": "Abrir en Apple Music",
+  "native.shazam.error.try_again_hint": "Inténtalo de nuevo.",
+  "native.ensemble.solo": "Solo",
+  "native.ensemble.mixed_ensembles": "Conjuntos mixtos",
+  "native.ensemble.mixed_ensemble": "Conjunto mixto",
+  "native.ensemble.mixed_duet": "Dúo mixto",
+  "native.ensemble.piano_ensembles": "Conjuntos de piano",
+  "native.ensemble.vocal_ensembles": "Conjuntos vocales",
+  "native.ensemble.choral": "Coral",
+  "native.ensemble.piano_voice": "Piano-Voz",
+  "native.ensemble.woodwind_ensembles": "Conjuntos de viento madera",
+  "native.ensemble.bands_orchestras": "Bandas / Orquestas",
+  "native.ensemble.string_ensembles": "Conjuntos de cuerda",
+  "native.ensemble.mixed_quartet": "Cuarteto mixto",
+  "native.ensemble.mixed_trio": "Trío mixto",
+  "native.ensemble.brass_ensembles": "Conjuntos de viento metal",
+  "native.ensemble.mixed_quintet": "Quinteto mixto",
+  "native.ensemble.piano_duo": "Dúo de pianos",
+  "native.ensemble.piano_voice_guitar": "Piano-Voz-Guitarra",
+  "native.ensemble.satb": "SATB",
+  "native.ensemble.string_quartet": "Cuarteto de cuerda",
+  "native.ensemble.brass_ensemble": "Conjunto de viento metal",
+  "native.ensemble.woodwind_duet": "Dúo de viento madera",
+  "native.ensemble.symphony_orchestra": "Orquesta sinfónica",
+  "native.ensemble.string_duet": "Dúo de cuerda",
+  "native.ensemble.string_ensemble": "Conjunto de cuerda",
+  "native.ensemble.concert_band": "Banda de concierto",
+  "native.ensemble.woodwind_quartet": "Cuarteto de viento madera",
+  "native.ensemble.brass_duet": "Dúo de viento metal",
+  "native.ensemble.saxophone_ensemble": "Conjunto de saxofones",
+  "native.ensemble.percussion_ensembles": "Conjuntos de percusión",
+  "native.ensemble.jazz_band": "Banda de jazz",
+  "native.ensemble.chamber_orchestra": "Orquesta de cámara",
+  "native.ensemble.marching_band": "Banda de desfile",
+  "native.ensemble.woodwind_ensemble": "Conjunto de viento madera",
+  "native.ensemble.piano_sextet": "Sexteto con piano",
+  "native.ensemble.woodwind_quintet": "Quinteto de viento madera",
+  "native.ensemble.woodwind_trio": "Trío de viento madera",
+  "native.ensemble.brass_quartet": "Cuarteto de viento metal",
+  "native.ensemble.percussion_ensemble": "Conjunto de percusión",
+  "native.ensemble.a_capella": "A capela",
+  "native.ensemble.brass_quintet": "Quinteto de viento metal",
+  "native.ensemble.church_choir": "Coro de iglesia",
+  "native.ensemble.piano_trio": "Trío con piano",
+  "native.ensemble.string_quintet": "Quinteto de cuerda",
+  "native.ensemble.string_trio": "Trío de cuerda",
+  "native.ensemble.brass_band_british_style": "Banda de metales (estilo británico)",
+  "native.ensemble.percussion_duet": "Dúo de percusión",
+  "native.ensemble.percussion_quartet": "Cuarteto de percusión",
+  "native.ensemble.piano_four_hand": "Piano a cuatro manos",
+  "native.ensemble.percussion_trio": "Trío de percusión",
+  "native.ensemble.piano_quartet": "Cuarteto con piano",
+  "native.ensemble.drum_corps_modern": "Banda de tambores (moderna)",
+  "native.ensemble.mens_choir": "Coro masculino",
+  "native.ensemble.brass_trio": "Trío de viento metal",
+  "native.ensemble.piano_quintet": "Quinteto con piano",
+  "native.ensemble.pep_band": "Banda de animación",
+  "native.ensemble.percussion_quintet": "Quinteto de percusión",
+  "native.ensemble.womens_choir": "Coro femenino",
+  "native.ensemble.brass_band_new_orleans": "Banda de metales (Nueva Orleans)",
+  "native.ensemble.indoor_percussion_ensemble": "Conjunto de percusión de interior",
+  "native.ensemble.string_sextet": "Sexteto de cuerda",
+  "native.ensemble.show_choir": "Coro escénico",
+  "native.ensemble.bagpipe_band": "Banda de gaitas",
+  "native.ensemble.handbell_ensembles": "Conjuntos de campanas de mano",
+  "native.shazam.by_artist": [
+    "De ",
+    [
+      "artist"
+    ]
+  ],
+  "native.scores_after_tour.title": "Elige tu primera partitura",
+  "native.scores_after_tour.recommendations": "Recomendaciones",
+  "native.about_screen.made_by": [
+    "Creado por MuseScore\nversión ",
+    [
+      "version"
+    ]
+  ],
+  "native.about_screen.powered_by": [
+    "Con la tecnología de Extasy Engine\nversión ",
+    [
+      "version"
+    ]
+  ],
+  "native.shazam.tooltip_identify_music": "Identifica la música que suena cerca",
+  "native.courses.card.hours_lessons": [
+    [
+      "hours",
+      "plural",
+      {
+        "one": [
+          "#",
+          " hora"
+        ],
+        "many": [
+          "#",
+          " horas"
+        ],
+        "other": [
+          "#",
+          " horas"
+        ]
+      }
+    ],
+    ", ",
+    [
+      "lessons",
+      "plural",
+      {
+        "one": [
+          "#",
+          " lección"
+        ],
+        "many": [
+          "#",
+          " lecciones"
+        ],
+        "other": [
+          "#",
+          " lecciones"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.completed_of_count": [
+    [
+      "completed"
+    ],
+    " de ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " lección"
+        ],
+        "many": [
+          "#",
+          " lecciones"
+        ],
+        "other": [
+          "#",
+          " lecciones"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.count_minutes": [
+    [
+      "lessons",
+      "plural",
+      {
+        "one": [
+          "#",
+          " lección"
+        ],
+        "many": [
+          "#",
+          " lecciones"
+        ],
+        "other": [
+          "#",
+          " lecciones"
+        ]
+      }
+    ],
+    ", ",
+    [
+      "minutes",
+      "plural",
+      {
+        "one": [
+          "#",
+          " min"
+        ],
+        "many": [
+          "#",
+          " min"
+        ],
+        "other": [
+          "#",
+          " min"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.count_hours_minutes": [
+    [
+      "lessons",
+      "plural",
+      {
+        "one": [
+          "#",
+          " lección"
+        ],
+        "many": [
+          "#",
+          " lecciones"
+        ],
+        "other": [
+          "#",
+          " lecciones"
+        ]
+      }
+    ],
+    ", ",
+    [
+      "hours",
+      "plural",
+      {
+        "one": [
+          "#",
+          " h"
+        ],
+        "many": [
+          "#",
+          " h"
+        ],
+        "other": [
+          "#",
+          " h"
+        ]
+      }
+    ],
+    " ",
+    [
+      "minutes",
+      "plural",
+      {
+        "one": [
+          "#",
+          " min"
+        ],
+        "many": [
+          "#",
+          " min"
+        ],
+        "other": [
+          "#",
+          " min"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.lessons_count_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " lección"
+        ],
+        "many": [
+          "#",
+          " lecciones"
+        ],
+        "other": [
+          "#",
+          " lecciones"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.lessons_progress_plural": [
+    [
+      "completed"
+    ],
+    " / ",
+    [
+      "total",
+      "plural",
+      {
+        "one": [
+          "#",
+          " lección"
+        ],
+        "many": [
+          "#",
+          " lecciones"
+        ],
+        "other": [
+          "#",
+          " lecciones"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.course_hours_short_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " h"
+        ],
+        "many": [
+          "#",
+          " h"
+        ],
+        "other": [
+          "#",
+          " h"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.rewind_back_seconds": [
+    "- ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " segundo"
+        ],
+        "many": [
+          "#",
+          " segundos"
+        ],
+        "other": [
+          "#",
+          " segundos"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.rewind_forward_seconds": [
+    "+ ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " segundo"
+        ],
+        "many": [
+          "#",
+          " segundos"
+        ],
+        "other": [
+          "#",
+          " segundos"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.quality_normal_resolution": [
+    "Normal (",
+    [
+      "resolution"
+    ],
+    ")"
+  ],
+  "native.courses.lesson_number": [
+    "Lección ",
+    [
+      "number"
+    ]
+  ],
+  "native.user.sets_of_user": [
+    "Listas de ",
+    [
+      "userName"
+    ]
+  ],
+  "native.sets.empty_for_user": [
+    [
+      "userName"
+    ],
+    " aún no tiene listas."
+  ],
+  "native.score.parts_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " parte"
+        ],
+        "many": [
+          "#",
+          " partes"
+        ],
+        "other": [
+          "#",
+          " partes"
+        ]
+      }
+    ]
+  ],
+  "native.score.comments_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " comentario"
+        ],
+        "many": [
+          "#",
+          " comentarios"
+        ],
+        "other": [
+          "#",
+          " comentarios"
+        ]
+      }
+    ]
+  ],
+  "native.screen_comments.replies_count_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " respuesta"
+        ],
+        "many": [
+          "#",
+          " respuestas"
+        ],
+        "other": [
+          "#",
+          " respuestas"
+        ]
+      }
+    ]
+  ],
+  "native.feed.score_by_author": [
+    "[score]",
+    [
+      "title"
+    ],
+    "[/score] de [author]",
+    [
+      "author"
+    ],
+    "[/author]"
+  ],
+  "native.feed.items.20_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] ha comentado tu partitura"
+  ],
+  "native.feed.items.21_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] ha respondido a tu comentario en la partitura"
+  ],
+  "native.feed.items.22_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] ha guardado tu partitura"
+  ],
+  "native.feed.items.26_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] ha comentado tu partitura guardada"
+  ],
+  "native.feed.items.30_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] ha añadido la partitura"
+  ],
+  "native.feed.items.31_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] ha empezado a seguirte"
+  ],
+  "native.song_book_remove.title_with_score": [
+    "¿Seguro que quieres eliminar «",
+    [
+      "title"
+    ],
+    "»?"
+  ],
+  "native.user.followers_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          [
+            "formattedCount"
+          ],
+          " seguidor"
+        ],
+        "many": [
+          [
+            "formattedCount"
+          ],
+          " seguidores"
+        ],
+        "other": [
+          [
+            "formattedCount"
+          ],
+          " seguidores"
+        ]
+      }
+    ]
+  ],
+  "native.score_action_sheet.pages_value": [
+    "Páginas: ",
+    [
+      "pages"
+    ]
+  ],
+  "native.score_action_sheet.duration_value": [
+    "Duración: ",
+    [
+      "duration"
+    ]
+  ],
+  "native.artists.based_on_song": [
+    "Esta partitura está basada en [song]",
+    [
+      "song"
+    ],
+    "[/song]"
+  ],
+  "native.artists.by_artist": [
+    "De [artist]",
+    [
+      "artist"
+    ],
+    "[/artist]"
+  ],
+  "native.common.label_with_colon": [
+    [
+      "label"
+    ],
+    ":"
+  ],
+  "native.score.tempo_percent": [
+    "Tempo ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.bluetooth_pedal.instruction_1_with_os": [
+    "Enciende el pedal y conéctalo a tu dispositivo ",
+    [
+      "osName"
+    ],
+    "."
+  ],
+  "native.screen_new_account.password_strength_line.weak": "Seguridad de la contraseña: [color]baja[/color]",
+  "native.screen_new_account.password_strength_line.normal": "Seguridad de la contraseña: [color]media[/color]",
+  "native.screen_new_account.password_strength_line.strong": "Seguridad de la contraseña: [color]alta[/color]",
+  "native.screen_new_account.has_account_login": "¿Ya tienes una cuenta? [login]Inicia sesión[/login]",
+  "native.ebooks.pages_count_label": [
+    [
+      "count",
+      "plural",
+      {
+        "one": "página",
+        "many": "páginas",
+        "other": "páginas"
+      }
+    ]
+  ],
+  "native.marketing.price_line.per_year": [
+    [
+      "price"
+    ],
+    "/año"
+  ],
+  "native.marketing.price_line.per_month": [
+    [
+      "price"
+    ],
+    "/mes"
+  ],
+  "native.marketing.price_line.per_week": [
+    [
+      "price"
+    ],
+    "/semana"
+  ],
+  "native.marketing.price_line.per_months": [
+    [
+      "price"
+    ],
+    "/",
+    [
+      "count",
+      "plural",
+      {
+        "one": "mes",
+        "many": [
+          "#",
+          " meses"
+        ],
+        "other": [
+          "#",
+          " meses"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.slash_week": "/semana",
+  "native.marketing.price_line.months_at_per_month": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " mes a ",
+          [
+            "price"
+          ],
+          "/mes"
+        ],
+        "many": [
+          "#",
+          " meses a ",
+          [
+            "price"
+          ],
+          "/mes"
+        ],
+        "other": [
+          "#",
+          " meses a ",
+          [
+            "price"
+          ],
+          "/mes"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.weeks_at_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " semana a ",
+          [
+            "price"
+          ],
+          "/semana"
+        ],
+        "many": [
+          "#",
+          " semanas a ",
+          [
+            "price"
+          ],
+          "/semana"
+        ],
+        "other": [
+          "#",
+          " semanas a ",
+          [
+            "price"
+          ],
+          "/semana"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.weeks_at_old_price_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " semana a [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/semana"
+        ],
+        "many": [
+          "#",
+          " semanas a [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/semana"
+        ],
+        "other": [
+          "#",
+          " semanas a [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/semana"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.days_at_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " día a ",
+          [
+            "price"
+          ],
+          "/semana"
+        ],
+        "many": [
+          "#",
+          " días a ",
+          [
+            "price"
+          ],
+          "/semana"
+        ],
+        "other": [
+          "#",
+          " días a ",
+          [
+            "price"
+          ],
+          "/semana"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.days_at_old_price_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " día a [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/semana"
+        ],
+        "many": [
+          "#",
+          " días a [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/semana"
+        ],
+        "other": [
+          "#",
+          " días a [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/semana"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.first_year_then_per_year": [
+    "[sb]",
+    [
+      "introPrice"
+    ],
+    "/año[/sb] el primer año y después ",
+    [
+      "price"
+    ],
+    "/año"
+  ],
+  "native.marketing.price_line.first_year_then_per_year_bold": [
+    "[sb]",
+    [
+      "introPrice"
+    ],
+    "/año[/sb] el primer año y después [sb]",
+    [
+      "price"
+    ],
+    "/año[/sb]"
+  ],
+  "native.marketing.price_line.trial_then_per_year": [
+    "Prueba gratuita de 7 días. Después, [sb]",
+    [
+      "price"
+    ],
+    "/año[/sb]"
+  ],
+  "native.marketing.price_line.annual_access_per_year": [
+    "Acceso anual. [sb]",
+    [
+      "price"
+    ],
+    "/año[/sb]"
+  ],
+  "native.marketing.price_line.trial_then_per_month": [
+    "Prueba gratuita de 7 días. Después, ",
+    [
+      "price"
+    ],
+    "/mes"
+  ],
+  "native.marketing.price_line.annual_access_then_per_month": [
+    "Acceso anual. Después, ",
+    [
+      "price"
+    ],
+    "/mes"
+  ],
+  "native.marketing.price_line.trial_per_year_cancel_anytime": [
+    "Prueba 7 días gratis y después paga ",
+    [
+      "price"
+    ],
+    " al año. Puedes cancelar cuando quieras"
+  ],
+  "native.marketing.price_line.one_instant_discount": [
+    "Una sola suscripción para todo lo que necesitas: ",
+    [
+      "percent"
+    ],
+    "% de descuento"
+  ],
+  "native.marketing.price_line.one_time_payment": [
+    "Pago único de [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.badge.save_percent": [
+    "Ahorra ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.offer.name_save_percent": [
+    [
+      "offerName"
+    ],
+    ": ahorra un ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.feature.scores_millions_ad_free": [
+    "[b]",
+    [
+      "scoresMillions"
+    ],
+    " M de partituras[/b], todas sin anuncios"
+  ],
+  "native.marketing.feature.courses_count_experts": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "[b]Más de ",
+          "#",
+          "[/b] curso de música impartido por [b]expertos[/b]"
+        ],
+        "many": [
+          "[b]Más de ",
+          "#",
+          "[/b] cursos de música impartidos por [b]expertos[/b]"
+        ],
+        "other": [
+          "[b]Más de ",
+          "#",
+          "[/b] cursos de música impartidos por [b]expertos[/b]"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.ug_lineup.months_price": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " mes"
+        ],
+        "many": [
+          "#",
+          " meses"
+        ],
+        "other": [
+          "#",
+          " meses"
+        ]
+      }
+    ],
+    " • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.ug_lineup.first_year_price": [
+    "Primer año • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.ug_lineup.first_year_for_free_cancel": [
+    "Primer año por [sb]",
+    [
+      "introPrice"
+    ],
+    "[/sb] y después [sb]",
+    [
+      "price"
+    ],
+    "[/sb]. Puedes cancelar gratis cuando quieras."
+  ],
+  "native.marketing.credit_pack.credits_valid_for": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " crédito PRO"
+        ],
+        "many": [
+          "#",
+          " créditos PRO"
+        ],
+        "other": [
+          "#",
+          " créditos PRO"
+        ]
+      }
+    ],
+    ". Validez: ",
+    [
+      "months",
+      "plural",
+      {
+        "one": [
+          "#",
+          " mes"
+        ],
+        "many": [
+          "#",
+          " meses"
+        ],
+        "other": [
+          "#",
+          " meses"
+        ]
+      }
+    ],
+    "."
+  ],
+  "native.marketing.credit_pack.price_one_time": [
+    "Pago único de [sb]",
+    [
+      "price"
+    ],
+    "[/sb]."
+  ],
+  "native.marketing.credit_pack.price_one_time_save": [
+    "Pago único de [sb]",
+    [
+      "price"
+    ],
+    "[/sb]. Ahorra un ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.credit_pack.name_save_percent": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " crédito"
+        ],
+        "many": [
+          "#",
+          " créditos"
+        ],
+        "other": [
+          "#",
+          " créditos"
+        ]
+      }
+    ],
+    ": ahorra un ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.billing_info.includes_plan": [
+    "Esta suscripción incluye acceso a MuseScore ",
+    [
+      "plan"
+    ]
+  ],
+  "native.marketing.billing_info.includes_plan_and_course": [
+    "Esta suscripción incluye acceso a MuseScore ",
+    [
+      "plan"
+    ],
+    " y desbloquea un curso de tu elección al mes de la Selección de los editores"
+  ],
+  "native.marketing.last_chance.start_membership": "Última oportunidad para empezar tu suscripción",
+  "native.marketing.last_chance.start_with_trial": "Última oportunidad para empezar con una prueba gratuita",
+  "native.marketing.landing.upgrade_to_plan": [
+    "Pásate a MuseScore ",
+    [
+      "plan"
+    ]
+  ],
+  "native.marketing.score_sale.access_to_score": [
+    "Consigue acceso completo y permanente a ",
+    [
+      "title"
+    ]
+  ],
+  "native.marketing.anniversary.dear_username": [
+    "¡Hola, ",
+    [
+      "username"
+    ],
+    "!"
+  ],
+  "native.marketing.anniversary.available_only_now_free_cancel": "Oferta disponible solo ahora. Puedes cancelar gratis cuando quieras",
+  "native.marketing.tour.membership_get_most_with_learn": [
+    "Tienes una suscripción a MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    ". Sácale partido con los cursos de MuseScore LEARN."
+  ],
+  "native.marketing.tour.membership_add_pro_plus": [
+    "Tienes una suscripción a MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    ". ¿Por qué no añadir el acompañamiento perfecto con MuseScore PRO+?"
+  ],
+  "native.marketing.after_sell.combines_with_trial": [
+    "Tu suscripción combina perfectamente con MuseScore ",
+    [
+      "type"
+    ],
+    " (prueba de 7 días)"
+  ],
+  "native.marketing.restore_subscription.cancels_on_date": [
+    "La suscripción se cancelará el ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.credits.description_pay_per_use": [
+    "Disfruta de funciones PRO, como descargar cualquier partitura que elijas de la enorme colección de la comunidad (",
+    [
+      "scoresCount"
+    ],
+    " millones de partituras). Paga solo lo que usas, sin compromisos."
+  ],
+  "native.marketing.credits.balance_count": [
+    "Tienes [b]",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " crédito PRO disponible"
+        ],
+        "many": [
+          "#",
+          " créditos PRO disponibles"
+        ],
+        "other": [
+          "#",
+          " créditos PRO disponibles"
+        ]
+      }
+    ],
+    "[/b]. Consigue más créditos"
+  ],
+  "native.marketing.courses_payment.title_count": [
+    "Más de ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " curso con el que aprenderás tus composiciones favoritas"
+        ],
+        "many": [
+          "#",
+          " cursos con los que aprenderás tus composiciones favoritas"
+        ],
+        "other": [
+          "#",
+          " cursos con los que aprenderás tus composiciones favoritas"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.features_carousel.courses_sub_title_count": [
+    "Acceso ilimitado a más de ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " curso preparado"
+        ],
+        "many": [
+          "#",
+          " cursos preparados"
+        ],
+        "other": [
+          "#",
+          " cursos preparados"
+        ]
+      }
+    ],
+    " para ti."
+  ],
+  "native.marketing.purchase_success.price_per_period": [
+    [
+      "price"
+    ],
+    " / ",
+    [
+      "period",
+      "select",
+      {
+        "year": "año",
+        "three_months": "3 meses",
+        "month": "mes",
+        "week": "semana",
+        "other": [
+          [
+            "duration"
+          ]
+        ]
+      }
+    ]
+  ],
+  "native.marketing.purchase_success.price_per_period_on_date": [
+    [
+      "price"
+    ],
+    " / ",
+    [
+      "period",
+      "select",
+      {
+        "year": "año",
+        "three_months": "3 meses",
+        "month": "mes",
+        "week": "semana",
+        "other": [
+          [
+            "duration"
+          ]
+        ]
+      }
+    ],
+    " el ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.purchase_success.price_on_date": [
+    [
+      "price"
+    ],
+    " el ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.credits.pro_balance_with_count": [
+    "Saldo de créditos PRO: ",
+    [
+      "count"
+    ]
+  ],
+  "native.marketing.credits.balance_with_count": [
+    "Saldo de créditos: ",
+    [
+      "count"
+    ]
+  ],
+  "native.marketing.upgrade_onboarding.access_scores_count": [
+    "Accede a ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " partitura"
+        ],
+        "many": [
+          "#",
+          " partituras"
+        ],
+        "other": [
+          "#",
+          " partituras"
+        ]
+      }
+    ],
+    " de tus piezas favoritas para piano, guitarra y canto con licencia de editoriales musicales"
+  ],
+  "native.marketing.courses.plan_subscription_required": [
+    "Se requiere una suscripción a MuseScore ",
+    [
+      "plan"
+    ]
+  ],
+  "native.orders.restore_purchase_prompt_with_link": "¿Falta algo? [a]Restaura tu compra[/a].",
+  "native.marketing.tour.start_now_with_name": [
+    "Empieza ahora, ",
+    [
+      "userName"
+    ]
+  ],
+  "native.marketing.gift_checklist.day_number": [
+    "Día ",
+    [
+      "number"
+    ]
+  ],
+  "native.marketing.questions.social_proof.content_scores_count": [
+    "Hay más de [b]13 M[/b] de músicos como tú, incluidos aquellos que ",
+    [
+      "id100"
+    ],
+    ". MuseScore ofrece [b]",
+    [
+      "scoresCount"
+    ],
+    " M[/b] de partituras",
+    [
+      "id103"
+    ]
+  ],
+  "native.marketing.personal_offer_save_named": [
+    "Oferta personalizada para ",
+    [
+      "username"
+    ],
+    ": ahorra ",
+    [
+      "discount"
+    ]
+  ],
+  "native.video_player.speed_normal": "Normal",
+  "native.marketing.maybe_later": "Maybe later",
+  "native.bug_report.no_mail_app.title": "Couldn't open a mail app",
+  "native.bug_report.no_mail_app.message": "Send your report to the address below. Copy it together with the report text and paste them into any mail app.",
+  "native.bug_report.no_mail_app.copy": "Copiar",
+  "native.alerts.not_enough_storage.title": "Not enough storage",
+  "native.alerts.not_enough_storage.message": "There isn't enough free space on your device to download this score. Free up some space and try again.",
+  "native.auth.oauth_email_missing.title": "We couldn't get your email",
+  "native.auth.oauth_email_missing.message": "The sign-in service didn't share your email address with MuseScore, so we can't create your account. Please continue with email instead.",
+  "native.marketing.ug_lineup.weeks_price": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " semana"
+        ],
+        "many": [
+          "#",
+          " semanas"
+        ],
+        "other": [
+          "#",
+          " semanas"
+        ]
+      }
+    ],
+    " • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.upgrade_bundle.add_courses": "Añade [color]Cursos[/color] a tu suscripción",
+  "native.marketing.upgrade_bundle.add_courses_and_official_scores": "Añade [color]Cursos[/color] y [color]Partituras oficiales[/color] a tu suscripción"
+}

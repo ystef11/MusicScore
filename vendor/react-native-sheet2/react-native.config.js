@@ -1,0 +1,1 @@
+module.exports={"dependency": {"platforms": {"android": {"sourceDir": "./android", "packageImportPath": "import com.sheet2.Sheet2ViewPackage;", "packageInstance": "new Sheet2ViewPackage()", "cmakeListsPath": "src/main/cpp/CMakeLists.txt"}}}};

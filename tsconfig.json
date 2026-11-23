@@ -1,0 +1,591 @@
+{
+  "extends": "@react-native/typescript-config",
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/Pods"
+  ],
+  "compilerOptions": {
+    "paths": {
+      "@mu-native/ab": [
+        "./src/modules/ab"
+      ],
+      "@mu-native/ab/*": [
+        "./src/modules/ab/*"
+      ],
+      "@mu-native/activity": [
+        "./src/modules/activity"
+      ],
+      "@mu-native/activity/*": [
+        "./src/modules/activity/*"
+      ],
+      "@mu-native/anniversary-splash-screen": [
+        "./src/sections/marketing/screens/anniversarySplash"
+      ],
+      "@mu-native/anniversary-splash-screen/*": [
+        "./src/sections/marketing/screens/anniversarySplash/*"
+      ],
+      "@mu-native/apple-watch-module": [
+        "./src/modules/appleWatchModule"
+      ],
+      "@mu-native/apple-watch-module/*": [
+        "./src/modules/appleWatchModule/*"
+      ],
+      "@mu-native/auto-grade-onboarding-screen": [
+        "./src/sections/score/screens/autoGradeOnboarding"
+      ],
+      "@mu-native/auto-grade-onboarding-screen/*": [
+        "./src/sections/score/screens/autoGradeOnboarding/*"
+      ],
+      "@mu-native/autograde-screen": [
+        "./src/sections/score/screens/autograde"
+      ],
+      "@mu-native/autograde-screen/*": [
+        "./src/sections/score/screens/autograde/*"
+      ],
+      "@mu-native/bluetooth-pedal-screen": [
+        "./src/sections/profile/screens/bluetoothPedal"
+      ],
+      "@mu-native/bluetooth-pedal-screen/*": [
+        "./src/sections/profile/screens/bluetoothPedal/*"
+      ],
+      "@mu-native/common": [
+        "./src/common"
+      ],
+      "@mu-native/common/*": [
+        "./src/common/*"
+      ],
+      "@mu-native/course-browse": [
+        "./src/sections/courses/modules/courseBrowse"
+      ],
+      "@mu-native/course-browse/*": [
+        "./src/sections/courses/modules/courseBrowse/*"
+      ],
+      "@mu-native/course-details": [
+        "./src/sections/courses/modules/courseDetails"
+      ],
+      "@mu-native/course-details/*": [
+        "./src/sections/courses/modules/courseDetails/*"
+      ],
+      "@mu-native/course-list": [
+        "./src/sections/courses/modules/courseList"
+      ],
+      "@mu-native/course-list/*": [
+        "./src/sections/courses/modules/courseList/*"
+      ],
+      "@mu-native/credits-landing-screen": [
+        "./src/sections/marketing/screens/creditsLanding"
+      ],
+      "@mu-native/credits-landing-screen/*": [
+        "./src/sections/marketing/screens/creditsLanding/*"
+      ],
+      "@mu-native/debug-screen": [
+        "./src/sections/debug/screens/debug"
+      ],
+      "@mu-native/debug-screen/*": [
+        "./src/sections/debug/screens/debug/*"
+      ],
+      "@mu-native/deferred-deeplink": [
+        "./src/modules/deferredDeeplink"
+      ],
+      "@mu-native/deferred-deeplink/*": [
+        "./src/modules/deferredDeeplink/*"
+      ],
+      "@mu-native/ds": [
+        "./src/design"
+      ],
+      "@mu-native/ds/*": [
+        "./src/design/*"
+      ],
+      "@mu-native/dynamic-decor": [
+        "./src/modules/dynamicDecor"
+      ],
+      "@mu-native/dynamic-decor/*": [
+        "./src/modules/dynamicDecor/*"
+      ],
+      "@mu-native/ebook-web-view-screen": [
+        "./src/sections/ebooks/screens/ebookWebView"
+      ],
+      "@mu-native/ebook-web-view-screen/*": [
+        "./src/sections/ebooks/screens/ebookWebView/*"
+      ],
+      "@mu-native/ebooks-main-screen": [
+        "./src/sections/ebooks/screens/ebooksMain"
+      ],
+      "@mu-native/ebooks-main-screen/*": [
+        "./src/sections/ebooks/screens/ebooksMain/*"
+      ],
+      "@mu-native/email-verification": [
+        "./src/modules/emailVerification"
+      ],
+      "@mu-native/email-verification/*": [
+        "./src/modules/emailVerification/*"
+      ],
+      "@mu-native/explore-common": [
+        "./src/sections/explore/modules/exploreCommon"
+      ],
+      "@mu-native/explore-common/*": [
+        "./src/sections/explore/modules/exploreCommon/*"
+      ],
+      "@mu-native/explore-screen": [
+        "./src/sections/explore/screens/explore"
+      ],
+      "@mu-native/explore-screen/*": [
+        "./src/sections/explore/screens/explore/*"
+      ],
+      "@mu-native/features-landing-screen": [
+        "./src/sections/marketing/screens/featuresLanding"
+      ],
+      "@mu-native/features-landing-screen/*": [
+        "./src/sections/marketing/screens/featuresLanding/*"
+      ],
+      "@mu-native/flash-splash-screen": [
+        "./src/sections/marketing/screens/flashSplash"
+      ],
+      "@mu-native/flash-splash-screen/*": [
+        "./src/sections/marketing/screens/flashSplash/*"
+      ],
+      "@mu-native/floating-landing-screen": [
+        "./src/sections/marketing/screens/floatingLanding"
+      ],
+      "@mu-native/floating-landing-screen/*": [
+        "./src/sections/marketing/screens/floatingLanding/*"
+      ],
+      "@mu-native/game-screen": [
+        "./src/sections/marketing/screens/gameScreen"
+      ],
+      "@mu-native/game-screen/*": [
+        "./src/sections/marketing/screens/gameScreen/*"
+      ],
+      "@mu-native/gift-checklist": [
+        "./src/sections/marketing/modules/giftChecklist"
+      ],
+      "@mu-native/gift-checklist/*": [
+        "./src/sections/marketing/modules/giftChecklist/*"
+      ],
+      "@mu-native/gift-checklist-screen": [
+        "./src/sections/marketing/screens/giftChecklistScreen"
+      ],
+      "@mu-native/gift-checklist-screen/*": [
+        "./src/sections/marketing/screens/giftChecklistScreen/*"
+      ],
+      "@mu-native/hq-soundfont": [
+        "./src/modules/hqSoundfont"
+      ],
+      "@mu-native/hq-soundfont/*": [
+        "./src/modules/hqSoundfont/*"
+      ],
+      "@mu-native/hub-common": [
+        "./src/sections/hubs/modules/hubCommon"
+      ],
+      "@mu-native/hub-common/*": [
+        "./src/sections/hubs/modules/hubCommon/*"
+      ],
+      "@mu-native/hubs": [
+        "./src/modules/hubs"
+      ],
+      "@mu-native/hubs/*": [
+        "./src/modules/hubs/*"
+      ],
+      "@mu-native/icons": [
+        "./src/design/icons-generated"
+      ],
+      "@mu-native/icons/*": [
+        "./src/design/icons-generated/*"
+      ],
+      "@mu-native/library-purchases": [
+        "./src/modules/libraryPurchases"
+      ],
+      "@mu-native/library-purchases/*": [
+        "./src/modules/libraryPurchases/*"
+      ],
+      "@mu-native/load-score-screen": [
+        "./src/sections/score/screens/loadScore"
+      ],
+      "@mu-native/load-score-screen/*": [
+        "./src/sections/score/screens/loadScore/*"
+      ],
+      "@mu-native/locale": [
+        "./src/modules/locale"
+      ],
+      "@mu-native/locale/*": [
+        "./src/modules/locale/*"
+      ],
+      "@mu-native/make-public": [
+        "./src/sections/score/screens/makePublic"
+      ],
+      "@mu-native/make-public/*": [
+        "./src/sections/score/screens/makePublic/*"
+      ],
+      "@mu-native/offlineScores": [
+        "./src/modules/offlineScores"
+      ],
+      "@mu-native/offlineScores/*": [
+        "./src/modules/offlineScores/*"
+      ],
+      "@mu-native/omr-success-upload-screen": [
+        "./src/sections/omr/omrSuccessUploadScreen"
+      ],
+      "@mu-native/omr-success-upload-screen/*": [
+        "./src/sections/omr/omrSuccessUploadScreen/*"
+      ],
+      "@mu-native/omr-upload-photos-screen": [
+        "./src/sections/omr/omrUploadPhotosScreen"
+      ],
+      "@mu-native/omr-upload-photos-screen/*": [
+        "./src/sections/omr/omrUploadPhotosScreen/*"
+      ],
+      "@mu-native/performance": [
+        "./src/modules/performance"
+      ],
+      "@mu-native/performance/*": [
+        "./src/modules/performance/*"
+      ],
+      "@mu-native/playlist-scores": [
+        "./src/sections/playlists/screens/playlistScores"
+      ],
+      "@mu-native/playlist-scores/*": [
+        "./src/sections/playlists/screens/playlistScores/*"
+      ],
+      "@mu-native/pricing-landing-screen": [
+        "./src/sections/marketing/screens/pricingLanding"
+      ],
+      "@mu-native/pricing-landing-screen/*": [
+        "./src/sections/marketing/screens/pricingLanding/*"
+      ],
+      "@mu-native/profile-screen": [
+        "./src/sections/profile/screens/profile"
+      ],
+      "@mu-native/profile-screen/*": [
+        "./src/sections/profile/screens/profile/*"
+      ],
+      "@mu-native/purchase-success-screen": [
+        "./src/sections/marketing/screens/purchaseSuccess"
+      ],
+      "@mu-native/purchase-success-screen/*": [
+        "./src/sections/marketing/screens/purchaseSuccess/*"
+      ],
+      "@mu-native/pushNotifications": [
+        "./src/modules/pushNotifications"
+      ],
+      "@mu-native/pushNotifications/*": [
+        "./src/modules/pushNotifications/*"
+      ],
+      "@mu-native/quiz": [
+        "./src/sections/marketing/modules/quiz"
+      ],
+      "@mu-native/quiz/*": [
+        "./src/sections/marketing/modules/quiz/*"
+      ],
+      "@mu-native/recently-viewed-scores": [
+        "./src/modules/recentlyViewedScores"
+      ],
+      "@mu-native/recently-viewed-scores/*": [
+        "./src/modules/recentlyViewedScores/*"
+      ],
+      "@mu-native/return-splash-screen": [
+        "./src/sections/marketing/screens/returnSplash"
+      ],
+      "@mu-native/return-splash-screen/*": [
+        "./src/sections/marketing/screens/returnSplash/*"
+      ],
+      "@mu-native/reviewApp": [
+        "./src/modules/reviewApp"
+      ],
+      "@mu-native/reviewApp/*": [
+        "./src/modules/reviewApp/*"
+      ],
+      "@mu-native/rt-analytics": [
+        "./src/modules/rt-analytics"
+      ],
+      "@mu-native/rt-analytics/*": [
+        "./src/modules/rt-analytics/*"
+      ],
+      "@mu-native/score-discount-splash-screen": [
+        "./src/sections/marketing/screens/scoreDiscountSplash"
+      ],
+      "@mu-native/score-discount-splash-screen/*": [
+        "./src/sections/marketing/screens/scoreDiscountSplash/*"
+      ],
+      "@mu-native/score-sale-screen": [
+        "./src/sections/marketing/screens/scoreSale"
+      ],
+      "@mu-native/score-sale-screen/*": [
+        "./src/sections/marketing/screens/scoreSale/*"
+      ],
+      "@mu-native/score-screen": [
+        "./src/sections/score/screens/score"
+      ],
+      "@mu-native/score-screen/*": [
+        "./src/sections/score/screens/score/*"
+      ],
+      "@mu-native/score-set-details": [
+        "./src/sections/userProfile/modules/scoreSetDetails"
+      ],
+      "@mu-native/score-set-details/*": [
+        "./src/sections/userProfile/modules/scoreSetDetails/*"
+      ],
+      "@mu-native/score-set-list": [
+        "./src/sections/userProfile/modules/scoreSetList"
+      ],
+      "@mu-native/score-set-list/*": [
+        "./src/sections/userProfile/modules/scoreSetList/*"
+      ],
+      "@mu-native/scores-after-tour-screen": [
+        "./src/sections/explore/screens/scoresAfterTour"
+      ],
+      "@mu-native/scores-after-tour-screen/*": [
+        "./src/sections/explore/screens/scoresAfterTour/*"
+      ],
+      "@mu-native/screen-long-landing": [
+        "./src/sections/marketing/screens/screenLongLanding"
+      ],
+      "@mu-native/screen-long-landing/*": [
+        "./src/sections/marketing/screens/screenLongLanding/*"
+      ],
+      "@mu-native/subscription-settings-screen": [
+        "./src/sections/marketing/screens/SubscriptionSettings"
+      ],
+      "@mu-native/subscription-settings-screen/*": [
+        "./src/sections/marketing/screens/SubscriptionSettings/*"
+      ],
+      "@mu-native/system": [
+        "./src/modules/system"
+      ],
+      "@mu-native/system/*": [
+        "./src/modules/system/*"
+      ],
+      "@mu-native/tour-install-screen": [
+        "./src/sections/marketing/screens/tourInstall"
+      ],
+      "@mu-native/tour-install-screen/*": [
+        "./src/sections/marketing/screens/tourInstall/*"
+      ],
+      "@mu-native/tour-update-screen": [
+        "./src/sections/marketing/screens/tourUpdate"
+      ],
+      "@mu-native/tour-update-screen/*": [
+        "./src/sections/marketing/screens/tourUpdate/*"
+      ],
+      "@mu-native/universal-score-list": [
+        "./src/modules/universal-score-list"
+      ],
+      "@mu-native/universal-score-list/*": [
+        "./src/modules/universal-score-list/*"
+      ],
+      "@mu-native/user-profile-info": [
+        "./src/sections/userProfile/modules/userProfileInfo"
+      ],
+      "@mu-native/user-profile-info/*": [
+        "./src/sections/userProfile/modules/userProfileInfo/*"
+      ],
+      "@mu-native/xtz": [
+        "./src/xtz"
+      ],
+      "@mu-native/xtz/*": [
+        "./src/xtz/*"
+      ],
+      "@muse-native/api": [
+        "./src/modules/muse-native-api"
+      ],
+      "@muse-native/api/*": [
+        "./src/modules/muse-native-api/*"
+      ],
+      "@muse-native/mmkv": [
+        "./src/modules/mmkv"
+      ],
+      "@muse-native/mmkv/*": [
+        "./src/modules/mmkv/*"
+      ],
+      "@muse-native/persist-engines": [
+        "./src/modules/persist-engines"
+      ],
+      "@muse-native/persist-engines/*": [
+        "./src/modules/persist-engines/*"
+      ],
+      "@ug/store": [
+        "./src/modules/ug-store"
+      ],
+      "@ug/store/*": [
+        "./src/modules/ug-store/*"
+      ],
+      "@mu-native/analytics": [
+        "./src/modules/analytics"
+      ],
+      "@mu-native/analytics/*": [
+        "./src/modules/analytics/*"
+      ],
+      "@mu-native/api": [
+        "./src/modules/api"
+      ],
+      "@mu-native/api/*": [
+        "./src/modules/api/*"
+      ],
+      "@mu-native/auth": [
+        "./src/modules/auth"
+      ],
+      "@mu-native/auth/*": [
+        "./src/modules/auth/*"
+      ],
+      "@mu-native/debug": [
+        "./src/modules/debug"
+      ],
+      "@mu-native/debug/*": [
+        "./src/modules/debug/*"
+      ],
+      "@mu-native/marketing": [
+        "./src/modules/marketing"
+      ],
+      "@mu-native/marketing/*": [
+        "./src/modules/marketing/*"
+      ],
+      "@mu-native/navigation": [
+        "./src/modules/navigation"
+      ],
+      "@mu-native/navigation/*": [
+        "./src/modules/navigation/*"
+      ],
+      "@mu-native/nps": [
+        "./src/modules/nps"
+      ],
+      "@mu-native/nps/*": [
+        "./src/modules/nps/*"
+      ],
+      "@mu-native/omr": [
+        "./src/modules/omr"
+      ],
+      "@mu-native/omr/*": [
+        "./src/modules/omr/*"
+      ],
+      "@mu-native/profile": [
+        "./src/modules/profile"
+      ],
+      "@mu-native/profile/*": [
+        "./src/modules/profile/*"
+      ],
+      "@mu-native/score": [
+        "./src/modules/score"
+      ],
+      "@mu-native/score/*": [
+        "./src/modules/score/*"
+      ],
+      "@mu-native/search": [
+        "./src/modules/search"
+      ],
+      "@mu-native/search/*": [
+        "./src/modules/search/*"
+      ],
+      "@mu-native/shazam": [
+        "./src/modules/shazam"
+      ],
+      "@mu-native/shazam/*": [
+        "./src/modules/shazam/*"
+      ],
+      "@muse-native/analytics": [
+        "./src/modules/muse-analytics"
+      ],
+      "@muse-native/analytics/*": [
+        "./src/modules/muse-analytics/*"
+      ],
+      "@mu-native/songbook": [
+        "./src/sections/library/modules/songbook"
+      ],
+      "@mu-native/songbook/*": [
+        "./src/sections/library/modules/songbook/*"
+      ],
+      "@mu-native/new-concept-shared": [
+        "./src/sections/new-concept/shared"
+      ],
+      "@mu-native/new-concept-shared/*": [
+        "./src/sections/new-concept/shared/*"
+      ],
+      "@mu-native/omr-main-screen": [
+        "./src/sections/omr/mainScreen"
+      ],
+      "@mu-native/omr-main-screen/*": [
+        "./src/sections/omr/mainScreen/*"
+      ],
+      "@mu-native/restore-offer-screen": [
+        "./src/sections/marketing/screens/restoreOfferSplash"
+      ],
+      "@mu-native/restore-offer-screen/*": [
+        "./src/sections/marketing/screens/restoreOfferSplash/*"
+      ],
+      "@mu-native/feedback-pedal-screen": [
+        "./src/sections/profile/screens/feedback"
+      ],
+      "@mu-native/feedback-pedal-screen/*": [
+        "./src/sections/profile/screens/feedback/*"
+      ],
+      "@mu-native/score-comments-screen": [
+        "./src/sections/score/screens/comments"
+      ],
+      "@mu-native/score-comments-screen/*": [
+        "./src/sections/score/screens/comments/*"
+      ],
+      "@mu-native/new-concept-home-screen": [
+        "./src/sections/new-concept/screens/home"
+      ],
+      "@mu-native/new-concept-home-screen/*": [
+        "./src/sections/new-concept/screens/home/*"
+      ],
+      "@mu-native/new-concept-learn-screen": [
+        "./src/sections/new-concept/screens/learn"
+      ],
+      "@mu-native/new-concept-learn-screen/*": [
+        "./src/sections/new-concept/screens/learn/*"
+      ],
+      "@mu-native/new-concept-library-screen": [
+        "./src/sections/new-concept/screens/library"
+      ],
+      "@mu-native/new-concept-library-screen/*": [
+        "./src/sections/new-concept/screens/library/*"
+      ],
+      "@mu-native/new-concept-search-screen": [
+        "./src/sections/new-concept/screens/search"
+      ],
+      "@mu-native/new-concept-search-screen/*": [
+        "./src/sections/new-concept/screens/search/*"
+      ],
+      "@mu-native/debug-analytics-screen": [
+        "./src/sections/debug/screens/analytics"
+      ],
+      "@mu-native/debug-analytics-screen/*": [
+        "./src/sections/debug/screens/analytics/*"
+      ],
+      "@mu-native/debug-api-screen": [
+        "./src/sections/debug/screens/api"
+      ],
+      "@mu-native/debug-api-screen/*": [
+        "./src/sections/debug/screens/api/*"
+      ],
+      "@mu-native/debug-event-screen": [
+        "./src/sections/debug/screens/event"
+      ],
+      "@mu-native/debug-event-screen/*": [
+        "./src/sections/debug/screens/event/*"
+      ],
+      "@mu-native/debug-request-screen": [
+        "./src/sections/debug/screens/request"
+      ],
+      "@mu-native/debug-request-screen/*": [
+        "./src/sections/debug/screens/request/*"
+      ],
+      "@mu/mu-mobile-test-id": [
+        "./src/modules/mu-mobile-test-id/tokens"
+      ],
+      "@mu/mu-mobile-test-id/*": [
+        "./src/modules/mu-mobile-test-id/tokens/*"
+      ],
+      "@muse/analytics": [
+        "./src/modules/muse-analytics"
+      ],
+      "@muse/analytics/*": [
+        "./src/modules/muse-analytics/*"
+      ]
+    }
+  }
+}

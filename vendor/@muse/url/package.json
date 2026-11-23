@@ -1,0 +1,7 @@
+{
+  "name": "@muse/url",
+  "version": "0.0.0",
+  "main": "index.ts",
+  "react-native": "index.ts",
+  "private": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "react-native-sheet",
+  "version": "7.12.2",
+  "main": "src/index.tsx",
+  "react-native": "src/index.tsx",
+  "private": true,
+  "codegenConfig": {
+    "name": "SheetViewSpec",
+    "type": "all",
+    "jsSrcsDir": "src",
+    "android": {
+      "javaPackageName": "com.sheet2"
+    }
+  }
+}

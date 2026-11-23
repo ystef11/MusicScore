@@ -1,0 +1,3663 @@
+{
+  "marketing.available_with_premium": [
+    "Είναι μια premium λειτουργία, διαθέσιμη μόνο με το MuseScore ",
+    [
+      "type"
+    ]
+  ],
+  "marketing.quiz.your_goal": "Ο στόχος σας",
+  "marketing.quiz.your_frequency": "Η συχνότητά σας",
+  "marketing.quiz.your_instruments": "Τα όργανά σας",
+  "marketing.quiz.your_age": "Η ηλικία σας",
+  "marketing.quiz.your_topics": "Τα θέματά σας",
+  "marketing.quiz.your_level": "Το επίπεδό σας",
+  "marketing.quiz.your_genres": "Τα αγαπημένα σας είδη",
+  "marketing.get_score": [
+    "Αποκτήστε την παρτιτούρα σας (απομένουν ",
+    [
+      "credits"
+    ],
+    " πιστώσεις)"
+  ],
+  "native_try_later": "Δοκιμάστε αργότερα",
+  "native.offline_indicator.message": "Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά.",
+  "native.daily_reminders.title": "Ο σύντροφός σας στην εξάσκηση",
+  "native.daily_reminders.message": "Συνεχίστε την εξάσκηση για να πετύχετε τους καθημερινούς σας στόχους",
+  "native.daily_reminders.tour.ios_hint": "Πατήστε [b]Να επιτρέπεται[/b] για να λαμβάνετε συμβουλές και υπενθυμίσεις",
+  "native.daily_reminders.tour.we_recommend_you_to_play": "Σας [c]προτείνουμε[/c] να παίζετε τουλάχιστον [minutes]23[/minutes] λεπτά κάθε μέρα την ίδια ώρα",
+  "native.daily_reminders.tour.set_reminder_to": "Ορίστε υπενθύμιση εξάσκησης",
+  "native.hub_new_for_you.title": "Νέα",
+  "native.hub_new_for_you.remindersControl.title": "Εβδομαδιαίες υπενθυμίσεις ενημέρωσης",
+  "native.hub_new_for_you.description": "Λάβετε εβδομαδιαίες ενημερώσεις για τις παρτιτούρες που σας προτείνουμε",
+  "native.push_notifications.forbidden_alert.title": "Οι ειδοποιήσεις του MuseScore είναι προς το παρόν απενεργοποιημένες",
+  "native.push_notifications.forbidden_alert.subtitle": "Μεταβείτε στις Ρυθμίσεις για να τις ενεργοποιήσετε",
+  "native.push_notifications.forbidden_alert.answers.not_now": "Όχι τώρα",
+  "native.push_notifications.forbidden_alert.answers.settings": "Ρυθμίσεις",
+  "native.hub_popular.title": "Δημοφιλή",
+  "native.hub_popular.noAuthTitle": "Για εσάς",
+  "native.search.placeholder": "Αναζήτηση",
+  "native.search.placeholder_sets": "Αναζήτηση σετ",
+  "native.search.submit_button": "Υποβολή",
+  "native.search.cancel_button": "Ακύρωση",
+  "native.search.empty": "Δυστυχώς, δεν βρέθηκαν αποτελέσματα.\nΕλέγξτε την ορθογραφία ή δοκιμάστε διαφορετική αναζήτηση.",
+  "native.search.empty_offline": "Συνδεθείτε στο διαδίκτυο για να περιηγηθείτε σε πάνω από 1,7 εκατ. παρτιτούρες ή ανεβάστε τις δικές σας εκτός σύνδεσης.",
+  "native.spotlight.parts": "μέρη",
+  "native.score_action_sheet.duration": "Διάρκεια",
+  "native.score_action_sheet.pages": "Σελίδες",
+  "native.score_action_sheet.measures": "Μέτρα",
+  "native.score_action_sheet.key_signature": "Οπλισμός κλίμακας",
+  "native.score_action_sheet.ensemble": "Σύνολο",
+  "native.score_action_sheet.part_count": "Μέρη",
+  "native.score_action_sheet.part_names": "Ονόματα μερών",
+  "native.score_action_sheet.genre": "Είδος",
+  "native.score_action_sheet.license": "Άδεια",
+  "native.score_action_sheet.privacy": "Απόρρητο",
+  "native.score_action_sheet.cancel": "Παράβλεψη",
+  "native.score_action_sheet.set_add_button": "Προσθήκη σε σετ",
+  "native.score_action_sheet.delete_button": "Διαγραφή",
+  "native.score_action_sheet.share_button": "Κοινοποίηση",
+  "native.score_action_sheet.more": "Περισσότερες ενέργειες",
+  "native.score_action_sheet.cancel_button": "Ακύρωση",
+  "native.score_action_sheet.score_unavailable_contact": "Επικοινωνία με την υποστήριξη",
+  "native.bottom_bar.scores_tab": "Παρτιτούρες",
+  "native.bottom_bar.courses_tab": "Μαθήματα",
+  "native.bottom_bar.library_tab": "Βιβλιοθήκη",
+  "native.bottom_bar.profile_tab": "Προφίλ",
+  "native.failure_download_pdf_score.title": "Αυτό το στοιχείο δεν είναι προσωρινά διαθέσιμο",
+  "native.score_details_sheet.save_button": "Αποθήκευση εκτός σύνδεσης",
+  "native.score_details_sheet.download_button": "Λήψη",
+  "native.score_details_sheet.rate_button": "Αξιολόγηση",
+  "native.score_details_sheet.views_number": [
+    [
+      "number"
+    ],
+    " προβολές"
+  ],
+  "native.score_details_sheet.no_views": "Χωρίς προβολές",
+  "native.score_details_sheet.complexity.beginner": "Αρχάριο",
+  "native.score_details_sheet.complexity.intermediate": "Μεσαίο",
+  "native.score_details_sheet.complexity.advanced": "Προχωρημένο",
+  "native.score_details_sheet.complexity.all_levels": "Όλα τα επίπεδα",
+  "native.score_modals.rate_score": "Αξιολόγηση παρτιτούρας",
+  "native.score_modals.rating_saved": "Η αξιολόγηση αποθηκεύτηκε!",
+  "native.score_modals.rating_saved_hint": "Σας αρέσει; Πείτε ένα ευχαριστώ στο App Store",
+  "native.score_modals.rate_score_hint": "Προσθέστε την αξιολόγησή σας και αφήστε ένα σχόλιο.",
+  "native.score_modals.rate_score_result": "Ευχαριστούμε που αξιολογήσατε αυτήν την παρτιτούρα! 🤘",
+  "native.screen_explore.top_hubs": "Κορυφαίες κατηγορίες",
+  "native.screen_explore.highest_rated_scores": "Παρτιτούρες με την υψηλότερη αξιολόγηση",
+  "native.screen_explore.most_commented_scores": "Οι παρτιτούρες με τα περισσότερα σχόλια",
+  "native.screen_explore.off_scores_title": "Παίξτε Επίσημες Παρτιτούρες με άδεια από εκδότες έντυπης μουσικής",
+  "native.screen_explore.selected_for_you": "Επιλεγμένα για εσάς",
+  "native.screen_explore.popular": "Δημοφιλή",
+  "native.screen_explore.recently_viewed": "Πρόσφατες προβολές",
+  "native.screen_hub.scores": "Παρτιτούρες",
+  "native.screen_notifications.title": "Μείνετε ενημερωμένοι! Ενεργοποιήστε τις ειδοποιήσεις",
+  "native.screen_notifications.allow": "Ενεργοποίηση ειδοποιήσεων",
+  "native.screen_notifications.dismiss": "Όχι τώρα",
+  "native.screen_profile.finished_restore": "Η επαναφορά ολοκληρώθηκε",
+  "native.screen_profile.want_to_delete_account": "Είστε βέβαιοι ότι θέλετε να διαγράψετε τον λογαριασμό σας;",
+  "native.screen_profile.account_will_be_removed": "Ο λογαριασμός σας θα αφαιρεθεί και όλες οι πληροφορίες του λογαριασμού θα διαγραφούν. Όλο το περιεχόμενό σας θα διαγραφεί επίσης. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.",
+  "native.screen_profile.delete_account": "Διαγραφή λογαριασμού",
+  "native.screen_profile.logout": "Αποσύνδεση",
+  "native.screen_profile.be_careful": "Προσοχή!",
+  "native.screen_profile.be_careful_delete_account": "Ο λογαριασμός σας, όλες οι πληροφορίες του λογαριασμού και όλο το περιεχόμενό σας θα διαγραφούν.\n\nΠροσέξτε γιατί αυτή η ενέργεια δεν μπορεί να αναιρεθεί.",
+  "native.screen_welcome.login": "Συνέχεια με email",
+  "native.screen_welcome.facebook": "Συνέχεια με Facebook",
+  "native.screen_welcome.apple": "Συνέχεια με Apple",
+  "native.screen_welcome.google": "Συνέχεια με Google",
+  "native.screen_welcome.restore": "Επαναφορά αγορών",
+  "native.screen_welcome.open_create_account_screen_button": "Δημιουργία λογαριασμού",
+  "native.screen_welcome.skip_button": "Παράλειψη σύνδεσης",
+  "native.screen_login.login_placeholder": "Όνομα χρήστη ή email",
+  "native.screen_login.pass_placeholder": "Κωδικός πρόσβασης",
+  "native.screen_login.login_button_title": "Σύνδεση",
+  "native.screen_login.forgot_button_title": "Ξεχάσατε τον κωδικό;",
+  "native.screen_login.has_account": "Δεν έχετε λογαριασμό;",
+  "native.screen_login.create_account_motive": "Δημιουργήστε",
+  "native.screen_login.email_required_error_title": "Απαιτείται άδεια πρόσβασης στο email",
+  "native.screen_login.email_required_error_text": "Χρειαζόμαστε άδεια πρόσβασης στο email σας για να συνεχίσουμε. Δοκιμάστε να συνδεθείτε ξανά.",
+  "native.screen_new_account.title": "Εγγραφή",
+  "native.screen_new_account.user": "Όνομα χρήστη",
+  "native.screen_new_account.email": "Email",
+  "native.screen_new_account.email_placeholder": "Εισαγάγετε το email σας",
+  "native.screen_new_account.username_placeholder": "Εισαγάγετε το όνομα χρήστη σας",
+  "native.screen_new_account.pass": "Κωδικός πρόσβασης",
+  "native.screen_new_account.register_button_title": "Δημιουργία λογαριασμού",
+  "native.screen_new_account.has_account": "Έχετε ήδη λογαριασμό;",
+  "native.screen_new_account.email_taken": "Αυτό το email χρησιμοποιείται ήδη. Δοκιμάστε να συνδεθείτε",
+  "native.screen_new_account.sign_up_musescore": "Εγγραφείτε στο MuseScore",
+  "native.screen_new_account.subtitle": "Αποθηκεύστε τις αγαπημένες σας παρτιτούρες και γίνετε μέλος της κοινότητας του MuseScore",
+  "native.screen_new_account.email_screen_header": "Ποιο είναι το email σας;",
+  "native.screen_new_account.password_screen_header": "Ποιος είναι ο κωδικός σας;",
+  "native.screen_new_account.password_placeholder": "Δημιουργήστε τον κωδικό σας",
+  "native.screen_new_account.email_taken_error": [
+    "Το email ",
+    [
+      "email"
+    ],
+    " χρησιμοποιείται ήδη"
+  ],
+  "native.screen_new_account.username_taken_error": [
+    "Το όνομα χρήστη ",
+    [
+      "username"
+    ],
+    " χρησιμοποιείται ήδη"
+  ],
+  "native.screen_new_account.continue": "Συνέχεια",
+  "native.screen_new_account.password_rules_title": "Για ισχυρό κωδικό χρησιμοποιήστε:",
+  "native.screen_new_account.password_strength": "Ισχύς κωδικού:",
+  "native.screen_new_account.password_strength_normal": "Κανονική",
+  "native.screen_new_account.password_rules_length": "Τουλάχιστον 8 χαρακτήρες",
+  "native.screen_new_account.password_rules_lowercase_letters": "Πεζά γράμματα (abc...)",
+  "native.screen_new_account.password_rules_uppercase_letters": "Κεφαλαία γράμματα (ΑΒΓ...)",
+  "native.screen_new_account.password_rules_numbers": "Αριθμοί (123...)",
+  "native.screen_new_account.password_rules_special_characters": "Ειδικοί χαρακτήρες (!#$...)",
+  "native.screen_new_account.consent_screen_header": "Αποδοχή των όρων χρήσης του MuseScore",
+  "native.screen_new_account.agree_to_all": "Αποδοχή όλων",
+  "native.screen_new_account.required": "Απαιτείται",
+  "native.screen_new_account.recommended": "Προτεινόμενο",
+  "native.screen_new_account.terms_of_use_label": "Όροι χρήσης του MuseScore",
+  "native.screen_new_account.terms_of_use": "Όροι χρήσης",
+  "native.screen_new_account.privacy_policy_required": "Συλλογή και χρήση απαραίτητων προσωπικών πληροφοριών",
+  "native.screen_new_account.privacy_policy_optional": "Συλλογή και χρήση προαιρετικών προσωπικών πληροφοριών",
+  "native.screen_new_account.see_details": "Λεπτομέρειες",
+  "native.screen_new_account.age_confirm": "Είμαι άνω των 14 ετών",
+  "native.screen_new_account.receive_marketing": "Συμφωνώ να λαμβάνω πληροφορίες μάρκετινγκ",
+  "native.screen_mixer.visibility_all_parts": "Εμφάνιση όλων των μερών;",
+  "native.screen_mixer.playability_all_parts": "Αναπαραγωγή όλων των μερών;",
+  "native.screens_titles.score_screen": "Παρτιτούρα",
+  "native.screens_titles.mixer_screen": "Μίξερ",
+  "native.screens_titles.about_screen": "Πληροφορίες",
+  "native.screens_titles.my_scores_screen": "Οι παρτιτούρες μου",
+  "native.screens_titles.activity_screen": "Ειδοποιήσεις",
+  "native.instrument.organ": "Όργανο",
+  "native.instrument.accordion": "Ακορντεόν",
+  "native.instrument.bass": "Μπάσο",
+  "native.instrument.violin": "Βιολί",
+  "native.instrument.viola": "Βιόλα",
+  "native.instrument.cello": "Τσέλο",
+  "native.instrument.contrabass": "Κοντραμπάσο",
+  "native.instrument.trombone": "Τρομπόνι",
+  "native.instrument.tuba": "Τούμπα",
+  "native.instrument.french_horn": "Γαλλικό κόρνο",
+  "native.instrument.oboe": "Οβόε",
+  "native.instrument.bassoon": "Φαγκότο",
+  "native.instrument.clarinet": "Κλαρινέτο",
+  "native.instrument.flute": "Φλάουτο",
+  "native.filter_screen.instrument_count": "Αριθμός οργάνων",
+  "native.filter_screen.instruments": "Όργανα",
+  "native.filter_screen.ensemble": "Σύνολο",
+  "native.filter_screen.genre": "Είδος",
+  "native.filter_screen.status": "Κατάσταση",
+  "native.filter_screen.license": "Άδεια",
+  "native.filter_screen.parts": "μέρη",
+  "native.filter_screen.part": "μέρος",
+  "native.filter_screen.scores_title": "Επίσημες Παρτιτούρες",
+  "native.filter_screen.scores_new": "Νέο!",
+  "native.settings_screen.logout_button": "Αποσύνδεση",
+  "native.settings_screen.login_button": "Σύνδεση",
+  "native.settings_screen.sing_up_button": "Εγγραφή",
+  "native.settings_screen.login_you_account_button": "Συνδεθείτε στον λογαριασμό σας",
+  "native.settings_screen.restore_purchases_subtitle": "Αν έχετε αγοράσει PRO στο παρελθόν, πατήστε το κουμπί για επαναφορά των αγορών",
+  "native.my_profile.settings_section": "Οι ρυθμίσεις σας",
+  "native.my_profile.stay_awake_switch_title": "Οθόνη πάντα ενεργή",
+  "native.my_profile.stay_awake_switch_subtitle": "Η οθόνη δεν θα σβήνει όσο βλέπετε μια παρτιτούρα",
+  "native.my_profile.notification_settings_title": "Ρυθμίσεις ειδοποιήσεων",
+  "native.my_profile.notification_settings_subtitle": "Επιλέξτε το περιεχόμενο που θέλετε να δείτε",
+  "native.my_profile.daily_reminder_settings_title": "Καθημερινή υπενθύμιση",
+  "native.my_profile.daily_reminder_settings_subtitle": "Εξελιχθείτε ως μουσικός με μια καθημερινή υπενθύμιση",
+  "native.my_profile.daily_reminder_settings_description": "Ορίστε την καθημερινή υπενθύμισή σας",
+  "native.my_profile.hq_sound_settings_title": "Ήχος MuseScore HQ+",
+  "native.my_profile.hq_sound_settings_subtitle": "Λήψη 1246 στερεοφωνικών δειγμάτων ήχου 16 bit",
+  "native.my_profile.hq_sound_settings_description": "Λήψη 1246 στερεοφωνικών δειγμάτων ήχου 16 bit με υποστήριξη διαμόρφωσης.\nΑπαιτούνται επιπλέον 159 MB στη συσκευή σας.",
+  "native.my_profile.more_section": "Περισσότερα",
+  "native.my_profile.restore_purchases_title": "Επαναφορά αγορών",
+  "native.my_profile.pp_title": "Πολιτική απορρήτου",
+  "native.alerts.login_error.message": "Λάθος όνομα χρήστη ή κωδικός",
+  "native.alerts.error_login_facebook.title": "Η σύνδεση απέτυχε",
+  "native.alerts.connection_error.title": "Δεν υπάρχει σύνδεση",
+  "native.alerts.connection_error.message": "Ελέγξτε τη σύνδεσή σας στο διαδίκτυο",
+  "native.alerts.failure_download_pdf_score.title": "Αυτό το στοιχείο δεν είναι προσωρινά διαθέσιμο",
+  "native.alerts.access_denied.title": "Δυστυχώς, αυτή η παρτιτούρα δεν είναι διαθέσιμη",
+  "native.alerts.access_denied.message": "Δεν μπορούμε να επαληθεύσουμε ότι η συσκευή σας πληροί τις απαιτήσεις συμβατότητας του Android. Διαβάστε περισσότερα για αυτές τις απαιτήσεις εδώ:",
+  "native.alerts.access_denied.action": "Επικοινωνία με την υποστήριξη",
+  "native.alerts.try_again.title": "Ουπς!",
+  "native.alerts.try_again.description": "Φαίνεται ότι η εφαρμογή τερματίστηκε στο παρασκήνιο. Δοκιμάστε να ανανεώσετε",
+  "native.settings_extasy_screen.tempo_title": "Τέμπο",
+  "native.settings.score.set_default_transposition": "Ορισμός προεπιλεγμένης τονικότητας",
+  "native.permissions.storage.initial_alert_title": "Πρόσβαση στα αρχεία",
+  "native.permissions.storage.initial_alert_message": "Επιτρέψτε την πρόσβαση στα αρχεία για να ανοίξετε μια παρτιτούρα (μόνο για την επιλεγμένη παρτιτούρα).",
+  "native.permissions.storage.denied_alert_title": "Η πρόσβαση απορρίφθηκε",
+  "native.permissions.storage.modal.cancel": "Αργότερα",
+  "native.permissions.storage.modal.settings": "Ρυθμίσεις",
+  "native.screen_tour.rate_text": "Πείτε ευχαριστώ",
+  "native.screen_tour.start_trial_text": "Ξεκινήστε τη δωρεάν δοκιμή 7 ημερών",
+  "native.screen_tour.free_trial_text": "Δωρεάν δοκιμή 7 ημερών",
+  "native.screen_tour.monthly_access": "Μηνιαία πρόσβαση",
+  "native.screen_tour.annual_access": "Ετήσια πρόσβαση",
+  "native.screen_tour.annual": "ετήσιο",
+  "native.screen_tour.monthly": "Μηνιαίο",
+  "native.screen_tour.start_now_text": "Ξεκινήστε τώρα",
+  "native.screen_tour.scores_count": "Αποκτήστε πρόσβαση σε παρτιτούρες των αγαπημένων σας κομματιών για πιάνο, κιθάρα και φωνή, με άδεια από εκδότες έντυπης μουσικής",
+  "native.screen_tour.scores_pro": "PRO",
+  "native.screen_tour.scores_upgrade": "Αναβάθμιση σε MuseScore",
+  "native.screen_tour.scores_switcher_title": "Ανεβείτε επίπεδο με τις Επίσημες Παρτιτούρες",
+  "native.screen_tour.save": "Έκπτωση",
+  "native.screen_tour.score_feature": "[b]1,3 εκατ. παρτιτούρες[/b] - όλες χωρίς διαφημίσεις",
+  "native.screen_tour.score_list_feature": "Λήψη παρτιτουρών, μεταφορά τόνου, [b]πρόσβαση εκτός σύνδεσης[/b]",
+  "native.screen_tour.score_official_feature": "Επίσημες παρτιτούρες για να [b]ενισχύσετε[/b] την πρόοδό σας",
+  "native.screen_tour.courses_feature": "[b]Πάνω από 150[/b] μαθήματα μουσικής από [b]ειδικούς[/b]",
+  "native.screen_tour.start_free": "Ξεκινήστε δωρεάν",
+  "native.screen_tour.course_subs_required": "Απαιτείται συνδρομή MuseScore LEARN",
+  "native.screen_tour.free_cancel": "Δωρεάν ακύρωση οποιαδήποτε στιγμή",
+  "native.screen_tour.start_describe": "Ανακαλύψτε μουσική που αγαπάτε, από διαχρονικά κλασικά μέχρι σύγχρονες επιτυχίες. Παίξτε οποιοδήποτε κομμάτι με βασικά εργαλεία εξάσκησης και μαθήματα.",
+  "native.screen_tour.fact_sub_title": "Από απόλυτους αρχάριους μέχρι έμπειρους μουσικούς, εκατομμύρια μουσικοί και συνθέτες θεωρούν το MuseScore το σπίτι τους",
+  "native.screen_tour.instant_sub_title": "Αποκτήστε άμεση πρόσβαση σε premium λειτουργίες για εκτέλεση και εξάσκηση",
+  "native.screen_tour.switcher_title": "Ανεβείτε επίπεδο με τις Επίσημες Παρτιτούρες",
+  "native.screen_tour.subscription_text": "Αυτή η συνδρομή",
+  "native.screen_tour.subscription_access": "περιλαμβάνει πρόσβαση στο MuseScore",
+  "native.screen_tour.subscription_unlocks_text": "και ξεκλειδώνει ένα μάθημα της επιλογής σας κάθε μήνα από τη συλλογή «Επιλογές της σύνταξης»",
+  "native.payment_courses.title": "Περισσότερα από 150 μαθήματα για να σας βοηθήσουν να μάθετε τις αγαπημένες σας συνθέσεις",
+  "native.payment_popover.preview": "Τέλος της προεπισκόπησης",
+  "native.payment_popover.continue": "Συνεχίστε αυτό το μάθημα δωρεάν",
+  "native.game_screen.or": "ή",
+  "native.upgrade_messages.cant_upgrade": "Δεν μπορούμε να αναβαθμίσουμε τη συνδρομή σας μέσα από την εφαρμογή, επειδή την ξεκινήσατε στον ιστότοπο του MuseScore. Πατήστε «Αναβάθμιση τώρα» για να μεταβείτε στον ιστότοπο του MuseScore και να αναβαθμίσετε τη συνδρομή σας",
+  "native.upgrade_messages.upgrade_title": "Επίσημες Παρτιτούρες για πιάνο, κιθάρα και φωνητικά",
+  "native.upgrade_messages.upgrade_now": "Αναβάθμιση τώρα",
+  "native.screen_anniversary_splash.available_only_now": "Η προσφορά ισχύει μόνο τώρα",
+  "native.billing_restore": "Επαναφορά",
+  "native.billing_info_text": "Η πληρωμή θα χρεωθεί στον λογαριασμό iTunes με την επιβεβαίωση της αγοράς. Η συνδρομή ανανεώνεται αυτόματα, εκτός εάν η αυτόματη ανανέωση απενεργοποιηθεί τουλάχιστον 24 ώρες πριν από τη λήξη της τρέχουσας περιόδου. Ο λογαριασμός θα χρεωθεί για την ανανέωση εντός των 24 ωρών πριν από τη λήξη της τρέχουσας περιόδου, με αναφορά του κόστους της ανανέωσης. Ο χρήστης μπορεί να διαχειρίζεται τις συνδρομές και να απενεργοποιήσει την αυτόματη ανανέωση από τις Ρυθμίσεις λογαριασμού μετά την αγορά. Τυχόν αχρησιμοποίητο τμήμα δωρεάν δοκιμαστικής περιόδου, εφόσον προσφέρεται, χάνεται όταν ο χρήστης αγοράσει συνδρομή, όπου ισχύει.",
+  "native.billing_info_text_cancel": "Συνδρομή με αυτόματη ανανέωση. Ακύρωση οποιαδήποτε στιγμή",
+  "native.terms_of_service": "Όροι παροχής υπηρεσιών",
+  "native.privacy_policy": "Πολιτική απορρήτου",
+  "native.marketing_text.restore_purchase_message_negative": [
+    "Δεν έχετε ενεργή συνδρομή στο ",
+    [
+      "store"
+    ]
+  ],
+  "native.marketing_text.restore_purchase_message_error": "Σφάλμα κατά την επαναφορά της συνδρομής",
+  "native.marketing_text.auto_renewal_restored_success": "Η αυτόματη ανανέωση επανενεργοποιήθηκε",
+  "native.marketing_text.auto_renewal_restored_failure": "Κάτι πήγε στραβά κατά την επαναφορά της συνδρομής σας. Προσπαθήστε ξανά ή επικοινωνήστε με την υποστήριξη.",
+  "native.hqSound.button_download": "Λήψη ήχου HQ+",
+  "native.hqSound.button_clear": "Καθαρισμός ληφθέντων αρχείων",
+  "native.hqSound.button_cancel": "Ακύρωση",
+  "native.hqSound.popup_title": "Είστε βέβαιοι;",
+  "native.hqSound.popup_button": "Διαγραφή",
+  "native.privacy.public": "Όλοι μπορούν να δουν αυτήν την παρτιτούρα",
+  "native.privacy.private": "Μόνο εσείς μπορείτε να δείτε αυτήν την παρτιτούρα",
+  "native.marketing.slash_month": "/μήνα",
+  "native.marketing.slash_mo": "/μήνα",
+  "native.marketing.slash_year": "/έτος",
+  "native.marketing.sale_text_65": "Έκπτωση 65",
+  "native.marketing.dont_show_this_again": "Να μην εμφανιστεί ξανά",
+  "native.marketing.claim_this_deal": "Πάρτε την προσφορά",
+  "native.marketing.best_value": "καλύτερη τιμή",
+  "native.marketing.most_popular": "πιο δημοφιλές",
+  "native.marketing.per": "ανά",
+  "native.marketing.then": "μετά",
+  "native.marketing.cancelAnytime": "Ακύρωση οποιαδήποτε στιγμή",
+  "native.marketing.12MonthsAt": "12 μήνες στο",
+  "native.marketing.startWithA1WeekFreeTrial": "Ξεκινήστε με δωρεάν δοκιμή 1 εβδομάδας",
+  "native.marketing.continue": "Συνέχεια",
+  "native.marketing.create_your_account": "Δημιουργήστε τον λογαριασμό σας για να έχετε πρόσβαση σε πάνω από ένα εκατομμύριο παρτιτούρες",
+  "native.marketing.enter_your_name": "Εισαγάγετε το όνομά σας",
+  "native.marketing.nice_to_meet_you": "Χάρηκα για τη γνωριμία",
+  "native.marketing.fact1": [
+    "[c]",
+    [
+      "count"
+    ],
+    " παρτιτούρες[/c] μοιράστηκαν οι συνθέτες του MuseScore πέρσι"
+  ],
+  "native.marketing.fact2": [
+    [
+      "count"
+    ],
+    " [c]Επίσημες Παρτιτούρες[/c] από επαληθευμένους εκδότες στον κατάλογο του MuseScore"
+  ],
+  "native.marketing.questions.instrument.list.piano": "Πιάνο",
+  "native.marketing.questions.instrument.list.saxophone": "Σαξόφωνο",
+  "native.marketing.questions.instrument.list.woodwinds": "Ξύλινα πνευστά",
+  "native.marketing.questions.instrument.list.percussion": "Κρουστά",
+  "native.marketing.questions.instrument.list.trumpet": "Τρομπέτα",
+  "native.marketing.questions.instrument.list.brass": "Χάλκινα πνευστά",
+  "native.marketing.questions.instrument.list.voice": "Φωνή",
+  "native.marketing.questions.instrument.list.guitar": "Κιθάρα",
+  "native.marketing.questions.instrument.list.other": "Άλλα",
+  "native.marketing.questions.instrument.list.violin": "Βιολί",
+  "native.marketing.questions.instrument.list.string_instrument_title": "Έγχορδα όργανα",
+  "native.marketing.questions.instrument.list.viola": "Βιόλα",
+  "native.marketing.questions.instrument.list.cello": "Τσέλο",
+  "native.marketing.questions.instrument.list.contrabass": "Κοντραμπάσο",
+  "native.marketing.questions.instrument.list.banjo": "Μπάντζο",
+  "native.marketing.questions.instrument.list.ukulele": "Ουκουλέλε",
+  "native.marketing.questions.instrument.list.other_instruments": "Άλλα όργανα",
+  "native.marketing.questions.instrument.list.other_free_reed_instruments": "Άλλα όργανα ελεύθερου γλωσσιδιού",
+  "native.marketing.questions.instrument.list.accordion": "Ακορντεόν",
+  "native.marketing.questions.instrument.list.organ": "Όργανο",
+  "native.marketing.questions.instrument.list.other_woodwinds": "Άλλα ξύλινα πνευστά",
+  "native.marketing.questions.instrument.list.bassoon": "Φαγκότο",
+  "native.marketing.questions.instrument.list.oboe": "Οβόε",
+  "native.marketing.questions.instrument.list.flute": "Φλάουτο",
+  "native.marketing.questions.instrument.list.brass_instrument": "Χάλκινα πνευστά",
+  "native.marketing.questions.instrument.list.trombone": "Τρομπόνι",
+  "native.marketing.questions.instrument.list.french_horn": "Γαλλικό κόρνο",
+  "native.marketing.questions.instrument.list.tuba": "Τούμπα",
+  "native.marketing.questions.instrument.list.other_brass": "Άλλα χάλκινα πνευστά",
+  "native.marketing.questions.instrument.list.free_reed_instruments": "Όργανα ελεύθερου γλωσσιδιού",
+  "native.marketing.questions.instrument.list.clarinet": "Κλαρινέτο",
+  "native.marketing.questions.genre.list.blues": "Μπλουζ",
+  "native.marketing.questions.genre.list.classical": "Κλασική",
+  "native.marketing.questions.genre.list.country": "Κάντρι",
+  "native.marketing.questions.genre.list.folk": "Φολκ",
+  "native.marketing.questions.genre.list.jazz": "Τζαζ",
+  "native.marketing.questions.genre.list.new_age": "New age",
+  "native.marketing.questions.genre.list.pop": "Ποπ",
+  "native.marketing.questions.genre.list.rock": "Ροκ",
+  "native.marketing.questions.genre.list.other": "Άλλα",
+  "native.marketing.questions.genre.list.soundtrack": "Soundtrack",
+  "native.marketing.questions.genre.list.religious_music": "Θρησκευτική μουσική",
+  "native.marketing.questions.genre.list.hip_hop": "Χιπ χοπ",
+  "native.marketing.questions.genre.list.electronic": "Ηλεκτρονική",
+  "native.marketing.questions.genre.list.metal": "Μέταλ",
+  "native.marketing.questions.genre.list.reggae_and_ska": "Ρέγκε & σκα",
+  "native.marketing.questions.genre.list.rnb_funk_and_soul": "R&B, Funk & Soul",
+  "native.marketing.questions.genre.list.disco": "Ντίσκο",
+  "native.marketing.questions.genre.list.darkwave": "Darkwave",
+  "native.marketing.questions.genre.list.world_music": "Μουσική του κόσμου",
+  "native.marketing.questions.genre.list.experimental": "Πειραματική",
+  "native.marketing.questions.genre.list.comedy": "Κωμωδία",
+  "native.marketing.questions.genre.list.classical_modern": "Σύγχρονη κλασική",
+  "native.marketing.questions.genre.list.classical_cinematic": "Κινηματογραφική κλασική",
+  "native.marketing.questions.genre.list.classical_neoclassical": "Νεοκλασική new age",
+  "native.marketing.questions.genre.list.classical_classical": "Κλασική",
+  "native.marketing.questions.genre.list.pop_rock": "Ποπ ροκ",
+  "native.marketing.questions.genre.list.pop_soul": "Ποπ σόουλ",
+  "native.marketing.questions.genre.list.pop_indi": "Ίντι ποπ",
+  "native.marketing.questions.genre.list.pop_dance": "Χορευτική ποπ",
+  "native.marketing.questions.genre.list.pop_folk": "Φολκ ποπ",
+  "native.marketing.questions.genre.list.pop_electro": "Ηλεκτροποπ",
+  "native.marketing.questions.genre.list.pop_chamber": "Τσέιμπερ ποπ",
+  "native.marketing.questions.genre.list.pop_art": "Αρτ ποπ",
+  "native.marketing.questions.genre.list.pop_traditional": "Παραδοσιακή ποπ",
+  "native.marketing.questions.genre.list.pop_c": "C-pop",
+  "native.marketing.questions.genre.list.soundtrack_game": "Μουσική βιντεοπαιχνιδιών",
+  "native.marketing.questions.genre.list.soundtrack_singer": "Τραγουδιστής-τραγουδοποιός",
+  "native.marketing.questions.genre.list.soundtrack_christmas": "Χριστουγεννιάτικη μουσική",
+  "native.marketing.questions.genre.list.rock_alternative": "Εναλλακτική ροκ",
+  "native.marketing.questions.genre.list.rock_piano": "Πιάνο-ροκ",
+  "native.marketing.questions.genre.list.rock_hard": "Hard rock",
+  "native.marketing.questions.level.list.beginner": "Αρχάριος",
+  "native.marketing.questions.level.list.can_read_notation": "Διαβάζω παρτιτούρα",
+  "native.marketing.questions.level.list.intermediate": "Μεσαίου επιπέδου",
+  "native.marketing.questions.level.list.professional": "Επαγγελματίας",
+  "native.marketing.questions.level.list.virtuoso": "Βιρτουόζος",
+  "native.marketing.credit_balance_title": "Υπόλοιπο πιστώσεων",
+  "native.marketing.use_credit_title": "Χρήση 1 πίστωσης PRO",
+  "native.marketing.restore_subscription": "Επαναφορά συνδρομής",
+  "native.marketing.restore_subscription_title": "Επαναφέρετε τη συνδρομή σας για να διατηρήσετε την πρόσβαση σε premium λειτουργίες, όπως η λήψη και η εκτύπωση",
+  "native.marketing.restore_subscription_cancel_title": "Η συνδρομή λήγει στις",
+  "native.marketing.personal_offer_title": "Η προσωπική σας προσφορά είναι έτοιμη",
+  "native.marketing.try_now": "Αποκαλύψτε",
+  "native.marketing.action_required": "Απαιτείται ενέργεια",
+  "native.marketing.membership_expire_soon": "Η συνδρομή σας λήγει σύντομα",
+  "native.marketing.lose_access": "Θα χάσετε την πρόσβαση σε:",
+  "native.marketing.restart_membership": "Ανανέωση συνδρομής",
+  "native.locale_file_status.start": "Έναρξη",
+  "native.locale_file_status.copy": "Αντιγραφή",
+  "native.locale_file_status.open": "Άνοιγμα",
+  "native.locale_file_status.font_loading": "Φόρτωση γραμματοσειρών",
+  "native.sorting.title": "Ταξινόμηση κατά",
+  "native.sorting.by.date": "Ημερομηνία προσθήκης",
+  "native.sorting.by.views": "Προβολές",
+  "native.sorting.by.comments": "Αριθμός σχολίων",
+  "native.sorting.by.relevance": "Συνάφεια",
+  "native.sorting.title_asc": "Τίτλος Α - Ω",
+  "native.sorting.title_desc": "Τίτλος Ω - Α",
+  "native.sorting.date_added_asc": "Ημ/νία προσθήκης (παλαιότερα)",
+  "native.sorting.date_added_desc": "Ημ/νία προσθήκης (νεότερα)",
+  "native.sorting.date_updated_asc": "Ημ/νία ενημέρωσης (νεότερα)",
+  "native.sorting.date_updated_desc": "Ημ/νία ενημέρωσης (παλαιότερα)",
+  "native.sorting.date_created_asc": "Ημ/νία δημιουργίας (νεότερα)",
+  "native.sorting.date_created_desc": "Ημ/νία δημιουργίας (παλαιότερα)",
+  "native.sorting.views_desc": "Προβολές (περισσότερες)",
+  "native.sorting.views_asc": "Προβολές (λιγότερες)",
+  "native.instrument.any_instrument": "Οποιοδήποτε όργανο",
+  "native.instrument.piano": "Πιάνο",
+  "native.instrument.harpsichord": "Τσέμπαλο",
+  "native.instrument.percussion": "Κρουστά",
+  "native.instrument.harmonica": "Φυσαρμόνικα",
+  "native.instrument.guitar": "Κιθάρα",
+  "native.instrument.strings": "Έγχορδα",
+  "native.instrument.harp": "Άρπα",
+  "native.instrument.timpani": "Τύμπανα",
+  "native.instrument.trumpet": "Τρομπέτα",
+  "native.instrument.brass_ensemble": "Σύνολο χάλκινων πνευστών",
+  "native.instrument.soprano_saxophone": "Σοπράνο σαξόφωνο",
+  "native.instrument.alto_saxophone": "Άλτο σαξόφωνο",
+  "native.instrument.tenor_saxophone": "Τενόρο σαξόφωνο",
+  "native.instrument.baritone_saxophone": "Βαρύτονο σαξόφωνο",
+  "native.instrument.english_horn": "Αγγλικό κόρνο",
+  "native.instrument.piccolo": "Πίκολο",
+  "native.instrument.recorder": "Φλογέρα",
+  "native.instrument.other_woodwinds": "Άλλα ξύλινα πνευστά",
+  "native.instrument.synthesizer": "Συνθεσάιζερ",
+  "native.instrument.sound_effects": "Ηχητικά εφέ",
+  "native.instrument.bagpipe": "Γκάιντα",
+  "native.instrument.brass": "Χάλκινα πνευστά",
+  "native.instrument.keyboard": "Πληκτροφόρα",
+  "native.instrument.effect": "Εφέ",
+  "native.instrument.metal": "Μέταλλο",
+  "native.instrument.percussion_-_body": "Κρουστά - Σώμα",
+  "native.instrument.percussion_-_drum": "Κρουστά - Τύμπανο",
+  "native.instrument.percussion_-_metal": "Κρουστά - Μέταλλο",
+  "native.instrument.percussion_-_pitched": "Κρουστά - Μελωδικά",
+  "native.filter.instrument": "Όργανο",
+  "native.filter.level": "Επίπεδο",
+  "native.filter.topics": "Θέματα",
+  "native.filter.show_all": "Προβολή όλων",
+  "native.instrument.percussion_-_wood": "Κρουστά - Ξύλο",
+  "native.instrument.strings_-_bowed": "Έγχορδα - με δοξάρι",
+  "native.instrument.strings_-_plucked": "Έγχορδα - νυκτά",
+  "native.license.publicdomain": "Δημόσιο κτήμα (χωρίς δικαιώματα)",
+  "native.license.all_rights_reserved": "Καμία (με επιφύλαξη παντός δικαιώματος)",
+  "native.license.cc_zero": "Δημόσιο κτήμα (χωρίς δικαιώματα)",
+  "native.license.cc_by": "Αναφορά",
+  "native.license.cc_by_nd": "Αναφορά, χωρίς παράγωγα έργα",
+  "native.license.cc_by_sa": "Αναφορά, κοινή χρήση με τους ίδιους όρους",
+  "native.license.cc_by_nc": "Αναφορά, μη εμπορική χρήση",
+  "native.license.cc_by_nc_nd": "Αναφορά, μη εμπορική, χωρίς παράγωγα",
+  "native.license.cc_by_nc_sa": "Αναφορά, μη εμπορική χρήση, παρόμοια διανομή",
+  "native.signInToGetUpdates": "Εγγραφείτε για να λαμβάνετε ενημερώσεις",
+  "native.instrument.voice": "Φωνή",
+  "native.instrument.woodwinds": "Ξύλινα πνευστά",
+  "native.song_book_remove.subtitle": "Το στοιχείο θα διαγραφεί αμέσως. Η ενέργεια δεν μπορεί να αναιρεθεί.",
+  "native.screen_comments.comment": "σχόλιο",
+  "native.screen_comments.comments": "Σχόλια",
+  "native.screen_comments.reply": "Απάντηση",
+  "native.screen_comments.likes": "Μου αρέσει",
+  "native.screen_comments.write_comment": "Γράψτε ένα σχόλιο",
+  "native.screen_comments.remove": "Διαγραφή",
+  "native.screen_comments.no_comments": "Δεν υπάρχουν σχόλια ακόμα",
+  "native.screen_comments.replies_count": [
+    [
+      "count"
+    ],
+    " απαντήσεις"
+  ],
+  "native.net_promoter_score.confirm_feedback_close_action": "Τέλος",
+  "native.library.my_scores_title": "Παρτιτούρες",
+  "native.library.my_scores_desc": "Παρτιτούρες που έχετε ανεβάσει στο musescore.com",
+  "native.library.my_sets_title": "Τα σετ μου",
+  "native.library.my_sets_desc": "Σετ που έχετε δημιουργήσει μόνοι σας",
+  "native.library.favorites_desc": "Παρτιτούρες που έχετε προσθέσει στα Αποθηκευμένα",
+  "native.library.songbook_desc": "Τοπικά αποθηκευμένες παρτιτούρες (διαθέσιμες εκτός σύνδεσης)",
+  "native.library.scores_column": "Παρτιτούρες",
+  "native.library.my_scores.site_link": "Μεταβείτε στο musescore.com",
+  "native.library.my_scores.editor_link": "Περισσότερα για το πρόγραμμα επεξεργασίας",
+  "native.library.favorites_courses.title": "Προσθέστε μερικά μαθήματα",
+  "native.library.favorites_courses.search_btn_title": "Αναζήτηση μαθημάτων",
+  "native.library.songbook.upload_btn_title": "Ανέβασμα αρχείου mscz",
+  "native.library.songbook.editor_link": "Περισσότερα για το πρόγραμμα επεξεργασίας",
+  "native.library.created_by_me": "Οι δημιουργίες μου",
+  "native.library.available_offline": "Διαθέσιμα εκτός σύνδεσης",
+  "native.new_search.empty_condition.top_string": "Δυστυχώς, δεν βρέθηκε τίποτα.",
+  "native.new_search.empty_condition.bottom_string": "Δοκιμάστε άλλα φίλτρα ή αλλάξτε την αναζήτησή σας.",
+  "native.new_search.not_found": "δεν βρέθηκε",
+  "native.new_search.sources.my": "Στις παρτιτούρες μου",
+  "native.new_search.sources.everywhere": "Παντού",
+  "native.tooltips.upload": "Ανέβασμα",
+  "native.tooltips.more": "Περισσότερα",
+  "native.alertNotifications.tooManyRequests": "Δοκιμάστε ξανά αργότερα",
+  "native.alertNotifications.downloading": "Λήψη...",
+  "native.feed.items.20": "σχολίασε την παρτιτούρα σας",
+  "native.feed.items.21": "απάντησε στο σχόλιό σας στην παρτιτούρα",
+  "native.feed.items.30": "πρόσθεσε την παρτιτούρα",
+  "native.feed.items.31": "άρχισε να σας ακολουθεί",
+  "native.activity.empty_list.title": "Μείνετε ενημερωμένοι",
+  "native.activity.notifications.new_follower": "Νέοι ακόλουθοι",
+  "native.activity.notifications.your_comment_replied": "Απαντήσεις στα σχόλιά σας",
+  "native.activity.notifications.your_score_commented": "Σχόλια στην παρτιτούρα σας",
+  "native.user.follow": "Ακολούθηση",
+  "native.user.unfollow": "Κατάργηση παρακολούθησης",
+  "native.user.followers": "Ακόλουθοι",
+  "native.user.no_followers": "Κανείς ακόλουθος",
+  "native.user.followings": "Ακολουθεί",
+  "native.user.no_followings": "Δεν ακολουθεί κανέναν",
+  "native.user.set": "Σετ",
+  "native.user.sets": "Σετ",
+  "native.user.scores": "Παρτιτούρες",
+  "native.user.my": "Μου",
+  "native.filter.actions.apply": "Εφαρμογή",
+  "native.filter.actions.reset": "Επαναφορά",
+  "native.key_words.settings": "Ρυθμίσεις",
+  "native.key_words.metronome": "Μετρονόμος",
+  "native.key_words.feedback": "Σχόλια",
+  "native.actions.close": "Κλείσιμο",
+  "native.actions.change": "Αλλαγή",
+  "native.actions.okay": "Εντάξει",
+  "native.actions.retry": "Επανάληψη",
+  "native.help_center.step_first.title": "Με τι μπορούμε να σας βοηθήσουμε;",
+  "native.help_center.step_first.variants.first": "Θα ήθελα να βρω την απάντηση στην ερώτησή μου",
+  "native.help_center.step_first.variants.second": "Θα ήθελα να κάνω μια ερώτηση.",
+  "native.help_center.step_second.title": "Σε ποιο email να σας απαντήσουμε;",
+  "native.help_center.step_second.text": "Εισαγάγετε παρακάτω τη διεύθυνση email σας, ώστε να μπορέσουμε να επικοινωνήσουμε μαζί σας. (Τα δεδομένα σας είναι ασφαλή και χρησιμοποιούνται μόνο για να απαντήσουμε στο αίτημά σας).",
+  "native.help_center.step_second.placeholder": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "native.artists.based_on": "Αυτή η παρτιτούρα βασίζεται σε",
+  "native.artists.by": "Από",
+  "native.artists.artist_info": "Πληροφορίες για τον καλλιτέχνη",
+  "native.artists.composition_info": "Πληροφορίες σύνθεσης",
+  "native.artists.bio": "Βιογραφικό καλλιτέχνη",
+  "native.artists.no_bio": "Το βιογραφικό του καλλιτέχνη θα προστεθεί σύντομα εδώ.\nΤο δουλεύουμε!",
+  "native.artists.read_more": "Διαβάστε περισσότερα",
+  "native.artists.links": "Σύνδεσμοι",
+  "native.artists.score": "Παρτιτούρα",
+  "native.artists.composition": "Σύνθεση",
+  "native.courses.courses": "Μαθήματα",
+  "native.courses.instrument": "Όργανο",
+  "native.courses.theme": "Θέμα μαθήματος",
+  "native.courses.favorites": "Μαθήματα που έχετε προσθέσει στα Αποθηκευμένα",
+  "native.courses.play_speed": "Ταχύτητα αναπαραγωγής",
+  "native.courses.video_quality": "Ποιότητα βίντεο",
+  "native.courses.lesson": "Μάθημα",
+  "native.courses.lessons": "Μαθήματα",
+  "native.courses.pdf_lesson": "Κατεβάστε και ανασκοπήστε το PDF που παρέχεται από τον εκπαιδευτή σας για αυτήν τη διάλεξη.",
+  "native.courses.download_material": [
+    "Λήψη ",
+    [
+      "number"
+    ],
+    " υλικού μαθήματος"
+  ],
+  "native.courses.download_materials": [
+    "Κατεβάστε ",
+    [
+      "number"
+    ],
+    " υλικά μαθήματος"
+  ],
+  "native.courses.course_completed": "ολοκληρώθηκε",
+  "native.artists.scores": "Παρτιτούρες",
+  "native.courses.hours": "ώρ.",
+  "native.artists.compositions": "Συνθέσεις",
+  "native.courses.minutes": "λεπτά",
+  "native.courses.seconds": "δευτερόλεπτα",
+  "native.courses.materials": "Υλικό μαθήματος",
+  "native.courses.what_will_you_learn": "Τι θα μάθετε;",
+  "native.courses.level": "Επίπεδο",
+  "native.courses.about_course": "Σχετικά με το μάθημα",
+  "native.courses.about": "Πληροφορίες",
+  "native.courses.comments": "Σχόλια",
+  "native.courses.no_comments_title": "Δεν υπάρχουν ακόμα σχόλια",
+  "native.courses.no_comments_description": "Μπορείτε να είστε ο πρώτος που άφησε σχόλιο για αυτό το μάθημα!",
+  "native.courses.rate_course": "Αξιολογήστε το μάθημα",
+  "native.courses.congratulations": "Συγχαρητήρια! 🎉",
+  "native.courses.your_impressions": "Ανυπομονούμε να ακούσουμε την εντύπωση και τις σκέψεις σας για να βελτιώσουμε την εμπειρία μάθησης.",
+  "native.courses.send_feedback": "Αποστολή σχολίων",
+  "native.courses.are_you_enjoying": "Απολαμβάνετε αυτό το μάθημα;",
+  "native.courses.share_your_thoughts": "Μοιραστείτε τη γνώμη σας",
+  "native.courses.what_do_you_think_about_platform": "Τι γνώμη έχετε για την εκπαιδευτική πλατφόρμα;",
+  "native.courses.what_could_be_done_better": "Τι θα μπορούσε να γίνει καλύτερο;",
+  "native.courses.thank_you": "Ευχαριστώ!",
+  "native.courses.help_us_improve": "Αυτή η ανατροφοδότηση θα μας βοηθήσει να βελτιώσουμε την εμπειρία μάθησης και να κάνουμε τη μελέτη πιο ενδιαφέρουσα και παραγωγική.",
+  "native.courses.youre_welcome": "Παρακαλώ",
+  "native.screen_sft.carousel.courses_sub_title": "Απεριόριστη πρόσβαση σε 200+ μαθήματα, ειδικά για εσάς.",
+  "native.screen_sft.carousel.material_sub_title": "Περιλαμβάνεται υλικό για λήψη.",
+  "native.screen_sft.carousel.keyboard_sub_title": "Μάθετε να παίζετε παρτιτούρες πιο γρήγορα και πιο ευχάριστα με το κλαβιέ.",
+  "native.screen_sft.carousel.transpose_sub_title": "Αλλάξτε την τονικότητα της παρτιτούρας για να βρείτε μια τονικότητα κατάλληλη για το όργανό σας.",
+  "native.screen_sft.carousel.songbook_sub_title": "Πρόσβαση και αναπαραγωγή παρτιτούρων εκτός σύνδεσης. Φόρτωση αρχείων μουσικής από τον τοπικό αποθηκευτικό χώρο.",
+  "native.screen_sft.carousel.mixer_sub_title": "Διαχειριστείτε την ορατότητα και την ένταση κάθε οργάνου στην παρτιτούρα.",
+  "native.screen_sft.carousel.auto_scroll_sub_title": "Παίξτε παρτιτούρες με αυτόματη κύλιση και δείτε τις επόμενες νότες, χωρίς να χρειάζεται να γυρίζετε σελίδες.",
+  "native.screen_sft.carousel.more_sub_title": "Ενεργοποιήστε τον μετρονόμο και την προμέτρηση. Απολαύστε καλύτερο ήχο με το HQ-Sound.",
+  "native.screen_sft.carousel.pdf_sub_title": "Οι χρήστες premium μπορούν να κατεβάσουν παρτιτούρες σε μορφές PDF, MIDI και MP3. Το PDF επιτρέπει την εκτύπωση.",
+  "native.screen_sft.carousel.courses_title": "Μαθήματα",
+  "native.screen_sft.carousel.material_title": "Υλικά",
+  "native.screen_sft.carousel.pdf_title": "Εξαγωγή σε PDF",
+  "native.screen_sft.carousel.midi_title": "Εξαγωγή σε MIDI",
+  "native.screen_sft.carousel.mp3_title": "Εξαγωγή σε MP3",
+  "native.screen_sft.carousel.transpose_title": "Μεταφορά τόνου",
+  "native.screen_sft.carousel.mixer_title": "Μίξερ",
+  "native.screen_sft.carousel.auto_scroll_title": "Αυτόματη κύλιση",
+  "native.screen_sft.carousel.more_title": "Και πολλά ακόμα...",
+  "native.screen_sft.carousel.full_access_title": "Πλήρης πρόσβαση",
+  "native.screen_sft.carousel.keyboard_title": "Κλαβιέ",
+  "native.screen_sft.switcher_title": "Ξεκινήστε με την έκδοση Lite",
+  "native.preferences.main_title": "Ορίστε τις προτιμήσεις σας",
+  "native.preferences.sub_title": "Εξατομικεύστε την εμπειρία σας στο MuseScore",
+  "native.preferences.profile_title": "Οι προτιμήσεις μου",
+  "native.preferences.current_preferences": "Οι τρέχουσες προτιμήσεις σας",
+  "native.preferences.update": "Ενημέρωση",
+  "native.bluetooth_pedal.profile_subtitle": "Ρυθμίστε τις επιλογές του πεντάλ σας",
+  "native.bluetooth_pedal.profile_title": "Πεντάλ Bluetooth",
+  "native.bluetooth_pedal.instruction_5": "Έτοιμο! Κάθε φορά που πατάτε το πλήκτρο, θα εκτελείται η επιλεγμένη ενέργεια.",
+  "native.bluetooth_pedal.instruction_4": "Πατήστε το πλήκτρο στο πεντάλ σας. Το πλήκτρο θα εμφανιστεί δίπλα στην ενέργεια που επιλέξατε.",
+  "native.bluetooth_pedal.instruction_2": "Επιλέξτε τη λειτουργία iOS/Android.",
+  "native.bluetooth_pedal.instruction_3": "Επιλέξτε μια ενέργεια από την παραπάνω λίστα για να την αντιστοιχίσετε σε ένα πλήκτρο του πεντάλ και πατήστε «Ρύθμιση».",
+  "native.bluetooth_pedal.instruction_1": "Ενεργοποιήστε το πεντάλ και συνδέστε το στη συσκευή σας [n]osName[n].",
+  "native.bluetooth_pedal.instruction_title": "Πώς να το συνδέσετε και να το ρυθμίσετε",
+  "native.bluetooth_pedal.pedal_title": "Ρύθμιση πεντάλ",
+  "native.bluetooth_pedal.next_page": "Επόμενη σελίδα",
+  "native.bluetooth_pedal.prev_page": "Προηγούμενη σελίδα",
+  "native.bluetooth_pedal.play": "Έναρξη/διακοπή αναπαραγωγής",
+  "native.bluetooth_pedal.autoscroll": "Εναλλαγή αυτόματης κύλισης",
+  "native.bluetooth_pedal.press": "Πατήστε το πλήκτρο στο πεντάλ σας",
+  "native.bluetooth_pedal.set": "Ρύθμιση",
+  "native.credits.title": "Χρήση πιστώσεων PRO",
+  "native.credits.second_description": "Πληρώνετε μόνο ό,τι χρησιμοποιείτε, χωρίς μακροχρόνιες δεσμεύσεις.",
+  "native.credits.balance_title": "Υπόλοιπο πιστώσεων PRO",
+  "native.anniversary.title_offer": "Αποκλειστική προσφορά μόνο για εσάς",
+  "native.anniversary.title": "Εκτιμούμε τη συμμετοχή σας στο MuseScore και θέλουμε να σας προσφέρουμε κάτι ξεχωριστό...",
+  "native.anniversary.main_title": [
+    "Είμαστε μαζί πάνω από [d]",
+    [
+      "d"
+    ],
+    "[/d] ημέρες"
+  ],
+  "native.anniversary.hi_title": "Γεια σας!",
+  "native.anniversary.dear_title": "Αγαπητέ/ή",
+  "native.sets.multiple_success_modified": [
+    [
+      "count"
+    ],
+    " σετ τροποποιήθηκαν"
+  ],
+  "native.sets.create_title": "Εισαγάγετε στοιχεία σετ",
+  "native.sets.edit_title": "Στοιχεία σετ",
+  "native.sets.set_title": "Τίτλος σετ",
+  "native.sets.set_description": "Περιγραφή σετ",
+  "native.sets.placeholder_title": "Εισαγάγετε τίτλο σετ",
+  "native.sets.placeholder_description": "Εισαγάγετε περιγραφή σετ (προαιρετικά)",
+  "native.sets.private": "Ιδιωτικό σετ",
+  "native.sets.creating_new_set": "Δημιουργία νέου σετ",
+  "native.sets.editing_set": "Επεξεργασία σετ",
+  "native.sets.adding_to_set": "Προσθήκη σε σετ",
+  "native.sets.save_changes": "Αποθήκευση αλλαγών",
+  "native.sets.add_to": "Προσθήκη σε",
+  "native.sets.adding": "Προσθήκη",
+  "native.sets.adding_description": "Ομαδοποιήστε τις παρτιτούρες σας ανά κατηγορία προσθέτοντάς τις σε διαφορετικά σετ.",
+  "native.sets.be_careful": "Προσοχή",
+  "native.sets.delete_button": "Αφαίρεση",
+  "native.sets.go_back": "Επιστροφή",
+  "native.sets.delete_set": [
+    "Είστε βέβαιοι ότι θέλετε να διαγράψετε το σετ ",
+    [
+      "setName"
+    ],
+    ";"
+  ],
+  "native.sets.be_careful_warning": "Προσοχή, αυτή η ενέργεια δεν μπορεί να αναιρεθεί",
+  "native.sets.delete_set_button": "Διαγραφή σετ",
+  "native.sets.empty": "δεν έχει ακόμη σετ.",
+  "native.sets.empty_my": "Ομαδοποιήστε τις παρτιτούρες σας ανά κατηγορία προσθέτοντάς τις σε διαφορετικά σετ.\n \nΔεν έχετε ακόμη σετ, αλλά μπορείτε να δημιουργήσετε ένα!",
+  "native.sets.empty_set": "Δεν υπάρχουν ακόμη παρτιτούρες σε αυτό το σετ, αλλά μπορείτε να προσθέσετε!\n\nΑνοίξτε το μενού επιλογών της παρτιτούρας και πατήστε «Προσθήκη σε σετ».",
+  "native.sets.empty_set_my": "Αυτό το σετ είναι προς το παρόν κενό, αλλά αυτό μπορεί να αλλάξει σύντομα!",
+  "native.sets.empty_set_my_title": "Δεν υπάρχουν ακόμη παρτιτούρες σε αυτό το σετ, αλλά μπορείτε να προσθέσετε!",
+  "native.sets.empty_set_my_description": "Ανοίξτε το μενού επιλογών της παρτιτούρας και πατήστε «Προσθήκη σε σετ»",
+  "native.sets.done": "Ολοκληρώθηκε!",
+  "native.sets.success_add_to_set": [
+    "Το «",
+    [
+      "scoreName"
+    ],
+    "» προστέθηκε στο σετ."
+  ],
+  "native.sets.success_remove_from_set": [
+    "Το «",
+    [
+      "scoreName"
+    ],
+    "» αφαιρέθηκε από το σετ."
+  ],
+  "native.vocals": "Φωνητικά",
+  "native.string_instruments": "Έγχορδα όργανα",
+  "native.banjo": "Μπάντζο",
+  "native.ukulele": "Ουκουλέλε",
+  "native.other_strings": "Άλλα έγχορδα",
+  "native.brass_instruments": "Χάλκινα πνευστά",
+  "native.other_brass": "Άλλα χάλκινα",
+  "native.other_woodwinds": "Άλλα ξύλινα πνευστά",
+  "native.free_reed_instruments": "Όργανα ελεύθερου γλωσσιδιού",
+  "native.other_free_reed_instruments": "Άλλα όργανα ελεύθερου γλωσσιδιού",
+  "native.other_instruments": "Άλλα όργανα",
+  "native.buyThisScore": "Αγοράστε αυτή την παρτιτούρα",
+  "native.accessToScore": "Αποκτήστε μόνιμη πλήρη πρόσβαση σε:",
+  "native.oneTimePay": "εφάπαξ πληρωμή",
+  "native.didntBuy": "Δεν έχετε αγοράσει ακόμη παρτιτούρες",
+  "native.getPermanentAccess": "Αποκτήστε μόνιμη πλήρη πρόσβαση στις παρτιτούρες που αγαπάτε, με όλες τις premium λειτουργίες",
+  "native.ordersTitle": "Παραγγελίες",
+  "native.scoresYouBuy": "Μουσικά αποτελέσματα που έχετε αγοράσει",
+  "native.titleListWhatInstruments": "Ποια [c]όργανα[/c] παίζετε ή θα θέλατε να αρχίσετε να παίζετε;",
+  "native.titleListWhatGenres": "Ποια [c]είδη[/c] μουσικής σας ενδιαφέρουν;",
+  "native.titleListLevel": "Πώς θα αξιολογούσατε το [c]επίπεδό σας[/c] στο παίξιμο ενός μουσικού οργάνου;",
+  "native.gotIt": "Εντάξει, ευχαριστώ",
+  "native.blinkListToday": "Σήμερα",
+  "native.blinkListTrialEnd": "Θα σας ειδοποιήσουμε με email ή ειδοποίηση πριν λήξει η δοκιμαστική περίοδος",
+  "native.blinkListhowYourTrialWork": "Πώς λειτουργεί η δωρεάν δοκιμή σας",
+  "native.enjoyTrial": "Απομένουν ακόμη 2 ημέρες για να απολαύσετε δωρεάν την πρόσβαση premium",
+  "native.screen_tour.congrats": "Συγχαρητήρια",
+  "native.screen_tour.membership_text": [
+    "Έχετε συνδρομή MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    "."
+  ],
+  "native.screen_tour.get_most_with_learn": "Αξιοποιήστε τη στο έπακρο με τα μαθήματα του MuseScore LEARN.",
+  "native.screen_tour.student_text_1": "Δεν είναι πάντα εύκολο για νέους κάτω των 18 να πληρώσουν ένα μεγάλο ποσό για ολόκληρο χρόνο μονομιάς",
+  "native.screen_tour.student_text_2": "Δεν είναι πάντα εύκολο για νέους ενήλικες να πληρώσουν ένα μεγάλο ποσό για ολόκληρο χρόνο μονομιάς",
+  "native.screen_no_landing.subscription_start": [
+    "Ξεκινήστε με το MuseScore ",
+    [
+      "subscriptionType"
+    ]
+  ],
+  "native.screen_tour.trial_modal_period_title": [
+    "Ημέρα ",
+    [
+      "dayNumber"
+    ]
+  ],
+  "native.screen_tour.trial_modal_charged_title": [
+    "Θα χρεωθείτε στις ",
+    [
+      "dateTrialEnd"
+    ],
+    ". Ακυρώστε οποιαδήποτε στιγμή πριν από αυτή την ημερομηνία"
+  ],
+  "native.or": "ή",
+  "native.artist": "Καλλιτέχνης",
+  "native.myCourses": "Τα μαθήματά μου",
+  "native.pricing": "Τιμές",
+  "native.official": "Επίσημη",
+  "native.original": "Πρωτότυπη",
+  "native.add_comment": "Προσθέστε ένα σχόλιο...",
+  "native.send_button": "Αποστολή",
+  "native.reply_to": [
+    "Απάντηση σε ",
+    [
+      "replied"
+    ]
+  ],
+  "native.scoreSaved.rateScoreText.title": "Η παρτιτούρα αποθηκεύτηκε",
+  "native.scoreLiked.rateScoreText.subtitle": "Σας αρέσει αυτή η παρτιτούρα; Αξιολογήστε την και αφήστε ένα σχόλιο",
+  "native.scoreLiked.reviewAppText.title": "Ευχαριστούμε για την αξιολόγηση!",
+  "native.scoreLiked.reviewAppText.subtitle": "Αν σας αρέσει η εφαρμογή, θα χαρούμε να μας πείτε τη γνώμη σας",
+  "native.add_comment_placeholder": "Προσθέστε ένα σχόλιο (προαιρετικά)",
+  "native.ms4_dummy_title": "Δεν μπορούμε να εμφανίσουμε αυτό το αρχείο MuseScore 4 αυτήν τη στιγμή",
+  "native.ms4_dummy_subtitle": "Λυπούμαστε! Εργαζόμαστε για να προσθέσουμε υποστήριξη για αρχεία MuseScore 4. Στο μεταξύ, μπορείτε να βρείτε και να δείτε αυτήν την παρτιτούρα στο MuseScore.com πατώντας τον παρακάτω σύνδεσμο.",
+  "native.open_muse_score_website": "Άνοιγμα ιστότοπου MuseScore",
+  "native.courses.lessons.duration_title": [
+    [
+      "lessonsCount"
+    ],
+    " ",
+    [
+      "lessons"
+    ],
+    " ",
+    [
+      "lessonsDuration"
+    ]
+  ],
+  "native.courses.lessons.completed": [
+    [
+      "completedLessons"
+    ],
+    " από ",
+    [
+      "lessonsCount"
+    ],
+    " ",
+    [
+      "lessons"
+    ]
+  ],
+  "native.screen_tour.choose_subs": "Επιλέξτε μια συνδρομή",
+  "native.screen_tour.proven": "Αποδεδειγμένα αποτελεσματικό για πολλούς",
+  "native.screen_tour.five_star": "Κριτικές 5 αστέρων",
+  "native.screen_tour.secured": [
+    "Ασφαλής συναλλαγή μέσω ",
+    [
+      "storeName"
+    ]
+  ],
+  "native.screen_tour.trusted": "Το εμπιστεύονται πάνω από 13 εκατομμύρια μουσικοί σε όλο τον κόσμο.",
+  "native.screen_tour.downloads": "Λήψεις",
+  "native.screen_tour.unlock_benefits": [
+    "Ξεκλειδώστε όλα τα οφέλη μέλους [color]",
+    [
+      "subscriptionGroup"
+    ],
+    "[/color]"
+  ],
+  "native.screen_tour.benefit_download": "Αποκτήστε τις αγαπημένες σας παρτιτούρες σε οποιαδήποτε μορφή. Εκτυπώστε αμέσως από 1,7 εκατ. συνθέσεις της κοινότητας.",
+  "native.screen_tour.benefit_download_title": "Λήψη και εκτύπωση",
+  "native.screen_tour.benefit_ad_free_title": "Χωρίς διαφημίσεις",
+  "native.screen_tour.benefit_ad_free": "Βυθιστείτε στη μουσική με απρόσκοπτη, αδιάκοπη αναπαραγωγή. Χωρίς διαφημίσεις τρίτων, χωρίς άγχος.",
+  "native.screen_tour.benefit_offscores_title": "Αποκτήστε πρόσβαση σε επαγγελματικές μεταγραφές από κορυφαίους εκδότες όπως οι Hal Leonard και Faber, για προβολή online ή αναπαραγωγή.",
+  "native.screen_tour.benefit_playback": "Προσαρμογή αναπαραγωγής",
+  "native.screen_tour.benefit_mixer": "Με το μίξερ κάνετε σίγαση ή σόλο σε όργανα. Μπορείτε επίσης να αλλάξετε την ένταση και την στερεοφωνική θέση (pan).",
+  "native.search.placeholder_books": "Αναζήτηση βιβλίων τραγουδιών",
+  "native.search.placeholder_library": "Αναζήτηση",
+  "native.success_remove_from_set": [
+    "Το «",
+    [
+      "scoreName"
+    ],
+    "» αφαιρέθηκε από το σετ."
+  ],
+  "native.sets.success_create": [
+    "Το σετ «",
+    [
+      "setName"
+    ],
+    "» δημιουργήθηκε."
+  ],
+  "native.score_staff_measure_sheet_title": "Μέγεθος πενταγράμμου και μέτρου",
+  "native.score_staff_measure_sheet_description": "Το μέγεθος που επιλέξατε αποθηκεύεται αυτόματα.",
+  "native.base_reduce": "Σμίκρυνση",
+  "native.base_enlarge": "Μεγέθυνση",
+  "native.base_set_default_size": "Επαναφορά προεπιλεγμένου μεγέθους",
+  "native.offline_indicator.title": "Δεν υπάρχει σύνδεση στο διαδίκτυο",
+  "native.screen_hub.followers": "Ακόλουθοι",
+  "native.success": "Επιτυχία!",
+  "native.bottom_bar.books_tab": "Βιβλία",
+  "native.ebooks.my_books": "Βιβλία τραγουδιών",
+  "native.ebooks.my_bought_books": "Τραγούδια που αγοράσατε",
+  "native.courses.my_courses": "Τα μαθήματά μου",
+  "native.courses.my_courses_bought": "Μαθήματα που έχετε αγοράσει",
+  "native.ebooks.learn_more": "Μάθετε περισσότερα",
+  "native.screen_tour.immerse": "Βυθιστείτε σε [c]πάνω από 2 εκατ. παρτιτούρες[/c]",
+  "native.screen_tour.join": "Γίνετε μέλος της μεγαλύτερης κοινότητας παρτιτούρων στον κόσμο",
+  "native.screen_tour.generate_password": "Θα δημιουργηθεί αυτόματα ένας ισχυρός κωδικός πρόσβασης και θα σταλεί στο email σας",
+  "native.screen_tour.enter_email": "Εισαγάγετε το email σας",
+  "native.screen_tour.create_account": "Δημιουργία νέου λογαριασμού",
+  "native.scores.includes_pdf_title": "Περιλαμβάνει λήψη PDF",
+  "native.score.valid_access": [
+    "Ισχύει για ",
+    [
+      "month"
+    ],
+    " μήνες."
+  ],
+  "native.ebooks.get_songbook": "Απόκτηση βιβλίου τραγουδιών",
+  "native.ebooks.sample": "Δείγμα",
+  "native.ebooks.includes": "Περιλαμβάνει",
+  "native.ebooks.you_may_also_like": "Μπορεί επίσης να σας αρέσουν",
+  "native.ebooks.reviews": "Κριτικές",
+  "native.ebooks.info.released": "ΚΥΚΛΟΦΟΡΙΑ",
+  "native.ebooks.info.length": "ΜΗΚΟΣ",
+  "native.ebooks.info.publisher": "ΕΚΔΟΤΗΣ",
+  "native.ebooks.info.composers": "ΣΥΝΘΕΤΕΣ",
+  "native.ebooks.read": "Ανάγνωση",
+  "native.ebooks.pages": "σελίδες",
+  "native.ebooks.topics": "Θέματα",
+  "native.ebooks.isbn": "ISBN",
+  "native.ebooks.rating": [
+    "από ",
+    [
+      "number"
+    ]
+  ],
+  "native.ebooks.rate_book": "Αξιολόγηση βιβλίου τραγουδιών",
+  "native.ebooks.rate_book_title": "Αξιολόγηση βιβλίου τραγουδιών",
+  "native.ebooks.rate_book_description": "Πατήστε για να αξιολογήσετε. Έτσι βοηθάτε τους άλλους χρήστες \nνα καταλάβουν την ποιότητα του βιβλίου τραγουδιών.",
+  "native.ebooks.rate_success": "Ευχαριστούμε για την αξιολόγηση.\nΑν θέλετε, γράψτε και μια κριτική.",
+  "native.ebooks.verified_title": "Μόνο επαληθευμένες κριτικές",
+  "native.ebooks.verified_sub_title": "Αγοράστε και διαβάστε πρώτα το βιβλίο τραγουδιών για να αφήσετε μια αξιόπιστη κριτική.",
+  "native.ebooks.favorites_button_title": "Βιβλία τραγουδιών",
+  "native.ebooks.favorites_button_subtitle": "Βιβλία τραγουδιών που έχετε προσθέσει στα Αποθηκευμένα",
+  "native.ebooks.favorites_title": "Βιβλία τραγουδιών",
+  "native.ebooks.favorites_empty_title": "Δεν έχετε προσθέσει ακόμα κανένα βιβλίο τραγουδιών",
+  "native.library.filter_show_button": [
+    "Εμφάνιση ",
+    [
+      "count"
+    ],
+    " βιβλίων"
+  ],
+  "native.ebook.filter_instrument": "Όργανο",
+  "native.ebook.filter_genre": "Είδος",
+  "native.ebook.filter_artist_composer": "Καλλιτέχνης / Συνθέτης",
+  "native.ebook.filter_quick": "Γρήγορα φίλτρα",
+  "native.ebook.filter_sort": "Ταξινόμηση κατά",
+  "native.ebook.filter_empty_title": "Δεν βρέθηκαν αποτελέσματα",
+  "native.screen_new_account.password_strength_weak": "Αδύναμη",
+  "native.screen_new_account.password_strength_strong": "Ισχυρή",
+  "native.ebook.filter_show_more": "Εμφάνιση περισσότερων",
+  "native.ebook.filter_show_less": "Εμφάνιση λιγότερων",
+  "native.ebook.filter_clear": "Απαλοιφή όλων",
+  "native.ebooks.orders_empty_subtitle": "Όταν αγοράσετε ένα βιβλίο, θα εμφανιστεί εδώ.",
+  "native.screen_tour.login_muse_title": "Συνδεθείτε στο MuseScore",
+  "native.hub_new.title": "Νέα",
+  "native.hub_piano.title": "Πιάνο",
+  "native.hub_film, tv & video games.title": "Ταινίες, TV & βιντεοπαιχνίδια",
+  "native.hub_strings.title": "Έγχορδα",
+  "native.hub_woodwinds.title": "Ξύλινα πνευστά",
+  "native.hub_saxophone.title": "Σαξόφωνο",
+  "native.hub_trumpet.title": "Τρομπέτα",
+  "native.hub_guitar.title": "Κιθάρα",
+  "native.hub_voice.title": "Φωνή",
+  "native.hub_keyboard.title": "Πλήκτρα",
+  "native.hub_percussion.title": "Κρουστά",
+  "native.hub_disney.title": "Disney",
+  "native.hub_marching percussion.title": "Κρουστά παρέλασης",
+  "native.hub_brass.title": "Χάλκινα πνευστά",
+  "native.hub_electronics.title": "Ηλεκτρονικά",
+  "native.hub_folk.title": "Φολκ",
+  "native.hub_museclass.title": "MuseClass",
+  "native.date.minutes_ago": [
+    "πριν από ",
+    [
+      "minutes"
+    ],
+    " λεπτά"
+  ],
+  "native.date.just_now": "μόλις τώρα",
+  "native.date.hours_ago": [
+    "πριν από ",
+    [
+      "hours"
+    ],
+    " ώρες"
+  ],
+  "native.date.days_ago": [
+    "πριν από ",
+    [
+      "days"
+    ],
+    " ημέρες"
+  ],
+  "native.shared.delete": "Διαγραφή",
+  "native.shared.cancel": "Ακύρωση",
+  "native.review.tap_to_rate": "Πατήστε για να αξιολογήσετε",
+  "native.review.thanks_for_rating": "Ευχαριστούμε για την αξιολόγησή σας.",
+  "native.screen_tour.confirm": "Επιβεβαίωση",
+  "native.sorting_type.relevance": "Συνάφεια",
+  "native.sorting_type.comment count": "Αριθμός σχολίων",
+  "native.sorting_type.view count": "Προβολές",
+  "native.sorting_type.rating": "Αξιολόγηση",
+  "native.sorting_type.score_type": "Τύπος παρτιτούρας",
+  "native.sorting_type.upload date": "Ημερομηνία ανεβάσματος",
+  "native.sorting_type.difficulty_level": "Επίπεδο δυσκολίας",
+  "native.restore.title": "Η επαναφορά ξεκίνησε",
+  "native.preferences.title": "Οι προτιμήσεις σας ενημερώθηκαν",
+  "native.profile.question_answers_title": "Ερωτήσεις και απαντήσεις",
+  "native.courses.title.continue studying": "Συνεχίστε τη μελέτη",
+  "native.courses.title.editor's picks": "Επιλογές της σύνταξης",
+  "native.courses.title.top music courses": "Κορυφαία μαθήματα μουσικής",
+  "native.courses.title.latest music courses": "Νέα μαθήματα μουσικής",
+  "native.courses.title.piano courses": "Μαθήματα πιάνου",
+  "native.courses.title.violin courses": "Μαθήματα βιολιού",
+  "native.courses.title.music theory courses": "Μαθήματα μουσικής θεωρίας",
+  "native.courses.title.wind instruments courses": "Μαθήματα πνευστών οργάνων",
+  "native.courses.title.guitar courses": "Μαθήματα κιθάρας",
+  "native.courses.title.music production courses": "Μαθήματα παραγωγής μουσικής",
+  "native.courses.title.music software courses": "Μαθήματα λογισμικού μουσικής",
+  "native.courses.orders_empty_title": "Δεν έχετε αγοράσει κανένα μάθημα ακόμη",
+  "native.courses.orders_empty_subtitle": "Τα μαθήματά σας θα εμφανίζονται εδώ μόλις πραγματοποιήσετε μια αγορά.",
+  "native.score.layout_title": "ΤΡΟΠΟΣ ΠΡΟΒΟΛΗΣ",
+  "native.score.layout_landscape": "Οριζόντια προβολή",
+  "native.score.standard_title": "Τυπικός",
+  "native.score.hq_title": "Ρυθμίσεις MuseScore HQ+",
+  "native.score.title_file": "Αρχείο",
+  "native.score.download_size_title": [
+    "Απαιτείται επιπλέον λήψη ",
+    [
+      "size"
+    ]
+  ],
+  "native.score.downloaded_title": "Το αρχείο είναι αποθηκευμένο στη συσκευή σας",
+  "native.score.transposition_title": "Μεταφορά τόνου",
+  "native.score.default_title": "Προεπιλογή",
+  "native.score.views": "Προβολές",
+  "native.score.volume_title": "Ένταση",
+  "native.score.keyboard_title": "Εμφάνιση κλαβιέ",
+  "native.sorting_type.default_title": "Προεπιλογή",
+  "native.review.empty_list_title": "Δεν υπάρχουν κριτικές ακόμα",
+  "native.review.empty_list_message": "Γίνετε ο πρώτος που θα μοιραστεί τη γνώμη του και βοηθήστε\nάλλους να ανακαλύψουν υπέροχα βιβλία τραγουδιών",
+  "native.my_profile.pricing_sub_title": "Επιλέξτε το πρόγραμμα που σας ταιριάζει",
+  "native.my_profile.pricing_title": "Τιμές",
+  "native.marketing.subscription.for_the_year": "για τον πρώτο χρόνο",
+  "native.marketing.subscription.week": "εβδομάδα",
+  "native.marketing.subscription.52weeks": "52 εβδομάδες",
+  "native.marketing.feature.quick_load": "Γρήγορη φόρτωση",
+  "native.marketing.feature.quick_load_sub_title": "Γρήγορη φόρτωση σε υπολογιστή και κινητό",
+  "native.marketing.feature.seamless": "Απρόσκοπτη ανάγνωση",
+  "native.marketing.feature.seamless_sub_title": "Αυτόματη συνέχιση σε όλες τις συσκευές",
+  "native.marketing.feature.quick_search": "Γρήγορη αναζήτηση",
+  "native.marketing.feature.mobile_design": "Σχεδιασμός για κινητά",
+  "native.marketing.feature.mobile_design_sub_title": "Προσαρμοσμένη εμφάνιση βιβλίων για υπέροχο αποτέλεσμα και στο κινητό",
+  "native.marketing.feature.growing_library_sub_title": "Τακτική προσθήκη νέων βιβλίων",
+  "native.marketing.feature.growing_library": "Βιβλιοθήκη που μεγαλώνει",
+  "native.marketing.feature.editor_picks": "Μαθήματα από τις Επιλογές της σύνταξης",
+  "native.marketing.feature.editor_picks_enjoy": "Απολαύστε 1 μάθημα από τις Επιλογές της σύνταξης κάθε μήνα",
+  "native.score.blocked.in.country": "Η παρτιτούρα δεν είναι διαθέσιμη",
+  "native.marketing_text.restore_purchase_message_has_rights": "Δεν απαιτείται επαναφορά συνδρομής.",
+  "native.force.logout.title": "Η συνεδρία σας έληξε",
+  "native.force.logout.message": "Συνδεθείτε ξανά στον λογαριασμό σας",
+  "native.score.error_forbidden": "Σφάλμα κατά το άνοιγμα της παρτιτούρας: δεν επιτρέπεται η πρόσβαση",
+  "native.marketing.already_have_pro": "Έχετε ήδη προσφορά PRO",
+  "native.ebooks.get_access_songbook": "Αποκτήστε πρόσβαση στο βιβλίο τραγουδιών",
+  "native.marketing.downlodable_materials": "Υλικό μαθημάτων για λήψη",
+  "native.marketing.online_access": [
+    "Πρόσβαση στο MuseScore ",
+    [
+      "type"
+    ],
+    " online"
+  ],
+  "native.marketing.7_day_title": "(δοκιμή 7 ημερών)",
+  "native.marketing.right_choice_title": "Κάνατε τη σωστή επιλογή. Το MuseScore είναι φτιαγμένο για μουσικούς σαν εσάς.",
+  "native.marketing.welcome_subscription_title": [
+    "Καλώς ήρθατε στη συνδρομή MuseScore ",
+    [
+      "type"
+    ]
+  ],
+  "native.marketing.skip_for_now": "Παράλειψη προς το παρόν",
+  "native.hub_advent.title": "Ημερολόγιο Advent",
+  "native.autograde.title": "Λειτουργία εξάσκησης",
+  "native.autograde.feature_subtitle": "Λάβετε άμεση ανατροφοδότηση για την ακρίβεια και τον ρυθμό (μόνο με PRO+)",
+  "native.screen_sft.carousel.course_title": "Μαθήματα από τις Επιλογές της σύνταξης",
+  "native.screen_sft.carousel.course_sub_title": "Απολαύστε 1 μάθημα από τις Επιλογές της σύνταξης κάθε μήνα",
+  "native.marketing_text.restore_purchase_message_has_rights_sub_title": "έχετε ήδη όλα τα δικαιώματα πρόσβασης.",
+  "native.score.enable_metronome": "Ενεργοποίηση μετρονόμου",
+  "native.score.count_off": "Προμέτρηση",
+  "native.marketing.start_7_day_trial": "Έναρξη δωρεάν δοκιμής 7 ημερών",
+  "native.marketing.get_more_with_musescore": [
+    "Αποκτήστε περισσότερα με το MuseScore [color]",
+    [
+      "title"
+    ],
+    "[/color]"
+  ],
+  "native.marketing.tap_unlock": "Πατήστε για να ξεκλειδώσετε τη δωρεάν δοκιμή 7 ημερών",
+  "native.marketing.tap_unlock_discount": [
+    "Πατήστε για να ξεκλειδώσετε την έκπτωση ",
+    [
+      "discount"
+    ]
+  ],
+  "native.marketing.tour.feature_learn_1": "Μουσική εκπαίδευση παγκοσμίου επιπέδου",
+  "native.marketing.tour.feature_learn_2": "Συμπληρωματικό υλικό",
+  "native.marketing.tour.feature_learn_3": "Επαγγελματική εκπαίδευση",
+  "native.marketing.tour.feature_sub_title_learn_3": "Μάθετε πιάνο, τύμπανα, κιθάρα και πολλά άλλα όργανα με τον δικό σας ρυθμό",
+  "native.marketing.tour.feature_sub_title_learn_2": "Υλικό μαθημάτων για λήψη",
+  "native.marketing.tour.feature_sub_title_learn_1": [
+    "Απεριόριστη πρόσβαση σε ",
+    [
+      "count"
+    ],
+    " μαθήματα από έμπειρους δασκάλους"
+  ],
+  "native.user.empty_scores": "Αυτός ο χρήστης δεν έχει ανεβάσει ακόμη παρτιτούρες.",
+  "native.score_details_sheet.unsave_button": "Κατάργηση αποθήκευσης",
+  "native.score_details_sheet.sound": "Ήχος",
+  "native.score_details_sheet.sound.description": "Δείγματα ήχου 16-bit με υποστήριξη διαμόρφωσης",
+  "native.score_details_sheet.download_title": "Λήψη",
+  "native.score_details_sheet.download_description": "Το αρχείο θα αποθηκευτεί στη συσκευή σας\nστην επιλεγμένη μορφή.",
+  "native.load_score.title": "Μία στιγμή, η παρτιτούρα σας φορτώνεται...",
+  "native.marketing.feature.access_offscores": "Πρόσβαση σε Επίσημες Παρτιτούρες",
+  "native.marketing.subscription.52weeksAt": "52 εβδομάδες προς",
+  "native.marketing.free_trial": "Δωρεάν δοκιμή",
+  "native.filter_type.free to view & play": "Δωρεάν προβολή & παίξιμο",
+  "native.filter_type.free to view, play & download": "Δωρεάν προβολή, παίξιμο & λήψη",
+  "native.marketing.add_musescore_title": [
+    "Μπορείτε να προσθέσετε το MuseScore ",
+    [
+      "type"
+    ],
+    " στη συνδρομή σας. Για επιβεβαίωση, πατήστε το κουμπί «Επιβεβαίωση»"
+  ],
+  "native.filter.duration": "Διάρκεια",
+  "native.marketing.monthsAt": [
+    [
+      "count"
+    ],
+    " μήνες προς"
+  ],
+  "native.marketing.slashMonths": [
+    "/",
+    [
+      "count"
+    ],
+    " μήνες"
+  ],
+  "native.screen_explore.best_of_musescore": "Τα καλύτερα του MuseScore",
+  "native.screen_explore.songbooks_for_you": "Βιβλία τραγουδιών για εσάς",
+  "native.profile.settings": "Ρυθμίσεις",
+  "native.score.settings.practice_mode": "Λειτουργία εξάσκησης",
+  "native.score.settings.settings": "Ρυθμίσεις",
+  "native.practice_mode.onboarding.first_step.subtitle": "Αναλύστε και βελτιώστε το παίξιμό σας με άμεση ανατροφοδότηση από τεχνολογία AI.",
+  "native.practice_mode.onboarding.third_step.subtitle": "Βελτιώστε την ακρίβειά σας και ενισχύστε τις μουσικές σας δεξιότητες με ακριβή ανατροφοδότηση.",
+  "native.practice_mode.onboarding.fourth_step.subtitle": "Κατακτήστε το τραγούδι που πάντα θέλατε να παίξετε. Τίποτα δεν μπορεί να σας σταματήσει τώρα.",
+  "native.artist.segment.compositions": "Συνθέσεις",
+  "native.song_book.section.title.recently_viewed": "Πρόσφατες προβολές",
+  "native.song_book.section.title.staff_picks": "Επιλογές της ομάδας",
+  "native.song_book.section.title.piano_favourites": "Αγαπημένα για πιάνο",
+  "native.song_book.section.title.most_popular": "Τα πιο δημοφιλή",
+  "native.song_book.section.title.bestsellers": "Ευπώλητα",
+  "native.screen_explore.explore_sheet_music": "Εξερευνήστε παρτιτούρες",
+  "native.filter_screen.format": "Μορφή",
+  "native.filter_screen.popular": "Δημοφιλή",
+  "native.hub_advent.gifts": "Δώρα",
+  "native.autoscroll.alert.title": "Αυτόματη κύλιση",
+  "native.score_onboarding.got_it_button": "Κατάλαβα",
+  "native.score.chip_mixer": "Μίξερ",
+  "native.score.chip_metronome": "Μετρονόμος",
+  "native.score.chip_loop": "Επανάληψη",
+  "native.score.layout_title_horizontal": "Σελίδες",
+  "native.score.comment": "Σχόλιο",
+  "native.score.display_keyboard": "Κλαβιέ",
+  "native.score.chip_transpose": "Μεταφορά τόνου",
+  "native.score.transpose_up": "Επάνω",
+  "native.marketing.questions.genre.title": "Ποια είδη μουσικής σας ενδιαφέρουν;",
+  "native.marketing.questions.genre.vocal_jazz": "Φωνητική τζαζ",
+  "native.marketing.questions.genre.world_music": "Μουσική του κόσμου",
+  "native.marketing.questions.level.list.title": "Πώς θα αξιολογούσατε το επίπεδό σας στο παίξιμο ενός μουσικού οργάνου;",
+  "native.marketing.questions.age.list.title": "Επιλέξτε την ηλικία σας",
+  "native.marketing.questions.age.list.sub_title": "Έτσι θα μπορούμε να σας προτείνουμε πιο σχετικό περιεχόμενο",
+  "native.marketing.questions.age.list.18": "Κάτω των 18",
+  "native.marketing.questions.age.list.55": "55 και άνω",
+  "native.marketing.questions.goal.title": "Ποιος είναι ο κυριότερος μουσικός σας στόχος αυτή τη στιγμή;",
+  "native.marketing.questions.goal.master": "Να μάθω τέλεια ένα συγκεκριμένο κομμάτι",
+  "native.marketing.questions.goal.prepare": "Να προετοιμαστώ για εμφανίσεις, ρεσιτάλ ή συναυλίες",
+  "native.marketing.questions.goal.learn": "Να μάθω να παίζω για διασκέδαση",
+  "native.marketing.questions.goal.find": "Να βρω ποιοτικό περιεχόμενο",
+  "native.marketing.questions.goal.title2": "Εξαιρετική επιλογή! Ποιο είναι το πρώτο σας βήμα με το MuseScore προς τον στόχο σας;",
+  "native.marketing.questions.goal.discover": "Να ανακαλύψω νέες παρτιτούρες",
+  "native.marketing.questions.goal.specific": "Να βρω ένα συγκεκριμένο κομμάτι που θέλω να παίξω",
+  "native.marketing.questions.goal.music": "Να βρω μουσική για το επίπεδό μου",
+  "native.marketing.questions.agree.yes": "Ναι",
+  "native.marketing.questions.agree.no": "Όχι",
+  "native.marketing.advanced_tools": "Προηγμένα εργαλεία για να ανεβάσετε το επίπεδό σας στο παίξιμο",
+  "native.marketing.get_score": [
+    "Αποκτήστε την παρτιτούρα σας (απομένουν ",
+    [
+      "credits"
+    ],
+    " πιστώσεις)"
+  ],
+  "native.score_details_sheet.saved_button": "Αποθηκεύτηκε",
+  "native.screens_titles.songbook_screen": "Διαθέσιμα εκτός σύνδεσης",
+  "native.comment.empty_title": "Δεν υπάρχουν σχόλια ακόμα",
+  "native.library.favorites_title": "Αποθηκευμένα",
+  "native.screens_titles.favorite_courses_screen": "Αποθηκευμένα μαθήματα",
+  "native.screens_titles.favorites_screen": "Αποθηκευμένες παρτιτούρες",
+  "native.make_public.make_public_button": "Δημοσιοποίηση",
+  "native.make_public.score_title_label": "Τίτλος παρτιτούρας",
+  "native.make_public.genre_label": "Είδος",
+  "native.make_public.description_label": "Περιγραφή",
+  "native.make_public.description_placeholder": "Ημερομηνία κυκλοφορίας, ιστορία δημιουργίας, άλμπουμ, διάθεση",
+  "native.make_public.show_parts": "Εμφάνιση μερών (αν υπάρχουν)",
+  "native.make_public.update_button": "Ενημέρωση",
+  "native.make_public.access_anyone": "Όλοι μπορούν να τη δουν",
+  "native.make_public.access_link": "Όποιος έχει τον σύνδεσμο μπορεί να τη δει",
+  "native.make_public.access_private": "Ιδιωτική",
+  "native.make_public.copyright_all_rights": "Καμία (με επιφύλαξη παντός δικαιώματος)",
+  "native.make_public.copyright_cc_by": "Αναφορά",
+  "native.make_public.copyright_cc_by_nd": "Αναφορά, χωρίς παράγωγα έργα",
+  "native.make_public.copyright_cc_by_sa": "Αναφορά, κοινή χρήση με τους ίδιους όρους",
+  "native.make_public.copyright_cc_by_nc": "Αναφορά, μη εμπορική χρήση",
+  "native.make_public.copyright_cc_by_nc_nd": "Αναφορά, μη εμπορική, χωρίς παράγωγα",
+  "native.make_public.copyright_cc_by_nc_sa": "Αναφορά, μη εμπορική χρήση, παρόμοια διανομή",
+  "native.next.payment": "Επόμενη πληρωμή",
+  "native.shared_continue": "Συνέχεια",
+  "native.privacy.public_badge": "Δημόσια",
+  "native.privacy.private_badge": "Ιδιωτική",
+  "native.screen_omr.start_free_trial": "Ξεκινήστε τη δωρεάν δοκιμή σας",
+  "native.marketing.weekly_access": "Εβδομαδιαία πρόσβαση",
+  "native.viewAllPlans": "Όλα τα προγράμματα",
+  "native.theHomeOfSheetMusic": "Το σπίτι των παρτιτούρων",
+  "native.viewAllReplies": [
+    "Προβολή όλων των ",
+    [
+      "count"
+    ],
+    " απαντήσεων"
+  ],
+  "native.getFreeSongBook": "Αποκτήστε το δωρεάν βιβλίο τραγουδιών σας",
+  "native.reportIssueButton": "Αναφορά προβλήματος",
+  "native.scoreIsLoading": "Η παρτιτούρα φορτώνεται, μπορεί να πάρει λίγο χρόνο...",
+  "native.marketing.get_free_score": "Αποκτήστε την παρτιτούρα σας",
+  "native.marketing.export_pdf_midi_mp3_title": "Εξαγωγή σε PDF, MIDI και MP3",
+  "native.marketing.editors_picks_title": "1 μάθημα από τις Επιλογές της σύνταξης",
+  "native.marketing.access_songbook_title": "Βιβλία τραγουδιών και μέθοδοι της Hal Leonard",
+  "native.marketing.learning_title": "Διδακτικά υλικά",
+  "native.marketing.number_courses_title": [
+    [
+      "courses"
+    ],
+    "+ μαθήματα"
+  ],
+  "native.marketing.export_community_scores_title": "Εξαγωγή παρτιτούρων της κοινότητας",
+  "native.marketing.tools_title": "Εργαλεία",
+  "native.marketing.unlimited_access_courses_title": "Απεριόριστη πρόσβαση σε μαθήματα",
+  "native.screen_explore.new_for_you": "Νέα για εσάς",
+  "native.screen_explore.trending_now": "Δημοφιλή τώρα",
+  "native.screen_explore.recommended_courses": "Προτεινόμενα μαθήματα",
+  "native.screen_explore.new_playlists": "Νέες λίστες αναπαραγωγής",
+  "native.profile.subscriptions": "Συνδρομές",
+  "native.subscriptions.manage": "Διαχείριση",
+  "native.score.settings.zoom": "Ζουμ",
+  "native.practice_mode.onboarding.first_step.title": "Ανακαλύψτε τη δύναμη της λειτουργίας εξάσκησης",
+  "native.practice_mode.onboarding.second_step.title": "Βελτιωθείτε απλώς παίζοντας",
+  "native.practice_mode.onboarding.second_step.subtitle": "Απλώς παίξτε ένα τραγούδι και θα αντιστοιχίσουμε το παίξιμό σας με την παρτιτούρα.",
+  "native.practice_mode.onboarding.third_step.title": "Δείτε τις δεξιότητές σας να απογειώνονται",
+  "native.practice_mode.onboarding.fourth_step.title": "Αποδεχτείτε την πρόκληση",
+  "native.practice_mode.onboarding.fifth_step.title": "Εξασκηθείτε στα σημεία που θέλετε να βελτιώσετε",
+  "native.practice_mode.onboarding.fifth_step.subtitle": "Επιλέξτε και απομονώστε το σημείο της σύνθεσης στο οποίο θέλετε να εξασκηθείτε.",
+  "native.practice_mode.onboarding.sixth_step.title": "Πρόσβαση στο μικρόφωνο",
+  "native.practice_mode.onboarding.sixth_step.subtitle": "Πρέπει να ακούμε το όργανό σας για να σας δίνουμε έξυπνη ανατροφοδότηση στην ηχογράφησή σας.",
+  "native.practice_mode.onboarding.sixth_step.button": "Εντάξει",
+  "native.practice_mode.onboarding.seventh_step.title": "Κουρδίστε το μουσικό σας όργανο",
+  "native.practice_mode.onboarding.seventh_step.subtitle": "Ένα καλοκουρδισμένο όργανο δίνει ακριβέστερο αποτέλεσμα.",
+  "native.practice_mode.onboarding.eighth_step.title": "Χρησιμοποιείτε ακουστικά κατά την εξάσκηση",
+  "native.practice_mode.onboarding.eighth_step.subtitle": "Χωρίς εξωτερικούς θορύβους η ηχογράφηση θα είναι πιο καθαρή.",
+  "native.practice_mode.onboarding.ninth_step.title": "Εξασκηθείτε στα σημεία που θέλετε να βελτιώσετε",
+  "native.practice_mode.onboarding.ninth_step.subtitle": "Επιλέξτε και απομονώστε το σημείο της σύνθεσης στο οποίο θέλετε να εξασκηθείτε.",
+  "native.artist.segment.sheet_music": "Παρτιτούρες",
+  "native.pedal.feedback.placeholder": "Τα σχόλιά σας",
+  "native.pedal.feedback.thanks": "Ευχαριστούμε για τα σχόλιά σας!",
+  "native.shared.rating": [
+    [
+      "rating"
+    ],
+    " αξιολόγηση"
+  ],
+  "native.shared.ratings": [
+    [
+      "rating"
+    ],
+    " αξιολογήσεις"
+  ],
+  "native.filter_screen.select_all": "Επιλογή όλων",
+  "native.marketing.buy_this_score": [
+    "Αγορά αυτής της παρτιτούρας για ",
+    [
+      "price"
+    ]
+  ],
+  "native.marketing.download_pdf": "Κατεβάστε σε PDF ή εκτυπώστε [sb]αυτήν την παρτιτούρα[/sb]",
+  "native.marketing.full_view_score_title": "Αποκτήστε πλήρη πρόσβαση σε [sb]αυτήν την παρτιτούρα[/sb]",
+  "native.autoscroll.alert.description": "Τώρα μπορείτε να ενεργοποιήσετε την «Αυτόματη κύλιση», ώστε οι νότες\nνα είναι πάντα ορατές όταν παίζετε",
+  "native.marketing.doubt_title": "Έχετε ακόμη αμφιβολίες;",
+  "native.marketing.doubt_offer": "Ειδική προσφορά μόνο για νέους χρήστες!",
+  "native.marketing.terms_title": "Ξεκινήστε με μικρότερη διάρκεια συνδρομής",
+  "native.marketing.last_chance_title": [
+    "Τελευταία ευκαιρία να ξεκινήσετε ",
+    [
+      "offerName"
+    ]
+  ],
+  "native.marketing.membership_title": "τη συνδρομή",
+  "native.marketing.with_trial_title": "με δωρεάν δοκιμή",
+  "native.filter_item_name.license.modify_commercially": "Για εμπορική τροποποίηση",
+  "native.filter_item_name.license.use_commercially": "Για εμπορική χρήση",
+  "native.filter_item_name.license.share": "Για κοινοποίηση",
+  "native.filter_item_name.license.personal_use": "Μόνο για προσωπική χρήση",
+  "native.score_onboarding.tap_fullscreen": "Πατήστε για πλήρη οθόνη",
+  "native.score_onboarding.tap_fullscreen_desc": "Πατήστε μία φορά στο κέντρο της παρτιτούρας για ανάγνωση σε πλήρη οθόνη.",
+  "native.score_onboarding.next_button": "Επόμενο",
+  "native.score_onboarding.change_notation_size": "Αλλαγή μεγέθους σημειογραφίας",
+  "native.score_onboarding.change_notation_size_desc": "Πατήστε το εικονίδιο ζουμ για να αλλάξετε το μέγεθος της σημειογραφίας.",
+  "native.score_onboarding.toggle_cursor": "Εμφάνιση/απόκρυψη δρομέα",
+  "native.score_onboarding.toggle_cursor_desc": "Εμφανίστε ή αποκρύψτε τον δρομέα αναπαραγωγής.",
+  "native.score_onboarding.long_press_to_move": "Πατήστε παρατεταμένα για μετακίνηση",
+  "native.score_onboarding.long_press_to_move_desc": "Πατήστε παρατεταμένα οπουδήποτε στην παρτιτούρα για να μετακινήσετε τον δρομέα.",
+  "native.user.access.pro.toast": "Μπορείτε να κατεβάζετε πάνω από 2 εκατ. παρτιτούρες της κοινότητας.",
+  "native.user.access.proPlus.toast": "Μπορείτε να παίζετε πάνω από 1 εκατ. Επίσημες Παρτιτούρες και να κατεβάζετε πάνω από 2 εκατ. παρτιτούρες της κοινότητας.",
+  "native.user.access.learn.toast": "Έχετε απεριόριστη πρόσβαση σε όλα τα μαθήματα και το περιεχόμενό τους.",
+  "native.user.access.learnLite.toast": "Μπορείτε να απολαμβάνετε 1 μάθημα τον μήνα.",
+  "native.user.access.books.toast": "Αποκτάτε βιβλία τραγουδιών και βιβλία μεθόδου της Hal Leonard.",
+  "native.library.songbook_order_title": "Αποθηκευμένες παραγγελίες",
+  "native.score.chip_ai_tutor": "AI δάσκαλος",
+  "native.score.chip_zoom": "Ζουμ",
+  "native.score.chip_transp": "Μεταφ.",
+  "native.score.transp_title": "Επιλεγμένη μεταφορά τόνου",
+  "native.score.save_for_offline": "Αποθήκευση εκτός σύνδεσης",
+  "native.score.about_this_score": "Σχετικά με αυτήν την παρτιτούρα",
+  "native.score.layout_title_vertical": "Κάθετη κύλιση",
+  "native.score.single_line": "Μονή γραμμή",
+  "native.score.hq_settings_description": "Τεχνολογία που σας επιτρέπει να απολαμβάνετε βελτιωμένη ποιότητα ήχου. (159 MB)",
+  "native.score.display_cursor": "Δρομέας",
+  "native.marketing.download_this_score": "Κατεβάστε αυτήν την παρτιτούρα",
+  "native.action.try": "Δοκιμάστε",
+  "native.score.transpose_down": "Κάτω",
+  "native.apple_watch_control.title": "Έλεγχος από Apple Watch",
+  "native.apple_watch_control.feature_subtitle": "Ελέγξτε την αναπαραγωγή και τον μετρονόμο, όλα από το Apple Watch σας",
+  "native.marketing.gift_title": "Ανακαλύψτε τα δώρα σας",
+  "native.marketing.gift_disable_subscription": "Η ενεργή συνδρομή κρύβει πολλές ευχάριστες εκπλήξεις, μεταξύ άλλων πρόσβαση σε PRO, PRO+, LEARN και ONE.",
+  "native.marketing.gift_active_subscription": "Απαιτείται ενεργή συνδρομή (οποιαδήποτε συνδρομή MuseScore) για την παραλαβή των δώρων σας. Αυτό περιλαμβάνει τις συνδρομές PRO, PRO+, LEARN και ONE.",
+  "native.marketing.gift_tomorrow_title": "Επιστρέψτε αύριο για να ανακαλύψετε μια νέα προσφορά από το MuseScore",
+  "native.marketing.gift_daily_title": "Το καθημερινό σας δώρο",
+  "native.marketing.gift_check_daily_title": "Μπείτε καθημερινά για να λάβετε όλα σας τα δώρα",
+  "native.screen_tour.happy": "Πάνω από 93% ικανοποιημένοι χρήστες.",
+  "native.marketing.get_premium_discount": [
+    "Αποκτήστε [b]έκπτωση ",
+    [
+      "discount"
+    ],
+    "%[/b] με τη συνδρομή Premium"
+  ],
+  "native.marketing.get_premium_discount_switch": "[b]Χωρίς έκπτωση.[/b] Ενεργοποιήστε τον διακόπτη για να εφαρμοστεί η έκπτωση 40%.",
+  "native.marketing.for_this_score": "για αυτήν την παρτιτούρα",
+  "native.marketing.download_premium_score": [
+    "Κατεβάστε δωρεάν αυτήν ή οποιαδήποτε άλλη παρτιτούρα από τον μεγαλύτερο online κατάλογο, που δημιουργεί μια αξιόπιστη κοινότητα χρηστών (",
+    [
+      "scores"
+    ],
+    " εκατ. παρτιτούρες)"
+  ],
+  "native.marketing.no_commitments": "Χωρίς δεσμεύσεις",
+  "native.marketing.secured_payment": "Προστασία προσωπικών δεδομένων και δεδομένων πληρωμής",
+  "native.marketing.up_to_discount_scores": [
+    "Έκπτωση έως ",
+    [
+      "discount"
+    ],
+    "% σε αυτήν και σε άλλες παρτιτούρες"
+  ],
+  "native.marketing.continue_download": "Συνέχεια στη λήψη",
+  "native.trending_searches": "Δημοφιλείς αναζητήσεις",
+  "native.trending_scores": "Δημοφιλείς παρτιτούρες",
+  "native.marketing.questions.agree.title": "Συμφωνείτε με αυτή τη δήλωση;",
+  "native.marketing.questions.agree.stay": "Μερικές φορές είναι δύσκολο να διατηρήσετε το κίνητρο για εξάσκηση",
+  "native.marketing.questions.agree.stay_in_rhythm": "Μείνετε στον ρυθμό",
+  "native.marketing.questions.agree.can_remind": "Το MuseScore μπορεί να σας υπενθυμίζει πότε είναι ώρα για εξάσκηση",
+  "native.marketing.questions.social_proof.title": "Το MuseScore δημιουργήθηκε για μουσικούς",
+  "native.marketing.questions.social_proof.content": [
+    "Υπάρχουν πάνω από [b]13 εκατ.[/b] μουσικοί σαν εσάς, ανάμεσά τους και όσοι ",
+    [
+      "id100"
+    ],
+    ". Το MuseScore προσφέρει [b]1,6 εκατ.[/b] παρτιτούρες",
+    [
+      "id103"
+    ]
+  ],
+  "native.marketing.questions.agree.play_hard": "Το να παίζετε ένα μουσικό όργανο μπορεί να είναι απαιτητικό",
+  "native.marketing.questions.agree.takes_time": "Χρειάζεται χρόνος για να εξασκηθείτε σε οποιοδήποτε κομμάτι",
+  "native.marketing.questions.agree.you_come": "Ήρθατε στο σωστό μέρος",
+  "native.marketing.questions.agree.we_know": "Το γνωρίζουμε, γι' αυτό προσφέρουμε εργαλεία όπως τη λειτουργία εξάσκησης, την επανάληψη (loop) και τον έλεγχο τέμπο.",
+  "native.marketing.questions.agree.support": "Το MuseScore υποστηρίζει την εξάσκησή σας",
+  "native.marketing.questions.agree.easier": "Συχνά είναι πιο εύκολο να εξελιχθείτε όταν η μουσική ταιριάζει στο επίπεδό σας",
+  "native.marketing.questions.agree.offers": "Το MuseScore προσφέρει μεγάλη ποικιλία εκδοχών για διαφορετικά όργανα και επίπεδα",
+  "native.marketing.questions.agree.reminds": "Το MuseScore σας θυμίζει να εξασκείστε",
+  "native.marketing.questions.social.trust": "εμπιστεύονται το MuseScore για να προετοιμαστούν για μια εμφάνιση",
+  "native.marketing.questions.social.spanning": " σε 20 μεγάλα μουσικά είδη",
+  "native.marketing.questions.social.including": ", συμπεριλαμβανομένου περιεχομένου υψηλής ποιότητας με άδεια απευθείας από εκδότες",
+  "native.marketing.questions.social.variety": " με μεγάλη ποικιλία διασκευών",
+  "native.marketing.questions.social.suitable": " για το επίπεδό σας, από εντελώς αρχάριους μέχρι μαέστρους",
+  "native.marketing.questions.social.more": " για περισσότερα από 170 μουσικά όργανα",
+  "native.marketing.questions.social.trust_rely": "εμπιστεύονται το MuseScore για να κατακτήσουν τη μουσική που αγαπούν",
+  "native.marketing.questions.social.different": "διδάσκουν με πάθος μαθητές διαφόρων επιπέδων",
+  "native.marketing.questions.social.share": "μοιράζονται το πάθος σας για τη μουσική",
+  "native.typo_search.title": [
+    "Εμφάνιση αποτελεσμάτων\nγια ",
+    [
+      "result"
+    ]
+  ],
+  "native.typo_search.description": [
+    "Αναζήτηση για ",
+    [
+      "result"
+    ],
+    ";"
+  ],
+  "native.search.no.results_for_query": [
+    "Δεν βρέθηκαν αποτελέσματα για ",
+    [
+      "query"
+    ]
+  ],
+  "native.accessibility_statement": "Δήλωση προσβασιμότητας",
+  "native.ebooks.added_to_favorite": "Προστέθηκε στα αποθηκευμένα βιβλία τραγουδιών. 🎉\nΘα βρείτε αυτό το βιβλίο τραγουδιών στη βιβλιοθήκη σας.",
+  "native.ebooks.favorites_empty_subtitle": "Όταν αποθηκεύσετε ένα βιβλίο τραγουδιών,\nθα εμφανιστεί εδώ",
+  "native.ebooks.removed_from_favorite": "Αφαιρέθηκε από τα αποθηκευμένα βιβλία τραγουδιών.",
+  "native.favorite_songbooks.empty_description": "Εξερευνήστε τα βιβλία τραγουδιών και πατήστε την καρδιά για να τα αποθηκεύσετε εδώ.",
+  "native.favorite_songbooks.empty_title": "Φτιάξτε τη συλλογή σας από βιβλία τραγουδιών",
+  "native.followers.empty_description": "Μοιραστείτε τη μουσική σας και δείτε τους ακολούθους σας να αυξάνονται.",
+  "native.followers.empty_title": "Το κοινό σας δεν σας έχει βρει ακόμα",
+  "native.following.empty_description": "Εξερευνήστε την κοινότητα και ακολουθήστε τους δημιουργούς που σας τραβούν την προσοχή.",
+  "native.following.empty_title": "Δεν ακολουθείτε κανέναν ακόμα",
+  "native.leave_a_review": "Αφήστε μια κριτική",
+  "native.marketing.combines_title": [
+    "Η συνδρομή σας συνδυάζεται τέλεια με το MuseScore ",
+    [
+      "type"
+    ]
+  ],
+  "native.marketing.enjoy_discount": [
+    "Απολαύστε την [sb]έκπτωση ",
+    [
+      "discount"
+    ],
+    "%[/sb] με τη συνδρομή ",
+    [
+      "planName"
+    ]
+  ],
+  "native.marketing.offscores_licensed": "Προβολή Επίσημων Παρτιτούρων με άδεια από εκδότες έντυπης μουσικής",
+  "native.marketing.use_credit": [
+    "Χρήση ",
+    [
+      "numberCredits"
+    ],
+    " πίστωσης MuseScore"
+  ],
+  "native.new_search.sources.favorites": "Στα Αποθηκευμένα",
+  "native.offline_scores.empty_description": "Εδώ αποθηκεύονται παρτιτούρες στη συσκευή σας. Αν μείνετε χωρίς διαδίκτυο, οι παρτιτούρες θα είναι πάντα μαζί σας. Μπορείτε να αποθηκεύσετε οποιαδήποτε παρτιτούρα από την αναζήτηση.",
+  "native.score.display_settings": "Ρυθμίσεις προβολής",
+  "native.score_details_sheet.favorite_button": "Αποθήκευση",
+  "native.scoreLiked.rateScoreText.title": "Προστέθηκε στις αποθηκευμένες παρτιτούρες",
+  "native.set.empty_button": "Προσθήκη παρτιτούρων",
+  "native.set.empty_description": "Ανοίξτε μια παρτιτούρα και πατήστε «Προσθήκη σε σετ» ή απλώς πατήστε το παρακάτω κουμπί για να ξεκινήσετε.",
+  "native.set.empty_title": "Ώρα να κάνετε αυτό το σετ δικό σας",
+  "native.sets.empty_button": "Δημιουργία σετ",
+  "native.sets.empty_description": "Πατήστε το εικονίδιο συν ή απλώς πατήστε το παρακάτω κουμπί για να ξεκινήσετε.",
+  "native.activity.notifications.your_score_favorited": "Κάποιος αποθήκευσε την παρτιτούρα σας",
+  "native.alertNotifications.favorites.remove_exp": "Αφαιρέθηκε από τις αποθηκευμένες παρτιτούρες",
+  "native.comment.empty_description": "Γίνετε ο πρώτος που θα σχολιάσει.",
+  "native.empty_orders.description": "Κάθε παρτιτούρα που αγοράζετε εμφανίζεται εδώ, έτοιμη για λήψη, εκτύπωση και αποθήκευση σε PDF.",
+  "native.empty_orders.title": "Ξεκινήστε τη συλλογή σας από αγορασμένες παρτιτούρες",
+  "native.favorite_courses.empty_description": "Βρήκατε ένα μάθημα που σας αρέσει; Πατήστε την καρδιά και κρατήστε το εδώ.",
+  "native.favorite_courses.empty_title": "Φτιάξτε τη βιβλιοθήκη μαθημάτων σας",
+  "native.feed.items.22": "αποθήκευσε την παρτιτούρα σας",
+  "native.feed.items.26": "σχολίασε μια παρτιτούρα που έχετε αποθηκεύσει",
+  "native.filter.results": "Αποτελέσματα",
+  "native.identify_sheet_description": "και θα βρούμε την παρτιτούρα",
+  "native.identify_sheet_title": "Πατήστε για να αναγνωρίσετε ένα τραγούδι",
+  "native.identify_song_button_title": "Αναγνώριση τραγουδιού",
+  "native.identify_song_notification_title": "Ευχαριστούμε! Θα μοιραστούμε τις απαντήσεις σας με την ομάδα για να δώσουμε προτεραιότητα στις λειτουργίες.",
+  "native.identify_song_sheet_no": "Όχι, ευχαριστώ",
+  "native.identify_song_sheet_subtitle": "Σύντομα θα μπορείτε να παίζετε ένα τραγούδι κοντά στο τηλέφωνο και το MuseScore θα το ακούει, θα το αναγνωρίζει και θα βρίσκει την παρτιτούρα. Θέλετε να σας ειδοποιήσουμε όταν είναι έτοιμο;",
+  "native.identify_song_sheet_title": "Η αναγνώριση μουσικής\nέρχεται σύντομα",
+  "native.library.empty_favorites_title": "Δεν υπάρχουν ακόμη αποθηκευμένες παρτιτούρες",
+  "native.library.favorites.desc": "Όλα όσα αποθηκεύετε βρίσκονται εδώ. Απλώς πατήστε την καρδιά στις παρτιτούρες που αγαπάτε.",
+  "native.library.favorites.desc_offline": "Συνδεθείτε στο διαδίκτυο για να βρείτε και να αποθηκεύσετε παρτιτούρες",
+  "native.library.favorites.search_btn_title": "Βρείτε παρτιτούρες",
+  "native.library.my_local_saved_scores": "Οι παρτιτούρες μου στη συσκευή",
+  "native.library.my_purchased_courses_title": "Τα μαθήματα που αγόρασα",
+  "native.library.my_purchased_scores_title": "Οι παρτιτούρες που αγόρασα",
+  "native.library.my_purchased_songbooks_title": "Τα βιβλία τραγουδιών που αγόρασα",
+  "native.library.my_uploaded_scores_title": "Οι παρτιτούρες που ανέβασα",
+  "native.library.recent_favorites": "Πρόσφατα αποθηκευμένα",
+  "native.library.songbook.title": "Παρτιτούρες εκτός σύνδεσης",
+  "native.notifications.empty_description": "Δείτε εδώ όλους τους νέους ακολούθους, τα «μου αρέσει» και τα σχόλια.",
+  "native.notifications.empty_title": "Νιώστε την αγάπη",
+  "native.score_actions.can_be_made_offline": "Προστέθηκε στις αποθηκευμένες παρτιτούρες.\nΜπορείτε να την κάνετε διαθέσιμη εκτός σύνδεσης",
+  "native.search.placeholder_scores": "Αναζήτηση παρτιτούρων",
+  "native.sure_thing": "Φυσικά",
+  "native.make_public.update_visibility": "Ενημέρωση ορατότητας",
+  "native.make_public.manage_access": "Διαχείριση πρόσβασης",
+  "native.make_public.copyright_settings": "Ρυθμίσεις πνευματικών δικαιωμάτων",
+  "native.make_public.based_on_toggle": "Η παρτιτούρα βασίζεται σε υπάρχουσα μουσική",
+  "native.make_public.based_on_toggle_subtitle": "(π.χ. The Beatles, Ludwig van Beethoven)",
+  "native.make_public.based_on_label": "Η παρτιτούρα σας βασίζεται σε",
+  "native.make_public.based_on_placeholder": "Επιλέξτε τη σύνθεση",
+  "native.make_public.score_title_placeholder": "Τίτλος σύνθεσης – συνθέτης ή καλλιτέχνης",
+  "native.make_public.genre_placeholder": "Επιλέξτε είδος",
+  "native.make_public.select_genre": "Επιλέξτε είδος",
+  "native.make_public.genre_subtitle": [
+    "Προσθέστε έως ",
+    [
+      "count"
+    ],
+    " είδη στην παρτιτούρα σας"
+  ],
+  "native.make_public.genre_limit_error": [
+    "Δεν μπορείτε να προσθέσετε περισσότερα από ",
+    [
+      "count"
+    ],
+    " είδη σε μια παρτιτούρα"
+  ],
+  "native.make_public.enable_download": "Ενεργοποίηση λήψης παρτιτούρας",
+  "native.make_public.legal_text": "Με τη δημοσίευση, επιβεβαιώνετε ότι οι παρτιτούρες σας συμμορφώνονται με τους Όρους χρήσης μας και ότι δεν παραβιάζετε δικαιώματα τρίτων. Αν έχετε αμφιβολίες, δείτε τις σελίδες με πληροφορίες για τα πνευματικά δικαιώματα και τις Οδηγίες της κοινότητας.",
+  "native.make_public.success_toast": "Η ορατότητα της παρτιτούρας σας ενημερώθηκε",
+  "native.make_public.error_generic": "Η ενημέρωση της παρτιτούρας απέτυχε. Δοκιμάστε ξανά.",
+  "native.make_public.composition_error": "Συμπληρώστε τις πληροφορίες για να ενημερώσετε την παρτιτούρα",
+  "native.make_public.unsaved_title": "Οι αλλαγές δεν αποθηκεύτηκαν",
+  "native.make_public.unsaved_message": "Είστε βέβαιοι ότι θέλετε να απορρίψετε τις αλλαγές σας;",
+  "native.make_public.unsaved_stay": "Παραμονή",
+  "native.make_public.unsaved_leave": "Έξοδος",
+  "native.make_public.copyright_cc_zero": "Creative Commons, παραίτηση από πνευματικά δικαιώματα",
+  "native.library.favorites.title": "Αποθηκεύστε παρτιτούρες που αγαπάτε",
+  "native.library.favorites_courses.desc_1": "Όλα τα μαθήματα που αποθηκεύετε βρίσκονται εδώ. Προσθέστε ό,τι σας εμπνέει ή θέλετε να δοκιμάσετε αργότερα.",
+  "native.alertNotifications.favorites.remove": "Αφαιρέθηκε από τις αποθηκευμένες παρτιτούρες",
+  "native.alertNotifications.favorites.add": "Προστέθηκε στις αποθηκευμένες παρτιτούρες",
+  "native.marketing.up_to_discount": [
+    "Έκπτωση έως ",
+    [
+      "discount"
+    ],
+    "% στις παρτιτούρες"
+  ],
+  "native.identify_song_sheet_yes": "Ενδιαφέρομαι",
+  "native.unsubscribe.button": "Θέλω να ακυρώσω τη συνδρομή μου",
+  "native.manage.subscription": "Διαχείριση συνδρομής",
+  "native.subscription_description": [
+    "για συνδρομές από τον ιστότοπο ή την εφαρμογή MuseScore για ",
+    [
+      "platform"
+    ],
+    ", η τιμή εμφανίζεται στο προφίλ σας στον ιστότοπο"
+  ],
+  "native.your_preference": "Η προτίμησή σας",
+  "native.start_calibration": "Έναρξη βαθμονόμησης",
+  "native.soundcheck": "Έλεγχος ήχου",
+  "native.calibration_text": "Θα ακουστεί ένας σύντομος, δυνατός ήχος για τη βαθμονόμηση του μικροφώνου σας. Περιμένετε λίγο!",
+  "native.score_details.accessibility.favorite_inactive": "Αποθήκευση παρτιτούρας στη βιβλιοθήκη",
+  "native.score_details.accessibility.favorite_active": "Η παρτιτούρα αποθηκεύτηκε στη βιβλιοθήκη",
+  "native.screen_omr.choose_title": "Επιλέξτε",
+  "native.screen_omr.error_recommendation": "Επιλέξτε άλλο αρχείο ή σαρώστε σε μικρότερα τμήματα. Συμβουλή για την επίλυση του σφάλματος.",
+  "native.screen_omr.upload_musescore_studio_score": "Ανέβασμα παρτιτούρας MuseScore Studio",
+  "native.screen_omr.upload_pdf_file": "Ανέβασμα αρχείου PDF",
+  "native.screen_omr.upload_image_from_gallery": "Ανέβασμα εικόνας από τη συλλογή",
+  "native.screen_omr.scan_from_photo": "Σάρωση από φωτογραφία",
+  "native.screen_omr.error_file_size_exceeds_5mb": "Το αρχείο υπερβαίνει τα 5 MB. Επιλέξτε μικρότερο αρχείο",
+  "native.screen_omr.error_total_size_exceeds_75mb": "Το συνολικό μέγεθος των αρχείων υπερβαίνει τα 75 MB. Επιλέξτε λιγότερα ή μικρότερα αρχεία",
+  "native.screen_omr.error_total_size_exceeds_50mb": "Το συνολικό μέγεθος των αρχείων υπερβαίνει τα 50 MB. Επιλέξτε λιγότερα ή μικρότερα αρχεία",
+  "native.screen_omr.error_max_files_allowed": [
+    "Μπορείτε να επιλέξετε έως ",
+    [
+      "count"
+    ],
+    " αρχεία"
+  ],
+  "native.screen_omr.how_to_scan_title": "Πώς να σαρώσετε παρτιτούρες",
+  "native.screen_omr.incorrect": "Λάθος",
+  "native.screen_omr.correct": "Σωστό",
+  "native.screen_omr.general_tips": "Γενικές συμβουλές:",
+  "native.screen_omr.tip_keep_page_in_frame": "Κρατήστε ολόκληρη τη σελίδα μέσα στο πλαίσιο",
+  "native.screen_omr.tip_hold_steady": "Κρατήστε το τηλέφωνο σταθερό ώστε η εικόνα να είναι ευκρινής",
+  "native.screen_omr.tip_one_page_per_photo": "Μία σελίδα ανά φωτογραφία",
+  "native.screen_omr.tip_shoot_straight_down": "Φωτογραφίστε κάθετα από πάνω — μη γέρνετε την κάμερα",
+  "native.screen_omr.take_photo": "Λήψη φωτογραφίας",
+  "native.screen_omr.file_uploading": "Το αρχείο ανεβαίνει...",
+  "native.screen_omr.upload_error": "Σφάλμα ανεβάσματος",
+  "native.screen_omr.no_files_to_scan": "Δεν υπάρχουν αρχεία για σάρωση",
+  "native.screen_omr.ai_scan_title": "Σάρωση με AI",
+  "native.screen_omr.start_scanning": "Έναρξη σάρωσης",
+  "native.screen_omr.files_sent_title": "Τα αρχεία στάλθηκαν για\nσάρωση",
+  "native.screen_omr.files_sent_description": "Αυτό μπορεί να διαρκέσει λίγο.\n\nΘα σας στείλουμε ειδοποίηση όταν όλα είναι έτοιμα.",
+  "native.screen_omr.success_take_some_time": "Αυτό μπορεί να διαρκέσει λίγο.",
+  "native.screen_omr.success_will_notify": "Θα σας στείλουμε ειδοποίηση όταν όλα είναι έτοιμα.",
+  "native.screen_omr.cancel_upload_title": "Ακύρωση ανεβάσματος;",
+  "native.screen_omr.cancel_upload_description": "Αν σταματήσετε τώρα, η επεξεργασία του αρχείου δεν θα ολοκληρωθεί. Μπορείτε να σαρώσετε ξανά δωρεάν όποτε είστε έτοιμοι.",
+  "native.screen_omr.continue_upload": "Συνέχεια ανεβάσματος",
+  "native.screen_omr.cancel_upload": "Ακύρωση ανεβάσματος",
+  "native.screen_omr.ai_scan_description": "Αποκτήστε ψηφιακές εκδοχές των αγαπημένων σας παρτιτούρων και δείτε τις οποτεδήποτε, ακόμη και εκτός σύνδεσης.",
+  "native.screen_omr.continue_to_scan": "Συνέχεια στη σάρωση",
+  "native.screen_omr.open_settings": "Άνοιγμα ρυθμίσεων",
+  "native.screen_omr.no_camera_message": "Δεν βρέθηκε κάμερα. Η συσκευή σας ίσως δεν υποστηρίζει λήψη φωτογραφιών ή η κάμερα έχει βλάβη.",
+  "native.screen_omr.error_uploading_file": "Σφάλμα κατά το ανέβασμα του αρχείου",
+  "native.screen_omr.error_uploading_files": "Σφάλμα κατά το ανέβασμα των αρχείων",
+  "native.marketing.question.do_yo_like": [
+    "Σας αρέσει η μουσική του καλλιτέχνη ",
+    [
+      "authorName"
+    ],
+    ";"
+  ],
+  "native.score.layout_title_portrait_view": "Ανά σελίδα",
+  "native.settings.score.set_default_tempo": "Ορισμός προεπιλεγμένου τέμπο",
+  "native.score.play_button": "Αναπαραγωγή",
+  "native.alertNotifications.songbook.remove": "Η παρτιτούρα αφαιρέθηκε από την πρόσβαση εκτός σύνδεσης",
+  "native.alertNotifications.songbook.add_exp": "Η παρτιτούρα αποθηκεύτηκε για χρήση εκτός σύνδεσης",
+  "native.instrument.saxophone": "Σαξόφωνο",
+  "native.new_concept.tab_bar.home": "Αρχική",
+  "native.new_concept.tab_bar.learn": "Learn",
+  "native.new_concept.common.all": "Όλα",
+  "native.new_concept.common.purchased": "Αγορασμένα",
+  "native.new_concept.common.check_spelling_hint": "Ελέγξτε την ορθογραφία ή δοκιμάστε διαφορετική αναζήτηση",
+  "native.new_concept.common.results_count": [
+    [
+      "count"
+    ],
+    " αποτελέσματα"
+  ],
+  "native.new_concept.common.error_title": "Κάτι πήγε στραβά",
+  "native.new_concept.common.error_connection_hint": "Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά",
+  "native.new_concept.common.sorting_options": "Επιλογές ταξινόμησης",
+  "native.new_concept.common.filters": "Φίλτρα",
+  "native.new_concept.home.greeting.morning": "Καλημέρα",
+  "native.new_concept.home.greeting.afternoon": "Καλησπέρα",
+  "native.new_concept.home.greeting.evening": "Καλησπέρα",
+  "native.new_concept.home.greeting.night": "Καλησπέρα",
+  "native.new_concept.home.playlists": "Λίστες αναπαραγωγής",
+  "native.new_concept.home.easy_pieces_for_you": "Εύκολα κομμάτια για εσάς",
+  "native.new_concept.home.browse_favorite_genres": "Περιηγηθείτε στα αγαπημένα σας είδη",
+  "native.new_concept.home.level_up_music_theory": "Ανεβάστε επίπεδο στη θεωρία της μουσικής",
+  "native.new_concept.home.explore_scores": "Εξερευνήστε παρτιτούρες",
+  "native.new_concept.home.scores_count": [
+    [
+      "count"
+    ],
+    " παρτιτούρες"
+  ],
+  "native.new_concept.home.genre_empty": "Δεν υπάρχουν ακόμα παρτιτούρες σε αυτό το είδος",
+  "native.new_concept.home.view_more_scores": "Περισσότερες παρτιτούρες",
+  "native.new_concept.playlist.empty_title": "Αυτή η λίστα αναπαραγωγής είναι κενή",
+  "native.new_concept.playlist.empty_description": "Οι παρτιτούρες αυτής της λίστας αναπαραγωγής θα εμφανίζονται εδώ.",
+  "native.new_concept.search.popular_songbooks": "Δημοφιλή βιβλία τραγουδιών",
+  "native.new_concept.search.browse_by_genre": "Περιήγηση ανά είδος",
+  "native.new_concept.search.recent_searches": "Πρόσφατες αναζητήσεις",
+  "native.new_concept.learn.no_courses_found": "Δεν βρέθηκαν μαθήματα",
+  "native.new_concept.learn.empty_all_title": "Δεν υπάρχουν ακόμα μαθήματα",
+  "native.new_concept.learn.empty_all_description": "Εξερευνήστε τον κατάλογο και αρχίστε να μαθαίνετε κάτι νέο.",
+  "native.new_concept.learn.empty_saved_title": "Δεν υπάρχουν αποθηκευμένα μαθήματα",
+  "native.new_concept.learn.empty_saved_description": "Αποθηκεύστε τα μαθήματα που σας ενδιαφέρουν για να τα βρείτε εδώ αργότερα.",
+  "native.new_concept.learn.empty_purchased_title": "Δεν υπάρχουν αγορασμένα μαθήματα",
+  "native.new_concept.learn.empty_purchased_description": "Τα μαθήματα που αγοράζετε θα εμφανίζονται εδώ.",
+  "native.new_concept.learn.lessons_count": [
+    [
+      "count"
+    ],
+    " μαθήματα"
+  ],
+  "native.new_concept.learn.course_hours_short": [
+    [
+      "count"
+    ],
+    " ώρ."
+  ],
+  "native.new_concept.library.search_placeholder": "Αναζήτηση παρτιτούρων στη βιβλιοθήκη μου",
+  "native.new_concept.library.filter_my_uploads": "Ανεβάσματά μου",
+  "native.new_concept.library.filter_offline_access": "Πρόσβαση εκτός σύνδεσης",
+  "native.new_concept.library.sort_recent": "Πρόσφατα",
+  "native.new_concept.library.sort_most_viewed": "Περισσότερες προβολές",
+  "native.new_concept.library.empty_scores_title": "Δημιουργήστε τη συλλογή παρτιτούρων σας",
+  "native.new_concept.library.empty_scores_description": "Εξερευνήστε παρτιτούρες και πατήστε την καρδιά στις αγαπημένες σας για να τις έχετε πάντα κοντά σας.",
+  "native.new_concept.library.empty_songbooks_title": "Δημιουργήστε τη συλλογή βιβλίων τραγουδιών σας",
+  "native.new_concept.library.empty_songbooks_description": "Εξερευνήστε βιβλία τραγουδιών και αποθηκεύστε τα αγαπημένα σας για να τα έχετε πάντα κοντά σας.",
+  "native.new_concept.library.empty_set_title": "Αυτό το σετ είναι κενό",
+  "native.new_concept.library.empty_set_description": "Οι παρτιτούρες που προσθέτετε σε αυτό το σετ θα εμφανίζονται εδώ.",
+  "native.new_concept.library.search_empty_title": "Δεν βρέθηκαν αποτελέσματα στη βιβλιοθήκη σας",
+  "native.new_concept.filter_sheet.all_instruments": "Όλα τα όργανα",
+  "native.new_concept.filter_sheet.all_ensembles": "Όλα τα σύνολα",
+  "native.new_concept.filter_sheet.all_genres": "Όλα τα είδη",
+  "native.new_concept.upload.title": "Προσθήκη παρτιτούρας",
+  "native.new_concept.upload.description": "Τραβήξτε μια φωτογραφία ή επιλέξτε ένα αρχείο παρτιτούρας",
+  "native.new_concept.upload.from_gallery": "Από τη συλλογή",
+  "native.new_concept.upload.scan_with_camera": "Σάρωση με την κάμερα",
+  "native.new_concept.upload.browse_files": "Αναζήτηση αρχείων",
+  "native.new_concept.upload.invalid_file_error": "Επιλέξτε αρχείο MSCZ ή PDF",
+  "native.search.placeholder_courses": "Αναζήτηση μαθημάτων",
+  "native.search.no.results": "Δεν βρέθηκαν αποτελέσματα",
+  "native.view.all": "Περισσότερα",
+  "native.screen_omr.upload": "Ανέβασμα",
+  "native.screen_omr.retake_photo": "Νέα λήψη φωτογραφίας",
+  "native.genre.classical": "Κλασική",
+  "native.genre.pop": "Ποπ",
+  "native.genre.rock": "Ροκ",
+  "native.genre.folk": "Φολκ",
+  "native.genre.jazz": "Τζαζ",
+  "native.genre.soundtrack": "Soundtrack",
+  "native.genre.electronic": "Ηλεκτρονική",
+  "native.genre.hip_hop": "Χιπ χοπ",
+  "native.genre.metal": "Μέταλ",
+  "native.genre.religious_music": "Θρησκευτική μουσική",
+  "native.genre.world_music": "Μουσική του κόσμου",
+  "native.genre.country": "Κάντρι",
+  "native.genre.reggae_and_ska": "Ρέγκε & σκα",
+  "native.genre.rnb_funk_and_soul": "R&B, funk & soul",
+  "native.genre.experimental": "Πειραματική",
+  "native.genre.new_age": "New age",
+  "native.genre.blues": "Μπλουζ",
+  "native.genre.comedy": "Κωμωδία",
+  "native.genre.disco": "Ντίσκο",
+  "native.genre.darkwave": "Darkwave",
+  "native.instrument.bass_guitar": "Μπάσο κιθάρα",
+  "native.instrument.soprano": "Σοπράνο",
+  "native.instrument.tenor": "Τενόρος",
+  "native.instrument.alto": "Άλτο",
+  "native.instrument.glockenspiel": "Γκλόκενσπιλ",
+  "native.instrument.bass_voice": "Μπάσος",
+  "native.instrument.snare_drum": "Ταμπούρο",
+  "native.instrument.bass_drum": "Μπότα",
+  "native.instrument.marimba": "Μαρίμπα",
+  "native.instrument.vibraphone": "Βιμπράφωνο",
+  "native.instrument.euphonium": "Ευφώνιο",
+  "native.instrument.crash": "Crash",
+  "native.instrument.clarinet_bass": "Μπάσο κλαρινέτο",
+  "native.instrument.xylophone": "Ξυλόφωνο",
+  "native.instrument.tubular_bells": "Σωληνωτές καμπάνες",
+  "native.instrument.tenor_drum": "Τενόρο τύμπανο",
+  "native.instrument.trombone_bass": "Μπάσο τρομπόνι",
+  "native.instrument.baritone": "Βαρύτονος",
+  "native.instrument.ukulele": "Ουκουλέλε",
+  "native.instrument.trombone_tenor": "Τενόρο τρομπόνι",
+  "native.instrument.tambourine": "Ντέφι",
+  "native.instrument.natural_horn": "Φυσικό κόρνο",
+  "native.instrument.cornet": "Κορνέτα",
+  "native.instrument.triangle": "Τρίγωνο",
+  "native.instrument.mellophone": "Μελόφωνο",
+  "native.instrument.celesta": "Τσελέστα",
+  "native.instrument.hand_clap": "Παλαμάκια",
+  "native.instrument.mezzo_soprano": "Μέτζο σοπράνο",
+  "native.instrument.banjo": "Μπάντζο",
+  "native.instrument.female": "Γυναικεία φωνή",
+  "native.instrument.male": "Ανδρική φωνή",
+  "native.instrument.flute_alto": "Άλτο φλάουτο",
+  "native.instrument.woodblock": "Woodblock",
+  "native.instrument.flugelhorn": "Φλούγκελχορν",
+  "native.instrument.handbells": "Καμπανάκια χειρός",
+  "native.instrument.claves": "Κλάβες",
+  "native.instrument.mandolin": "Μαντολίνο",
+  "native.instrument.conga": "Κόνγκα",
+  "native.instrument.contrabassoon": "Κοντραφαγκότο",
+  "native.instrument.bongo": "Μπόνγκο",
+  "native.instrument.trumpet_piccolo": "Τρομπέτα πίκολο",
+  "native.instrument.steel_drums": "Steel drums",
+  "native.instrument.tom_tom": "Τομ τομ",
+  "native.instrument.maraca": "Μαράκα",
+  "native.instrument.saxophone_bass": "Μπάσο σαξόφωνο",
+  "native.instrument.harmonium": "Αρμόνιο",
+  "native.instrument.hi-hat": "Hi-hat",
+  "native.instrument.crotales": "Κροτάλα",
+  "native.instrument.pipes": "Αυλοί",
+  "native.instrument.clavichord": "Κλαβίχορδο",
+  "native.instrument.kalimba": "Καλίμπα",
+  "native.instrument.lute": "Λαούτο",
+  "native.instrument.trumpet_bass": "Μπάσο τρομπέτα",
+  "native.instrument.cabasa": "Καμπάσα",
+  "native.instrument.kazoo": "Καζού",
+  "native.instrument.stamp": "Χτύπημα ποδιών",
+  "native.instrument.tamtam": "Ταμ-ταμ",
+  "native.instrument.clarinet_contrabass": "Κοντραμπάσο κλαρινέτο",
+  "native.instrument.trombone_alto": "Άλτο τρομπόνι",
+  "native.instrument.snap": "Κρότος δακτύλων",
+  "native.instrument.sitar": "Σιτάρ",
+  "native.instrument.gong": "Γκονγκ",
+  "native.instrument.melodica": "Μελόντικα",
+  "native.instrument.ride": "Ride",
+  "native.instrument.castanets": "Καστανιέτες",
+  "native.instrument.flute_bass": "Μπάσο φλάουτο",
+  "native.instrument.viol": "Βιόλα ντα γκάμπα",
+  "native.instrument.nyckelharpa": "Νίκελχαρπα",
+  "native.instrument.erhu": "Έρχου",
+  "native.instrument.metallophone": "Μεταλλόφωνο",
+  "native.instrument.rototom": "Ροτοτόμ",
+  "native.instrument.shamisen": "Σαμισέν",
+  "native.instrument.guiro": "Γκουίρο",
+  "native.instrument.fiddle": "Φιντλ (βιολί)",
+  "native.instrument.bouzouki": "Μπουζούκι",
+  "native.instrument.timbale": "Τιμπάλες",
+  "native.instrument.alto_horn": "Άλτο κόρνο",
+  "native.instrument.slap": "Slap",
+  "native.instrument.chinese": "Κινέζικο",
+  "native.instrument.frame_drum": "Ντέφι πλαισίου",
+  "native.instrument.bandoneon": "Μπαντονεόν",
+  "native.instrument.child": "Παιδική φωνή",
+  "native.instrument.synth_voice": "Συνθετική φωνή",
+  "native.instrument.tabla": "Τάμπλα",
+  "native.instrument.zither": "Τσίτερ",
+  "native.instrument.whistle": "Σφυρίχτρα",
+  "native.instrument.celtic_harp": "Κελτική άρπα",
+  "native.instrument.taiko": "Τάικο",
+  "native.instrument.tambura": "Ταμπούρα",
+  "native.instrument.strings_synth": "Συνθετικά έγχορδα",
+  "native.instrument.concertina": "Κοντσερτίνα",
+  "native.instrument.virginal": "Βιρτζίναλ",
+  "native.instrument.trumpet_tenor": "Τενόρο τρομπέτα",
+  "native.instrument.theorbo": "Θεόρβη",
+  "native.instrument.vienna_horn": "Βιεννέζικο κόρνο",
+  "native.instrument.baryton": "Μπαρυτόν",
+  "native.instrument.balalaika_contrabass": "Κοντραμπάσο μπαλαλάικα",
+  "native.instrument.rag-dung": "Ραγκ-ντουνγκ",
+  "native.instrument.octobass": "Οκτόμπασο",
+  "native.instrument.balalaika_bass": "Μπάσο μπαλαλάικα",
+  "native.instrument.flute_contra-alto": "Κόντρα-άλτο φλάουτο",
+  "native.instrument.balalaika_prima": "Μπαλαλάικα πρίμα",
+  "native.instrument.balalaika_piccolo": "Μπαλαλάικα πίκολο",
+  "native.instrument.cajon": "Καχόν",
+  "native.instrument.balalaika_alto": "Άλτο μπαλαλάικα",
+  "native.instrument.djembe": "Τζεμπέ",
+  "native.instrument.balalaika_secunda": "Μπαλαλάικα σεκούντα",
+  "native.instrument.fiscorn": "Φισκόρν",
+  "native.instrument.kuhlohorn": "Κούλοχορν",
+  "native.instrument.bell-lyre": "Λύρα καμπανών",
+  "native.instrument.autoharp": "Αυτοάρπα",
+  "native.instrument.bodhran": "Μπόραν",
+  "native.instrument.guzheng": "Γκουζένγκ",
+  "native.instrument.dumbek": "Τουμπελέκι",
+  "native.instrument.baglama": "Μπαγλαμάς",
+  "native.instrument.domra": "Ντόμρα",
+  "native.instrument.jarana_huasteca": "Χαράνα ουαστέκα",
+  "native.instrument.darabuka": "Νταραμπούκα",
+  "native.instrument.percussion_-_hand_drum": "Κρουστά - τύμπανο χειρός",
+  "native.instrument.percussion_-_unpitched": "Κρουστά - χωρίς τονικό ύψος",
+  "native.instrument.select_all": "Επιλογή όλων",
+  "native.marketing.download_community_scores_title": "Λήψη παρτιτούρων της κοινότητας",
+  "native.marketing.mixer_metronome_hq_title": "Μεταφορά τόνου, μίξερ, μετρονόμος, ήχος HQ",
+  "native.marketing.your_personal_offer": "Η προσωπική σας προσφορά",
+  "native.marketing.your_plan": "Το πρόγραμμά σας",
+  "native.orders.empty_purchased_title": "Δεν έχετε αγοράσει τίποτα ακόμα",
+  "native.orders.restore_purchase_prompt": "Λείπει κάτι;",
+  "native.orders.restore_purchase_link": "Επαναφορά αγορών",
+  "native.orders.restore_purchase_checking": "Έλεγχος αγορών...",
+  "native.orders.restore_purchase_toast": "Μια νέα παρτιτούρα προστέθηκε στη βιβλιοθήκη σας",
+  "native.email_verification.toast_title": "Επαληθεύστε το email σας για να ολοκληρώσετε την εγγραφή.",
+  "native.email_verification.toast_action": "Πατήστε για να σταλεί ο σύνδεσμος.",
+  "native.email_verification.link_sent_toast": "Ο σύνδεσμος επαλήθευσης στάλθηκε",
+  "native.instrument.acoustic_guitar": "Ακουστική κιθάρα",
+  "native.instrument.all_instruments": "Όλα τα όργανα",
+  "native.instrument.classical_guitar": "Κλασική κιθάρα",
+  "native.instrument.electric_guitar": "Ηλεκτρική κιθάρα",
+  "native.instrument.drum_(other)": "Τύμπανο (άλλο)",
+  "native.device_verification.title": "Δεν ήταν δυνατή η επαλήθευση της συσκευής σας",
+  "native.device_verification.message": "Το MuseScore δεν μπόρεσε να επιβεβαιώσει ότι αυτή η συσκευή πληροί τις απαιτήσεις συμβατότητας Android της Google, οπότε δεν είναι δυνατό να ανοίξουν παρτιτούρες αυτή τη στιγμή. Αυτό είναι συχνά προσωρινό. Δοκιμάστε ξανά ή μάθετε περισσότερα για τις απαιτήσεις.",
+  "native.device_verification.learn_more": "Μάθετε περισσότερα",
+  "native.nps.rating_title": "Πόσο πιθανό είναι να προτείνετε αυτή την εφαρμογή σε κάποιον που παίζει από παρτιτούρες;",
+  "native.nps.rating_min": "Καθόλου πιθανό",
+  "native.nps.rating_max": "Εξαιρετικά πιθανό",
+  "native.nps.reason_title": "Ποιος είναι ο κύριος λόγος για τη βαθμολογία σας;",
+  "native.nps.reason_subtitle": "Βοηθήστε μας να βελτιώσουμε την εμπειρία σας",
+  "native.nps.reason_placeholder": "Μοιραστείτε τις σκέψεις σας",
+  "native.nps.submit": "Υποβολή",
+  "native.nps.thanks": "Ευχαριστούμε για τα σχόλιά σας!",
+  "native.screen_omr.error_photo_unavailable": "Couldn't load the photo. If it's stored in iCloud, open it in Photos to download it and try again",
+  "native.daily_reminders.tour.almost_there": "Σχεδόν φτάσαμε! ",
+  "native.score_action_sheet.your_review_helps": "Η κριτική σας βοηθά να γίνουμε γνωστοί και να μεγαλώσει η κοινότητα των μουσικών",
+  "native.screen_notifications.description": "Άμεση ενημέρωση για νέες κυκλοφορίες και αποκλειστικό περιεχόμενο, στην παλάμη σας!",
+  "native.screen_profile.want_to_logout": "Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε;",
+  "native.screen_mixer.visibility_one_part": "Εμφάνιση μόνο αυτού του μέρους;",
+  "native.share.title": "Παρτιτούρες MuseScore",
+  "native.permissions.storage.denied_alert_message": "Επιτρέψτε στην εφαρμογή MuseScore την πρόσβαση στον αποθηκευτικό χώρο από τις Ρυθμίσεις της συσκευής σας: Ρυθμίσεις -> Εφαρμογές -> MuseScore -> Άδειες -> Αποθηκευτικός χώρος",
+  "native.permissions.storage.modal.title": "Επιτρέψτε στο MuseScore την πρόσβαση στον αποθηκευτικό χώρο",
+  "native.permissions.storage.modal.message": "Για να ανοίγετε παρτιτούρες με την εφαρμογή MuseScore, επιτρέψτε στο MuseScore την πρόσβαση στον τοπικό αποθηκευτικό χώρο.",
+  "native.screen_tour.muse_score_one_instant_text": [
+    "Μία συνδρομή για όλες σας τις ανάγκες – έκπτωση ",
+    [
+      "discount"
+    ],
+    "%"
+  ],
+  "native.marketing_text.metronome": "Ξεκλειδώστε τον [b]μετρονόμο[/b], που σας βοηθά να αποκτήσετε σταθερή αίσθηση του χρόνου και του τέμπο, και αποκτήστε πρόσβαση σε [a]άλλες εξαιρετικές λειτουργίες[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.mixer": "Ξεκλειδώστε το [b]μίξερ[/b] για να ρυθμίζετε κάθε όργανο ξεχωριστά και αποκτήστε πρόσβαση σε [a]άλλες εξαιρετικές λειτουργίες[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.export_pdf": "Ξεκλειδώστε την [b]«Εξαγωγή σε PDF»[/b] για να εκτυπώνετε παρτιτούρες και αποκτήστε πρόσβαση σε [a]άλλες εξαιρετικές λειτουργίες[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.export_midi": "Ξεκλειδώστε την [b]«Εξαγωγή σε MIDI»[/b] για να χρησιμοποιείτε παρτιτούρες σε άλλα μουσικά προγράμματα και αποκτήστε πρόσβαση σε [a]άλλες εξαιρετικές λειτουργίες[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.export_mp3": "Ξεκλειδώστε την [b]«Εξαγωγή σε MP3»[/b] για να ακούτε παρτιτούρες ως αρχεία ήχου και αποκτήστε πρόσβαση σε [a]άλλες εξαιρετικές λειτουργίες[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.transpose": "Ξεκλειδώστε τη [b]«Μεταφορά τόνου»[/b]: αλλάξτε τονικότητα ανάλογα με τις ανάγκες σας και αποκτήστε πρόσβαση σε [a]άλλες εξαιρετικές λειτουργίες[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.songbook": "Ξεκλειδώστε την [b]αποθήκευση εκτός σύνδεσης[/b] για να βλέπετε και να παίζετε τις αγαπημένες σας παρτιτούρες χωρίς διαδίκτυο και αποκτήστε πρόσβαση σε [a]άλλα εξαιρετικά εργαλεία[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.open_file": "Ξεκλειδώστε το [b]«Άνοιγμα αρχείων από διάφορες πηγές»[/b] για περισσότερη ευκολία και αποκτήστε πρόσβαση σε [a]άλλα εξαιρετικά εργαλεία[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.hq_sound": "Ξεκλειδώστε τον [b]«Βελτιωμένο ήχο»[/b] και [a]άλλα εξαιρετικά εργαλεία[/a] του λογαριασμού [b]PRO[/b]. Θα χρειαστεί να κατεβάσετε επιπλέον αρχεία ήχου (159 MB). Συνιστούμε σύνδεση Wi-Fi",
+  "native.marketing_text.keyboard": "Ξεκλειδώστε το [b]κλαβιέ[/b] για να βλέπετε πώς παίζεται κάθε νότα και αποκτήστε πρόσβαση σε [a]άλλες εξαιρετικές λειτουργίες[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing_text.auto_scroll": "Ξεκλειδώστε την [b]αυτόματη κύλιση[/b], ώστε οι νότες να είναι πάντα ορατές όταν παίζετε, και αποκτήστε πρόσβαση σε [a]άλλες εξαιρετικές λειτουργίες[/a] του λογαριασμού [b]PRO[/b]",
+  "native.marketing.lets_get_started": "Let’s [c]get started[/c]",
+  "native.marketing.lets_get_to_know_each_other": "Ας γνωριστούμε",
+  "native.marketing.questions.instrument.list.other_strings": "Άλλα έγχορδα όργανα",
+  "native.song_book_remove.title": "Are you sure you want to delete",
+  "native.screen_comments.be_first": "Γράψτε κάτι για να ξεκινήσει η συζήτηση",
+  "native.library.my_scores.title": "Αποθηκεύστε τις παρτιτούρες σας στο MuseScore!",
+  "native.library.my_scores.desc": "Ανεβάζοντας τις παρτιτούρες σας στο MuseScore.com, θα είναι διαθέσιμες στο διαδίκτυο από οποιαδήποτε συσκευή.\n\nΠρος το παρόν, μπορείτε να ανεβάζετε παρτιτούρες μόνο από την έκδοση του MuseScore.com για υπολογιστή.",
+  "native.library.songbook.desc_android": "Εδώ αποθηκεύονται παρτιτούρες στη συσκευή σας. Αν μείνετε χωρίς διαδίκτυο, οι παρτιτούρες θα είναι πάντα μαζί σας. Μπορείτε να αποθηκεύσετε οποιαδήποτε παρτιτούρα από την αναζήτηση ή να φορτώσετε ένα αρχείο MSCZ που δημιουργήσατε στο πρόγραμμα επεξεργασίας.",
+  "native.library.songbook.desc": "Εδώ αποθηκεύονται παρτιτούρες στη συσκευή σας. Αν μείνετε χωρίς διαδίκτυο, οι παρτιτούρες θα είναι πάντα μαζί σας. Μπορείτε να αποθηκεύσετε οποιαδήποτε παρτιτούρα από την αναζήτηση.",
+  "native.library.songbook.desc_order": "Εδώ αποθηκεύονται παρτιτούρες στη συσκευή σας. Αν μείνετε χωρίς διαδίκτυο, οι παρτιτούρες θα είναι πάντα μαζί σας. Μπορείτε να αποθηκεύσετε οποιαδήποτε παρτιτούρα από τη λίστα παραγγελιών σας.",
+  "native.new_search.sources.songbook": "Διαθέσιμα εκτός σύνδεσης",
+  "native.alertNotifications.songbook.add": "Η παρτιτούρα αποθηκεύτηκε για χρήση εκτός σύνδεσης",
+  "native.courses.complete_course": [
+    "You have successfully completed the course «",
+    [
+      "name"
+    ],
+    "»!"
+  ],
+  "native.courses.course_type": "Course type",
+  "native.screen_sft.carousel.songbook_title": "Πρόσβαση εκτός σύνδεσης",
+  "native.credits.balance": "Έχετε [b][n]userBalance[n] διαθέσιμες πιστώσεις PRO[/b]. Αποκτήστε πιστώσεις",
+  "native.credits.description": "Δοκιμάστε τις λειτουργίες PRO, όπως τη λήψη οποιασδήποτε παρτιτούρας θέλετε από την τεράστια συλλογή της κοινότητας ([n]numberScores[n] εκατ. παρτιτούρες)",
+  "native.credits.balance_sub_title": "Αναπληρώστε το υπόλοιπό σας",
+  "native.credits.balance_top_up_success": [
+    "Μόλις προσθέσατε ",
+    [
+      "count"
+    ],
+    " πιστώσεις PRO στον λογαριασμό σας. Χρησιμοποιήστε τις για πρόσβαση PRO σε οποιαδήποτε παρτιτούρα."
+  ],
+  "native.sets.delete_warning": "Είστε βέβαιοι ότι θέλετε να αφαιρέσετε αυτή την παρτιτούρα από το σετ;",
+  "native.sets.no_search_result": "Δυστυχώς, δεν βρέθηκε τίποτα. Δοκιμάστε κάτι διαφορετικό.",
+  "native.screen_tour.get_most_with_pro+": "Γιατί να μην την συμπληρώσετε ιδανικά με το MuseScore PRO+;",
+  "native.screen_tour.achieve_goals": "Οι μουσικοί με ετήσια συνδρομή έχουν 91% περισσότερες πιθανότητες να πετύχουν τους στόχους τους",
+  "native.screen_tour.support_program_text": "Διαθέτουμε ειδικό πρόγραμμα υποστήριξης για νέους μουσικούς",
+  "native.ebook.filter_empty_subtitle": "Δυστυχώς, δεν βρέθηκαν αποτελέσματα. \n Ελέγξτε την ορθογραφία ή δοκιμάστε διαφορετική αναζήτηση.",
+  "native.ebooks.orders_empty_title": "Δεν έχετε ακόμη κανένα βιβλίο τραγουδιών",
+  "native.create_account.privacy": "Δημιουργώντας λογαριασμό, αποδέχεστε τους [link url=https://musescore.com/legal/terms]Όρους παροχής υπηρεσιών[/link] και την [link url=https://musescore.com/legal/privacy]Πολιτική απορρήτου[/link] του MuseScore",
+  "native.date.today_in": [
+    "σήμερα στις ",
+    [
+      "time"
+    ]
+  ],
+  "native.date.yesterday_in": [
+    "yesterday at ",
+    [
+      "time"
+    ]
+  ],
+  "native.review.delete_confirmation_title": "Είστε βέβαιοι ότι θέλετε να διαγράψετε την κριτική;",
+  "native.marketing.7dayTrialWithPrice": [
+    "Δοκιμάστε δωρεάν για 7 ημέρες, μετά ",
+    [
+      "price"
+    ],
+    " τον χρόνο"
+  ],
+  "native.pedal.feedback.description": "Το ζητήσατε και σας ακούσαμε. Αυτή η λειτουργία είναι πλέον διαθέσιμη στην εφαρμογή\nMuseScore. Προς το παρόν είναι ακόμη σε έκδοση beta λόγω του μεγάλου αριθμού συσκευών.\nΤη δοκιμάσαμε σε πολλές, αλλά όχι σε όλες, και θα εκτιμούσαμε τα σχόλιά σας.",
+  "native.marketing.compete_your_purchase": "Complete your purchase using one of the available payment methods",
+  "native.marketing.questions.instrument.title": "Ποια όργανα παίζετε ή θα θέλατε να αρχίσετε να παίζετε;",
+  "native.marketing.questions.goal.teach": "Να διδάσκω μουσική σε άλλους",
+  "native.marketing.personal_songbook_title": "Πρόσβαση σε παρτιτούρες εκτός σύνδεσης",
+  "native.courses.voted.error": "Έχετε ήδη αξιολογήσει αυτό το μάθημα",
+  "native.user.access.premium.toast": "Λαμβάνετε έκπτωση 50% σε όλες τις αγορές παρτιτούρων.",
+  "native.score.hq_settings_title": "Ήχος MuseScore HQ+",
+  "native.marketing.subscription_problem": [
+    "Υπάρχει πρόβλημα με τον λογαριασμό σας στο ",
+    [
+      "storeName"
+    ],
+    " ή με τη σύνδεση στο διαδίκτυο. Επανεκκινήστε την εφαρμογή και ελέγξτε τη σύνδεση και τον λογαριασμό σας."
+  ],
+  "native.sets.empty_title": "Δεν έχετε ακόμα σετ",
+  "native.activity.empty_list.desc": "Με τις ειδοποιήσεις δεν θα χάνετε τίποτα. Μάθετε πότε κάποιος σας ακολουθεί, αποθηκεύει την παρτιτούρα σας ή απαντά στα σχόλιά σας. Όλα εδώ.",
+  "native.addFavoritesAndSaveOffline2": "Προστέθηκε στις αποθηκευμένες παρτιτούρες. \nΧρειάζεστε πρόσβαση χωρίς διαδίκτυο;",
+  "native.screen_omr.error_max_one_pdf": "Επιτρέπεται έως 1 αρχείο PDF",
+  "native.screen_omr.error_selecting_pdf": "Σφάλμα κατά την επιλογή του PDF",
+  "native.screen_omr.success_file_sent_title": "Το αρχείο στάλθηκε για σάρωση.",
+  "native.screen_omr.no_camera_permission_message": "Επιτρέψτε στο MuseScore την πρόσβαση στην κάμερα για να φωτογραφίζετε έντυπες παρτιτούρες",
+  "native.screen_omr.error_upload_mscz": "Σφάλμα κατά το ανέβασμα του αρχείου mscz",
+  "native.screen_omr.error_failed_create_mscz": "Αποτυχία δημιουργίας αρχείου mscz",
+  "native.screen_omr.error_create_mscz": "Σφάλμα δημιουργίας αρχείου mscz",
+  "native.score_info.play_button": "Προβολή και αναπαραγωγή",
+  "native.instrument.trumpet_in_b-flat": "Τρομπέτα σε Σι ύφεση",
+  "native.instrument.clarinet_in_b-flat": "Κλαρινέτο σε Σι ύφεση",
+  "native.instrument.trumpet_in_c": "Τρομπέτα σε Ντο",
+  "native.instrument.clarinet_in_e-flat": "Κλαρινέτο σε Μι ύφεση",
+  "native.instrument.clarinet_in_a": "Κλαρινέτο σε Λα",
+  "native.instrument.trumpet_in_d": "Τρομπέτα σε Ρε",
+  "native.instrument.ondes_martenot": "Ondes Martenot",
+  "native.screen_login.consent_offer_opt_out": "Δεν θέλω να λαμβάνω περιστασιακά email με ειδικές προσφορές",
+  "native.screen_login.mob_web_auth_in_progress": "Γίνεται έλεγχος ταυτότητας. Περιμένετε...",
+  "native.screen_login.mob_web_auth_error": "Σφάλμα κατά τον έλεγχο ταυτότητας",
+  "native.alerts.error_occurred": "Παρουσιάστηκε σφάλμα.",
+  "native.alerts.error_title": "Σφάλμα",
+  "native.alerts.download_failed": "Η λήψη απέτυχε",
+  "native.screen_comments.login_required_to_post": "Πρέπει να συνδεθείτε για να δημοσιεύσετε σχόλιο.",
+  "native.screen_comments.login_required_to_like": "Πρέπει να συνδεθείτε για να δηλώσετε «μου αρέσει» σε ένα σχόλιο.",
+  "native.screen_comments.score_comments": "Σχόλια παρτιτούρας",
+  "native.library.songbook.corrupted_file_title": "Αυτό το αρχείο είναι κατεστραμμένο",
+  "native.library.songbook.corrupted_file_message": "Λυπούμαστε. Μπορείτε να διαγράψετε αυτό το αρχείο ή να επιστρέψετε.",
+  "native.library.songbook.wrong_file_extension": [
+    "Η επέκταση του αρχείου πρέπει να είναι «mscz», όχι «",
+    [
+      "fileExt"
+    ],
+    "»"
+  ],
+  "native.feed.items.51": "Χρησιμοποιήθηκε 1 πίστωση MuseScore PRO",
+  "native.feed.items.57": [
+    "Προστέθηκαν ",
+    [
+      "amount"
+    ],
+    " πιστώσεις MuseScore PRO στο υπόλοιπό σας"
+  ],
+  "native.feed.by": "από",
+  "native.actions.try_again": "Δοκιμάστε ξανά",
+  "native.actions.back": "Πίσω",
+  "native.actions.done": "Τέλος",
+  "native.actions.later": "Αργότερα",
+  "native.bottom_bar.add_scores_tab": "Προσθήκη",
+  "native.autograde.select_main_instrument": "Επιλέξτε το κύριο όργανό σας",
+  "native.autograde.permission_error_title": "Σφάλμα αδειών",
+  "native.autograde.microphone_permission_message": "Η λειτουργία εξάσκησης χρειάζεται πρόσβαση στο μικρόφωνο. Ενεργοποιήστε τη στις ρυθμίσεις της συσκευής",
+  "native.autograde.tooltip_body": "Πατήστε εδώ για έξυπνη ανατροφοδότηση στην εξάσκησή σας.",
+  "native.autograde.ready": "Έτοιμοι;",
+  "native.marketing.tour.minutes_short": [
+    [
+      "count"
+    ],
+    " λ."
+  ],
+  "native.practice_mode.results.song_complete": "Το τραγούδι ολοκληρώθηκε",
+  "native.practice_mode.results.pitch": "Τονικό ύψος",
+  "native.practice_mode.results.rhythm": "Ρυθμός",
+  "native.practice_mode.results.score": "Βαθμολογία",
+  "native.practice_mode.results.review_and_try_again": "Ανασκόπηση και ξανά",
+  "native.practice_mode.onboarding.paywall_title": "Απελευθερώστε τον μουσικό μέσα σας με πλήρη πρόσβαση στη λειτουργία εξάσκησης του MuseScore",
+  "native.practice_mode.onboarding.paywall_subtitle": "Απαιτείται πρόσβαση στο MuseScore PRO+",
+  "native.practice_mode.onboarding.step_counter": [
+    "Βήμα ",
+    [
+      "step"
+    ],
+    " / ",
+    [
+      "total"
+    ]
+  ],
+  "native.song_book.section.title.downloadable_as_pdf": "Διαθέσιμα για λήψη σε PDF",
+  "native.filter_screen.instrument_count_from": "Από",
+  "native.filter_screen.instrument_count_to": "Έως",
+  "native.courses.unit": [
+    "Ενότητα ",
+    [
+      "number"
+    ]
+  ],
+  "native.courses.overall_progress": [
+    "Συνολική πρόοδος ",
+    [
+      "percents"
+    ],
+    "%"
+  ],
+  "native.courses.lite_great_choice": "Εξαιρετική επιλογή",
+  "native.courses.lite_get_free_course": "Αποκτήστε το δωρεάν μάθημά σας",
+  "native.courses.lite_unlock_one_course": "Αυτόν τον μήνα μπορείτε να ξεκλειδώσετε ένα μάθημα από τις Επιλογές της σύνταξης, στο πλαίσιο του MuseScore LEARN Lite.",
+  "native.courses.lite_get_permanent_access": [
+    "Αποκτήστε μόνιμη πρόσβαση σε: \n[sb]",
+    [
+      "courseName"
+    ],
+    "[/sb]"
+  ],
+  "native.courses.lite_want_unlimited_title": "Θέλετε απεριόριστα μαθήματα; Αναβαθμίστε τώρα",
+  "native.courses.lite_allowance_used": "Έχετε ήδη χρησιμοποιήσει το μηνιαίο μάθημα του MuseScore LEARN Lite.",
+  "native.courses.lite_upgrade_to_play": "Αναβαθμίστε τη συνδρομή σας σε MuseScore LEARN για να ξεκινήσετε αυτό το μάθημα τώρα.",
+  "native.courses.lite_upgrade": "Αναβάθμιση",
+  "native.courses.lite_not_in_collection": [
+    "Το [sb]",
+    [
+      "courseName"
+    ],
+    "[/sb] δεν ανήκει στη συλλογή. Για να ξεκινήσετε το μάθημα, αναβαθμίστε τη συνδρομή σας σε MuseScore LEARN"
+  ],
+  "native.courses.start_this_course": "Έναρξη μαθήματος",
+  "native.filter_item_name.level.not_selected": "Δεν έχει επιλεγεί",
+  "native.filter_item_name.topic.ear_training": "Εκπαίδευση ακοής",
+  "native.filter_item_name.topic.licensing_publishing_and_copyright": "Άδειες, έκδοση, πνευμ. δικαιώματα",
+  "native.filter_item_name.topic.music_composition": "Μουσική σύνθεση",
+  "native.filter_item_name.topic.music_production": "Μουσική παραγωγή",
+  "native.filter_item_name.topic.music_software": "Μουσικό λογισμικό",
+  "native.filter_item_name.topic.music_theory": "Θεωρία της μουσικής",
+  "native.filter_item_name.topic.other_in_music": "Άλλα θέματα μουσικής",
+  "native.filter_item_name.topic.playing_skills": "Δεξιότητες εκτέλεσης",
+  "native.filter_item_name.topic.recording_and_audio_engineering": "Ηχογράφηση και ηχοληψία",
+  "native.filter_item_name.topic.solo_and_improvisation": "Σόλο και αυτοσχεδιασμός",
+  "native.filter_item_name.topic.songwriting": "Τραγουδοποιία",
+  "native.filter_item_name.duration.0_1_hours": "0 - 1 ώρα",
+  "native.filter_item_name.duration.1_4_hours": "1 - 4 ώρες",
+  "native.filter_item_name.duration.4_8_hours": "4 - 8 ώρες",
+  "native.filter_item_name.duration.8_24_hours": "8 - 24 ώρες",
+  "native.filter_item_name.duration.24_plus_hours": "24+ ώρες",
+  "native.filter_item_name.type.community_scores": "Παρτιτούρες της κοινότητας",
+  "native.filter_item_name.format.interactive": "Διαδραστική",
+  "native.filter_item_name.format.pdf": "PDF",
+  "native.filter_item_name.status.original_composition": "Πρωτότυπη σύνθεση",
+  "native.score_onboarding.customize_view": "Προσαρμόστε την προβολή",
+  "native.score_onboarding.customize_view_desc": "Μεγεθύνετε, αλλάξτε ρυθμίσεις ή προσαρμόστε τη μίξη — ό,τι χρειάζεστε βρίσκεται εδώ.",
+  "native.score_onboarding.hear_score": "Ακούστε την παρτιτούρα",
+  "native.score_onboarding.hear_score_desc": "Ακούστε την παρτιτούρα. Πατήστε Αναπαραγωγή και δείτε τη σημειογραφία να κυλά μαζί με το τραγούδι.",
+  "native.score_onboarding.save_hint": "Σας αρέσει η παρτιτούρα; Πατήστε για αποθήκευση.",
+  "native.score_onboarding.playing_one_moment": "Αναπαραγωγή παρτιτούρας — μια στιγμή",
+  "native.user.access.books.label": "Digital Books",
+  "native.user.unfollow_confirm_title": "Να σταματήσετε να ακολουθείτε αυτόν τον χρήστη;",
+  "native.marketing.questions.topics.title": "Ποια θέματα μπορεί να σας ενδιαφέρουν;",
+  "native.marketing.questions.topics.not_interested": "Δεν με ενδιαφέρουν αυτά τα θέματα",
+  "native.search.upload_now": "Ανεβάστε τώρα",
+  "native.marketing.plan_active": "Ενεργή",
+  "native.marketing.flash_sale.title_24h": "Προσφορά 24 ωρών",
+  "native.marketing.flash_sale.end_time": "Λήγει σε:",
+  "native.marketing.flash_sale.dont_miss_offer": [
+    "Μη χάσετε την ειδική σας προσφορά για το MuseScore ",
+    [
+      "plan"
+    ]
+  ],
+  "native.marketing.special_limited_offer": "Ειδική προσφορά περιορισμένης διάρκειας",
+  "native.marketing.plan_with_learn_lite_bundle": [
+    [
+      "plan"
+    ],
+    " με πακέτο Learn Lite"
+  ],
+  "native.marketing.regular_price": "Κανονική τιμή",
+  "native.marketing.stay_free": "Παραμονή στη δωρεάν έκδοση",
+  "native.marketing.quarterly_access": "Τριμηνιαία πρόσβαση",
+  "native.marketing.personal_offer_save": [
+    "Η προσωπική σας προσφορά: έκπτωση ",
+    [
+      "discount"
+    ]
+  ],
+  "native.marketing.yearly_plan": "Ετήσιο πρόγραμμα",
+  "native.marketing.yearly_access": "Ετήσια πρόσβαση",
+  "native.marketing.flash_sale.title": "Προσφορά",
+  "native.marketing.thirty_days_at": "30 ημέρες προς",
+  "native.marketing.ug_lineup.yearly_plan": "Ετήσιο πρόγραμμα",
+  "native.marketing.ug_lineup.quarterly": "Τριμηνιαίο",
+  "native.marketing.ug_lineup.weekly": "Εβδομαδιαίο",
+  "native.marketing.ug_lineup.welcome_offer": "Προσφορά καλωσορίσματος",
+  "native.marketing.ug_lineup.three_months": "3 μήνες",
+  "native.marketing.ug_lineup.first_year": "Πρώτος χρόνος",
+  "native.marketing.ug_lineup.first_year_for": [
+    "Τον πρώτο χρόνο [sb]",
+    [
+      "introPrice"
+    ],
+    "[/sb], μετά [sb]",
+    [
+      "price"
+    ],
+    "[/sb]."
+  ],
+  "native.marketing.ug_lineup.twelve_months": "12 μήνες",
+  "native.marketing.billed_annually": "Ετήσια χρέωση",
+  "native.marketing.credits_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " πίστωση"
+        ],
+        "other": [
+          "#",
+          " πιστώσεις"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.limited_offer": "περιορισμένη προσφορά",
+  "native.marketing.something_went_wrong_try_again": "Κάτι πήγε στραβά. Δοκιμάστε ξανά",
+  "native.marketing.purchase_content_error": "Σφάλμα κατά την αγορά περιεχομένου. Επικοινωνήστε με την υποστήριξη",
+  "native.marketing.payment_received_offline": "Η πληρωμή ελήφθη. Θα ολοκληρώσουμε την ενεργοποίηση της αγοράς σας μόλις συνδεθείτε ξανά στο διαδίκτυο",
+  "native.marketing.purchase_error": "Σφάλμα αγοράς",
+  "native.marketing.payment_declined_grace_period": "Η πληρωμή σας απορρίφθηκε. Για να παραμείνει ενεργή η συνδρομή σας, αλλάξτε τρόπο πληρωμής.",
+  "native.marketing.payment_declined_access_lost": "Η πληρωμή σας απορρίφθηκε. Για να ανακτήσετε την πρόσβασή σας, αλλάξτε τρόπο πληρωμής.",
+  "native.marketing.fix_now": "Διόρθωση τώρα",
+  "native.marketing.gift_checklist.one_songbook": "Ένα βιβλίο τραγουδιών",
+  "native.marketing.gift_checklist.one_course": "Ένα μάθημα",
+  "native.marketing.gift_checklist.one_score": "Μία παρτιτούρα",
+  "native.marketing.gift_checklist.two_songbooks": "Δύο βιβλία τραγουδιών",
+  "native.marketing.gift_checklist.two_courses": "Δύο μαθήματα",
+  "native.marketing.gift_checklist.two_scores": "Δύο παρτιτούρες",
+  "native.marketing.gift_checklist.three_scores": "Τρεις παρτιτούρες",
+  "native.marketing.gift_checklist.claim_free_songbook": "Πάρτε το δωρεάν βιβλίο τραγουδιών σας",
+  "native.marketing.gift_checklist.claim_free_course": "Πάρτε το δωρεάν μάθημά σας",
+  "native.marketing.gift_checklist.claim_free_score": "Πάρτε τη δωρεάν παρτιτούρα σας",
+  "native.marketing.gift_checklist.claim_free_songbooks": "Πάρτε τα δωρεάν βιβλία τραγουδιών σας",
+  "native.marketing.gift_checklist.claim_free_courses": "Πάρτε τα δωρεάν μαθήματά σας",
+  "native.marketing.gift_checklist.claim_free_scores": "Πάρτε τις δωρεάν παρτιτούρες σας",
+  "native.marketing.gift_checklist.open_songbooks": "Άνοιγμα βιβλίων τραγουδιών",
+  "native.marketing.gift_checklist.open_courses": "Άνοιγμα μαθημάτων",
+  "native.marketing.gift_checklist.open_scores": "Άνοιγμα παρτιτούρων",
+  "native.marketing.gift_checklist.step_open_songbooks": "1.  Πατήστε «Άνοιγμα βιβλίων τραγουδιών»",
+  "native.marketing.gift_checklist.step_open_courses": "1.  Πατήστε «Άνοιγμα μαθημάτων»",
+  "native.marketing.gift_checklist.step_open_scores": "1.  Πατήστε «Άνοιγμα παρτιτούρων»",
+  "native.marketing.gift_checklist.step_explore_songbooks": "2. Εξερευνήστε τη βιβλιοθήκη βιβλίων τραγουδιών",
+  "native.marketing.gift_checklist.step_explore_courses": "2. Εξερευνήστε τη βιβλιοθήκη μαθημάτων",
+  "native.marketing.gift_checklist.step_explore_scores": "2. Εξερευνήστε τη βιβλιοθήκη παρτιτούρων",
+  "native.marketing.gift_checklist.step_get_free_songbook": "4. Πατήστε «Πάρτε το δωρεάν βιβλίο τραγουδιών σας»",
+  "native.marketing.gift_checklist.step_get_free_course": "4. Πατήστε «Πάρτε το δωρεάν μάθημά σας»",
+  "native.marketing.gift_checklist.step_get_free_score": "4. Πατήστε «Πάρτε τη δωρεάν παρτιτούρα σας»",
+  "native.marketing.gift_checklist.step_found_favorite": "3. Βρήκατε ένα νέο αγαπημένο;",
+  "native.marketing.gift_checklist.step_enjoy": "5. Απολαύστε!",
+  "native.marketing.gift_checklist.ready_to_claim": "Έτοιμοι να πάρετε το δώρο σας; Ακολουθήστε αυτά τα βήματα:",
+  "native.marketing.gift_checklist.day": "ημέρα",
+  "native.marketing.gift_checklist.tap_to_open": "Πατήστε για άνοιγμα",
+  "native.marketing.promo_code_applied": "Ο κωδικός προσφοράς εφαρμόστηκε!",
+  "native.marketing.last_chance": "Τελευταία ευκαιρία",
+  "native.marketing.timer_left": "απομένουν",
+  "native.marketing.choose_your_plan": "Επιλέξτε το πρόγραμμά σας",
+  "native.marketing.reviews.whitney": "Υπέροχη εφαρμογή για να βρίσκεις τις αγαπημένες σου παρτιτούρες, να μαθαίνεις παίζοντας μαζί τους, να ελέγχεις την ταχύτητα, να κάνεις σημειώσεις και να επιλέγεις τις αγαπημένες σου παρτιτούρες, και τόσες άλλες λειτουργίες. Τη λατρεύω... ❤",
+  "native.marketing.reviews.lucy": "Εύκολη στη χρήση και ιδανική για να βρίσκεις παρτιτούρες για οποιοδήποτε όργανο! Στο MuseScore υπάρχει μια παθιασμένη κοινότητα δημιουργών. Η συνδρομή αξίζει πραγματικά και σου δίνει πολύ περισσότερα από όσα πληρώνεις!",
+  "native.marketing.reviews.jacob": "Ήταν μια εξαιρετική πηγή για να μάθω ένα ευρύ φάσμα υλικού, κυρίως από την παράδοση του αμερικανικού songbook. Υπάρχουν πολλές επίσημες παρτιτούρες που συχνά είναι δύσκολο να βρεθούν. Υπάρχουν και εκδοχές διασκευών από χρήστες, που μερικές φορές βοηθούν.",
+  "native.marketing.tour_update.review_mark_name": "Mark, πιανίστας",
+  "native.marketing.tour_update.review_mark_text": "Έχω στοίβες από παλιές παρτιτούρες. Τώρα μπορώ να τις σαρώσω και να τις χρησιμοποιώ ξανά στην εξάσκηση.",
+  "native.marketing.tour_update.review_lisa_name": "Lisa, καθηγήτρια μουσικής",
+  "native.marketing.tour_update.review_lisa_text": "Ετοιμάζω υλικό για τους μαθητές μου πολύ πιο γρήγορα πια. Μία φωτογραφία και είναι έτοιμο για το μάθημα.",
+  "native.marketing.tour_update.review_julia_name": "Julia, διευθύντρια χορωδίας",
+  "native.marketing.tour_update.review_julia_text": "Η αλλαγή τονικότητας για τους τραγουδιστές ήταν μεγάλος μπελάς. Τώρα απλώς σαρώνω και μεταφέρω τον τόνο σε δευτερόλεπτα",
+  "native.marketing.tour_update.title_ms4_scores": "Οι παρτιτούρες του MuseScore Studio 4 είναι εδώ",
+  "native.marketing.tour_update.title_thousands_more": "Χιλιάδες ακόμη παρτιτούρες σας περιμένουν",
+  "native.marketing.tour_update.title_elegant": "Μια πιο κομψή εμπειρία",
+  "native.marketing.tour_update.title_say_thanks": "Πείτε ευχαριστώ\nΑφήστε μας μια κριτική!",
+  "native.marketing.tour_update.subtitle_say_hello": "Γνωρίστε τη μεγαλύτερη ενημέρωση του MuseScore μέχρι σήμερα",
+  "native.marketing.tour_update.subtitle_open_catalog": "Ανοίξτε ολόκληρο τον κατάλογο με πάνω από 2 εκατ. παρτιτούρες στο κινητό και αρχίστε να παίζετε.",
+  "native.marketing.tour_update.subtitle_better_looking": "Οι παρτιτούρες είναι πλέον πιο όμορφες, με πιο ευέλικτες επιλογές αλλαγής μεγέθους.",
+  "native.marketing.tour_update.subtitle_share_thoughts": "Μοιραστείτε τις σκέψεις και τα σχόλιά σας, ώστε να συνεχίσουμε να βελτιώνουμε την εφαρμογή.",
+  "native.marketing.tour_update.payment_title": "Από φωτογραφία και PDF σε διαδραστική παρτιτούρα",
+  "native.marketing.tour_update.benefit_scan_photos": "Σαρώστε φωτογραφίες παρτιτούρων για να γίνουν διαδραστικές",
+  "native.marketing.tour_update.benefit_convert_pdfs": "Μετατρέψτε αρχεία PDF σε διαδραστικές παρτιτούρες",
+  "native.marketing.tour_update.benefit_upload_arrangements": "Ανεβάστε και αποθηκεύστε τις δικές σας διασκευές",
+  "native.marketing.tour_update.benefit_offline_library": "Πρόσβαση στη βιβλιοθήκη παρτιτούρων σας εκτός σύνδεσης",
+  "native.marketing.tour_update.dive_in": "Ξεκινήστε",
+  "native.marketing.tour_update.leave_review": "Αφήστε κριτική",
+  "native.marketing.tour_update.learn_add_pro_plus": "Η συνδρομή σας Learn είναι ιδανική για μαθήματα. Προσθέστε PRO+ για να ξεκλειδώσετε αυτή τη λειτουργία και να κάνετε τις παρτιτούρες σας διαδραστικές.",
+  "native.marketing.tour_update.preparing_experience": "Προετοιμάζουμε την προσωπική σας εμπειρία",
+  "native.marketing.tour_update.introducing_scores_to_screen": "Οι παρτιτούρες σας στην οθόνη!",
+  "native.marketing.tour_update.omr_feature_description": "Με τη νέα μας λειτουργία OMR, μπορείτε να μεταφέρετε τις αγαπημένες σας έντυπες παρτιτούρες στο κινητό σας και να τις παίξετε.",
+  "native.marketing.tour_update.thousands_of_songbooks": "Χιλιάδες βιβλία τραγουδιών είναι πλέον εδώ!",
+  "native.marketing.tour_update.covered_by_pro_plus": "Περιλαμβάνεται στη συνδρομή σας PRO+",
+  "native.marketing.tour_update.upgrade_pro_to_pro_plus_required": "Απαιτείται αναβάθμιση του MuseScore PRO σε PRO+",
+  "native.marketing.tour_update.pro_plus_access_required": "Απαιτείται πρόσβαση στο MuseScore PRO+",
+  "native.marketing.tour_update.upgrade_to_unlock_feature": "Αναβαθμίστε σε PRO+ για να ξεκλειδώσετε αυτή τη λειτουργία",
+  "native.marketing.score_discount.today": "Σήμερα",
+  "native.marketing.auto_scroll_settings_hint": "Η προβολή σελίδας είναι πλέον ενεργή από προεπιλογή.\nΜπορείτε πάντα να ενεργοποιήσετε την «Αυτόματη κύλιση» από τις ρυθμίσεις",
+  "native.marketing.export_community_scores_pdf_title": "Εξαγωγή παρτιτούρων της κοινότητας σε PDF",
+  "native.marketing.export_community_scores_pdf_description": "Οι χρήστες Premium μπορούν να κατεβάζουν παρτιτούρες της κοινότητας σε μορφή PDF, MIDI και MP3. Το PDF μπορείτε και να το εκτυπώσετε",
+  "native.marketing.free_official_scores_downloads": [
+    "Αποκτήστε ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " δωρεάν λήψη"
+        ],
+        "other": [
+          "#",
+          " δωρεάν λήψεις"
+        ]
+      }
+    ],
+    " Επίσημων Παρτιτούρων"
+  ],
+  "native.marketing.benefits.official_scores": "Προβολή Επίσημων Παρτιτούρων με άδεια από [sb]εκδότες έντυπης μουσικής[/sb]",
+  "native.marketing.benefits.download_print_community": "Λήψη και εκτύπωση παρτιτούρων από την τεράστια συλλογή της κοινότητας ([sb]1.426.528[/sb] και αυξάνεται)",
+  "native.marketing.benefits.one_subscription_all_devices": "Μία συνδρομή για όλες τις συσκευές σας",
+  "native.marketing.benefits.offline_access": "Πρόσβαση σε παρτιτούρες εκτός σύνδεσης",
+  "native.marketing.purchase_success.free_until": "Δωρεάν έως",
+  "native.marketing.purchase_success.then": "Στη συνέχεια",
+  "native.marketing.purchase_success.renews": "Ανανέωση",
+  "native.marketing.purchase_success.period_year": "έτος",
+  "native.marketing.purchase_success.period_3_months": "3 μήνες",
+  "native.marketing.purchase_success.period_month": "μήνα",
+  "native.marketing.purchase_success.on_date": [
+    "στις ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.purchase_success.plan_unlocked": [
+    "Το ",
+    [
+      "plan"
+    ],
+    " ξεκλειδώθηκε"
+  ],
+  "native.marketing.subscription_settings.price_on_date": [
+    [
+      "price"
+    ],
+    " στις ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.subscription_settings.active_until": [
+    "Η συνδρομή είναι ενεργή έως ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.no_subscriptions_to_restore": "Δεν υπάρχουν συνδρομές για επαναφορά",
+  "native.marketing.pro_plus_benefits": "Οφέλη Pro+",
+  "native.marketing.free": "Δωρεάν",
+  "native.marketing.game.wow_off_annual": [
+    "Ουάου! Έκπτωση ",
+    [
+      "discount"
+    ],
+    "% στην ετήσια συνδρομή"
+  ],
+  "native.marketing.discount_off": [
+    "ΕΚΠΤΩΣΗ ",
+    [
+      "discount"
+    ]
+  ],
+  "native.marketing.anniversary.open_my_gift": "Άνοιγμα δώρου",
+  "native.marketing.anniversary.use_my_gift": "Χρήση δώρου",
+  "native.marketing.pinata.hit_the_pinata": "Χτυπήστε την πινιάτα!",
+  "native.marketing.restore_card.plan_expire_soon": [
+    "Η συνδρομή σας MuseScore ",
+    [
+      "plan"
+    ],
+    " λήγει σύντομα"
+  ],
+  "native.marketing.one_pro_credit": "1 πίστωση PRO",
+  "native.make_public.screen_title": "Ενημέρωση παρτιτούρας",
+  "native.screen_omr.photos_permission_message": "Επιτρέψτε την πρόσβαση στις φωτογραφίες σας από τις ρυθμίσεις",
+  "native.screen_omr.recognized_via_ai_scan": "Αναγνωρίστηκε με σάρωση AI",
+  "native.new_concept.common.parts_count": [
+    [
+      "count"
+    ],
+    " μέρη"
+  ],
+  "native.new_concept.learn.lessons_progress": [
+    [
+      "completed"
+    ],
+    " / ",
+    [
+      "total"
+    ],
+    " μαθήματα"
+  ],
+  "native.score.more_like_this": "Περισσότερα σαν αυτό",
+  "native.score.error_loading_soundfont": "Σφάλμα φόρτωσης soundfont",
+  "native.score.failed_to_open_score": "Αποτυχία ανοίγματος παρτιτούρας",
+  "native.score.error_opening_file": "Σφάλμα ανοίγματος αρχείου",
+  "native.score.feature_offline_access_title": "Πρόσβαση εκτός σύνδεσης",
+  "native.score.feature_background_play_title": "Αναπαραγωγή στο παρασκήνιο",
+  "native.score.feature_background_play_text": "Η παρτιτούρα συνεχίζει να παίζει ακόμη κι όταν βγαίνετε από την εφαρμογή ή κλειδώνετε το τηλέφωνο.",
+  "native.score.badge_new": "Νέο",
+  "native.score.annotation.pen_size": "Μέγεθος πένας",
+  "native.score.annotation.highlight_size": "Μέγεθος επισήμανσης",
+  "native.score.annotation.text_size": "Μέγεθος κειμένου",
+  "native.score.part_number": [
+    "Μέρος ",
+    [
+      "number"
+    ]
+  ],
+  "native.score.bpm_value": [
+    [
+      "bpm"
+    ],
+    " BPM"
+  ],
+  "native.score.error_country_blocked": "Ο κάτοχος των πνευματικών δικαιωμάτων δεν έχει διαθέσει αυτή την παρτιτούρα στη χώρα σας",
+  "native.score.error_download_file": "Η λήψη του αρχείου απέτυχε. Δοκιμάστε ξανά.",
+  "native.score.error_cannot_open": "Δεν είναι δυνατό το άνοιγμα αυτής της παρτιτούρας.",
+  "native.score.download_restricted_title": "Η λήψη δεν επιτρέπεται",
+  "native.score.download_restricted_trial_message": "Ο εκδότης στον οποίο ανήκει αυτό το έργο δεν επιτρέπει στους χρήστες της δωρεάν δοκιμής να κατεβάσουν αυτήν την παρτιτούρα",
+  "native.genre.songbook": "Βιβλίο τραγουδιών",
+  "native.genre.instructional": "Εκπαιδευτικό υλικό",
+  "native.genre.video_game": "Βιντεοπαιχνίδια",
+  "native.genre.ballad": "Μπαλάντα",
+  "native.genre.bluegrass": "Bluegrass",
+  "native.genre.celtic": "Κελτική",
+  "native.genre.christian": "Χριστιανική",
+  "native.genre.classic_rock": "Κλασική ροκ",
+  "native.genre.contemporary": "Σύγχρονη",
+  "native.genre.disney": "Disney",
+  "native.genre.downtempo": "Downtempo",
+  "native.genre.educational": "Εκπαιδευτική",
+  "native.genre.flamenco": "Φλαμένκο",
+  "native.genre.funk": "Funk",
+  "native.genre.fusion": "Fusion",
+  "native.genre.future_bass": "Future Bass",
+  "native.genre.gospel": "Γκόσπελ",
+  "native.genre.hard_rock": "Hard rock",
+  "native.genre.heavy_metal": "Heavy metal",
+  "native.genre.holiday": "Γιορτινή",
+  "native.genre.introspective": "Εσωστρεφής",
+  "native.genre.kids": "Παιδική",
+  "native.genre.latin": "Λάτιν",
+  "native.genre.lullaby": "Νανούρισμα",
+  "native.genre.movie_soundtrack": "Μουσική ταινιών",
+  "native.genre.musical": "Μιούζικαλ",
+  "native.genre.orchestral": "Ορχηστρική",
+  "native.genre.patriotic": "Πατριωτική",
+  "native.genre.prog_rock": "Prog rock",
+  "native.genre.progressive_rock": "Progressive rock",
+  "native.genre.ragtime": "Ράγκταϊμ",
+  "native.genre.rockabilly": "Rockabilly",
+  "native.genre.ska": "Ska",
+  "native.genre.soul": "Soul",
+  "native.genre.swing": "Swing",
+  "native.genre.tv_soundtrack": "Μουσική τηλεόρασης",
+  "native.genre.traditional": "Παραδοσιακή",
+  "native.genre.trap": "Trap",
+  "native.instrument.easy_piano": "Εύκολο πιάνο",
+  "native.instrument.piano_vocal_guitar": "Πιάνο/Φωνή/Κιθάρα",
+  "native.instrument.baritone_guitar": "Βαρύτονη κιθάρα",
+  "native.instrument.baritone_ukulele": "Βαρύτονο ουκουλέλε",
+  "native.instrument.bass_clarinet": "Μπάσο κλαρινέτο",
+  "native.instrument.bass_ukulele": "Μπάσο ουκουλέλε",
+  "native.instrument.bb_instruments": "Όργανα σε Σι♭",
+  "native.instrument.bells": "Καμπάνες",
+  "native.instrument.c_instruments": "Όργανα σε Ντο",
+  "native.instrument.controller": "Ελεγκτής",
+  "native.instrument.double_bass": "Κοντραμπάσο",
+  "native.instrument.drums": "Ντραμς",
+  "native.instrument.dulcimer": "Ντάλσιμερ",
+  "native.instrument.eb_instruments": "Όργανα σε Μι♭",
+  "native.instrument.guitarron": "Guitarrón",
+  "native.instrument.handpan": "Handpan",
+  "native.instrument.horns": "Κόρνα",
+  "native.instrument.lap_steel": "Lap steel",
+  "native.instrument.loog": "Loog",
+  "native.instrument.ocarina": "Οκαρίνα",
+  "native.instrument.pedal_steel_guitar": "Pedal steel κιθάρα",
+  "native.instrument.penny_whistle": "Penny whistle",
+  "native.instrument.steelpan": "Steelpan",
+  "native.instrument.synths": "Συνθεσάιζερ",
+  "native.instrument.tin_whistle": "Tin whistle",
+  "native.instrument.turntables_mixers": "Πικάπ και μίξερ",
+  "native.instrument.venova": "Venova",
+  "native.shazam.briefing.title": "Ακούστε το. Παίξτε το.",
+  "native.shazam.briefing.description": "Κρατήστε το τηλέφωνο κοντά στη μουσική και θα αναγνωρίσουμε το τραγούδι. Μετά θα βρούμε την παρτιτούρα για να το παίξετε.",
+  "native.shazam.briefing.enable_microphone_title": "Ενεργοποίηση μικροφώνου",
+  "native.shazam.briefing.enable_microphone_description": "Χρειαζόμαστε την άδειά σας για να βρούμε την παρτιτούρα για εσάς.",
+  "native.shazam.briefing.tap_to_listen": "Πατήστε για ακρόαση",
+  "native.shazam.powered_by": "με την υποστήριξη του",
+  "native.shazam.listening.title": "Ακρόαση…",
+  "native.shazam.listening.subtitle": "Κρατήστε τη συσκευή κοντά στη μουσική",
+  "native.shazam.listening.tough_title": "Αυτό είναι δύσκολο",
+  "native.shazam.listening.tough_subtitle": "Μία τελευταία προσπάθεια…",
+  "native.shazam.listening.matching_title": "Αναζήτηση παρτιτούρας",
+  "native.shazam.listening.matching_subtitle": "Μια στιγμή ακόμη",
+  "native.shazam.no_match.title": "Δεν καταφέραμε να το αναγνωρίσουμε",
+  "native.shazam.no_match.description": "Δοκιμάστε ξανά λίγο πιο κοντά ή σε πιο ήσυχο σημείο.",
+  "native.shazam.no_scores.title": "Δεν βρήκαμε παρτιτούρα για αυτό το τραγούδι",
+  "native.shazam.no_scores.back_to_home": "Επιστροφή στην αρχική",
+  "native.shazam.more_from_artist": "Περισσότερα από αυτόν τον καλλιτέχνη",
+  "native.shazam.matching_scores": "Αντίστοιχες παρτιτούρες",
+  "native.shazam.open_in_apple_music": "Άνοιγμα στο Apple Music",
+  "native.shazam.error.try_again_hint": "Δοκιμάστε ξανά.",
+  "native.ensemble.solo": "Σόλο",
+  "native.ensemble.mixed_ensembles": "Μικτά σύνολα",
+  "native.ensemble.mixed_ensemble": "Μικτό σύνολο",
+  "native.ensemble.mixed_duet": "Μικτό ντουέτο",
+  "native.ensemble.piano_ensembles": "Σύνολα πιάνου",
+  "native.ensemble.vocal_ensembles": "Φωνητικά σύνολα",
+  "native.ensemble.choral": "Χορωδιακά",
+  "native.ensemble.piano_voice": "Πιάνο-Φωνή",
+  "native.ensemble.woodwind_ensembles": "Σύνολα ξύλινων πνευστών",
+  "native.ensemble.bands_orchestras": "Μπάντες / Ορχήστρες",
+  "native.ensemble.string_ensembles": "Σύνολα εγχόρδων",
+  "native.ensemble.mixed_quartet": "Μικτό κουαρτέτο",
+  "native.ensemble.mixed_trio": "Μικτό τρίο",
+  "native.ensemble.brass_ensembles": "Σύνολα χάλκινων πνευστών",
+  "native.ensemble.mixed_quintet": "Μικτό κουιντέτο",
+  "native.ensemble.piano_duo": "Ντουέτο πιάνου",
+  "native.ensemble.piano_voice_guitar": "Πιάνο-Φωνή-Κιθάρα",
+  "native.ensemble.satb": "SATB",
+  "native.ensemble.string_quartet": "Κουαρτέτο εγχόρδων",
+  "native.ensemble.brass_ensemble": "Σύνολο χάλκινων πνευστών",
+  "native.ensemble.woodwind_duet": "Ντουέτο ξύλινων πνευστών",
+  "native.ensemble.symphony_orchestra": "Συμφωνική ορχήστρα",
+  "native.ensemble.string_duet": "Ντουέτο εγχόρδων",
+  "native.ensemble.string_ensemble": "Σύνολο εγχόρδων",
+  "native.ensemble.concert_band": "Μπάντα πνευστών",
+  "native.ensemble.woodwind_quartet": "Κουαρτέτο ξύλινων πνευστών",
+  "native.ensemble.brass_duet": "Ντουέτο χάλκινων πνευστών",
+  "native.ensemble.saxophone_ensemble": "Σύνολο σαξοφώνων",
+  "native.ensemble.percussion_ensembles": "Σύνολα κρουστών",
+  "native.ensemble.jazz_band": "Τζαζ μπάντα",
+  "native.ensemble.chamber_orchestra": "Ορχήστρα δωματίου",
+  "native.ensemble.marching_band": "Μπάντα παρέλασης",
+  "native.ensemble.woodwind_ensemble": "Σύνολο ξύλινων πνευστών",
+  "native.ensemble.piano_sextet": "Σεξτέτο με πιάνο",
+  "native.ensemble.woodwind_quintet": "Κουιντέτο ξύλινων πνευστών",
+  "native.ensemble.woodwind_trio": "Τρίο ξύλινων πνευστών",
+  "native.ensemble.brass_quartet": "Κουαρτέτο χάλκινων πνευστών",
+  "native.ensemble.percussion_ensemble": "Σύνολο κρουστών",
+  "native.ensemble.a_capella": "A cappella",
+  "native.ensemble.brass_quintet": "Κουιντέτο χάλκινων πνευστών",
+  "native.ensemble.church_choir": "Εκκλησιαστική χορωδία",
+  "native.ensemble.piano_trio": "Τρίο με πιάνο",
+  "native.ensemble.string_quintet": "Κουιντέτο εγχόρδων",
+  "native.ensemble.string_trio": "Τρίο εγχόρδων",
+  "native.ensemble.brass_band_british_style": "Μπάντα χάλκινων (βρετανικού τύπου)",
+  "native.ensemble.percussion_duet": "Ντουέτο κρουστών",
+  "native.ensemble.percussion_quartet": "Κουαρτέτο κρουστών",
+  "native.ensemble.piano_four_hand": "Πιάνο για τέσσερα χέρια",
+  "native.ensemble.percussion_trio": "Τρίο κρουστών",
+  "native.ensemble.piano_quartet": "Κουαρτέτο με πιάνο",
+  "native.ensemble.drum_corps_modern": "Drum corps (σύγχρονο)",
+  "native.ensemble.mens_choir": "Ανδρική χορωδία",
+  "native.ensemble.brass_trio": "Τρίο χάλκινων πνευστών",
+  "native.ensemble.piano_quintet": "Κουιντέτο με πιάνο",
+  "native.ensemble.pep_band": "Pep band",
+  "native.ensemble.percussion_quintet": "Κουιντέτο κρουστών",
+  "native.ensemble.womens_choir": "Γυναικεία χορωδία",
+  "native.ensemble.brass_band_new_orleans": "Μπάντα χάλκινων (Νέας Ορλεάνης)",
+  "native.ensemble.indoor_percussion_ensemble": "Σύνολο κρουστών εσωτερικού χώρου",
+  "native.ensemble.string_sextet": "Σεξτέτο εγχόρδων",
+  "native.ensemble.show_choir": "Show choir",
+  "native.ensemble.bagpipe_band": "Μπάντα γκάιντας",
+  "native.ensemble.handbell_ensembles": "Σύνολα χειροκαμπάνων",
+  "native.shazam.by_artist": [
+    "Από ",
+    [
+      "artist"
+    ]
+  ],
+  "native.scores_after_tour.title": "Διαλέξτε την πρώτη σας παρτιτούρα",
+  "native.scores_after_tour.recommendations": "Προτάσεις",
+  "native.about_screen.made_by": [
+    "Δημιουργήθηκε από το MuseScore\nέκδοση ",
+    [
+      "version"
+    ]
+  ],
+  "native.about_screen.powered_by": [
+    "Με την υποστήριξη του Extasy Engine\nέκδοση ",
+    [
+      "version"
+    ]
+  ],
+  "native.shazam.tooltip_identify_music": "Αναγνωρίστε τη μουσική που παίζει κοντά σας",
+  "native.courses.card.hours_lessons": [
+    [
+      "hours",
+      "plural",
+      {
+        "one": [
+          "#",
+          " ώρα"
+        ],
+        "other": [
+          "#",
+          " ώρες"
+        ]
+      }
+    ],
+    ", ",
+    [
+      "lessons",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μάθημα"
+        ],
+        "other": [
+          "#",
+          " μαθήματα"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.completed_of_count": [
+    [
+      "completed"
+    ],
+    " από ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μάθημα"
+        ],
+        "other": [
+          "#",
+          " μαθήματα"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.count_minutes": [
+    [
+      "lessons",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μάθημα"
+        ],
+        "other": [
+          "#",
+          " μαθήματα"
+        ]
+      }
+    ],
+    ", ",
+    [
+      "minutes",
+      "plural",
+      {
+        "one": [
+          "#",
+          " λεπτό"
+        ],
+        "other": [
+          "#",
+          " λεπτά"
+        ]
+      }
+    ]
+  ],
+  "native.courses.lessons.count_hours_minutes": [
+    [
+      "lessons",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μάθημα"
+        ],
+        "other": [
+          "#",
+          " μαθήματα"
+        ]
+      }
+    ],
+    ", ",
+    [
+      "hours",
+      "plural",
+      {
+        "one": [
+          "#",
+          " ώρα"
+        ],
+        "other": [
+          "#",
+          " ώρες"
+        ]
+      }
+    ],
+    " ",
+    [
+      "minutes",
+      "plural",
+      {
+        "one": [
+          "#",
+          " λεπτό"
+        ],
+        "other": [
+          "#",
+          " λεπτά"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.lessons_count_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μάθημα"
+        ],
+        "other": [
+          "#",
+          " μαθήματα"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.lessons_progress_plural": [
+    [
+      "completed"
+    ],
+    " / ",
+    [
+      "total",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μάθημα"
+        ],
+        "other": [
+          "#",
+          " μαθήματα"
+        ]
+      }
+    ]
+  ],
+  "native.new_concept.learn.course_hours_short_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " ώρ."
+        ],
+        "other": [
+          "#",
+          " ώρ."
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.rewind_back_seconds": [
+    "- ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " δευτερόλεπτο"
+        ],
+        "other": [
+          "#",
+          " δευτερόλεπτα"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.rewind_forward_seconds": [
+    "+ ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " δευτερόλεπτο"
+        ],
+        "other": [
+          "#",
+          " δευτερόλεπτα"
+        ]
+      }
+    ]
+  ],
+  "native.courses.video.quality_normal_resolution": [
+    "Κανονική (",
+    [
+      "resolution"
+    ],
+    ")"
+  ],
+  "native.courses.lesson_number": [
+    "Μάθημα ",
+    [
+      "number"
+    ]
+  ],
+  "native.user.sets_of_user": [
+    "Σετ του χρήστη ",
+    [
+      "userName"
+    ]
+  ],
+  "native.sets.empty_for_user": [
+    [
+      "userName"
+    ],
+    " δεν έχει ακόμη σετ."
+  ],
+  "native.score.parts_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μέρος"
+        ],
+        "other": [
+          "#",
+          " μέρη"
+        ]
+      }
+    ]
+  ],
+  "native.score.comments_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " σχόλιο"
+        ],
+        "other": [
+          "#",
+          " σχόλια"
+        ]
+      }
+    ]
+  ],
+  "native.screen_comments.replies_count_plural": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " απάντηση"
+        ],
+        "other": [
+          "#",
+          " απαντήσεις"
+        ]
+      }
+    ]
+  ],
+  "native.feed.score_by_author": [
+    "[score]",
+    [
+      "title"
+    ],
+    "[/score] από [author]",
+    [
+      "author"
+    ],
+    "[/author]"
+  ],
+  "native.feed.items.20_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] σχολίασε την παρτιτούρα σας"
+  ],
+  "native.feed.items.21_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] απάντησε στο σχόλιό σας στην παρτιτούρα"
+  ],
+  "native.feed.items.22_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] αποθήκευσε την παρτιτούρα σας"
+  ],
+  "native.feed.items.26_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] σχολίασε μια παρτιτούρα που έχετε αποθηκεύσει"
+  ],
+  "native.feed.items.30_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] πρόσθεσε την παρτιτούρα"
+  ],
+  "native.feed.items.31_by_user": [
+    "[user]",
+    [
+      "userName"
+    ],
+    "[/user] άρχισε να σας ακολουθεί"
+  ],
+  "native.song_book_remove.title_with_score": [
+    "Είστε βέβαιοι ότι θέλετε να διαγράψετε το «",
+    [
+      "title"
+    ],
+    "»;"
+  ],
+  "native.user.followers_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          [
+            "formattedCount"
+          ],
+          " ακόλουθος"
+        ],
+        "other": [
+          [
+            "formattedCount"
+          ],
+          " ακόλουθοι"
+        ]
+      }
+    ]
+  ],
+  "native.score_action_sheet.pages_value": [
+    "Σελίδες: ",
+    [
+      "pages"
+    ]
+  ],
+  "native.score_action_sheet.duration_value": [
+    "Διάρκεια: ",
+    [
+      "duration"
+    ]
+  ],
+  "native.artists.based_on_song": [
+    "Αυτή η παρτιτούρα βασίζεται στο τραγούδι [song]",
+    [
+      "song"
+    ],
+    "[/song]"
+  ],
+  "native.artists.by_artist": [
+    "Από [artist]",
+    [
+      "artist"
+    ],
+    "[/artist]"
+  ],
+  "native.common.label_with_colon": [
+    [
+      "label"
+    ],
+    ":"
+  ],
+  "native.score.tempo_percent": [
+    "Τέμπο ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.bluetooth_pedal.instruction_1_with_os": [
+    "Ενεργοποιήστε το πεντάλ και συνδέστε το στη συσκευή σας ",
+    [
+      "osName"
+    ],
+    "."
+  ],
+  "native.screen_new_account.password_strength_line.weak": "Ισχύς κωδικού: [color]Χαμηλή[/color]",
+  "native.screen_new_account.password_strength_line.normal": "Ισχύς κωδικού: [color]Μέτρια[/color]",
+  "native.screen_new_account.password_strength_line.strong": "Ισχύς κωδικού: [color]Υψηλή[/color]",
+  "native.screen_new_account.has_account_login": "Έχετε ήδη λογαριασμό; [login]Σύνδεση[/login]",
+  "native.ebooks.pages_count_label": [
+    [
+      "count",
+      "plural",
+      {
+        "one": "σελίδα",
+        "other": "σελίδες"
+      }
+    ]
+  ],
+  "native.marketing.price_line.per_year": [
+    [
+      "price"
+    ],
+    "/έτος"
+  ],
+  "native.marketing.price_line.per_month": [
+    [
+      "price"
+    ],
+    "/μήνα"
+  ],
+  "native.marketing.price_line.per_week": [
+    [
+      "price"
+    ],
+    "/εβδομάδα"
+  ],
+  "native.marketing.price_line.per_months": [
+    [
+      "price"
+    ],
+    "/",
+    [
+      "count",
+      "plural",
+      {
+        "one": "μήνα",
+        "other": [
+          "#",
+          " μήνες"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.slash_week": "/εβδομάδα",
+  "native.marketing.price_line.months_at_per_month": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μήνας προς ",
+          [
+            "price"
+          ],
+          "/μήνα"
+        ],
+        "other": [
+          "#",
+          " μήνες προς ",
+          [
+            "price"
+          ],
+          "/μήνα"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.weeks_at_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " εβδομάδα προς ",
+          [
+            "price"
+          ],
+          "/εβδομάδα"
+        ],
+        "other": [
+          "#",
+          " εβδομάδες προς ",
+          [
+            "price"
+          ],
+          "/εβδομάδα"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.weeks_at_old_price_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " εβδομάδα προς [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/εβδομάδα"
+        ],
+        "other": [
+          "#",
+          " εβδομάδες προς [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/εβδομάδα"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.days_at_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " ημέρα προς ",
+          [
+            "price"
+          ],
+          "/εβδομάδα"
+        ],
+        "other": [
+          "#",
+          " ημέρες προς ",
+          [
+            "price"
+          ],
+          "/εβδομάδα"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.days_at_old_price_per_week": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " ημέρα προς [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/εβδομάδα"
+        ],
+        "other": [
+          "#",
+          " ημέρες προς [l]",
+          [
+            "oldPrice"
+          ],
+          "[/l] ",
+          [
+            "price"
+          ],
+          "/εβδομάδα"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.price_line.first_year_then_per_year": [
+    "[sb]",
+    [
+      "introPrice"
+    ],
+    "/έτος[/sb] για τον πρώτο χρόνο, μετά ",
+    [
+      "price"
+    ],
+    "/έτος"
+  ],
+  "native.marketing.price_line.first_year_then_per_year_bold": [
+    "[sb]",
+    [
+      "introPrice"
+    ],
+    "/έτος[/sb] για τον πρώτο χρόνο, μετά [sb]",
+    [
+      "price"
+    ],
+    "/έτος[/sb]"
+  ],
+  "native.marketing.price_line.trial_then_per_year": [
+    "Δωρεάν δοκιμή 7 ημερών. Μετά [sb]",
+    [
+      "price"
+    ],
+    "/έτος[/sb]"
+  ],
+  "native.marketing.price_line.annual_access_per_year": [
+    "Ετήσια πρόσβαση. [sb]",
+    [
+      "price"
+    ],
+    "/έτος[/sb]"
+  ],
+  "native.marketing.price_line.trial_then_per_month": [
+    "Δωρεάν δοκιμή 7 ημερών. Μετά ",
+    [
+      "price"
+    ],
+    "/μήνα"
+  ],
+  "native.marketing.price_line.annual_access_then_per_month": [
+    "Ετήσια πρόσβαση. Μετά ",
+    [
+      "price"
+    ],
+    "/μήνα"
+  ],
+  "native.marketing.price_line.trial_per_year_cancel_anytime": [
+    "Δοκιμάστε δωρεάν για 7 ημέρες, μετά ",
+    [
+      "price"
+    ],
+    " τον χρόνο. Ακύρωση οποιαδήποτε στιγμή"
+  ],
+  "native.marketing.price_line.one_instant_discount": [
+    "Μία συνδρομή για όλες σας τις ανάγκες – έκπτωση ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.price_line.one_time_payment": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb] εφάπαξ πληρωμή"
+  ],
+  "native.marketing.badge.save_percent": [
+    "Έκπτωση ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.offer.name_save_percent": [
+    [
+      "offerName"
+    ],
+    " – έκπτωση ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.feature.scores_millions_ad_free": [
+    "[b]",
+    [
+      "scoresMillions"
+    ],
+    " εκατ. παρτιτούρες[/b] – όλες χωρίς διαφημίσεις"
+  ],
+  "native.marketing.feature.courses_count_experts": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "[b]Πάνω από ",
+          "#",
+          "[/b] μάθημα μουσικής από [b]ειδικούς[/b]"
+        ],
+        "other": [
+          "[b]Πάνω από ",
+          "#",
+          "[/b] μαθήματα μουσικής από [b]ειδικούς[/b]"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.ug_lineup.months_price": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μήνας"
+        ],
+        "other": [
+          "#",
+          " μήνες"
+        ]
+      }
+    ],
+    " • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.ug_lineup.first_year_price": [
+    "Πρώτος χρόνος • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.ug_lineup.first_year_for_free_cancel": [
+    "Τον πρώτο χρόνο [sb]",
+    [
+      "introPrice"
+    ],
+    "[/sb], μετά [sb]",
+    [
+      "price"
+    ],
+    "[/sb]. Δωρεάν ακύρωση οποιαδήποτε στιγμή."
+  ],
+  "native.marketing.credit_pack.credits_valid_for": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " πίστωση PRO"
+        ],
+        "other": [
+          "#",
+          " πιστώσεις PRO"
+        ]
+      }
+    ],
+    ". Με ισχύ ",
+    [
+      "months",
+      "plural",
+      {
+        "one": [
+          "#",
+          " μήνα"
+        ],
+        "other": [
+          "#",
+          " μηνών"
+        ]
+      }
+    ],
+    "."
+  ],
+  "native.marketing.credit_pack.price_one_time": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb] εφάπαξ πληρωμή."
+  ],
+  "native.marketing.credit_pack.price_one_time_save": [
+    "[sb]",
+    [
+      "price"
+    ],
+    "[/sb] εφάπαξ πληρωμή. Έκπτωση ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.credit_pack.name_save_percent": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " πίστωση"
+        ],
+        "other": [
+          "#",
+          " πιστώσεις"
+        ]
+      }
+    ],
+    " – έκπτωση ",
+    [
+      "percent"
+    ],
+    "%"
+  ],
+  "native.marketing.billing_info.includes_plan": [
+    "Αυτή η συνδρομή περιλαμβάνει πρόσβαση στο MuseScore ",
+    [
+      "plan"
+    ]
+  ],
+  "native.marketing.billing_info.includes_plan_and_course": [
+    "Αυτή η συνδρομή περιλαμβάνει πρόσβαση στο MuseScore ",
+    [
+      "plan"
+    ],
+    " και ξεκλειδώνει ένα μάθημα της επιλογής σας κάθε μήνα από τη συλλογή «Επιλογές της σύνταξης»"
+  ],
+  "native.marketing.last_chance.start_membership": "Τελευταία ευκαιρία να ξεκινήσετε τη συνδρομή",
+  "native.marketing.last_chance.start_with_trial": "Τελευταία ευκαιρία να ξεκινήσετε με δωρεάν δοκιμή",
+  "native.marketing.landing.upgrade_to_plan": [
+    "Αναβάθμιση στο MuseScore ",
+    [
+      "plan"
+    ]
+  ],
+  "native.marketing.score_sale.access_to_score": [
+    "Αποκτήστε μόνιμη πλήρη πρόσβαση στην παρτιτούρα «",
+    [
+      "title"
+    ],
+    "»"
+  ],
+  "native.marketing.anniversary.dear_username": [
+    "Αγαπητέ/ή ",
+    [
+      "username"
+    ],
+    "!"
+  ],
+  "native.marketing.anniversary.available_only_now_free_cancel": "Η προσφορά ισχύει μόνο τώρα. Δωρεάν ακύρωση οποιαδήποτε στιγμή",
+  "native.marketing.tour.membership_get_most_with_learn": [
+    "Έχετε συνδρομή MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    ". Αξιοποιήστε τη στο έπακρο με τα μαθήματα του MuseScore LEARN."
+  ],
+  "native.marketing.tour.membership_add_pro_plus": [
+    "Έχετε συνδρομή MuseScore ",
+    [
+      "subscriptionName"
+    ],
+    ". Γιατί να μην τη συμπληρώσετε ιδανικά με το MuseScore PRO+;"
+  ],
+  "native.marketing.after_sell.combines_with_trial": [
+    "Η συνδρομή σας συνδυάζεται τέλεια με το MuseScore ",
+    [
+      "type"
+    ],
+    " (δοκιμή 7 ημερών)"
+  ],
+  "native.marketing.restore_subscription.cancels_on_date": [
+    "Η συνδρομή λήγει στις ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.credits.description_pay_per_use": [
+    "Δοκιμάστε τις λειτουργίες PRO, όπως τη λήψη οποιασδήποτε παρτιτούρας θέλετε από την τεράστια συλλογή της κοινότητας (",
+    [
+      "scoresCount"
+    ],
+    " εκατ. παρτιτούρες). Πληρώνετε μόνο ό,τι χρησιμοποιείτε, χωρίς μακροχρόνιες δεσμεύσεις."
+  ],
+  "native.marketing.credits.balance_count": [
+    "Έχετε [b]",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " διαθέσιμη πίστωση PRO"
+        ],
+        "other": [
+          "#",
+          " διαθέσιμες πιστώσεις PRO"
+        ]
+      }
+    ],
+    "[/b]. Αποκτήστε πιστώσεις"
+  ],
+  "native.marketing.courses_payment.title_count": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "Περισσότερο από ",
+          "#",
+          " μάθημα για να σας βοηθήσει να μάθετε τις αγαπημένες σας συνθέσεις"
+        ],
+        "other": [
+          "Περισσότερα από ",
+          "#",
+          " μαθήματα για να σας βοηθήσουν να μάθετε τις αγαπημένες σας συνθέσεις"
+        ]
+      }
+    ]
+  ],
+  "native.marketing.features_carousel.courses_sub_title_count": [
+    "Απεριόριστη πρόσβαση σε ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          "+ μάθημα"
+        ],
+        "other": [
+          "#",
+          "+ μαθήματα"
+        ]
+      }
+    ],
+    ", ειδικά για εσάς."
+  ],
+  "native.marketing.purchase_success.price_per_period": [
+    [
+      "price"
+    ],
+    " / ",
+    [
+      "period",
+      "select",
+      {
+        "year": "έτος",
+        "three_months": "3 μήνες",
+        "month": "μήνα",
+        "week": "εβδομάδα",
+        "other": [
+          [
+            "duration"
+          ]
+        ]
+      }
+    ]
+  ],
+  "native.marketing.purchase_success.price_per_period_on_date": [
+    [
+      "price"
+    ],
+    " / ",
+    [
+      "period",
+      "select",
+      {
+        "year": "έτος",
+        "three_months": "3 μήνες",
+        "month": "μήνα",
+        "week": "εβδομάδα",
+        "other": [
+          [
+            "duration"
+          ]
+        ]
+      }
+    ],
+    " στις ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.purchase_success.price_on_date": [
+    [
+      "price"
+    ],
+    " στις ",
+    [
+      "date"
+    ]
+  ],
+  "native.marketing.credits.pro_balance_with_count": [
+    "Υπόλοιπο πιστώσεων PRO: ",
+    [
+      "count"
+    ]
+  ],
+  "native.marketing.credits.balance_with_count": [
+    "Υπόλοιπο πιστώσεων: ",
+    [
+      "count"
+    ]
+  ],
+  "native.marketing.upgrade_onboarding.access_scores_count": [
+    "Αποκτήστε πρόσβαση σε ",
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " παρτιτούρα"
+        ],
+        "other": [
+          "#",
+          " παρτιτούρες"
+        ]
+      }
+    ],
+    " των αγαπημένων σας κομματιών για πιάνο, κιθάρα και φωνή, με άδεια από εκδότες έντυπης μουσικής"
+  ],
+  "native.marketing.courses.plan_subscription_required": [
+    "Απαιτείται συνδρομή MuseScore ",
+    [
+      "plan"
+    ]
+  ],
+  "native.orders.restore_purchase_prompt_with_link": "Λείπει κάτι; [a]Επαναφέρετε τις αγορές σας[/a].",
+  "native.marketing.tour.start_now_with_name": [
+    "Ξεκινήστε τώρα, ",
+    [
+      "userName"
+    ]
+  ],
+  "native.marketing.gift_checklist.day_number": [
+    "Ημέρα ",
+    [
+      "number"
+    ]
+  ],
+  "native.marketing.questions.social_proof.content_scores_count": [
+    "Υπάρχουν πάνω από [b]13 εκατ.[/b] μουσικοί σαν εσάς, ανάμεσά τους και όσοι ",
+    [
+      "id100"
+    ],
+    ". Το MuseScore προσφέρει [b]",
+    [
+      "scoresCount"
+    ],
+    " εκατ.[/b] παρτιτούρες",
+    [
+      "id103"
+    ]
+  ],
+  "native.marketing.personal_offer_save_named": [
+    [
+      "username"
+    ],
+    ", η προσωπική σας προσφορά: έκπτωση ",
+    [
+      "discount"
+    ]
+  ],
+  "native.video_player.speed_normal": "Κανονική",
+  "native.marketing.maybe_later": "Maybe later",
+  "native.bug_report.no_mail_app.title": "Couldn't open a mail app",
+  "native.bug_report.no_mail_app.message": "Send your report to the address below. Copy it together with the report text and paste them into any mail app.",
+  "native.bug_report.no_mail_app.copy": "Copy",
+  "native.alerts.not_enough_storage.title": "Not enough storage",
+  "native.alerts.not_enough_storage.message": "There isn't enough free space on your device to download this score. Free up some space and try again.",
+  "native.auth.oauth_email_missing.title": "We couldn't get your email",
+  "native.auth.oauth_email_missing.message": "The sign-in service didn't share your email address with MuseScore, so we can't create your account. Please continue with email instead.",
+  "native.marketing.ug_lineup.weeks_price": [
+    [
+      "count",
+      "plural",
+      {
+        "one": [
+          "#",
+          " εβδομάδα"
+        ],
+        "other": [
+          "#",
+          " εβδομάδες"
+        ]
+      }
+    ],
+    " • [sb]",
+    [
+      "price"
+    ],
+    "[/sb]"
+  ],
+  "native.marketing.upgrade_bundle.add_courses": "Προσθέστε [color]Μαθήματα[/color] στη συνδρομή σας",
+  "native.marketing.upgrade_bundle.add_courses_and_official_scores": "Προσθέστε [color]Μαθήματα[/color] και [color]Επίσημες Παρτιτούρες[/color] στη συνδρομή σας"
+}

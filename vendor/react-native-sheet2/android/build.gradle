@@ -1,0 +1,10 @@
+apply plugin: "com.android.library"
+apply plugin: "com.facebook.react"
+android {
+    namespace "com.sheet2"
+    compileSdk rootProject.ext.compileSdkVersion
+    defaultConfig { minSdk rootProject.ext.minSdkVersion; targetSdk rootProject.ext.targetSdkVersion }
+    buildFeatures { buildConfig true }
+}
+react { jsRootDir = file("../src"); libraryName = "SheetViewSpec"; codegenJavaPackageName = "com.sheet2" }
+dependencies { implementation("com.facebook.react:react-android"); implementation("com.google.android.material:material:1.13.0") }

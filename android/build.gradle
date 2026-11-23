@@ -1,0 +1,43 @@
+buildscript {
+    ext {
+        buildToolsVersion = "37.0.0"
+        minSdkVersion = 29
+        compileSdkVersion = 37
+        targetSdkVersion = 36
+        ndkVersion = "27.1.12297006"
+        kotlinVersion = "2.4.21"
+    }
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath('com.android.tools.build:gradle:9.5.2')
+        classpath("com.android.tools.build:gradle-kotlin:9.5.0")
+        classpath("com.facebook.react:react-native-gradle-plugin")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
+    }
+}
+
+apply plugin: "com.facebook.react.rootproject"
+
+// Preserve BuildConfig fields used by the existing native dependencies with AGP 9.
+subprojects { project ->
+    project.plugins.withId("com.android.library") {
+        project.android.buildFeatures.buildConfig = true
+    }
+}
+
+// Native library build scripts must share the host's existing toolchain.
+subprojects { project ->
+    project.buildscript.configurations.configureEach {
+        resolutionStrategy.eachDependency { details ->
+            if (details.requested.group == "com.android.tools.build" && details.requested.name == "gradle") {
+                details.useVersion("9.5.2")
+            }
+            if (details.requested.group == "org.jetbrains.kotlin" && details.requested.name == "kotlin-gradle-plugin") {
+                details.useVersion("2.4.21")
+            }
+        }
+    }
+}
