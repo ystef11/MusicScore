@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const root = path.resolve(__dirname, '..');
 const mmkvGradle = 'node_modules/react-native-mmkv/android/build.gradle';
+const mmkvPlatformContext = 'node_modules/react-native-mmkv/android/src/main/java/com/margelo/nitro/mmkv/HybridMMKVPlatformContext.kt';
 const nitroRoot = 'node_modules/react-native-nitro-modules';
 const nitroGradle = nitroRoot + '/android/build.gradle';
 const prefabModules = ['react-native-nitro-modules', 'react-native-mmkv', 'react-native-iap'];
@@ -72,6 +73,10 @@ const fixes = [
  [mmkvGradle, '  lintOptions {\n    disable "GradleCompatible"\n  }', '  testOptions {\n    targetSdk = getExtOrIntegerDefault("targetSdkVersion")\n  }\n\n  lint {\n    disable.add("GradleCompatible")\n  }'],
  [mmkvGradle, 'abiFilters (*reactNativeArchitectures())', 'abiFilters.addAll(reactNativeArchitectures().toList())'],
  [mmkvGradle, 'io.github.zhongwuzw:mmkv:2.4.1', 'io.github.zhongwuzw:mmkv:2.4.2'],
+ [mmkvPlatformContext, 'return context.filesDir.absolutePath + "/mmkv";', 'return context.filesDir.absolutePath + "/mmkv"'],
+ [mmkvPlatformContext,
+    '@Keep\nclass HybridMMKVPlatformContext: HybridMMKVPlatformContextSpec() {',
+    '@Keep\n@Suppress("unused") // Instantiated from C++ via JNI.\nclass HybridMMKVPlatformContext: HybridMMKVPlatformContextSpec() {'],
  [mmkvGradle, /^\n  sourceSets \{\n    main \{\n      if \(isNewArchitectureEnabled\(\)\) \{\n        java\.srcDirs \+= \[\n          \/\/ React Codegen files\n          [^\n]*\/generated\/source\/codegen\/java"\n        ]\n      }\n    }\n  }\n/m, '\n  // The React Native Gradle plugin registers the Codegen Java sources.\n'],
  [nitroGradle, '${project.buildDir}/headers/nitromodules', '${project.projectDir}/prefab-headers'],
  ...kotlinModules.map(module => [module, legacyKotlinPlugin, builtInKotlin]),
